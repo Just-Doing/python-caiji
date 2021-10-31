@@ -1,0 +1,219 @@
+Electronic Materials--Battery Materials --Battery Additives [Battery Materials]  --Phosphates [Battery Additives] @ https://www.tcichemicals.com/CA/en/c/12748
+Electronic Materials--Battery Materials --Battery Additives [Battery Materials]  --Phosphazenes [Battery Additives] @ https://www.tcichemicals.com/CA/en/c/12749
+Electronic Materials--Battery Materials --Battery Electrolytes [Battery Materials] --Lithium Electrolytes [Battery Materials] @ https://www.tcichemicals.com/CA/en/c/12751
+Electronic Materials--Battery Materials --Battery Electrolytes [Battery Materials] --Other Metal Electrolytes [Battery Materials] @ https://www.tcichemicals.com/CA/en/c/12752
+Electronic Materials--Battery Materials --Ionic Liquids [Battery Materials] --Ammonium Salts [Ionic Liquids] @ https://www.tcichemicals.com/CA/en/c/12754
+Electronic Materials--Battery Materials --Ionic Liquids [Battery Materials] --Imidazolium Salts [Ionic Liquids] @ https://www.tcichemicals.com/CA/en/c/12755
+Electronic Materials--Battery Materials --Ionic Liquids [Battery Materials] --Morpholinium Salts [Ionic Liquids] @ https://www.tcichemicals.com/CA/en/c/12756
+Electronic Materials--Battery Materials --Ionic Liquids [Battery Materials] --Phosphonium Salts [Ionic Liquids] @ https://www.tcichemicals.com/CA/en/c/12757
+Electronic Materials--Battery Materials --Ionic Liquids [Battery Materials] --Piperidinium Salts [Ionic Liquids] @ https://www.tcichemicals.com/CA/en/c/12758
+Electronic Materials--Battery Materials --Ionic Liquids [Battery Materials] --Pyridinium Salts [Ionic Liquids] @ https://www.tcichemicals.com/CA/en/c/12759
+Electronic Materials--Battery Materials --Ionic Liquids [Battery Materials] --Pyrrolidinium Salts [Ionic Liquids] @ https://www.tcichemicals.com/CA/en/c/12760
+Electronic Materials--Battery Materials --Ionic Liquids [Battery Materials] --Sulfonium Salts [Ionic Liquids] @ https://www.tcichemicals.com/CA/en/c/12761
+Electronic Materials--Battery Materials --Organic Redox Flow Battery Materials [Battery Materials]--Organic Radicals [Battery Materials] @ https://www.tcichemicals.com/CA/en/c/12813
+Electronic Materials--Battery Materials --Organic Redox Flow Battery Materials [Battery Materials]--Other Organic Active Materials [Battery Materials] @ https://www.tcichemicals.com/CA/en/c/13122
+Electronic Materials--Battery Materials --Organic Redox Flow Battery Materials [Battery Materials]--Quinones & Analogues [Battery Materials] @ https://www.tcichemicals.com/CA/en/c/12764
+Electronic Materials--Battery Materials --Organic Solvents [Battery Materials] --Boric Acid Esters [Battery Materials] @ https://www.tcichemicals.com/CA/en/c/12766
+Electronic Materials--Battery Materials --Organic Solvents [Battery Materials] --Carbonates [Battery Materials] @ https://www.tcichemicals.com/CA/en/c/12767
+Electronic Materials--Battery Materials --Organic Solvents [Battery Materials] --Nitriles [Battery Materials] @ https://www.tcichemicals.com/CA/en/c/12768
+Electronic Materials--Battery Materials --Organic Solvents [Battery Materials] --Sulfonyls and Related Compounds [Battery Materials] @ https://www.tcichemicals.com/CA/en/c/12769
+Electronic Materials--Colloidal Quantum Dot (QD) Research Reagents --Capping Agents [Colloidal Quantum Dot (QD) Research Reagents] --Amines, Hydrazine Capping Agents [Colloidal Quantum Dot (QD) Research Reagents] @ https://www.tcichemicals.com/CA/en/c/13228
+Electronic Materials--Colloidal Quantum Dot (QD) Research Reagents --Capping Agents [Colloidal Quantum Dot (QD) Research Reagents] --Ammonium Salt Capping Agents [Colloidal Quantum Dot (QD) Research Reagents] @ https://www.tcichemicals.com/CA/en/c/13229
+Electronic Materials--Colloidal Quantum Dot (QD) Research Reagents --Capping Agents [Colloidal Quantum Dot (QD) Research Reagents] --Capping Agents [Colloidal Quantum Dot (QD) Research Reagents] @ https://www.tcichemicals.com/CA/en/c/13227
+Electronic Materials--Colloidal Quantum Dot (QD) Research Reagents --Capping Agents [Colloidal Quantum Dot (QD) Research Reagents] --Carboxylic Acid Capping Agents [Colloidal Quantum Dot (QD) Reagents] @ https://www.tcichemicals.com/CA/en/c/13226
+Electronic Materials--Colloidal Quantum Dot (QD) Research Reagents --Capping Agents [Colloidal Quantum Dot (QD) Research Reagents] --Composite Capping Agents [Colloidal Quantum Dot (QD) Research Reagents] @ https://www.tcichemicals.com/CA/en/c/13231
+Electronic Materials--Colloidal Quantum Dot (QD) Research Reagents --Capping Agents [Colloidal Quantum Dot (QD) Research Reagents] --Phosphorus-containing Capping Agents [Colloidal Quantum Dot (QD) Research Reagents] @ https://www.tcichemicals.com/CA/en/c/13230
+Electronic Materials--Colloidal Quantum Dot (QD) Research Reagents --Capping Agents [Colloidal Quantum Dot (QD) Research Reagents] --Synthetic Reagents [Colloidal Quantum Dot (QD) Research Reagents] --Inorganic Reagents [Colloidal Quantum Dot (QD) Research Reagents] @ https://www.tcichemicals.com/CA/en/c/13250
+Electronic Materials--Colloidal Quantum Dot (QD) Research Reagents --Capping Agents [Colloidal Quantum Dot (QD) Research Reagents] --Synthetic Reagents [Colloidal Quantum Dot (QD) Research Reagents] --Organic Reagents [Colloidal Quantum Dot (QD) Research Reagents] @ https://www.tcichemicals.com/CA/en/c/13249
+Electronic Materials--Dye-Sensitized Solar Cell (DSSC) Materials --Dye Sensitizers [Dye-Sensitized Solar Cell (DSSC) Materials] @ https://www.tcichemicals.com/CA/en/c/12771
+Electronic Materials--Dye-Sensitized Solar Cell (DSSC) Materials --Electrolytes [Dye-Sensitized Solar Cell (DSSC) Materials] @ https://www.tcichemicals.com/CA/en/c/12772
+Electronic Materials--Dye-Sensitized Solar Cell (DSSC) Materials --Hole Conductor Cobalt Dopants [Dye-Sensitized Solar Cell (DSSC) Materials] @ https://www.tcichemicals.com/CA/en/c/12773
+Electronic Materials--Dye-Sensitized Solar Cell (DSSC) Materials --Ligands [Dye-Sensitized Solar Cell (DSSC) Materials] @ https://www.tcichemicals.com/CA/en/c/12774
+Electronic Materials--High-Quality Organic Semiconductors [for Organic Electronics] @ https://www.tcichemicals.com/CA/en/c/13179
+Electronic Materials--Liquid Crystal (LC) Materials --Cholesteric Liquid Crystals [Liquid Crystal (LC) Materials] --Cholesteryl Carbonates [Liquid Crystal (LC) Materials] @ https://www.tcichemicals.com/CA/en/c/12777
+Electronic Materials--Liquid Crystal (LC) Materials --Cholesteric Liquid Crystals [Liquid Crystal (LC) Materials] --Cholesteryl Compounds [Liquid Crystal (LC) Materials] @ https://www.tcichemicals.com/CA/en/c/12778
+Electronic Materials--Liquid Crystal (LC) Materials --Discotic Liquid Crystals [Liquid Crystal (LC) Materials] @ https://www.tcichemicals.com/CA/en/c/12779
+Electronic Materials--Liquid Crystal (LC) Materials --Nematic  Liquid Crystals, Smectic Liquid Crystals [Liquid Crystal (LC) Materials] --Azoxybenzenes [Liquid Crystal (LC) Materials] @ https://www.tcichemicals.com/CA/en/c/12781
+Electronic Materials--Liquid Crystal (LC) Materials --Nematic  Liquid Crystals, Smectic Liquid Crystals [Liquid Crystal (LC) Materials] --Carbonates [Liquid Crystal (LC) Materials] @ https://www.tcichemicals.com/CA/en/c/12782
+Electronic Materials--Liquid Crystal (LC) Materials --Nematic  Liquid Crystals, Smectic Liquid Crystals [Liquid Crystal (LC) Materials] --Cyanobiphenyls & Analogs [Liquid Crystal (LC) Materials] @ https://www.tcichemicals.com/CA/en/c/12783
+Electronic Materials--Liquid Crystal (LC) Materials --Nematic  Liquid Crystals, Smectic Liquid Crystals [Liquid Crystal (LC) Materials] --Fluorinated Biphenyls & Analogs [Liquid Crystal (LC) Materials] @ https://www.tcichemicals.com/CA/en/c/12784
+Electronic Materials--Liquid Crystal (LC) Materials --Nematic  Liquid Crystals, Smectic Liquid Crystals [Liquid Crystal (LC) Materials] --Liquid Crystal Mixtures [Liquid Crystal (LC) Materials] @ https://www.tcichemicals.com/CA/en/c/12786
+Electronic Materials--Liquid Crystal (LC) Materials --Nematic  Liquid Crystals, Smectic Liquid Crystals [Liquid Crystal (LC) Materials] --Other Biphenyls & Analogs [Liquid Crystal (LC) Materials] @ https://www.tcichemicals.com/CA/en/c/12785
+Electronic Materials--Liquid Crystal (LC) Materials --Nematic  Liquid Crystals, Smectic Liquid Crystals [Liquid Crystal (LC) Materials] --Phenyl Esters [Liquid Crystal (LC) Materials] @ https://www.tcichemicals.com/CA/en/c/12787
+Electronic Materials--Liquid Crystal (LC) Materials --Nematic  Liquid Crystals, Smectic Liquid Crystals [Liquid Crystal (LC) Materials] --Schiff Bases [Liquid Crystal (LC) Materials] @ https://www.tcichemicals.com/CA/en/c/12788
+Electronic Materials--Molecular Conductors --Acceptor Molecules [Molecular Conductors] @ https://www.tcichemicals.com/CA/en/c/12790
+Electronic Materials--Molecular Conductors --Donor Molecules [Molecular Conductors] @ https://www.tcichemicals.com/CA/en/c/12791
+Electronic Materials--Molecular Conductors --Electrocrystallization Supporting Electrolytes [Molecular Conductors] @ https://www.tcichemicals.com/CA/en/c/12792
+Electronic Materials--Molecular Conductors --Tetrathiafulvalene (TTF) Precursors [Molecular Conductors] @ https://www.tcichemicals.com/CA/en/c/12793
+Electronic Materials--Organic Light-Emitting Diode (OLED) Materials --Electron Transport Materials (ETM) [Organic Light-Emitting Diode (OLED) Materials] @ https://www.tcichemicals.com/CA/en/c/12795
+Electronic Materials--Organic Light-Emitting Diode (OLED) Materials --Hole Transport Materials (HTM) [Organic Light-Emitting Diode (OLED) Materials] @ https://www.tcichemicals.com/CA/en/c/12796
+Electronic Materials--Organic Light-Emitting Diode (OLED) Materials --Host Materials [Organic Light-Emitting Diode (OLED) Materials] @ https://www.tcichemicals.com/CA/en/c/12797
+Electronic Materials--Organic Light-Emitting Diode (OLED) Materials --Light Emitters & Dopants [Organic Light-Emitting Diode (OLED) Materials] --Blue Dopants [Organic Light-Emitting Diode (OLED) Materials] @ https://www.tcichemicals.com/CA/en/c/12799
+Electronic Materials--Organic Light-Emitting Diode (OLED) Materials --Light Emitters & Dopants [Organic Light-Emitting Diode (OLED) Materials] --Green Dopants [Organic Light-Emitting Diode (OLED) Materials] @ https://www.tcichemicals.com/CA/en/c/12800
+Electronic Materials--Organic Light-Emitting Diode (OLED) Materials --Light Emitters & Dopants [Organic Light-Emitting Diode (OLED) Materials] --Red Dopants [Organic Light-Emitting Diode (OLED) Materials] @ https://www.tcichemicals.com/CA/en/c/12801
+Electronic Materials--Organic Solar Cell (OPV) Materials --Acceptor Materials [Organic Solar Cell (OPV) Materials] @ https://www.tcichemicals.com/CA/en/c/12803
+Electronic Materials--Organic Solar Cell (OPV) Materials --Donor Materials [Organic Solar Cell (OPV) Materials] @ https://www.tcichemicals.com/CA/en/c/12804
+Electronic Materials--Organic Transistor (OFET) Materials --Ambipolar Semiconductors [Organic Transistor (OFET) Materials] @ https://www.tcichemicals.com/CA/en/c/12806
+Electronic Materials--Organic Transistor (OFET) Materials --Liquid Crystalline Semiconductors [Organic Transistor (OFET) Materials] @ https://www.tcichemicals.com/CA/en/c/12807
+Electronic Materials--Organic Transistor (OFET) Materials --n-Type Organic Semiconductors [Organic Transistor (OFET) Materials] @ https://www.tcichemicals.com/CA/en/c/12808
+Electronic Materials--Organic Transistor (OFET) Materials --p-Type Organic Semiconductors [Organic Transistor (OFET) Materials] @ https://www.tcichemicals.com/CA/en/c/12809
+Electronic Materials--Perovskite Solar Cell (PSC) Materials --Bismuth Halides [Organic-Inorganic Perovskite Precursors] @ https://www.tcichemicals.com/CA/en/c/13143
+Electronic Materials--Perovskite Solar Cell (PSC) Materials --Carrier Transport Layer Addives [Perovskite Solar Cell (PSC) Materials] @ https://www.tcichemicals.com/CA/en/c/13280
+Electronic Materials--Perovskite Solar Cell (PSC) Materials --Carrier Transport Materials [Perovskite Solar Cell (PSC) Materials] --Electron Transport Materials (ETM) [Perovskite Solar Cell (PSC) Materials] @ https://www.tcichemicals.com/CA/en/c/13278
+Electronic Materials--Perovskite Solar Cell (PSC) Materials --Carrier Transport Materials [Perovskite Solar Cell (PSC) Materials] --Hole Transport Materials (HTM) [Perovskite Solar Cell (PSC) Materials] @ https://www.tcichemicals.com/CA/en/c/13277
+Electronic Materials--Perovskite Solar Cell (PSC) Materials --Cesium Halides [Organic-Inorganic Perovskite Precursors] @ https://www.tcichemicals.com/CA/en/c/12970
+Electronic Materials--Perovskite Solar Cell (PSC) Materials --Lead Halides [Organic-Inorganic Perovskite Precursors] @ https://www.tcichemicals.com/CA/en/c/12971
+Electronic Materials--Perovskite Solar Cell (PSC) Materials --Organic Onium Salts [Perovskite Solar Cell (PSC) Materials] --Bromide Salts [Organic-Inorganic Perovskite Precursors] @ https://www.tcichemicals.com/CA/en/c/12973
+Electronic Materials--Perovskite Solar Cell (PSC) Materials --Organic Onium Salts [Perovskite Solar Cell (PSC) Materials] --Chloride Salts [Organic-Inorganic Perovskite Precursors] @ https://www.tcichemicals.com/CA/en/c/12974
+Electronic Materials--Perovskite Solar Cell (PSC) Materials --Organic Onium Salts [Perovskite Solar Cell (PSC) Materials] --Iodide Salts [Organic-Inorganic Perovskite Precursors] @ https://www.tcichemicals.com/CA/en/c/12975
+Electronic Materials--Perovskite Solar Cell (PSC) Materials --Organic Onium Salts [Perovskite Solar Cell (PSC) Materials] --Pseudo Halide Salts [Organic-Inorganic Perovskite Precursors] @ https://www.tcichemicals.com/CA/en/c/12976
+Electronic Materials--Perovskite Solar Cell (PSC) Materials --Other Lead Compounds [Organic-Inorganic Perovskite Precursors] @ https://www.tcichemicals.com/CA/en/c/13123
+Electronic Materials--Perovskite Solar Cell (PSC) Materials --Tin Halides [Organic-Inorganic Perovskite Precursors] @ https://www.tcichemicals.com/CA/en/c/12978
+Electronic Materials--Self Assembly Materials, Contact Printing Materials --Langmuir-Blodgett (LB) Film Forming Reagents --Diacetylene Monocarboxylic Acids [Langmuir-Blodgett (LB) Film Forming Reagents] @ https://www.tcichemicals.com/CA/en/c/12823
+Electronic Materials--Self Assembly Materials, Contact Printing Materials --Langmuir-Blodgett (LB) Film Forming Reagents --Diyne Compounds & Analogs [Langmuir-Blodgett (LB) Film Forming Reagents] @ https://www.tcichemicals.com/CA/en/c/12824
+Electronic Materials--Self Assembly Materials, Contact Printing Materials --Self-Assembly Materials --Disulfides [Self-Assembly Materials] @ https://www.tcichemicals.com/CA/en/c/12826
+Electronic Materials--Self Assembly Materials, Contact Printing Materials --Self-Assembly Materials --Phosphonic Acids [Self-Assembly Materials] @ https://www.tcichemicals.com/CA/en/c/12827 
+Electronic Materials--Self Assembly Materials, Contact Printing Materials --Self-Assembly Materials --Silazanes [Self-Assembly Materials] @ https://www.tcichemicals.com/CA/en/c/13145
+Electronic Materials--Self Assembly Materials, Contact Printing Materials --Self-Assembly Materials --Thiols [Self-Assembly Materials] @ https://www.tcichemicals.com/CA/en/c/12828
+Electronic Materials--Self Assembly Materials, Contact Printing Materials --Silane Coupling Agents/Adhesion Promoters --Acryloyloxyalkyl Silanes [Silane Coupling Agents/Adhesion Promoters] @ https://www.tcichemicals.com/CA/en/c/12830
+Electronic Materials--Self Assembly Materials, Contact Printing Materials --Silane Coupling Agents/Adhesion Promoters --Alkyl Silanes [Silane Coupling Agents/Adhesion Promoters] @ https://www.tcichemicals.com/CA/en/c/12831
+Electronic Materials--Self Assembly Materials, Contact Printing Materials --Silane Coupling Agents/Adhesion Promoters --Aminoalkyl Silanes [Silane Coupling Agents/Adhesion Promoters] @ https://www.tcichemicals.com/CA/en/c/12832
+Electronic Materials--Self Assembly Materials, Contact Printing Materials --Silane Coupling Agents/Adhesion Promoters --Aryl Silanes, Arylalkyl Silanes [Silane Coupling Agents/Adhesion Promoters] @ https://www.tcichemicals.com/CA/en/c/12833
+Electronic Materials--Self Assembly Materials, Contact Printing Materials --Silane Coupling Agents/Adhesion Promoters --Fluoroalkyl Silanes, Fluoroaryl Silanes [Silane Coupling Agents/Adhesion Promoters] @ https://www.tcichemicals.com/CA/en/c/12834
+Electronic Materials--Self Assembly Materials, Contact Printing Materials --Silane Coupling Agents/Adhesion Promoters --Glycidyloxyalkyl Silanes [Silane Coupling Agents/Adhesion Promoters] @ https://www.tcichemicals.com/CA/en/c/12835
+Electronic Materials--Self Assembly Materials, Contact Printing Materials --Silane Coupling Agents/Adhesion Promoters --Olefinyl Silanes [Silane Coupling Agents/Adhesion Promoters] @ https://www.tcichemicals.com/CA/en/c/12836
+Electronic Materials--Self Assembly Materials, Contact Printing Materials --Silane Coupling Agents/Adhesion Promoters --Other Silanes [Silane Coupling Agents/Adhesion Promoters] @ https://www.tcichemicals.com/CA/en/c/12837
+Nanocarbon Materials --Carbon Nanotubes (CNTs) and CNT Dispersants --Carbon Nanotube (CNT) Dispersants @ https://www.tcichemicals.com/CA/en/c/13114
+Nanocarbon Materials --Carbon Nanotubes (CNTs) and CNT Dispersants --Carbon Nanotubes (CNTs) @ https://www.tcichemicals.com/CA/en/c/13115
+Nanocarbon Materials --Fullerenes @ https://www.tcichemicals.com/CA/en/c/12961
+Nanocarbon Materials --Graphenes, Graphene Oxides (GOs) @ https://www.tcichemicals.com/CA/en/c/12962
+Nanocarbon Materials --Nanocarbon Unit Structures @ https://www.tcichemicals.com/CA/en/c/12963
+Nanocarbon Materials --Nanodiamonds (NDs) @ https://www.tcichemicals.com/CA/en/c/12964
+Organic-Inorganic Hybrid Materials --Metal Organic Frameworks (MOF) Raw Materials --Organic Linker Molecules [Metal Organic Frameworks (MOF) Raw Materials] --Nitrogenated Organic Linkers [Metal Organic Frameworks (MOF) Raw Materials] @ https://www.tcichemicals.com/CA/en/c/13254
+Organic-Inorganic Hybrid Materials --Metal Organic Frameworks (MOF) Raw Materials --Organic Linker Molecules [Metal Organic Frameworks (MOF) Raw Materials] --Other Organic Linkers [Metal Organic Frameworks (MOF) Raw Materials] @ https://www.tcichemicals.com/CA/en/c/13255
+Organic-Inorganic Hybrid Materials --Metal Organic Frameworks (MOF) Raw Materials --Organic Linker Molecules [Metal Organic Frameworks (MOF) Raw Materials] --Oxygenated Organic Linkers [Metal Organic Frameworks (MOF) Raw Materials] @ https://www.tcichemicals.com/CA/en/c/13253
+Organic-Inorganic Hybrid Materials --Organic-Inorganic Perovskite Precursors --Bismuth Halides [Organic-Inorganic Perovskite Precursors] @ https://www.tcichemicals.com/CA/en/c/13143
+Organic-Inorganic Hybrid Materials --Organic-Inorganic Perovskite Precursors --Cesium Halides [Organic-Inorganic Perovskite Precursors] @ https://www.tcichemicals.com/CA/en/c/12970
+Organic-Inorganic Hybrid Materials --Organic-Inorganic Perovskite Precursors --Lead Halides [Organic-Inorganic Perovskite Precursors] @ https://www.tcichemicals.com/CA/en/c/12971
+Organic-Inorganic Hybrid Materials --Organic-Inorganic Perovskite Precursors --Organic Onium Salts [Organic-Inorganic Perovskite Precursors] --Bromide Salts [Organic-Inorganic Perovskite Precursors] @ https://www.tcichemicals.com/CA/en/c/12973
+Organic-Inorganic Hybrid Materials --Organic-Inorganic Perovskite Precursors --Organic Onium Salts [Organic-Inorganic Perovskite Precursors] --Chloride Salts [Organic-Inorganic Perovskite Precursors] @ https://www.tcichemicals.com/CA/en/c/12974
+Organic-Inorganic Hybrid Materials --Organic-Inorganic Perovskite Precursors --Organic Onium Salts [Organic-Inorganic Perovskite Precursors] --Iodide Salts [Organic-Inorganic Perovskite Precursors] @ https://www.tcichemicals.com/CA/en/c/12975
+Organic-Inorganic Hybrid Materials --Organic-Inorganic Perovskite Precursors --Organic Onium Salts [Organic-Inorganic Perovskite Precursors] --Pseudo Halide Salts [Organic-Inorganic Perovskite Precursors] @ https://www.tcichemicals.com/CA/en/c/12976
+Organic-Inorganic Hybrid Materials --Organic-Inorganic Perovskite Precursors --Other Lead Compounds [Organic-Inorganic Perovskite Precursors] @ https://www.tcichemicals.com/CA/en/c/13123
+Organic-Inorganic Hybrid Materials --Organic-Inorganic Perovskite Precursors --Tin Halides [Organic-Inorganic Perovskite Precursors] @ https://www.tcichemicals.com/CA/en/c/12978
+Organic-Inorganic Hybrid Materials --Organometallic Compounds [Organic-Inorganic Hybrid Materials] --Organoaluminum [Organic-Inorganic Hybrid Materials] @ https://www.tcichemicals.com/CA/en/c/13150
+Organic-Inorganic Hybrid Materials --Organometallic Compounds [Organic-Inorganic Hybrid Materials] --Organotitanium [Organic-Inorganic Hybrid Materials] @ https://www.tcichemicals.com/CA/en/c/13148
+Organic-Inorganic Hybrid Materials --Organometallic Compounds [Organic-Inorganic Hybrid Materials] --Organozirconium [Organic-Inorganic Hybrid Materials] @ https://www.tcichemicals.com/CA/en/c/13149
+Organic-Inorganic Hybrid Materials --Silane Coupling Agents/Adhesion Promoters --Acryloyloxyalkyl Silanes [Silane Coupling Agents/Adhesion Promoters] @ https://www.tcichemicals.com/CA/en/c/12830
+Organic-Inorganic Hybrid Materials --Silane Coupling Agents/Adhesion Promoters --Alkyl Silanes [Silane Coupling Agents/Adhesion Promoters] @ https://www.tcichemicals.com/CA/en/c/12831
+Organic-Inorganic Hybrid Materials --Silane Coupling Agents/Adhesion Promoters --Aminoalkyl Silanes [Silane Coupling Agents/Adhesion Promoters] @ https://www.tcichemicals.com/CA/en/c/12832
+Organic-Inorganic Hybrid Materials --Silane Coupling Agents/Adhesion Promoters --Aryl Silanes, Arylalkyl Silanes [Silane Coupling Agents/Adhesion Promoters] @ https://www.tcichemicals.com/CA/en/c/12833
+Organic-Inorganic Hybrid Materials --Silane Coupling Agents/Adhesion Promoters --Fluoroalkyl Silanes, Fluoroaryl Silanes [Silane Coupling Agents/Adhesion Promoters] @ https://www.tcichemicals.com/CA/en/c/12834
+Organic-Inorganic Hybrid Materials --Silane Coupling Agents/Adhesion Promoters --Glycidyloxyalkyl Silanes [Silane Coupling Agents/Adhesion Promoters] @ https://www.tcichemicals.com/CA/en/c/12835
+Organic-Inorganic Hybrid Materials --Silane Coupling Agents/Adhesion Promoters --Olefinyl Silanes [Silane Coupling Agents/Adhesion Promoters] @ https://www.tcichemicals.com/CA/en/c/12836
+Organic-Inorganic Hybrid Materials --Silane Coupling Agents/Adhesion Promoters --Other Silanes [Silane Coupling Agents/Adhesion Promoters] @ https://www.tcichemicals.com/CA/en/c/12837
+Magnetic Materials --Magnetic Ionic Liquids @ https://www.tcichemicals.com/CA/en/c/12839
+Magnetic Materials --Magnetic Metal Complexes --Dithiocarbamato Complexes [Magnetic Metal Complexes] @ https://www.tcichemicals.com/CA/en/c/12841
+Magnetic Materials --Magnetic Metal Complexes --Dithiolene Complexes [Magnetic Metal Complexes] @ https://www.tcichemicals.com/CA/en/c/12842
+Magnetic Materials --Magnetic Metal Complexes --Other Complexes [Magnetic Metal Complexes] @ https://www.tcichemicals.com/CA/en/c/12843
+Magnetic Materials --Magnetic Metal Complexes --Phthalocyanine Complexes, Porphyrin Complexes [Magnetic Metal Complexes] @ https://www.tcichemicals.com/CA/en/c/12844
+Magnetic Materials --Magnetic Metal Complexes --β-Diketonato Complexes [Magnetic Metal Complexes] @ https://www.tcichemicals.com/CA/en/c/12845
+Magnetic Materials --Organic Radicals [Magnetic Materials] @ https://www.tcichemicals.com/CA/en/c/12763
+Material Building Blocks --Ligands for Functional Metal Complexes --Bipyridine Ligands, Terpyridine Ligands @ https://www.tcichemicals.com/CA/en/c/12849
+Material Building Blocks --Ligands for Functional Metal Complexes --Other Ligands for Functional Metal Complexes @ https://www.tcichemicals.com/CA/en/c/12850
+Material Building Blocks --Ligands for Functional Metal Complexes --Phenanthroline Ligands @ https://www.tcichemicals.com/CA/en/c/12851
+Material Building Blocks --Ligands for Functional Metal Complexes --Phenylpyridine Ligands @ https://www.tcichemicals.com/CA/en/c/12852
+Material Building Blocks --Ligands for Functional Metal Complexes --Porphyrin Ligands, Phthalocyanine Ligands @ https://www.tcichemicals.com/CA/en/c/12853
+Material Building Blocks --Ligands for Functional Metal Complexes --Quinolinol Ligands @ https://www.tcichemicals.com/CA/en/c/12854
+Material Building Blocks --Ligands for Functional Metal Complexes --Redox Active Ligands @ https://www.tcichemicals.com/CA/en/c/12855
+Material Building Blocks --Liquid Crystal (LC) Building Blocks --Acetophenones [Liquid Crystal (LC) Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12857
+Material Building Blocks --Liquid Crystal (LC) Building Blocks --Alkenylcylohexanes [Liquid Crystal (LC) Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12858
+Material Building Blocks --Liquid Crystal (LC) Building Blocks --Anilines [Liquid Crystal (LC) Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12859
+Material Building Blocks --Liquid Crystal (LC) Building Blocks --Benzaldehydes [Liquid Crystal (LC) Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12860
+Material Building Blocks --Liquid Crystal (LC) Building Blocks --Benzeneboronic Acids [Liquid Crystal (LC) Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12861
+Material Building Blocks --Liquid Crystal (LC) Building Blocks --Benzoic Acids [Liquid Crystal (LC) Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12862
+Material Building Blocks --Liquid Crystal (LC) Building Blocks --Benzonitriles [Liquid Crystal (LC) Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12863
+Material Building Blocks --Liquid Crystal (LC) Building Blocks --Benzoyl Chlorides [Liquid Crystal (LC) Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12864
+Material Building Blocks --Liquid Crystal (LC) Building Blocks --Biphenyls [Liquid Crystal (LC) Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12865
+Material Building Blocks --Liquid Crystal (LC) Building Blocks --Bromobenzenes [Liquid Crystal (LC) Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12866
+Material Building Blocks --Liquid Crystal (LC) Building Blocks --Chiral Compounds [Liquid Crystal (LC) Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12867
+Material Building Blocks --Liquid Crystal (LC) Building Blocks --Cyclohexanecarboxylic Acids [Liquid Crystal (LC) Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12868
+Material Building Blocks --Liquid Crystal (LC) Building Blocks --Cyclohexanones [Liquid Crystal (LC) Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12869
+Material Building Blocks --Liquid Crystal (LC) Building Blocks --Ethynylbenzenes [Liquid Crystal (LC) Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12870
+Material Building Blocks --Liquid Crystal (LC) Building Blocks --Iodobenzenes [Liquid Crystal (LC) Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12871
+Material Building Blocks --Liquid Crystal (LC) Building Blocks --Other Liquid Crystal (LC) Building Blocks @ https://www.tcichemicals.com/CA/en/c/12872
+Material Building Blocks --Liquid Crystal (LC) Building Blocks --Phenols [Liquid Crystal (LC) Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12873
+Material Building Blocks --Liquid Crystal (LC) Building Blocks --Triphenylenes [Liquid Crystal (LC) Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12874
+Material Building Blocks --Polymer/Macromolecule Semiconductor Building Blocks --Acceptors [Polymer/Macromolecule Semiconductor Building Blocks] --Acceptor Monomers (Other) [Polymer/Macromolecule Semiconductor Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12882
+Material Building Blocks --Polymer/Macromolecule Semiconductor Building Blocks --Acceptors [Polymer/Macromolecule Semiconductor Building Blocks] --Benzothiadiazoles & Analogs [Polymer/Macromolecule Semiconductor Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12881
+Material Building Blocks --Polymer/Macromolecule Semiconductor Building Blocks --Acceptors [Polymer/Macromolecule Semiconductor Building Blocks] --Thiophenes [Acceptor Monomers] [Polymer/Macromolecule Semiconductor Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12883	
+Material Building Blocks --Polymer/Macromolecule Semiconductor Building Blocks --Donor Monomers [Polymer/Macromolecule Semiconductor Building Blocks] --Carbazoles [Polymer/Macromolecule Semiconductor Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12886
+Material Building Blocks --Polymer/Macromolecule Semiconductor Building Blocks --Donor Monomers [Polymer/Macromolecule Semiconductor Building Blocks] --Fluorenes [Polymer/Macromolecule Semiconductor Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12887
+Material Building Blocks --Polymer/Macromolecule Semiconductor Building Blocks --Donor Monomers [Polymer/Macromolecule Semiconductor Building Blocks] --Thiophenes [Donor Monomers] [Polymer/Macromolecule Semiconductor Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12888
+Material Building Blocks --Polymer/Macromolecule Semiconductor Building Blocks --Donor-Acceptor (DA) Type Monomers [Polymer/Macromolecule Semiconductor Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12884
+Material Building Blocks --Small Molecule Semiconductor Building Blocks --Anthracenes, Anthraquinones [Small Molecule Semiconductor Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12890	
+Material Building Blocks --Small Molecule Semiconductor Building Blocks --Benzimidazoles [Small Molecule Semiconductor Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12891
+Material Building Blocks --Small Molecule Semiconductor Building Blocks --Benzofurans [Small Molecule Semiconductor Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12892
+Material Building Blocks --Small Molecule Semiconductor Building Blocks --Benzothiadiazoles & Analogs [Small Molecule Semiconductor Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12893
+Material Building Blocks --Small Molecule Semiconductor Building Blocks --Benzothiophenes [Small Molecule Semiconductor Building Blocks] @ https://www.tcichemicals.com/CA/en/c/13130
+Material Building Blocks --Small Molecule Semiconductor Building Blocks --Biphenyls [Small Molecule Semiconductor Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12894
+Material Building Blocks --Small Molecule Semiconductor Building Blocks --Carbazoles [Small Molecule Semiconductor Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12895
+Material Building Blocks --Small Molecule Semiconductor Building Blocks --Carbolines [Small Molecule Semiconductor Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12896
+Material Building Blocks --Small Molecule Semiconductor Building Blocks --Fluorenes, Fluorenones [Small Molecule Semiconductor Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12897
+Material Building Blocks --Small Molecule Semiconductor Building Blocks --Naphthalenes [Small Molecule Semiconductor Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12898
+Material Building Blocks --Small Molecule Semiconductor Building Blocks --Perylenes [Small Molecule Semiconductor Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12900
+Material Building Blocks --Small Molecule Semiconductor Building Blocks --Phenanthrenes [Small Molecule Semiconductor Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12901
+Material Building Blocks --Small Molecule Semiconductor Building Blocks --Phenanthrolines [Small Molecule Semiconductor Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12902
+Material Building Blocks --Small Molecule Semiconductor Building Blocks --Phenylpyridines [Small Molecule Semiconductor Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12903
+Material Building Blocks --Small Molecule Semiconductor Building Blocks --Pyrenes [Small Molecule Semiconductor Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12904
+Material Building Blocks --Small Molecule Semiconductor Building Blocks --Pyrimidines [Small Molecule Semiconductor Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12905
+Material Building Blocks --Small Molecule Semiconductor Building Blocks --Secondary Arylamines [Small Molecule Semiconductor Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12906
+Material Building Blocks --Small Molecule Semiconductor Building Blocks --Siloles [Small Molecule Semiconductor Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12907
+Material Building Blocks --Small Molecule Semiconductor Building Blocks --Small Molecule Semiconductor Building Blocks (Others) @ https://www.tcichemicals.com/CA/en/c/12899
+Material Building Blocks --Small Molecule Semiconductor Building Blocks --Terphenyls [Small Molecule Semiconductor Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12908
+Material Building Blocks --Small Molecule Semiconductor Building Blocks --Tertiary Arylamines [Small Molecule Semiconductor Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12909
+Material Building Blocks --Small Molecule Semiconductor Building Blocks --Tetraphenylethylenes [Small Molecule Semiconductor Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12910
+Material Building Blocks --Small Molecule Semiconductor Building Blocks --Thiophenes [Small Molecule Semiconductor Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12911
+Material Building Blocks --Small Molecule Semiconductor Building Blocks --Triazines [Small Molecule Semiconductor Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12912
+Material Building Blocks --Small Molecule Semiconductor Building Blocks --Triphenylbenzenes [Small Molecule Semiconductor Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12913
+Material Building Blocks --Small Molecule Semiconductor Building Blocks --Triphenylenes [Small Molecule Semiconductor Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12914
+Material Building Blocks --Solubility Enhancing Reagents [Material Building Blocks] --Branched Alkyl Sources [Material Building Blocks] --C10 Alkyl Groups [Branched Alkyl Sources] [Material Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12918
+Material Building Blocks --Solubility Enhancing Reagents [Material Building Blocks] --Branched Alkyl Sources [Material Building Blocks] --C11 Alkyl Groups [Branched Alkyl Sources] [Material Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12919
+Material Building Blocks --Solubility Enhancing Reagents [Material Building Blocks] --Branched Alkyl Sources [Material Building Blocks] --C12 Alkyl Groups [Branched Alkyl Sources] [Material Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12920
+Material Building Blocks --Solubility Enhancing Reagents [Material Building Blocks] --Branched Alkyl Sources [Material Building Blocks] --C16 Alkyl Groups [Branched Alkyl Sources] [Material Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12921
+Material Building Blocks --Solubility Enhancing Reagents [Material Building Blocks] --Branched Alkyl Sources [Material Building Blocks] --C17 Alkyl Groups [Branched Alkyl Sources] [Material Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12922
+Material Building Blocks --Solubility Enhancing Reagents [Material Building Blocks] --Branched Alkyl Sources [Material Building Blocks] --C20 Alkyl Groups [Branched Alkyl Sources] [Material Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12923
+Material Building Blocks --Solubility Enhancing Reagents [Material Building Blocks] --Branched Alkyl Sources [Material Building Blocks] --C8 Alkyl Groups [Branched Alkyl Sources] [Material Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12924
+Material Building Blocks --Solubility Enhancing Reagents [Material Building Blocks] --Branched Alkyl Sources [Material Building Blocks] --C23 Alkyl Groups [Branched Alkyl Sources] [Material Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12917
+Material Building Blocks --Solubility Enhancing Reagents [Material Building Blocks] --Dialkyldichlorosilanes [Material Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12925
+Material Building Blocks --Solubility Enhancing Reagents [Material Building Blocks] --Fluorinated Alkyl Sources [Material Building Blocks] --C10 Alkyl Groups [Fluorinated Alkyl Sources] [Material Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12927
+Material Building Blocks --Solubility Enhancing Reagents [Material Building Blocks] --Fluorinated Alkyl Sources [Material Building Blocks] --C4 Alkyl Groups [Fluorinated Alkyl Sources] [Material Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12928
+Material Building Blocks --Solubility Enhancing Reagents [Material Building Blocks] --Fluorinated Alkyl Sources [Material Building Blocks] --C5 Alkyl Groups [Fluorinated Alkyl Sources] [Material Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12929
+Material Building Blocks --Solubility Enhancing Reagents [Material Building Blocks] --Fluorinated Alkyl Sources [Material Building Blocks] --C6 Alkyl Groups [Fluorinated Alkyl Sources] [Material Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12930
+Material Building Blocks --Solubility Enhancing Reagents [Material Building Blocks] --Fluorinated Alkyl Sources [Material Building Blocks] --C7 Alkyl Groups [Fluorinated Alkyl Sources] [Material Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12931
+Material Building Blocks --Solubility Enhancing Reagents [Material Building Blocks] --Fluorinated Alkyl Sources [Material Building Blocks] --C8 Alkyl Groups [Fluorinated Alkyl Sources] [Material Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12932
+Material Building Blocks --Solubility Enhancing Reagents [Material Building Blocks] --Fluorinated Alkyl Sources [Material Building Blocks] --C9 Alkyl Groups [Fluorinated Alkyl Sources] [Material Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12933
+Material Building Blocks --Solubility Enhancing Reagents [Material Building Blocks] --Linear Alkyl Sources [Material Building Blocks] --C10 Alkyl Groups [Linear Alkyl Sources] [Material Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12936
+Material Building Blocks --Solubility Enhancing Reagents [Material Building Blocks] --Linear Alkyl Sources [Material Building Blocks] --C11 Alkyl Groups [Linear Alkyl Sources] [Material Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12937
+Material Building Blocks --Solubility Enhancing Reagents [Material Building Blocks] --Linear Alkyl Sources [Material Building Blocks] --C12 Alkyl Groups [Linear Alkyl Sources] [Material Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12938
+Material Building Blocks --Solubility Enhancing Reagents [Material Building Blocks] --Linear Alkyl Sources [Material Building Blocks] --C13 Alkyl Groups [Linear Alkyl Sources] [Material Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12939
+Material Building Blocks --Solubility Enhancing Reagents [Material Building Blocks] --Linear Alkyl Sources [Material Building Blocks] --C14 Alkyl Groups [Linear Alkyl Sources] [Material Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12940
+Material Building Blocks --Solubility Enhancing Reagents [Material Building Blocks] --Linear Alkyl Sources [Material Building Blocks] --C15 Alkyl Groups [Linear Alkyl Sources] [Material Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12941
+Material Building Blocks --Solubility Enhancing Reagents [Material Building Blocks] --Linear Alkyl Sources [Material Building Blocks] --C16 Alkyl Groups [Linear Alkyl Sources] [Material Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12942
+Material Building Blocks --Solubility Enhancing Reagents [Material Building Blocks] --Linear Alkyl Sources [Material Building Blocks] --C17 Alkyl Groups [Linear Alkyl Sources] [Material Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12943
+Material Building Blocks --Solubility Enhancing Reagents [Material Building Blocks] --Linear Alkyl Sources [Material Building Blocks] --C18 Alkyl Groups [Linear Alkyl Sources] [Material Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12944
+Material Building Blocks --Solubility Enhancing Reagents [Material Building Blocks] --Linear Alkyl Sources [Material Building Blocks] --C4 Alkyl Groups [Linear Alkyl Sources] [Material Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12945
+Material Building Blocks --Solubility Enhancing Reagents [Material Building Blocks] --Linear Alkyl Sources [Material Building Blocks] --C5 Alkyl Groups [Linear Alkyl Sources] [Material Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12946
+Material Building Blocks --Solubility Enhancing Reagents [Material Building Blocks] --Linear Alkyl Sources [Material Building Blocks] --C6 Alkyl Groups [Linear Alkyl Sources] [Material Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12947
+Material Building Blocks --Solubility Enhancing Reagents [Material Building Blocks] --Linear Alkyl Sources [Material Building Blocks] --C7 Alkyl Groups [Linear Alkyl Sources] [Material Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12948
+Material Building Blocks --Solubility Enhancing Reagents [Material Building Blocks] --Linear Alkyl Sources [Material Building Blocks] --C8 Alkyl Groups [Linear Alkyl Sources] [Material Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12949
+Material Building Blocks --Solubility Enhancing Reagents [Material Building Blocks] --Linear Alkyl Sources [Material Building Blocks] --C9 Alkyl Groups [Linear Alkyl Sources] [Material Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12950
+Material Building Blocks --Solubility Enhancing Reagents [Material Building Blocks] --Linear Alkyl Sources [Material Building Blocks] --C19 Alkyl Groups [Linear Alkyl Sources] [Material Building Blocks] @ https://www.tcichemicals.com/CA/en/c/12935
+Material Building Blocks --Supramolecular Host Materials --Calixarenes @ https://www.tcichemicals.com/CA/en/c/12952
+Material Building Blocks --Supramolecular Host Materials --Crown Ethers @ https://www.tcichemicals.com/CA/en/c/12953
+Material Building Blocks --Supramolecular Host Materials --Cyclodextrins @ https://www.tcichemicals.com/CA/en/c/12954
+Material Building Blocks --Supramolecular Host Materials --Cycloparaphenylenes @ https://www.tcichemicals.com/CA/en/c/12955
+Material Building Blocks --Supramolecular Host Materials --Cyclophanes @ https://www.tcichemicals.com/CA/en/c/12956
+Material Building Blocks --Supramolecular Host Materials --Cyclophenacenes @ https://www.tcichemicals.com/CA/en/c/13184
+Material Building Blocks --Supramolecular Host Materials --Pillararenes @ https://www.tcichemicals.com/CA/en/c/12957
+Material Building Blocks --Supramolecular Host Materials --Thiacalixarenes @ https://www.tcichemicals.com/CA/en/c/12958

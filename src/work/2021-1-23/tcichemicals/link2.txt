@@ -1,0 +1,87 @@
+Electronic Materials--Battery Materials --Battery Additives [Battery Materials]  --Phosphates [Battery Additives] @ https://www.tcichemicals.com/CA/en/c/12748
+Electronic Materials--Battery Materials --Battery Additives [Battery Materials]  --Phosphazenes [Battery Additives] @ https://www.tcichemicals.com/CA/en/c/12749
+Electronic Materials--Battery Materials --Battery Electrolytes [Battery Materials] --Lithium Electrolytes [Battery Materials] @ https://www.tcichemicals.com/CA/en/c/12751
+Electronic Materials--Battery Materials --Battery Electrolytes [Battery Materials] --Other Metal Electrolytes [Battery Materials] @ https://www.tcichemicals.com/CA/en/c/12752
+Electronic Materials--Battery Materials --Ionic Liquids [Battery Materials] --Ammonium Salts [Ionic Liquids] @ https://www.tcichemicals.com/CA/en/c/12754
+Electronic Materials--Battery Materials --Ionic Liquids [Battery Materials] --Imidazolium Salts [Ionic Liquids] @ https://www.tcichemicals.com/CA/en/c/12755
+Electronic Materials--Battery Materials --Ionic Liquids [Battery Materials] --Morpholinium Salts [Ionic Liquids] @ https://www.tcichemicals.com/CA/en/c/12756
+Electronic Materials--Battery Materials --Ionic Liquids [Battery Materials] --Phosphonium Salts [Ionic Liquids] @ https://www.tcichemicals.com/CA/en/c/12757
+Electronic Materials--Battery Materials --Ionic Liquids [Battery Materials] --Piperidinium Salts [Ionic Liquids] @ https://www.tcichemicals.com/CA/en/c/12758
+Electronic Materials--Battery Materials --Ionic Liquids [Battery Materials] --Pyridinium Salts [Ionic Liquids] @ https://www.tcichemicals.com/CA/en/c/12759
+Electronic Materials--Battery Materials --Ionic Liquids [Battery Materials] --Pyrrolidinium Salts [Ionic Liquids] @ https://www.tcichemicals.com/CA/en/c/12760
+Electronic Materials--Battery Materials --Ionic Liquids [Battery Materials] --Sulfonium Salts [Ionic Liquids] @ https://www.tcichemicals.com/CA/en/c/12761
+Electronic Materials--Battery Materials --Organic Redox Flow Battery Materials [Battery Materials]--Organic Radicals [Battery Materials] @ https://www.tcichemicals.com/CA/en/c/12813
+Electronic Materials--Battery Materials --Organic Redox Flow Battery Materials [Battery Materials]--Other Organic Active Materials [Battery Materials] @ https://www.tcichemicals.com/CA/en/c/13122
+Electronic Materials--Battery Materials --Organic Redox Flow Battery Materials [Battery Materials]--Quinones & Analogues [Battery Materials] @ https://www.tcichemicals.com/CA/en/c/12764
+Electronic Materials--Battery Materials --Organic Solvents [Battery Materials] --Boric Acid Esters [Battery Materials] @ https://www.tcichemicals.com/CA/en/c/12766
+Electronic Materials--Battery Materials --Organic Solvents [Battery Materials] --Carbonates [Battery Materials] @ https://www.tcichemicals.com/CA/en/c/12767
+Electronic Materials--Battery Materials --Organic Solvents [Battery Materials] --Nitriles [Battery Materials] @ https://www.tcichemicals.com/CA/en/c/12768
+Electronic Materials--Battery Materials --Organic Solvents [Battery Materials] --Sulfonyls and Related Compounds [Battery Materials] @ https://www.tcichemicals.com/CA/en/c/12769
+Electronic Materials--Colloidal Quantum Dot (QD) Research Reagents --Capping Agents [Colloidal Quantum Dot (QD) Research Reagents] --Amines, Hydrazine Capping Agents [Colloidal Quantum Dot (QD) Research Reagents] @ https://www.tcichemicals.com/CA/en/c/13228
+Electronic Materials--Colloidal Quantum Dot (QD) Research Reagents --Capping Agents [Colloidal Quantum Dot (QD) Research Reagents] --Ammonium Salt Capping Agents [Colloidal Quantum Dot (QD) Research Reagents] @ https://www.tcichemicals.com/CA/en/c/13229
+Electronic Materials--Colloidal Quantum Dot (QD) Research Reagents --Capping Agents [Colloidal Quantum Dot (QD) Research Reagents] --Capping Agents [Colloidal Quantum Dot (QD) Research Reagents] @ https://www.tcichemicals.com/CA/en/c/13227
+Electronic Materials--Colloidal Quantum Dot (QD) Research Reagents --Capping Agents [Colloidal Quantum Dot (QD) Research Reagents] --Carboxylic Acid Capping Agents [Colloidal Quantum Dot (QD) Reagents] @ https://www.tcichemicals.com/CA/en/c/13226
+Electronic Materials--Colloidal Quantum Dot (QD) Research Reagents --Capping Agents [Colloidal Quantum Dot (QD) Research Reagents] --Composite Capping Agents [Colloidal Quantum Dot (QD) Research Reagents] @ https://www.tcichemicals.com/CA/en/c/13231
+Electronic Materials--Colloidal Quantum Dot (QD) Research Reagents --Capping Agents [Colloidal Quantum Dot (QD) Research Reagents] --Phosphorus-containing Capping Agents [Colloidal Quantum Dot (QD) Research Reagents] @ https://www.tcichemicals.com/CA/en/c/13230
+Electronic Materials--Colloidal Quantum Dot (QD) Research Reagents --Capping Agents [Colloidal Quantum Dot (QD) Research Reagents] --Synthetic Reagents [Colloidal Quantum Dot (QD) Research Reagents] --Inorganic Reagents [Colloidal Quantum Dot (QD) Research Reagents] @ https://www.tcichemicals.com/CA/en/c/13250
+Electronic Materials--Colloidal Quantum Dot (QD) Research Reagents --Capping Agents [Colloidal Quantum Dot (QD) Research Reagents] --Synthetic Reagents [Colloidal Quantum Dot (QD) Research Reagents] --Organic Reagents [Colloidal Quantum Dot (QD) Research Reagents] @ https://www.tcichemicals.com/CA/en/c/13249
+Electronic Materials--Dye-Sensitized Solar Cell (DSSC) Materials --Dye Sensitizers [Dye-Sensitized Solar Cell (DSSC) Materials] @ https://www.tcichemicals.com/CA/en/c/12771
+Electronic Materials--Dye-Sensitized Solar Cell (DSSC) Materials --Electrolytes [Dye-Sensitized Solar Cell (DSSC) Materials] @ https://www.tcichemicals.com/CA/en/c/12772
+Electronic Materials--Dye-Sensitized Solar Cell (DSSC) Materials --Hole Conductor Cobalt Dopants [Dye-Sensitized Solar Cell (DSSC) Materials] @ https://www.tcichemicals.com/CA/en/c/12773
+Electronic Materials--Dye-Sensitized Solar Cell (DSSC) Materials --Ligands [Dye-Sensitized Solar Cell (DSSC) Materials] @ https://www.tcichemicals.com/CA/en/c/12774
+Electronic Materials--High-Quality Organic Semiconductors [for Organic Electronics] @ https://www.tcichemicals.com/CA/en/c/13179
+Electronic Materials--Liquid Crystal (LC) Materials --Cholesteric Liquid Crystals [Liquid Crystal (LC) Materials] --Cholesteryl Carbonates [Liquid Crystal (LC) Materials] @ https://www.tcichemicals.com/CA/en/c/12777
+Electronic Materials--Liquid Crystal (LC) Materials --Cholesteric Liquid Crystals [Liquid Crystal (LC) Materials] --Cholesteryl Compounds [Liquid Crystal (LC) Materials] @ https://www.tcichemicals.com/CA/en/c/12778
+Electronic Materials--Liquid Crystal (LC) Materials --Discotic Liquid Crystals [Liquid Crystal (LC) Materials] @ https://www.tcichemicals.com/CA/en/c/12779
+Electronic Materials--Liquid Crystal (LC) Materials --Nematic  Liquid Crystals, Smectic Liquid Crystals [Liquid Crystal (LC) Materials] --Azoxybenzenes [Liquid Crystal (LC) Materials] @ https://www.tcichemicals.com/CA/en/c/12781
+Electronic Materials--Liquid Crystal (LC) Materials --Nematic  Liquid Crystals, Smectic Liquid Crystals [Liquid Crystal (LC) Materials] --Carbonates [Liquid Crystal (LC) Materials] @ https://www.tcichemicals.com/CA/en/c/12782
+Electronic Materials--Liquid Crystal (LC) Materials --Nematic  Liquid Crystals, Smectic Liquid Crystals [Liquid Crystal (LC) Materials] --Cyanobiphenyls & Analogs [Liquid Crystal (LC) Materials] @ https://www.tcichemicals.com/CA/en/c/12783
+Electronic Materials--Liquid Crystal (LC) Materials --Nematic  Liquid Crystals, Smectic Liquid Crystals [Liquid Crystal (LC) Materials] --Fluorinated Biphenyls & Analogs [Liquid Crystal (LC) Materials] @ https://www.tcichemicals.com/CA/en/c/12784
+Electronic Materials--Liquid Crystal (LC) Materials --Nematic  Liquid Crystals, Smectic Liquid Crystals [Liquid Crystal (LC) Materials] --Liquid Crystal Mixtures [Liquid Crystal (LC) Materials] @ https://www.tcichemicals.com/CA/en/c/12786
+Electronic Materials--Liquid Crystal (LC) Materials --Nematic  Liquid Crystals, Smectic Liquid Crystals [Liquid Crystal (LC) Materials] --Other Biphenyls & Analogs [Liquid Crystal (LC) Materials] @ https://www.tcichemicals.com/CA/en/c/12785
+Electronic Materials--Liquid Crystal (LC) Materials --Nematic  Liquid Crystals, Smectic Liquid Crystals [Liquid Crystal (LC) Materials] --Phenyl Esters [Liquid Crystal (LC) Materials] @ https://www.tcichemicals.com/CA/en/c/12787
+Electronic Materials--Liquid Crystal (LC) Materials --Nematic  Liquid Crystals, Smectic Liquid Crystals [Liquid Crystal (LC) Materials] --Schiff Bases [Liquid Crystal (LC) Materials] @ https://www.tcichemicals.com/CA/en/c/12788
+Electronic Materials--Molecular Conductors --Acceptor Molecules [Molecular Conductors] @ https://www.tcichemicals.com/CA/en/c/12790
+Electronic Materials--Molecular Conductors --Donor Molecules [Molecular Conductors] @ https://www.tcichemicals.com/CA/en/c/12791
+Electronic Materials--Molecular Conductors --Electrocrystallization Supporting Electrolytes [Molecular Conductors] @ https://www.tcichemicals.com/CA/en/c/12792
+Electronic Materials--Molecular Conductors --Tetrathiafulvalene (TTF) Precursors [Molecular Conductors] @ https://www.tcichemicals.com/CA/en/c/12793
+Electronic Materials--Organic Light-Emitting Diode (OLED) Materials --Electron Transport Materials (ETM) [Organic Light-Emitting Diode (OLED) Materials] @ https://www.tcichemicals.com/CA/en/c/12795
+Electronic Materials--Organic Light-Emitting Diode (OLED) Materials --Hole Transport Materials (HTM) [Organic Light-Emitting Diode (OLED) Materials] @ https://www.tcichemicals.com/CA/en/c/12796
+Electronic Materials--Organic Light-Emitting Diode (OLED) Materials --Host Materials [Organic Light-Emitting Diode (OLED) Materials] @ https://www.tcichemicals.com/CA/en/c/12797
+Electronic Materials--Organic Light-Emitting Diode (OLED) Materials --Light Emitters & Dopants [Organic Light-Emitting Diode (OLED) Materials] --Blue Dopants [Organic Light-Emitting Diode (OLED) Materials] @ https://www.tcichemicals.com/CA/en/c/12799
+Electronic Materials--Organic Light-Emitting Diode (OLED) Materials --Light Emitters & Dopants [Organic Light-Emitting Diode (OLED) Materials] --Green Dopants [Organic Light-Emitting Diode (OLED) Materials] @ https://www.tcichemicals.com/CA/en/c/12800
+Electronic Materials--Organic Light-Emitting Diode (OLED) Materials --Light Emitters & Dopants [Organic Light-Emitting Diode (OLED) Materials] --Red Dopants [Organic Light-Emitting Diode (OLED) Materials] @ https://www.tcichemicals.com/CA/en/c/12801
+Electronic Materials--Organic Solar Cell (OPV) Materials --Acceptor Materials [Organic Solar Cell (OPV) Materials] @ https://www.tcichemicals.com/CA/en/c/12803
+Electronic Materials--Organic Solar Cell (OPV) Materials --Donor Materials [Organic Solar Cell (OPV) Materials] @ https://www.tcichemicals.com/CA/en/c/12804
+Electronic Materials--Organic Transistor (OFET) Materials --Ambipolar Semiconductors [Organic Transistor (OFET) Materials] @ https://www.tcichemicals.com/CA/en/c/12806
+Electronic Materials--Organic Transistor (OFET) Materials --Liquid Crystalline Semiconductors [Organic Transistor (OFET) Materials] @ https://www.tcichemicals.com/CA/en/c/12807
+Electronic Materials--Organic Transistor (OFET) Materials --n-Type Organic Semiconductors [Organic Transistor (OFET) Materials] @ https://www.tcichemicals.com/CA/en/c/12808
+Electronic Materials--Organic Transistor (OFET) Materials --p-Type Organic Semiconductors [Organic Transistor (OFET) Materials] @ https://www.tcichemicals.com/CA/en/c/12809
+Electronic Materials--Perovskite Solar Cell (PSC) Materials --Bismuth Halides [Organic-Inorganic Perovskite Precursors] @ https://www.tcichemicals.com/CA/en/c/13143
+Electronic Materials--Perovskite Solar Cell (PSC) Materials --Carrier Transport Layer Addives [Perovskite Solar Cell (PSC) Materials] @ https://www.tcichemicals.com/CA/en/c/13280
+Electronic Materials--Perovskite Solar Cell (PSC) Materials --Carrier Transport Materials [Perovskite Solar Cell (PSC) Materials] --Electron Transport Materials (ETM) [Perovskite Solar Cell (PSC) Materials] @ https://www.tcichemicals.com/CA/en/c/13278
+Electronic Materials--Perovskite Solar Cell (PSC) Materials --Carrier Transport Materials [Perovskite Solar Cell (PSC) Materials] --Hole Transport Materials (HTM) [Perovskite Solar Cell (PSC) Materials] @ https://www.tcichemicals.com/CA/en/c/13277
+Electronic Materials--Perovskite Solar Cell (PSC) Materials --Cesium Halides [Organic-Inorganic Perovskite Precursors] @ https://www.tcichemicals.com/CA/en/c/12970
+Electronic Materials--Perovskite Solar Cell (PSC) Materials --Lead Halides [Organic-Inorganic Perovskite Precursors] @ https://www.tcichemicals.com/CA/en/c/12971
+Electronic Materials--Perovskite Solar Cell (PSC) Materials --Organic Onium Salts [Perovskite Solar Cell (PSC) Materials] --Bromide Salts [Organic-Inorganic Perovskite Precursors] @ https://www.tcichemicals.com/CA/en/c/12973
+Electronic Materials--Perovskite Solar Cell (PSC) Materials --Organic Onium Salts [Perovskite Solar Cell (PSC) Materials] --Chloride Salts [Organic-Inorganic Perovskite Precursors] @ https://www.tcichemicals.com/CA/en/c/12974
+Electronic Materials--Perovskite Solar Cell (PSC) Materials --Organic Onium Salts [Perovskite Solar Cell (PSC) Materials] --Iodide Salts [Organic-Inorganic Perovskite Precursors] @ https://www.tcichemicals.com/CA/en/c/12975
+Electronic Materials--Perovskite Solar Cell (PSC) Materials --Organic Onium Salts [Perovskite Solar Cell (PSC) Materials] --Pseudo Halide Salts [Organic-Inorganic Perovskite Precursors] @ https://www.tcichemicals.com/CA/en/c/12976
+Electronic Materials--Perovskite Solar Cell (PSC) Materials --Other Lead Compounds [Organic-Inorganic Perovskite Precursors] @ https://www.tcichemicals.com/CA/en/c/13123
+Electronic Materials--Perovskite Solar Cell (PSC) Materials --Tin Halides [Organic-Inorganic Perovskite Precursors] @ https://www.tcichemicals.com/CA/en/c/12978
+Electronic Materials--Self Assembly Materials, Contact Printing Materials --Langmuir-Blodgett (LB) Film Forming Reagents --Diacetylene Monocarboxylic Acids [Langmuir-Blodgett (LB) Film Forming Reagents] @ https://www.tcichemicals.com/CA/en/c/12823
+Electronic Materials--Self Assembly Materials, Contact Printing Materials --Langmuir-Blodgett (LB) Film Forming Reagents --Diyne Compounds & Analogs [Langmuir-Blodgett (LB) Film Forming Reagents] @ https://www.tcichemicals.com/CA/en/c/12824
+Electronic Materials--Self Assembly Materials, Contact Printing Materials --Self-Assembly Materials --Disulfides [Self-Assembly Materials] @ https://www.tcichemicals.com/CA/en/c/12826
+Electronic Materials--Self Assembly Materials, Contact Printing Materials --Self-Assembly Materials --Phosphonic Acids [Self-Assembly Materials] @ https://www.tcichemicals.com/CA/en/c/12827 
+Electronic Materials--Self Assembly Materials, Contact Printing Materials --Self-Assembly Materials --Silazanes [Self-Assembly Materials] @ https://www.tcichemicals.com/CA/en/c/13145
+Electronic Materials--Self Assembly Materials, Contact Printing Materials --Self-Assembly Materials --Thiols [Self-Assembly Materials] @ https://www.tcichemicals.com/CA/en/c/12828
+Electronic Materials--Self Assembly Materials, Contact Printing Materials --Silane Coupling Agents/Adhesion Promoters --Acryloyloxyalkyl Silanes [Silane Coupling Agents/Adhesion Promoters] @ https://www.tcichemicals.com/CA/en/c/12830
+Electronic Materials--Self Assembly Materials, Contact Printing Materials --Silane Coupling Agents/Adhesion Promoters --Alkyl Silanes [Silane Coupling Agents/Adhesion Promoters] @ https://www.tcichemicals.com/CA/en/c/12831
+Electronic Materials--Self Assembly Materials, Contact Printing Materials --Silane Coupling Agents/Adhesion Promoters --Aminoalkyl Silanes [Silane Coupling Agents/Adhesion Promoters] @ https://www.tcichemicals.com/CA/en/c/12832
+Electronic Materials--Self Assembly Materials, Contact Printing Materials --Silane Coupling Agents/Adhesion Promoters --Aryl Silanes, Arylalkyl Silanes [Silane Coupling Agents/Adhesion Promoters] @ https://www.tcichemicals.com/CA/en/c/12833
+Electronic Materials--Self Assembly Materials, Contact Printing Materials --Silane Coupling Agents/Adhesion Promoters --Fluoroalkyl Silanes, Fluoroaryl Silanes [Silane Coupling Agents/Adhesion Promoters] @ https://www.tcichemicals.com/CA/en/c/12834
+Electronic Materials--Self Assembly Materials, Contact Printing Materials --Silane Coupling Agents/Adhesion Promoters --Glycidyloxyalkyl Silanes [Silane Coupling Agents/Adhesion Promoters] @ https://www.tcichemicals.com/CA/en/c/12835
+Electronic Materials--Self Assembly Materials, Contact Printing Materials --Silane Coupling Agents/Adhesion Promoters --Olefinyl Silanes [Silane Coupling Agents/Adhesion Promoters] @ https://www.tcichemicals.com/CA/en/c/12836
+Electronic Materials--Self Assembly Materials, Contact Printing Materials --Silane Coupling Agents/Adhesion Promoters --Other Silanes [Silane Coupling Agents/Adhesion Promoters] @ https://www.tcichemicals.com/CA/en/c/12837
+Nanocarbon Materials --Carbon Nanotubes (CNTs) and CNT Dispersants --Carbon Nanotube (CNT) Dispersants @ https://www.tcichemicals.com/CA/en/c/13114
+Nanocarbon Materials --Carbon Nanotubes (CNTs) and CNT Dispersants --Carbon Nanotubes (CNTs) @ https://www.tcichemicals.com/CA/en/c/13115

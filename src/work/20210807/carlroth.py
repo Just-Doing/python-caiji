@@ -1,0 +1,187 @@
+from enum import IntEnum
+import requests
+from urllib.request import urlopen
+import urllib
+from selenium import webdriver
+from bs4 import BeautifulSoup
+import http.client
+from openpyxl import Workbook
+from openpyxl import load_workbook
+from openpyxl.writer.excel import ExcelWriter
+from openpyxl.cell.cell import ILLEGAL_CHARACTERS_RE
+import json
+import string
+import re
+import time
+import math
+
+http.client._MAXHEADERS = 1000
+
+def urllib_download(IMAGE_URL, pName):
+	try:
+		opener = urllib.request.build_opener()
+		opener.addheaders = [('User-agent', 'Mozilla/5.0')]
+		urllib.request.install_opener(opener)
+		urllib.request.urlretrieve(IMAGE_URL, pName.replace("/","").replace("\\","")+'.jpg')
+	except:
+		print('no')
+
+def getNodeText(node):
+	if(node == None):
+		return ""
+	else:
+		return node.get_text().strip()
+
+retryCount = 0
+def getHtmlFromUrl(url, type="get", para={}):
+	global retryCount
+	try:
+		url = urllib.parse.quote(url, safe=string.printable).replace(' ','%20')
+		request_obj=urllib.request.Request(url=url,  headers={
+			'Content-Type': 'text/html; charset=utf-8',
+			'cookie':'visid_incap_2255650=4oBBaRPnQfCVoYEiTmjTq/NVAWEAAAAAQUIPAAAAAAD69PQHUoB0KplKq7/j0+gH; _gcl_au=1.1.76703404.1627477493; BCSessionID=83af10b8-9488-4b7b-a3b1-3640f178dca2; categoryView=grid; _gid=GA1.2.1947002654.1627710541; .Nop.RecentlyViewedProducts=28110%2C14707%2C4708; .Nop.Customer=d664d529-d14a-44b1-86b3-cbf5373277b4; nlbi_2255650=1ADEGU1fM0jQGgIoBzOViAAAAADCU/81s7IlQ0yjFyM1Kmh8; incap_ses_572_2255650=7JvyE/p4ICEV3ldVVSfwByoNBmEAAAAAt7nF+IFxHG7u7Ms9cJcM6w==; _ga_S46FST9X1M=GS1.1.1627786536.11.0.1627786536.0; _ga=GA1.2.31731397.1627477493; _gat_UA-139934-1=1; ___utmvc=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; _uetsid=0f3330d0f1c311ebaf055f374dd02305; _uetvid=69fc3a70efa411ebba3a23c153f6e477',
+			"User-Agent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36"
+		})
+		htmlHeader = requests.head(url)
+		if htmlHeader.status_code ==200:
+			response_obj=urllib.request.urlopen(request_obj)
+			html_code=response_obj.read()
+			return html_code
+		else:
+			return ''
+	except:
+		retryCount = retryCount + 1
+		if retryCount < 5:
+			print("retry index"+str(retryCount)+url)
+			time.sleep(60)
+			return getHtmlFromUrl(url)
+		else:
+			retryCount = 0
+			return ""
+
+def requestJson(url):
+	r = requests.post(url, headers={
+		'Content-Type': 'application/x-www-form-urlencoded',
+		'cookie':'visid_incap_2255650=4oBBaRPnQfCVoYEiTmjTq/NVAWEAAAAAQUIPAAAAAAD69PQHUoB0KplKq7/j0+gH; nlbi_2255650=CJKhHYlMm17tpKyoBzOViAAAAACDEjp3gL6bj6YL8j9XE0d/; incap_ses_893_2255650=m1tJIuDRUEp3FE/5GpNkDPRVAWEAAAAAM2KkDpvtARtZral+cMXSVw==; _gcl_au=1.1.76703404.1627477493; _gid=GA1.2.730047202.1627477493; BCSessionID=83af10b8-9488-4b7b-a3b1-3640f178dca2; categoryView=grid; _ga_S46FST9X1M=GS1.1.1627477492.1.1.1627478562.0; _ga=GA1.2.31731397.1627477493; _gat_UA-139934-1=1; _uetsid=69fc2d30efa411eb8818eb045f8760e5; _uetvid=69fc3a70efa411ebba3a23c153f6e477; .Nop.Customer=d664d529-d14a-44b1-86b3-cbf5373277b4',
+		"User-Agent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36"
+	})
+	datas = json.loads(r.text)
+	return datas
+
+def getRenderdHtmlFromUrl(url):
+
+	chrome_options = webdriver.ChromeOptions()
+	chrome_options.add_argument('--headless')
+	chrome_options.add_argument('--disable-gpu')
+	chrome_options.add_argument("window-size=1024,768")
+
+	chrome_options.add_argument("--no-sandbox")
+	browser = webdriver.Chrome(chrome_options=chrome_options)
+	browser.get(url)
+	return BeautifulSoup(browser.page_source, "html.parser",from_encoding="utf-8")
+	
+	
+	
+def writeExcel(workSheet, headers, rowIndex, info):
+	cellIndex=1
+	for head in headers:
+		try:
+			if head in info:
+				content = ILLEGAL_CHARACTERS_RE.sub(r'', info[head])
+				workSheet.cell(rowIndex, cellIndex).value = content.strip()
+			else:
+				workSheet.cell(rowIndex, cellIndex).value = ""
+			cellIndex=cellIndex+1
+		except:
+			print(rowIndex)
+
+def getProductInfo(url, type1,  products):
+	print(str(len(products)) + url)
+	html_code = getHtmlFromUrl(url)
+	if len(html_code)>0:
+		sope= BeautifulSoup(html_code, "html.parser",from_encoding="utf-8")
+		nav = sope.find("ol",attrs={"class":"breadcrumb"})
+		productName = sope.find("div",attrs={"class":"product-details"})
+		pInfo = {
+			"link":url,
+			"type":type1,
+			"nav":getNodeText(nav).replace("\n\n\n",">"),
+			"Product name":getNodeText(productName)
+		}
+		
+		technicalInfo = sope.find("div", attrs={"class":"product-classifications"})
+		if technicalInfo!=None:
+			technicalInfos = technicalInfo.find_all("tr")
+			for technicalInfoTr in technicalInfos:
+				tds = technicalInfoTr.find_all("td")
+				title = getNodeText(tds[0])
+				if title == "Type":
+					title = "Type1"
+				pInfo[title] = getNodeText(tds[1])
+		
+
+		specInfos = sope.find_all("div", attrs={"class":"variant-name"})
+		for spec in specInfos:
+			title = getNodeText(spec).replace("\n","").strip()
+			if title != "Related products":
+				specItems = spec.next_sibling.next_sibling.find_all("option")
+				val = ""
+				for specItem in specItems:
+					val += getNodeText(specItem)+","
+				pInfo[title] = val
+				print(title + ":"+ val)
+		
+		decsArea = sope.find("div",attrs={"class":"tabbody ProductDetailsComponent"})
+		if decsArea!=None:
+			pInfo["description"] = getNodeText(decsArea.find("div", attrs={"class":"col-xs-12 col-md-6"}))
+		products.append(pInfo.copy())
+
+def getProductList(url, type1, products,  isFirst, total):
+	print(url)
+	html_code = getHtmlFromUrl(url)
+	if len(html_code)>0:
+		sope= BeautifulSoup(html_code, "html.parser",from_encoding="utf-8")
+		pListArea = sope.find("div", attrs={"class":"product__listing product__grid"})
+		pList = pListArea.find_all("div", attrs={"class":"col-md-4"})
+		for p in pList:
+			pLink = p.find("a")
+			getProductInfo("https://www.carlroth.com"+pLink["href"], type1,  products)
+		if isFirst:
+			totalPage = math.ceil(total/21)
+			for pageIndex in range(2, totalPage):
+				pageUrl = url + "&page=" + str(pageIndex)
+				getProductList(pageUrl, type1, products, False, total)
+			
+
+excelFileName="carlroth.xlsx"
+wb = Workbook()
+workSheet = wb.active
+products = []
+
+# getProductInfo("https://www.carlroth.com/de/en/syringe-adaptor-filters/syringe-filters-rotilabo-nylon/p/kc65.1", 'aaa',  products)
+getProductList("https://www.carlroth.com/de/en/labware/c/web_folder_395535?q=%3Apopularity-desc%3AcategoryPath%3A%252FWEB_FOLDER_395535%252FWEB_FOLDER_395545", 'Cleaning, Care, Aids (663)', products, True, 663)
+getProductList("https://www.carlroth.com/de/en/labware/c/web_folder_395535?q=%3Apopularity-desc%3AcategoryPath%3A%252FWEB_FOLDER_395535%252FWEB_FOLDER_395538", 'Filtration, Water Purification, Dialysis (2,008)', products,  True,2008)
+getProductList("https://www.carlroth.com/de/en/labware/c/web_folder_395535?q=%3Apopularity-desc%3AcategoryPath%3A%252FWEB_FOLDER_395535%252FWEB_FOLDER_395536", 'Laboratory Glass, Vessels, Consumables (7,120)', products,  True,7120)
+getProductList("https://www.carlroth.com/de/en/labware/c/web_folder_395535?q=%3Apopularity-desc%3AcategoryPath%3A%252FWEB_FOLDER_395535%252FWEB_FOLDER_395540", 'Liquid Handling, Vacuum Technology (3,095)', products,  True,3095)
+getProductList("https://www.carlroth.com/de/en/labware/c/web_folder_395535?q=%3Apopularity-desc%3AcategoryPath%3A%252FWEB_FOLDER_395535%252FWEB_FOLDER_395541", 'Measuring Instruments (1,413)', products,  True,1413)
+getProductList("https://www.carlroth.com/de/en/labware/c/web_folder_395535?q=%3Apopularity-desc%3AcategoryPath%3A%252FWEB_FOLDER_395535%252FWEB_FOLDER_395542", 'Microbiology, Cell Culture, Sterilization (602)', products,  True,602)
+getProductList("https://www.carlroth.com/de/en/labware/c/web_folder_395535?q=%3Apopularity-desc%3AcategoryPath%3A%252FWEB_FOLDER_395535%252FWEB_FOLDER_395543", 'Microscopy, Histology, Instruments (844)', products,  True,844)
+getProductList("https://www.carlroth.com/de/en/labware/c/web_folder_395535?q=%3Apopularity-desc%3AcategoryPath%3A%252FWEB_FOLDER_395535%252FWEB_FOLDER_395537", 'Occupational Safety and Personal Protection (2,608)', products,  True,2608)
+getProductList("https://www.carlroth.com/de/en/labware/c/web_folder_395535?q=%3Apopularity-desc%3AcategoryPath%3A%252FWEB_FOLDER_395535%252FWEB_FOLDER_395544", 'Optical Instruments and Lamps (307)', products,  True,307)
+getProductList("https://www.carlroth.com/de/en/labware/c/web_folder_395535?q=%3Apopularity-desc%3AcategoryPath%3A%252FWEB_FOLDER_395535%252FWEB_FOLDER_395547", 'Transport, Laboratory Equipment, Tools (464)', products,  True,464)
+
+
+headers=[
+	'link','type','nav','Product name','Application','Unit size','description','Manufacturer','Material','For Use With (Application)','Frosted','Length (Metric)','Color','Quantity','Thickness (Metric)','Width (Metric)','Corner Style','Well Count','Length (English)','Dimensions (L x W)','Width (English)','Type1','Coating','Volume (Metric)','Edges','Price','No. per Case','No. per Pack','Precleaned','Writing Surface','Order Info','Physical Form','L x W','ply','Length','Width','Ø','Packaging type','Packaging','Pack.','Bristle materials','Version','Ø Ball','Density','Melting point','Chemical composition','Bulk weight','Refractive index','Specific weight approx','Pore size','Sterility','Ø Membrane','Colour coding','Ø Housing','Housing material','Sample volume','Dead volume','Total filter volume','Filtration area','Max. operating pressure','Inlet connection','Outlet connection','Max. application temperature','MWCO','Wall thickness','Surface width','Seal length','Total length','Suitable for','Inner length','Inner width','Inner height','Pack Qty.','Volume','Ø Inner neck','Thread','Height','Ø External','Standards','Centrifugability in g (max.)','Depth','No. of slots','Temperature constancy','Ø Head','Cover length','Standard ground glass joint cores','Standard ground glass joint sleeves','Ø Upper','Standard ground glass joint sleeve','Ø Outer flask','Compartment size','Graduations','Volume per well','Puncturable','Gas-permeable','Temperature stability','Tip no.','Outer beaker Ø','Height with lid','Max. number of samples','L x W x H','Weight','Gauge','pH measuring range','Gradation','Gap width','Wells','Growth surface','Mesh size','Ø Lower','Ø Outer neck','Ø x H','Ø Outer lower','Contents','L x W, internal','L x W x H, external','L x W x H, interior','Tip shape','Tip width','Length of cut','size','Lens design','Ø Core','Thickness','For protection against','W x D x H, total','Filter type','Manufacturer no.','Multipack','unit'
+]
+
+print(len(headers))
+for index,head in enumerate(headers):
+    workSheet.cell(1, index+1).value = head.strip()
+for index,p in enumerate(products):
+	print(p["link"])
+	writeExcel(workSheet, headers, index + 2, p)
+
+print("flish")	
+
+wb.save(excelFileName)
