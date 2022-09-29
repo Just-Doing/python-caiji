@@ -1,0 +1,3019 @@
+{
+    "Result": [
+        {
+            "Molecule": "PDGFRA",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "PDGFRA Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/pdgfra-sek10556",
+            "Catalog": "SEK10556",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/PDGFRA.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/PDGFRA.png",
+                    "AltInfo": "Human PDGFRA/CD140a ELISA Pair Set Standard Curve 13856",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "31.25-2000",
+            "Description": "PDGFRA",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "PBK",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "PBK/TOPK Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/pbk-topk-sek10729",
+            "Catalog": "SEK10729",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/PBK.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/PBK.png",
+                    "AltInfo": "Human PBK/TOPK ELISA Pair Set Standard Curve 13864",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "62.5-4000",
+            "Description": "PBK/TOPK",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "CD200",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "CD200 Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/cd200-sek10886",
+            "Catalog": "SEK10886",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/CD200.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/CD200.png",
+                    "AltInfo": "Human CD200/OX2 ELISA Pair Set Standard Curve 13887",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "46.88-3000",
+            "Description": "CD200",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "AZU1",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "Azurocidin/CAP37 Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/azurocidin-cap37-sek10660",
+            "Catalog": "SEK10660",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/AZU1.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/AZU1.png",
+                    "AltInfo": "Human Azurocidin / CAP37 ELISA Pair Set Standard Curve 18451",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "6.25-400",
+            "Description": "Azurocidin/CAP37",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "RELT",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "RELT/TNFRSF19L Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/relt-tnfrsf19l-sek10530",
+            "Catalog": "SEK10530",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/RELT.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/RELT.png",
+                    "AltInfo": "Human RELT/TNFRSF19L ELISA Pair Set Standard Curve 13854",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "39.06-2500",
+            "Description": "RELT/TNFRSF19L",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "EPOR",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "EPOR Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/epor-sek10707",
+            "Catalog": "SEK10707",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/EPOR.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/EPOR.png",
+                    "AltInfo": "Human EPOR/Erythropoietin Receptor ELISA Pair Set Standard Curve 13862",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "1.95-125",
+            "Description": "EPOR",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "IL22RA2",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "IL-22BP Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/il-22bp-sek11025",
+            "Catalog": "SEK11025",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/IL22BP.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/IL22BP.png",
+                    "AltInfo": "Human IL-22BP/IL-22RA2 ELISA Pair Set Standard Curve 18311",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "132.81-8500",
+            "Description": "IL-22BP",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "RSV-F",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 90.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set",
+                "RSV",
+                "subtype A",
+                " strain A2"
+            ],
+            "ProductName": "Human respiratory syncytial virus (RSV) Fusion Glycoprotein / RSV-F ELISA Pair Set",
+            "ProductUrl": "/pair-set/rsv-fusion-sek11049",
+            "Catalog": "SEK11049",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/RSV-F.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/RSV-F.png",
+                    "AltInfo": "RSV RSV F ELISA Pair Set Standard Curve 13904",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "125-8000",
+            "Description": "RSV Fusion",
+            "StrainDescription": "subtype A, strain A2",
+            "Species": "RSV",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "CRP",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "C-Reactive Protein Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/c-reactive-protein-sek11250",
+            "Catalog": "SEK11250",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/CRP.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/CRP.png",
+                    "AltInfo": "Human C-Reactive Protein/CRP ELISA Pair Set Standard Curve 14950",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "15.63-1000",
+            "Description": "C-Reactive Protein",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "SAA4",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "SAA4 Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/saa4-sek11311",
+            "Catalog": "SEK11311",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/SAA4.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/SAA4.png",
+                    "AltInfo": "Human SAA4 ELISA Kit Standard Curve 7068",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "39.06-2500",
+            "Description": "SAA4",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "VEGFA",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set",
+                "ELISA Kit"
+            ],
+            "ProductName": "VEGF165 Matched ELISA Antibody Pair Set, Human",
+            "ProductUrl": "/pair-set/vegfa-sek11066",
+            "Catalog": "SEK11066",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/VEGFA.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/VEGFA.png",
+                    "AltInfo": "Human VEGFA ELISA Pair Set Standard Curve 19948",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "18.75-1200",
+            "Description": "VEGFA",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "NTRK1",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "TrkA Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/trka-sek11073",
+            "Catalog": "SEK11073",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/NTRK1.jpg",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/NTRK1.jpg",
+                    "AltInfo": "Human TrkA/NTRK1 ELISA Pair Set Standard Curve 13910",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "156.25-10000",
+            "Description": "TrkA",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "CD200R1L",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "CD200RLa Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/cd200rla-sek11620",
+            "Catalog": "SEK11620",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/CD200R1L.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/CD200R1L.png",
+                    "AltInfo": "Human CD200RLa ELISA Pair Set Standard Curve 13939",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "125-8000",
+            "Description": "CD200RLa",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "DLL1",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "DLL1 Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/dll1-sek11635",
+            "Catalog": "SEK11635",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/DLL1.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/DLL1.png",
+                    "AltInfo": "Human DLL1 / Delta-like 1 ELISA Pair Set Standard Curve 13940",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "46.88-3000",
+            "Description": "DLL1",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "TREM2",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "TREM-2 Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/trem-2-sek11084",
+            "Catalog": "SEK11084",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/TREM2.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/TREM2.png",
+                    "AltInfo": "Human TREM-2/TREM2 ELISA Pair Set Standard Curve 13913",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "54.69-3500",
+            "Description": "TREM-2",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "ACBD6",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "ACBD6 Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/acbd6-sek11112",
+            "Catalog": "SEK11112",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/ACBD6.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/ACBD6.png",
+                    "AltInfo": "Human ACBD6 ELISA Pair Set Standard Curve 13915",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "46.88-3000",
+            "Description": "ACBD6",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "F9",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "Factor IX Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/factor-ix-sek11503",
+            "Catalog": "SEK11503",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/F9.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/F9.png",
+                    "AltInfo": "Human Coagulation Factor IX / FIX / F9 ELISA Pair Set Standard Curve 7107",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "140.63-9000",
+            "Description": "Factor IX",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "ENTPD5",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "ENTPD5 Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/entpd5-sek11184",
+            "Catalog": "SEK11184",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/ENTPD5.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/ENTPD5.png",
+                    "AltInfo": "Human ENTPD5 ELISA Pair Set Standard Curve 7106",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "23.4-1500",
+            "Description": "ENTPD5",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "HPGD",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "15-PGDH Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/15-pgdh-sek11205",
+            "Catalog": "SEK11205",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/HPGD.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/HPGD.png",
+                    "AltInfo": "Human HPGD/15-PGDH ELISA Pair Set Standard Curve 17495",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "31.25-2000",
+            "Description": "15-PGDH",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "IL22",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "IL22 Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/il22-sek13059",
+            "Catalog": "SEK13059",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/IL22.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/IL22.png",
+                    "AltInfo": "Human IL22 ELISA Pair Set Standard Curve 19945",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "2.03-130",
+            "Description": "IL22",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "SLAMF6",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "SLAMF6 Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/slamf6-sek11945",
+            "Catalog": "SEK11945",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/SLAMF6.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/SLAMF6.png",
+                    "AltInfo": "Human Ly108/SLAMF6 ELISA Pair Set Standard Curve 13953",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "7.03-450",
+            "Description": "SLAMF6",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "B2M",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "Beta-2 microglobulin Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/b2m-sek11976",
+            "Catalog": "SEK11976",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/B2M.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/B2M.png",
+                    "AltInfo": "Human Beta-2 microglobulin ELISA Pair Set Standard Curve 24130",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "3.13-200",
+            "Description": "Beta-2 microglobulin",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "LMAN2",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "LMAN2 Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/lman2-sek12455",
+            "Catalog": "SEK12455",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/LMAN2.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/LMAN2.png",
+                    "AltInfo": "Human LMAN2 ELISA Pair Set Standard Curve 13966",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "31.25-2000",
+            "Description": "LMAN2",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "SOD1",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "SOD1 Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/sod1-sek11727",
+            "Catalog": "SEK11727",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/SOD1.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/SOD1.png",
+                    "AltInfo": "Human SOD1 ELISA Pair Set Standard Curve 13945",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "62.5-4000",
+            "Description": "SOD1",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "WFDC2",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "HE4 Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/he4-sek12609",
+            "Catalog": "SEK12609",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/WFDC2.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/WFDC2.png",
+                    "AltInfo": "Human HE4/WFDC2/WAP5 ELISA Pair Set Standard Curve 14949",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "15.625-1000",
+            "Description": "HE4",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "VWC2",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "VWC2 Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/vwc2-sek12071",
+            "Catalog": "SEK12071",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/VWC2.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/VWC2.png",
+                    "AltInfo": "Human VWC2 ELISA Pair Set Standard Curve 13956",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "7.81-500",
+            "Description": "VWC2",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "CD160",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "CD160 Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/cd160-sek12191",
+            "Catalog": "SEK12191",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/CD160.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/CD160.png",
+                    "AltInfo": "Human CD160/NK1/BY55 ELISA Pair Set Standard Curve 13961",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "93.75-6000",
+            "Description": "CD160",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "TPO",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "Thyroid peroxidase Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/thyroid-peroxidase-sek13194",
+            "Catalog": "SEK13194",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/TPO.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/TPO.png",
+                    "AltInfo": "Human Thyroid peroxidase ELISA Pair Set Standard Curve 27330",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "23.44-1500",
+            "Description": "Thyroid peroxidase",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "CD83",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "CD83 Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/cd83-sek11763",
+            "Catalog": "SEK11763",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/CD83.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/CD83.png",
+                    "AltInfo": "Human CD83 ELISA Pair Set Standard Curve 13948",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "6.25-400",
+            "Description": "CD83",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "AXL",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 99.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "AXL Matched ELISA Antibody Pair Set,Mouse",
+            "ProductUrl": "/pair-set/axl-sek50126",
+            "Catalog": "SEK50126",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/mAXL.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/mAXL.png",
+                    "AltInfo": "Mouse AXL ELISA Pair Set Standard Curve 13984",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "12.5-800",
+            "Description": "AXL",
+            "Species": "Mouse",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "IL6ST",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 99.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "gp130/IL6ST Matched ELISA Antibody Pair Set,Mouse",
+            "ProductUrl": "/pair-set/gp130-il6st-sek50135",
+            "Catalog": "SEK50135",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/mIL6ST.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/mIL6ST.png",
+                    "AltInfo": "Mouse IL6ST/gp130/CD130 ELISA Pair Set Standard Curve 7123",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "11.72-750",
+            "Description": "gp130/IL6ST",
+            "Species": "Mouse",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "IL13Ra1",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 99.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "IL13RA1 Matched ELISA Antibody Pair Set,Mouse",
+            "ProductUrl": "/pair-set/il13ra1-sek50088",
+            "Catalog": "SEK50088",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/mIL13RA1.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/mIL13RA1.png",
+                    "AltInfo": "Mouse IL13RA1/IL-13RA1 ELISA Pair Set Standard Curve 7122",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "15.63-1000",
+            "Description": "IL13RA1",
+            "Species": "Mouse",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "AHSG",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 99.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "Fetuin A Matched ELISA Antibody Pair Set,Mouse",
+            "ProductUrl": "/pair-set/fetuin-a-sek50093",
+            "Catalog": "SEK50093",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/mAHSG.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/mAHSG.png",
+                    "AltInfo": "Mouse Fetuin-A ELISA Pair Set Standard Curve 13981",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "156.25-10000",
+            "Description": "Fetuin A",
+            "Species": "Mouse",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "CD5L",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 99.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "CD5L Matched ELISA Antibody Pair Set,Mouse",
+            "ProductUrl": "/pair-set/cd5l-sek50020",
+            "Catalog": "SEK50020",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/mCD5L.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/mCD5L.png",
+                    "AltInfo": "Mouse CD5L ELISA Pair Set Standard Curve 13974",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "6.25-400",
+            "Description": "CD5L",
+            "Species": "Mouse",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "CD14",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 99.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "CD14 Matched ELISA Antibody Pair Set,Mouse",
+            "ProductUrl": "/pair-set/cd14-sek50023",
+            "Catalog": "SEK50023",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/mouse CD14.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/mouse CD14.png",
+                    "AltInfo": "Mouse CD14 ELISA Pair Set Standard Curve 13975",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "78.13-5000",
+            "Description": "CD14",
+            "Species": "Mouse",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "HA",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 90.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "A/Shanghai/1/2013",
+                "ELISA Pair Set",
+                "H7N9"
+            ],
+            "ProductName": "Influenza A H7N9 (A/Shanghai/1/2013) Hemagglutinin / HA ELISA Pair Set",
+            "ProductUrl": "/pair-set/hemagglutinin-ha-sek40104",
+            "Catalog": "SEK40104",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/H7N9-A-Shanghai-1-2013-HA.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/H7N9-A-Shanghai-1-2013-HA.png",
+                    "AltInfo": "Influenza HA ELISA Pair Set Standard Curve 13973",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "62.5-4000",
+            "Description": "Hemagglutinin/HA",
+            "StrainDescription": "A/Shanghai/1/2013",
+            "Species": "Influenza",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "ENG",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 99.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "Endoglin/CD105 Matched ELISA Antibody Pair Set,Mouse",
+            "ProductUrl": "/pair-set/endoglin-cd105-sek50407",
+            "Catalog": "SEK50407",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/mENG.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/mENG.png",
+                    "AltInfo": "Mouse Endoglin/CD105  ELISA Pair Set Standard Curve 14000",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "31.25-2000",
+            "Description": "Endoglin/CD105",
+            "Species": "Mouse",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "CXCL2",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 99.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "GRO Beta/CXCL2 Matched ELISA Antibody Pair Set,Mouse",
+            "ProductUrl": "/pair-set/gro-beta-cxcl2-sek50070",
+            "Catalog": "SEK50070",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/mCXCL2.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/mCXCL2.png",
+                    "AltInfo": "Mouse GRO beta ELISA Pair Set Standard Curve 22840",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "3.91-250",
+            "Description": "GRO Beta/CXCL2",
+            "Species": "Mouse",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "LILRA3",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "LILRA3 Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/lilra3-sek13549",
+            "Catalog": "SEK13549",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/LILRA3.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/LILRA3.png",
+                    "AltInfo": "Human LILRA3/CD85e/ILT6 ELISA Pair Set Standard Curve 15905",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "156.25-10000",
+            "Description": "LILRA3",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "CLEC4N",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 99.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "CLEC4N Matched ELISA Antibody Pair Set,Mouse",
+            "ProductUrl": "/pair-set/clec4n-sek50267",
+            "Catalog": "SEK50267",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/mCLEC4N.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/mCLEC4N.png",
+                    "AltInfo": "Mouse CLEC4N / CLEC6A / Dectin-2 ELISA Pair Set Standard Curve 13993",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "62.5-4000",
+            "Description": "CLEC4N",
+            "Species": "Mouse",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "CFHR2",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "CFHR2 Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/cfhr2-sek13920",
+            "Catalog": "SEK13920",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/CFHR2.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/CFHR2.png",
+                    "AltInfo": "Human CFHR2  ELISA Pair Set Standard Curve 7118",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "9.38-600",
+            "Description": "CFHR2",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "IFNAR1",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 99.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "IFNAR1 Matched ELISA Antibody Pair Set,Mouse",
+            "ProductUrl": "/pair-set/ifnar1-sek50469",
+            "Catalog": "SEK50469",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/mIFNAR1.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/mIFNAR1.png",
+                    "AltInfo": "Mouse IFNAR1 ELISA Pair Set Standard Curve 14004",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "140.62-9000",
+            "Description": "IFNAR1",
+            "Species": "Mouse",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "CD86",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 98.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "CD86 Matched ELISA Antibody Pair Set,Rat",
+            "ProductUrl": "/pair-set/cd86-sek80025",
+            "Catalog": "SEK80025",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/ratCD86.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/ratCD86.png",
+                    "AltInfo": "Rat CD86/B7-2 ELISA Pair Set Standard Curve 14017",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "4.69-300",
+            "Description": "CD86",
+            "Species": "Rat",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "IL1R1",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 98.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "IL1R1 Matched ELISA Antibody Pair Set,Rat",
+            "ProductUrl": "/pair-set/il1r1-sek80028",
+            "Catalog": "SEK80028",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/ratIL1R1.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/ratIL1R1.png",
+                    "AltInfo": "Rat IL1R1/IL-1R1/IL-1 RI ELISA Pair Set Standard Curve 14018",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "62.5-4000",
+            "Description": "IL1R1",
+            "Species": "Rat",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "HAVCR1",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 90.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "TIM-1/KIM-1 Matched ELISA Antibody Pair Set,Canine",
+            "ProductUrl": "/pair-set/tim-1-kim-1-sek70001",
+            "Catalog": "SEK70001",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/dTIMD1.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/dTIMD1.png",
+                    "AltInfo": "Canine TIM-1/KIM-1/HACVR ELISA Kit Standard Curve 7082",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "125-8000",
+            "Description": "TIM-1/KIM-1",
+            "Species": "Canine",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "ICAM1",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 98.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "ICAM-1 Matched ELISA Antibody Pair Set,Rat",
+            "ProductUrl": "/pair-set/icam-1-sek80022",
+            "Catalog": "SEK80022",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/ratICAM1.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/ratICAM1.png",
+                    "AltInfo": "Rat ICAM-1/CD54 ELISA Pair Set Standard Curve 14016",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "31.25-2000",
+            "Description": "ICAM-1",
+            "Species": "Rat",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "ICAM1",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 99.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "ICAM-1 Matched ELISA Antibody Pair Set,Mouse",
+            "ProductUrl": "/pair-set/icam-1-sek50440",
+            "Catalog": "SEK50440",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/mICAM1.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/mICAM1.png",
+                    "AltInfo": "Mouse ICAM-1/CD54 ELISA Pair Set Standard Curve 14002",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "8.75-560",
+            "Description": "ICAM-1",
+            "Species": "Mouse",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "CD55",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 99.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "CD55/DAF Matched ELISA Antibody Pair Set,Mouse",
+            "ProductUrl": "/pair-set/cd55-daf-sek50468",
+            "Catalog": "SEK50468",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/mCD55.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/mCD55.png",
+                    "AltInfo": "Mouse CD55/DAF ELISA Pair Set Standard Curve 15539",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "5.47-350",
+            "Description": "CD55/DAF",
+            "Species": "Mouse",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "FCGR2A",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 90.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "CD32A Matched ELISA Antibody Pair Set,Rhesus",
+            "ProductUrl": "/pair-set/cd32a-sek90016",
+            "Catalog": "SEK90016",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/Rhesus-FCGR2A.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/Rhesus-FCGR2A.png",
+                    "AltInfo": "Rhesus CD32a/FCGR2A/Fc gamma RIIA ELISA Pair Set Standard Curve 15124",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "7.81-500",
+            "Description": "CD32A",
+            "Species": "Rhesus",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "B2M",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 98.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "Beta-2 microglobulin Matched ELISA Antibody Pair Set,Rat",
+            "ProductUrl": "/pair-set/b2m-sek80423",
+            "Catalog": "SEK80423",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/ratB2M.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/ratB2M.png",
+                    "AltInfo": "Rat Beta-2 microglobulin/B2M ELISA Pair Set Standard Curve 15068",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "2.66-170",
+            "Description": "Beta-2 microglobulin",
+            "Species": "Rat",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "vWF",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "Von Willebrand Factor/vWF Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/vwf-seka10973",
+            "Catalog": "SEKA10973",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/VWF.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/VWF.png",
+                    "AltInfo": "Human VWF/Von Willebrand Factor ELISA Pair Set Standard Curve 7136",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "109.38-7000",
+            "Description": "Von Willebrand Factor/vWF",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "MICB",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "MICB Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/micb-seka10759",
+            "Catalog": "SEKA10759",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/MICB.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/MICB.png",
+                    "AltInfo": "Human MICB  ELISA Pair Set Standard Curve 14756",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "78.12-5000",
+            "Description": "MICB",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "CR2",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "CD21 Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/cd21-seka10811",
+            "Catalog": "SEKA10811",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/CD21-1.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/CD21-1.png",
+                    "AltInfo": "Human CD21 ELISA Pair Set Standard Curve 14027",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "31.25-2000",
+            "Description": "CD21",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "PDCD1",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "PD-1 Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/pd-1-sekb10377",
+            "Catalog": "SEKB10377",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/PD1.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/PD1.png",
+                    "AltInfo": "Human PD1/PDCD1/CD279 ELISA Pair Set Standard Curve 13829",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "3.91-250",
+            "Description": "PD-1",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "CEACAM6",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "CEACAM6 Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/ceacam6-seka10823",
+            "Catalog": "SEKA10823",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/CEACAM6-HRP.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/CEACAM6-HRP.png",
+                    "AltInfo": "Human CEACAM6/CD66c ELISA Pair Set Standard Curve 7135",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "9.34-600",
+            "Description": "CEACAM6",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "FGF10",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "FGF10 Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/fgf10-sek10573",
+            "Catalog": "SEK10573",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/FGF10.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/FGF10.png",
+                    "AltInfo": "Human FGF10 / KGF2 ELISA Kit Standard Curve 7064",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "31.25-4000",
+            "Description": "FGF10",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "TNF",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "TNF-alpha Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/tnf-alpha-seka10602",
+            "Catalog": "SEKA10602",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/TNFa-1.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/TNFa-1.png",
+                    "AltInfo": "Human TNF-alpha/TNFA/TNFSF2 ELISA Pair Set Standard Curve 14026",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "23.44-1500",
+            "Description": "TNF-alpha",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "IL16",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "IL-16 Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/il-16-sek10944",
+            "Catalog": "SEK10944",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/IL16.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/IL16.png",
+                    "AltInfo": "Human IL16 ELISA Pair Set Standard Curve 13896",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "2.34-150",
+            "Description": "IL-16",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "IGFBP7",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "IGFBP7 Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/igfbp7-sek13100",
+            "Catalog": "SEK13100",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/IGFBP7.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/IGFBP7.png",
+                    "AltInfo": "Human IGFBP7 ELISA Pair Set Standard Curve 13969",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "15.63-600",
+            "Description": "IGFBP7",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "TNFRSF1A",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "TNFR1/CD120a Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/tnfrsf1a-sek10872",
+            "Catalog": "SEK10872",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/CD120a.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/CD120a.png",
+                    "AltInfo": "Human TNFR1/TNFRSF1A/CD120a ELISA Pair Set Standard Curve 13885",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "7.81-500",
+            "Description": "TNFR1/CD120a",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "TNFRSF1A",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 99.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "TNFR1/CD120a Matched ELISA Antibody Pair Set,Mouse",
+            "ProductUrl": "/pair-set/tnfrsf1a-sek50496",
+            "Catalog": "SEK50496",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/mTNFRSF1A.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/mTNFRSF1A.png",
+                    "AltInfo": "Mouse TNFR1/TNFRSF1A/CD120a ELISA Pair Set Standard Curve 14006",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "4.69-300",
+            "Description": "TNFR1/CD120a",
+            "Species": "Mouse",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "KLK13",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "Kallikrein 13 Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/kallikrein-13-sek10199",
+            "Catalog": "SEK10199",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/KLK13.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/KLK13.png",
+                    "AltInfo": "Human KLK13/Kallikrein 13 ELISA Pair Set Standard Curve 13805",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "39.06-2500",
+            "Description": "Kallikrein 13",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "CD209",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "DC-SIGN Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/dc-sign-sek10200",
+            "Catalog": "SEK10200",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/CD209.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/CD209.png",
+                    "AltInfo": "Human CD209/DC-SIGN ELISA Pair Set Standard Curve 13806",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "23.44-1500",
+            "Description": "DC-SIGN",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "ERBB3",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "HER3/ERBB3 Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/her3-erbb3-sek10201",
+            "Catalog": "SEK10201",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/ErbB3.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/ErbB3.png",
+                    "AltInfo": "Human EEBB3/HER3 ELISA Pair Set Standard Curve 13807",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "18.75-1200",
+            "Description": "HER3/ERBB3",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "SPARCL1",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "SPARCL1 Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/sparcl1-sek10046",
+            "Catalog": "SEK10046",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/SPARCL1.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/SPARCL1.png",
+                    "AltInfo": "Human SPARCL1 / SPARC-like 1 ELISA Pair Set Standard Curve 13776",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "93.75-6000",
+            "Description": "SPARCL1",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "NTRK2",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "TrkB Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/trkb-sek10047",
+            "Catalog": "SEK10047",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/TrkB.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/TrkB.png",
+                    "AltInfo": "Human TrkB/NTRK2 ELISA Pair Set Standard Curve 13777",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "10.98-700",
+            "Description": "TrkB",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "VCAM1",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "VCAM1 Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/vcam1-sek10113",
+            "Catalog": "SEK10113",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/VCAM1.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/VCAM1.png",
+                    "AltInfo": "Human VCAM1 ELISA Pair Set Standard Curve 19947",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "46.88-3000",
+            "Description": "VCAM1",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "MCAM",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "CD146/MCAM Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/cd146-mcam-sek10115",
+            "Catalog": "SEK10115",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/CD146.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/CD146.png",
+                    "AltInfo": "Human CD146/MCAM ELISA Pair Set Standard Curve 13785",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "11-700",
+            "Description": "CD146/MCAM",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "ACVRL1",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "ALK-1 Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/alk-1-sek10066",
+            "Catalog": "SEK10066",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/ALK1.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/ALK1.png",
+                    "AltInfo": "Human ALK-1/ACVRL1 ELISA Pair Set Standard Curve 13780",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "15.63-1000",
+            "Description": "ALK-1",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "CHL1",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "CHL1 Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/chl1-sek10143",
+            "Catalog": "SEK10143",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/CHL1.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/CHL1.png",
+                    "AltInfo": "Human CHL1/LICAM2/CALL ELISA Pair Set Standard Curve 13791",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "31.25-2000",
+            "Description": "CHL1",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "CSF3",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "G-CSF Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/g-csf-sek10007",
+            "Catalog": "SEK10007",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/G-CSF.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/G-CSF.png",
+                    "AltInfo": "Human G-CSF ELISA Pair Set Standard Curve 19950",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "93.75-6000",
+            "Description": "G-CSF",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "IL20RA",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "IL20RA Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/il20ra-sek10397",
+            "Catalog": "SEK10397",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/IL20RA.jpg",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/IL20RA.jpg",
+                    "AltInfo": "Human IL20RA/IL-20RA ELISA Pair Set Standard Curve 13832",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "31.25-2000",
+            "Description": "IL20RA",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "TNFRSF10D",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "DcR2/TRAIL R4 Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/dcr2-trail-r4-sek10413",
+            "Catalog": "SEK10413",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/TNFRSF10D.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/TNFRSF10D.png",
+                    "AltInfo": "Human TRAIL R4/CD264/TNFRSF10D ELISA Pair Set Standard Curve 7099",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "234.38-15000",
+            "Description": "DcR2/TRAIL R4",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "FCAR",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "CD89 Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/cd89-sek10414",
+            "Catalog": "SEK10414",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/CD89.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/CD89.png",
+                    "AltInfo": "Human CD89/FCAR ELISA Pair Set Standard Curve 13835",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "7.81-500",
+            "Description": "CD89",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "CCL20",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "CCL20 Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/ccl20-sek10485",
+            "Catalog": "SEK10485",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/CCL20.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/CCL20.png",
+                    "AltInfo": "Human CCL20 ELISA Pair Set Standard Curve 19002",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "7.81-500",
+            "Description": "CCL20",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "CPA2",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "Carboxypeptidase A2 Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/cpa2-sek10499",
+            "Catalog": "SEK10499",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/CPA2.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/CPA2.png",
+                    "AltInfo": "Human Carboxypeptidase A2/CPA2 ELISA Pair Set Standard Curve 13844",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "12.5-800",
+            "Description": "Carboxypeptidase A2",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "IL15",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "IL-15 Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/il-15-sek10360",
+            "Catalog": "SEK10360",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/IL15.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/IL15.png",
+                    "AltInfo": "Human IL15/IL-15/Interleukin 15 ELISA Pair Set Standard Curve 7098",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "12.5-800",
+            "Description": "IL-15",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "PRLR",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "Prolactin Receptor Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/prolactin-receptor-sek10278",
+            "Catalog": "SEK10278",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/PRLR.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/PRLR.png",
+                    "AltInfo": "Human Prolactin Receptor ELISA Pair Set Standard Curve 13815",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "7.81-500",
+            "Description": "Prolactin Receptor",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "CNTN5",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "CNTN5 Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/cntn5-sek10513",
+            "Catalog": "SEK10513",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/CNTN5.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/CNTN5.png",
+                    "AltInfo": "Human Contactin 5/CNTN5 ELISA Pair Set Standard Curve 13848",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "62.5-4000",
+            "Description": "CNTN5",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "SerpinA3",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "SerpinA3 Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/serpina3-sek10307",
+            "Catalog": "SEK10307",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/SERPINA3.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/SERPINA3.png",
+                    "AltInfo": "Human SerpinA3 ELISA Kit Standard Curve 7060",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "47-3000",
+            "Description": "SerpinA3",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "CST3",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "Cystatin C Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/cystatin-c-sek10439",
+            "Catalog": "SEK10439",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/CST3.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/CST3.png",
+                    "AltInfo": "Human Cystatin C / CST3 ELISA Pair Set Standard Curve 17609",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "7.8-500",
+            "Description": "Cystatin C",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "ECM1",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "ECM1 Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/ecm1-sek10362",
+            "Catalog": "SEK10362",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/ECM1.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/ECM1.png",
+                    "AltInfo": "Human ECM1  ELISA Pair Set Standard Curve 13827",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "39.06-2500",
+            "Description": "ECM1",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "APOA1",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "Apolipoprotein A-I/APOA1 Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/apolipoprotein-a-i-sek10686",
+            "Catalog": "SEK10686",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/APOA1.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/APOA1.png",
+                    "AltInfo": "Human Apolipoprotein A-I/ApoA1 ELISA Kit Standard Curve 7065",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "250-8000",
+            "Description": "Apolipoprotein A-I/APOA1",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "EpCAM",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "EpCAM Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/epcam-sek10694",
+            "Catalog": "SEK10694",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/EpCAM.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/EpCAM.png",
+                    "AltInfo": "Human EpCAM/TROP-1/TACSTD1 ELISA Pair Set Standard Curve 13859",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "15.625-1000",
+            "Description": "EpCAM",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "CD86",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "CD86 Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/cd86-sek10699",
+            "Catalog": "SEK10699",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/B7-2.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/B7-2.png",
+                    "AltInfo": "Human CD86/B7-2 ELISA Pair Set Standard Curve 13861",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "3.13-200",
+            "Description": "CD86",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "CFH",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "Factor H Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/factor-h-sek10714",
+            "Catalog": "SEK10714",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/CFH.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/CFH.png",
+                    "AltInfo": "Human Complement Factor H ELISA Pair Set Standard Curve 13863",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "46.88-3000",
+            "Description": "Factor H",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "PCSK9",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "PCSK9 Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/pcsk9-sek10594",
+            "Catalog": "SEK10594",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/PCSK9.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/PCSK9.png",
+                    "AltInfo": "Human PCSK9 ELISA Pair Set Standard Curve 19584",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "468.75-30000",
+            "Description": "PCSK9",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "CX3CL1",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "Fractalkine Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/fractalkine-sek10636",
+            "Catalog": "SEK10636",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/CX3CL1.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/CX3CL1.png",
+                    "AltInfo": "Human Fractalkine/CX3CL1 ELISA Pair Set Standard Curve 7103",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "9.38-600",
+            "Description": "Fractalkine",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "TNFRSF8",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "CD30/TNFRSF8 Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/cd30-tnfrsf8-sek10777",
+            "Catalog": "SEK10777",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/TNFRSF8.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/TNFRSF8.png",
+                    "AltInfo": "Human CD30/TNFRSF8 ELISA Pair Set Standard Curve 13872",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "23.44-1500",
+            "Description": "CD30/TNFRSF8",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "FGFR2",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "FGFR2 Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/fgfr2-sek10824",
+            "Catalog": "SEK10824",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/FGFR2.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/FGFR2.png",
+                    "AltInfo": "Human FGFR2/CD332 ELISA Pair Set Standard Curve 13880",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "23.44-1500",
+            "Description": "FGFR2",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "TFPI",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "TFPI Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/tfpi-sek10564",
+            "Catalog": "SEK10564",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/TFPI.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/TFPI.png",
+                    "AltInfo": "Human TFPI  ELISA Pair Set Standard Curve 7101",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "46.875-3000",
+            "Description": "TFPI",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "KNG1",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "Kininogen 1 Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/kininogen-1-sek10529",
+            "Catalog": "SEK10529",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/KNG1.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/KNG1.png",
+                    "AltInfo": "Human KNG1/Kininogen 1 ELISA Pair Set Standard Curve 13853",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "31.25-2000",
+            "Description": "Kininogen 1",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "IL17RA",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "IL17RA Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/il17ra-sek10895",
+            "Catalog": "SEK10895",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/IL17RA.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/IL17RA.png",
+                    "AltInfo": "Human IL17RA/IL-17RA/CD217 ELISA Pair Set Standard Curve 13890",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "31.25-2000",
+            "Description": "IL17RA",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "CCL15",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "MIP-5 Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/mip-5-sek10898",
+            "Catalog": "SEK10898",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/CCL15.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/CCL15.png",
+                    "AltInfo": "Human CCL15/MIP-5/MIP-1 delta ELISA Pair Set Standard Curve 18449",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "1.17-75",
+            "Description": "MIP-5",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "LAMP1",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "LAMP1 Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/lamp1-sek11215",
+            "Catalog": "SEK11215",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/LAMP1.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/LAMP1.png",
+                    "AltInfo": "Human LAMP-1/CD107a/LAMP1 ELISA Pair Set Standard Curve 13920",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "15.63-1000",
+            "Description": "LAMP1",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "B4GALT1",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "B4GALT1 Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/b4galt1-sek11220",
+            "Catalog": "SEK11220",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/B4GALT1.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/B4GALT1.png",
+                    "AltInfo": "Human B4GALT1/GGTB2 ELISA Pair Set Standard Curve 13921",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "156.25-10000",
+            "Description": "B4GALT1",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "CD200R1",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 90.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "CD200R Matched ELISA Antibody Pair Set,Cynomolgus",
+            "ProductUrl": "/pair-set/cd200r-sek11232",
+            "Catalog": "SEK11232",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/cyno-CD200R.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/cyno-CD200R.png",
+                    "AltInfo": "Cynomolgus CD200R1 ELISA Pair Set Standard Curve 13924",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "62.5-4000",
+            "Description": "CD200R",
+            "Species": "Cynomolgus",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "gp120",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 90.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set",
+                "HIV",
+                "Group M",
+                " CRF07_BC"
+            ],
+            "ProductName": "Human Immunodeficiency Virus type 1 (HIV-1) gp120 / Glycoprotein 120 ELISA Pair Set",
+            "ProductUrl": "/pair-set/hiv-gp120-sek11233",
+            "Catalog": "SEK11233",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/HIV-GP120.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/HIV-GP120.png",
+                    "AltInfo": "HIV HIV gp120 ELISA Pair Set Standard Curve 13925",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "46.88-3000",
+            "Description": "HIV gp120",
+            "StrainDescription": "Group M, CRF07_BC",
+            "Species": "HIV",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "CD8A",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "CD8 alpha Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/cd8-alpha-sek10980",
+            "Catalog": "SEK10980",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/CD8a.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/CD8a.png",
+                    "AltInfo": "Human CD8/CD8 alpha/Leu-2 ELISA Pair Set Standard Curve 13898",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "78.13-5000",
+            "Description": "CD8 alpha",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        },
+        {
+            "Molecule": "SerpinG1",
+            "Tag": "HRP",
+            "Category": "ELISA",
+            "SubCategory": "ELISA Pairset",
+            "ES_Score": 100.0,
+            "ES_inline_Score": 0.0,
+            "Available": true,
+            "TaxonomicTags": [
+                "ELISA Pair Set"
+            ],
+            "ProductName": "C1 inhibitor Matched ELISA Antibody Pair Set,Human",
+            "ProductUrl": "/pair-set/c1-inhibitor-sek10995",
+            "Catalog": "SEK10995",
+            "Image": [
+                {
+                    "Source": "//cdn1.sinobiological.com/products-img/ELISA kit/SerpinG1.png",
+                    "DisplayImageLink": "//cdn1.sinobiological.com/products-img/ELISA kit/SerpinG1.png",
+                    "AltInfo": "Human C1 inhibitor/SerpinG1 ELISA Pair Set Standard Curve 13901",
+                    "Remark": ""
+                }
+            ],
+            "BioActivityList": [],
+            "AssayRange": "62.5-4000",
+            "Description": "C1 inhibitor",
+            "Species": "Human",
+            "Application": [
+                "ELISA"
+            ]
+        }
+    ],
+    "Count": 411,
+    "ResultPerRequest": 100,
+    "MaxPage": 5
+}

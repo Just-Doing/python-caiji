@@ -35,3 +35,17 @@ def getHtmlFromUrl(url):
 	except:
 		print("重试"+url)
 		getHtmlFromUrl(url)
+
+
+
+def getRenderdHtmlFromUrl1(url):
+	chrome_options = webdriver.ChromeOptions()
+	chrome_options.add_argument('--headless')
+	chrome_options.add_argument('--disable-gpu')
+	chrome_options.add_argument("window-size=1024,768")
+	chrome_options.add_argument('User-Agent=Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36')
+	chrome_options.add_argument("--no-sandbox")
+	browser = webdriver.Chrome(chrome_options=chrome_options)
+	browser.get(url)
+	time.sleep(5)
+	return BeautifulSoup(browser.page_source, "html.parser",from_encoding="utf-8")

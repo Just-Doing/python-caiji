@@ -12,8 +12,20 @@ import json
 import re
 import copy
 import string
+from urllib import urlparse
 
 http.client._MAXHEADERS = 1000
+ 
+def get_filename(url_str):
+    url = urlparse(url_str)
+    i = len(url.path) - 1
+    while i > 0:
+        if url.path[i] == '/':
+            break
+        i = i - 1
+    filename=url.path[i+1:len(url.path)]
+    if not filename.strip():
+        return False
 
 
 def urllib_download(IMAGE_URL, pName):

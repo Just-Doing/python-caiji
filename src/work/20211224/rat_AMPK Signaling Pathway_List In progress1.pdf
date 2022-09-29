@@ -1,0 +1,1523 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/2.3.1/css/flag-icon.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://www.anygenes.com/wp-content/themes/AnyGenes/assets/css/magnific-popup.css">
+    <link rel='shortcut icon' href='https://www.anygenes.com/wp-content/themes/AnyGenes/favicone.ico' type='image/x-icon'>
+
+    <meta name='robots' content='max-image-preview:large' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v15.4 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>AnyGenes - Contact us</title>
+	<meta name="description" content="AnyGenes markets high quality qPCR arrays for signaling pathways. visit AnyGenes services . You can also send us your samples to be processed in our platform as a low-cost effective service, or personalize your own signaling pathways of specific biomarkers" />
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://www.anygenes.com/home/help/contact" />
+	<meta property="og:locale" content="fr_FR" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="AnyGenes - Contact us" />
+	<meta property="og:description" content="AnyGenes markets high quality qPCR arrays for signaling pathways. visit AnyGenes services . You can also send us your samples to be processed in our platform as a low-cost effective service, or personalize your own signaling pathways of specific biomarkers" />
+	<meta property="og:url" content="https://www.anygenes.com/home/help/contact" />
+	<meta property="og:site_name" content="AnyGenes" />
+	<meta property="article:modified_time" content="2021-06-14T11:04:15+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="Écrit par">
+	<meta name="twitter:data1" content="Anygenes">
+	<meta name="twitter:label2" content="Durée de lecture est.">
+	<meta name="twitter:data2" content="0 minute">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.anygenes.com/#website","url":"https://www.anygenes.com/","name":"AnyGenes","description":"signaling pathways and biomarkers profiler","potentialAction":[{"@type":"SearchAction","target":"https://www.anygenes.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"fr-FR"},{"@type":"WebPage","@id":"https://www.anygenes.com/home/help/contact#webpage","url":"https://www.anygenes.com/home/help/contact","name":"AnyGenes - Contact us","isPartOf":{"@id":"https://www.anygenes.com/#website"},"datePublished":"2020-10-27T22:52:52+00:00","dateModified":"2021-06-14T11:04:15+00:00","description":"AnyGenes markets high quality qPCR arrays for signaling pathways. visit AnyGenes services . You can also send us your samples to be processed in our platform as a low-cost effective service, or personalize your own signaling pathways of specific biomarkers","inLanguage":"fr-FR","potentialAction":[{"@type":"ReadAction","target":["https://www.anygenes.com/home/help/contact"]}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.anygenes.com' />
+<link rel='dns-prefetch' href='//code.jquery.com' />
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel='dns-prefetch' href='//stackpath.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.anygenes.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7.4"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.anygenes.com/wp-includes/css/dist/block-library/style.min.css?ver=5.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='image-hover-effects-css-css'  href='https://www.anygenes.com/wp-content/plugins/mega-addons-for-visual-composer/css/ihover.css?ver=5.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css-css'  href='https://www.anygenes.com/wp-content/plugins/mega-addons-for-visual-composer/css/style.css?ver=5.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-latest-css'  href='https://www.anygenes.com/wp-content/plugins/mega-addons-for-visual-composer/css/font-awesome/css/all.css?ver=5.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='miniorange-api-authentication-css'  href='https://www.anygenes.com/wp-content/plugins/wp-rest-api-authentication/public/css/miniorange-api-authentication-public.css?ver=1.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='xoo-el-style-css'  href='https://www.anygenes.com/wp-content/plugins/easy-login-woocommerce/assets/css/xoo-el-style.css?ver=2.1' type='text/css' media='all' />
+<style id='xoo-el-style-inline-css' type='text/css'>
+
+	.xoo-el-form-container button.btn.button.xoo-el-action-btn{
+		background-color: #000000;
+		color: #ffffff;
+		font-weight: 600;
+		font-size: 15px;
+		height: 40px;
+	}
+
+.xoo-el-inmodal{
+	max-width: 800px;
+	max-height: 600px;
+}
+.xoo-el-sidebar{
+	background-image: url(https://signaling-pathways.anygenes.com/wp-content/plugins/easy-login-woocommerce/assets/images/popup-sidebar.jpg);
+	min-width: 40%;
+}
+.xoo-el-main, .xoo-el-main a , .xoo-el-main label{
+	color: #000000;
+}
+.xoo-el-srcont{
+	background-color: #ffffff;
+}
+.xoo-el-form-container ul.xoo-el-tabs li.xoo-el-active {
+	background-color: #000000;
+	color: #ffffff;
+}
+.xoo-el-form-container ul.xoo-el-tabs li{
+	background-color: #eeeeee;
+	color: #000000;
+}
+.xoo-el-main{
+	padding: 40px 30px;
+}
+
+.xoo-el-form-container button.xoo-el-action-btn:not(.button){
+    font-weight: 600;
+    font-size: 15px;
+}
+
+
+
+	.xoo-el-modal:before {
+	    content: '';
+	    display: inline-block;
+	    height: 100%;
+	    vertical-align: middle;
+	    margin-right: -0.25em;
+	}
+
+
+
+
+</style>
+<link rel='stylesheet' id='xoo-el-fonts-css'  href='https://www.anygenes.com/wp-content/plugins/easy-login-woocommerce/assets/css/xoo-el-fonts.css?ver=2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='xoo-aff-style-css'  href='https://www.anygenes.com/wp-content/plugins/easy-login-woocommerce/xoo-form-fields-fw/assets/css/xoo-aff-style.css?ver=1.1' type='text/css' media='all' />
+<style id='xoo-aff-style-inline-css' type='text/css'>
+
+.xoo-aff-input-group .xoo-aff-input-icon{
+	background-color:  #eee;
+	color:  #555;
+	max-width: 40px;
+	min-width: 40px;
+	border: 1px solid  #ccc;
+	border-right: 0;
+	font-size: 14px;
+}
+.xoo-aff-group{
+	margin-bottom: 30px;
+}
+
+.xoo-aff-group input[type="text"], .xoo-aff-group input[type="password"], .xoo-aff-group input[type="email"], .xoo-aff-group input[type="number"], .xoo-aff-group select, .xoo-aff-group select + .select2{
+	background-color: #fff;
+	color: #777;
+}
+
+.xoo-aff-group input[type="text"]::placeholder, .xoo-aff-group input[type="password"]::placeholder, .xoo-aff-group input[type="email"]::placeholder, .xoo-aff-group input[type="number"]::placeholder, .xoo-aff-group select::placeholder{
+	color: #777;
+	opacity: 0.7;
+}
+
+.xoo-aff-group input[type="text"]:focus, .xoo-aff-group input[type="password"]:focus, .xoo-aff-group input[type="email"]:focus, .xoo-aff-group input[type="number"]:focus, .xoo-aff-group select:focus, .xoo-aff-group select + .select2:focus{
+	background-color: #ededed;
+	color: #000;
+}
+
+
+
+	.xoo-aff-group input[type="text"], .xoo-aff-group input[type="password"], .xoo-aff-group input[type="email"], .xoo-aff-group input[type="number"], .xoo-aff-group select{
+		border-bottom-left-radius: 0;
+		border-top-left-radius: 0;
+	}
+
+
+</style>
+<link rel='stylesheet' id='xoo-aff-font-awesome5-css'  href='https://use.fontawesome.com/releases/v5.5.0/css/all.css?ver=5.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='select2-css'  href='https://cdn.jsdelivr.net/npm/select2@4.1.0-beta.1/dist/css/select2.min.css?ver=5.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='https://www.anygenes.com/wp-content/themes/AnyGenes/assets/css/bootstrap.min.css?ver=5.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='flag-icon-css'  href='https://www.anygenes.com/wp-content/themes/AnyGenes/assets/css/flag-icon.css?ver=5.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-css'  href='//code.jquery.com/ui/1.12.1/themes/smoothness/jquery-ui.css?ver=5.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='strangerwp-parent-style-css'  href='https://www.anygenes.com/wp-content/themes/AnyGenes/style.css?ver=7351' type='text/css' media='all' />
+<link rel='stylesheet' id='strangerwp-child-style-css'  href='https://www.anygenes.com/wp-content/themes/AnyGenes/style.css?ver=4999' type='text/css' media='all' />
+<link rel='stylesheet' id='owl.carousel-css-css'  href='https://www.anygenes.com/wp-content/themes/AnyGenes/assets/css/owl.carousel.css?ver=5.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-official-css'  href='https://use.fontawesome.com/releases/v5.15.1/css/all.css' type='text/css' media='all' integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous" />
+<link rel='stylesheet' id='vcv:assets:front:style-css'  href='https://www.anygenes.com/wp-content/plugins/visualcomposer/public/dist/front.bundle.css?ver=27.1' type='text/css' media='all' />
+<style id='vcv-globalElementsCss-inline-css' type='text/css'>
+div.divtool{border:1px solid #d3d3d3;margin:4px;min-width:35%;min-height:145px;font-size:12pt;font-weight:400;padding-top:8px;padding-bottom:8px;padding-left:26px;background:#eaf0fb;color:#039;border-radius:5px;font-family:Calibri;font-size:12pt;margin:10px 0 10px 15px;text-align:left;border-collapse:collapse}div.divtool a{font-size:12pt;color:#906;font-weight:700;text-decoration:none}.infox{font-size:12pt}.OK{color:green}.fix-width{max-width:375px!important;text-align:center!important}.KO{color:red}td{font-size:10pt!important}.th-price{font-size:10pt!important}.NEW{-webkit-animation:flash linear .8s infinite;animation:flash linear .8s infinite;padding-left:5%;color:red;font-size:15px;font-style:italic;font-weight:700}@-webkit-keyframes flash{0%{opacity:.0001}50%{opacity:.1}100%{opacity:1}}@keyframes flash{0%{opacity:.0001}50%{opacity:.1}100%{opacity:1}}.y{color:#0070c0}.deux{color:red}.pz{color:#8064a2}.z{color:#00b050}.width-image-description{max-width:375px!important}.he{color:#00b050}.height-table{color:#fff!important;font-weight:700;padding:0;line-height:14px;font-size:11px!important}
+</style>
+<link rel='stylesheet' id='vcv:assets:source:main:styles:assets-bundlesadcab616da69249b3832aa619139c86fsourcecss-css'  href='https://www.anygenes.com/wp-content/uploads/visualcomposer-assets/assets-bundles/adcab616da69249b3832aa619139c86f.source.css?ver=27.1.adcab616da69249b3832aa619139c86f-1082' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-official-v4shim-css'  href='https://use.fontawesome.com/releases/v5.15.1/css/v4-shims.css' type='text/css' media='all' integrity="sha384-WCuYjm/u5NsK4s/NfnJeHuMj6zzN2HFyjhBu/SnZJj7eZ6+ds4zqIM3wYgL59Clf" crossorigin="anonymous" />
+<style id='font-awesome-official-v4shim-inline-css' type='text/css'>
+@font-face {
+font-family: "FontAwesome";
+src: url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-brands-400.eot"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-brands-400.eot?#iefix") format("embedded-opentype"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-brands-400.woff2") format("woff2"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-brands-400.woff") format("woff"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-brands-400.ttf") format("truetype"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-brands-400.svg#fontawesome") format("svg");
+}
+
+@font-face {
+font-family: "FontAwesome";
+src: url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-solid-900.eot"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-solid-900.eot?#iefix") format("embedded-opentype"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-solid-900.woff2") format("woff2"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-solid-900.woff") format("woff"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-solid-900.ttf") format("truetype"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-solid-900.svg#fontawesome") format("svg");
+}
+
+@font-face {
+font-family: "FontAwesome";
+src: url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-regular-400.eot"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-regular-400.eot?#iefix") format("embedded-opentype"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-regular-400.woff2") format("woff2"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-regular-400.woff") format("woff"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-regular-400.ttf") format("truetype"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-regular-400.svg#fontawesome") format("svg");
+unicode-range: U+F004-F005,U+F007,U+F017,U+F022,U+F024,U+F02E,U+F03E,U+F044,U+F057-F059,U+F06E,U+F070,U+F075,U+F07B-F07C,U+F080,U+F086,U+F089,U+F094,U+F09D,U+F0A0,U+F0A4-F0A7,U+F0C5,U+F0C7-F0C8,U+F0E0,U+F0EB,U+F0F3,U+F0F8,U+F0FE,U+F111,U+F118-F11A,U+F11C,U+F133,U+F144,U+F146,U+F14A,U+F14D-F14E,U+F150-F152,U+F15B-F15C,U+F164-F165,U+F185-F186,U+F191-F192,U+F1AD,U+F1C1-F1C9,U+F1CD,U+F1D8,U+F1E3,U+F1EA,U+F1F6,U+F1F9,U+F20A,U+F247-F249,U+F24D,U+F254-F25B,U+F25D,U+F267,U+F271-F274,U+F279,U+F28B,U+F28D,U+F2B5-F2B6,U+F2B9,U+F2BB,U+F2BD,U+F2C1-F2C2,U+F2D0,U+F2D2,U+F2DC,U+F2ED,U+F328,U+F358-F35B,U+F3A5,U+F3D1,U+F410,U+F4AD;
+}
+</style>
+<!--n2css--><script type='text/javascript' src='//code.jquery.com/jquery-1.12.4.js?ver=5.7.4' id='jquery-js'></script>
+<script type='text/javascript' src='https://www.anygenes.com/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://www.anygenes.com/wp-content/plugins/mega-addons-for-visual-composer/js/script.js?ver=5.7.4' id='front-js-na-js'></script>
+<script type='text/javascript' src='https://www.anygenes.com/wp-content/plugins/wp-rest-api-authentication/public/js/miniorange-api-authentication-public.js?ver=1.4.1' id='miniorange-api-authentication-js'></script>
+<script type='text/javascript' src='//code.jquery.com/ui/1.12.1/jquery-ui.js?ver=1' id='jquery-ui-js'></script>
+<script type='text/javascript' src='https://www.anygenes.com/wp-content/themes/AnyGenes/assets/js/owl.carousel.min.js?ver=5.7.4' id='owl-carousel-js-js'></script>
+<script type='text/javascript' src='https://www.googletagmanager.com/gtag/js?id=UA-29992787-1' id='google_gtagjs-js' async></script>
+<script type='text/javascript' id='google_gtagjs-js-after'>
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag('set', 'linker', {"domains":["www.anygenes.com"]} );
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "UA-29992787-1", {"anonymize_ip":true});
+</script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.anygenes.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.anygenes.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.7.4" />
+<link rel='shortlink' href='https://www.anygenes.com/?p=1082' />
+<link rel="alternate" type="application/json+oembed" href="https://www.anygenes.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.anygenes.com%2Fhome%2Fhelp%2Fcontact" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.anygenes.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.anygenes.com%2Fhome%2Fhelp%2Fcontact&#038;format=xml" />
+<meta name="generator" content="Site Kit by Google 1.35.0" /><meta name="generator" content="Powered by Visual Composer Website Builder - fast and easy to use drag and drop builder for experts and beginners."/>		<style type="text/css" id="wp-custom-css">
+			.titreH1{
+	color: rgb(31,73,125);
+    padding-left: 15px;
+	font-size: 18px;
+    line-height: 30px;
+    font-weight: bold;
+}
+
+
+
+.height-table
+    {
+        height: 120px;
+        border: 5px  solid #dae7f1;
+        
+        text-align: center;               
+        vertical-align: middle;
+        display: flex; /* contexte sur le parent */
+        flex-direction: column; /* direction d'affichage verticale */
+        justify-content: center;
+        color: white;
+        font-weight: bold;
+        padding: 0px;
+        line-height: 14px;
+        font-size: 13px;
+        
+
+                
+      } 
+
+.tablepress-id-1 .column-1 .column-2{
+	text-align:center;
+}		</style>
+		    <style type="text/css">
+       
+        li>ul>li>ul {
+            position: sticky;
+            margin-left: 100%;
+            margin-top: -40px;
+            left: 100%;
+        }
+
+        .dropdown-menu {
+            background-color: #AA6F95;
+            color: white;
+        }
+
+        .dropdown-menu>li>a {
+            color: white;
+        }
+
+        .dropdown:hover>.dropdown-menu {
+            display: block;
+        }
+
+        li.menu-item>a.nav-link {
+            padding-left: 10px;
+            margin-left: 10px;
+            color: white !important;
+            font-size: 15px;
+            font-weight: bold;
+        }
+
+        ul>li.menu-item>a.nav-link {
+            font-size: 15px;
+        }
+
+        @media only screen and (max-width: 768px) {
+            .dropdown-menu {
+                color: red;
+                position: absolute;
+                padding-left: 10px;
+                display: block;
+
+            }
+
+            .nav-link {
+                padding-left: 20px;
+                margin-left: 20px;
+            }
+
+        }
+
+        .popup-triggerr {
+            display: block;
+            margin: 0 auto;
+            padding: 20px;
+            max-width: 260px;
+            background: #4EBD79;
+            color: #fff;
+            font-size: 18px;
+            font-weight: 700;
+            text-align: center;
+            text-transform: uppercase;
+            line-height: 24px;
+            cursor: pointer;
+        }
+
+        .popup {
+            display: none;
+            position: absolute;
+            top: 250px;
+            left: 50%;
+            width: 700px;
+            margin-left: -350px;
+            padding: 50px 30px;
+            background: #fff;
+            color: #333;
+            font-size: 19px;
+            line-height: 30px;
+            border: 10px solid #aa6f95;
+            z-index: 9999;
+        }
+
+        .popup-mobile {
+            position: relative;
+            top: 0;
+            left: 0;
+            margin: 30px 0 0;
+            width: 100%;
+        }
+
+        .popup-btn-close {
+            position: absolute;
+            top: 8px;
+            right: 14px;
+            color: #00000;
+            font-size: 14px;
+            font-weight: bold;
+            text-transform: uppercase;
+            cursor: pointer;
+        }
+
+        .fa {
+            padding: 10px;
+            font-size: 20px;
+            width: 25px;
+            text-align: center;
+            text-decoration: none;
+            margin: 0;
+            padding: 2px;
+            border-radius: 50%;
+        }
+
+        .fa:hover {
+            opacity: 0.7;
+        }
+
+        .fa-facebook {
+            background: #3B5998;
+            color: white;
+        }
+
+        .fa-twitter {
+            background: #55ACEE;
+            color: white;
+        }
+
+        .fa-sign-in {
+            background: green;
+            color: white;
+        }
+
+        .fa-sign-out {
+            background: #e4e4e4;
+            color: #ff1000;
+        }
+
+        .fa-linkedin {
+            background: #007bb5;
+            color: white;
+        }
+
+        .white-popup img {
+            width: 80px;
+            height: 80px;
+            margin-top: -80px;
+            text-align: center;
+            background-color: #e6e6fa;
+            border-radius: 90px;
+        }
+
+        .hinge {
+            animation-duration: 1s;
+            animation-name: hinge;
+        }
+
+        .buttonLogin {
+            background-color: #92278f;
+            /* Green */
+            border: none;
+            color: white;
+            padding: 8px 8px;
+            text-align: center;
+            border-radius: 8px;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 14px;
+            margin: 4px 2px;
+
+            cursor: pointer;
+        }
+
+        .buttonLogin:hover,
+        .buttonLogin:focus {
+            background-color: #b334af;
+            color: white;
+            text-decoration: none;
+            cursor: pointer;
+            font-size: 15px;
+        }
+
+        .home {
+            font-size: 15px;
+            font-weight: bold;
+        }
+
+        .list-inline {
+            margin-bottom: -21px !important;
+        }
+.divResults {
+      display: none;
+      margin-top: 50px;
+      position: absolute;
+      background-color: #f6f6f6;
+      width: 400px;
+      overflow-y: scroll;
+      height: 300px;
+      border: 1px solid #ddd;
+      z-index: 444444;
+    }
+
+    .divResults a {
+      color: black;
+      padding: 12px 16px;
+      text-decoration: none;
+      display: block;
+      text-align: left;
+    }
+
+    .divResults a:hover {
+       background-color: #ddd;
+     }
+        /*-------------------------------*/
+        @import "compass/css3";
+    </style>
+</head>
+
+<body data-rsssl=1>
+
+    <div class="col-1-3 links" style="margin-left: 78%;  margin-top: 0%;margin-bottom:-5px;position: relative;">
+        <ul id="inline-popup" class="list-inline top-social wrap-top">
+            <li style="margin-top: 3px;">
+                <iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.anygenes.com&width=1000&layout=button&action=like&size=small&show_faces=true&share=true&height=20&appId" width="140" height="20" style="border:none;overflow:hidden;" data-adapt-container-width="true" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" data-show-facepile="false"></iframe>
+            </li>
+            <li><a class="masterTooltip" title="Facebook" href="https://www.facebook.com/AnyGenes-1067086253429722/" target="_new"><i class="fa fa-facebook"></i></a>
+            </li>
+            <li><a class="masterTooltip" title="LinkedIn" href="https://www.linkedin.com/company/anygenes/" target="_new"><i class="fa fa-linkedin"></i></a></li>
+            <li><a class="masterTooltip" title="Twitter" href="https://twitter.com/anygenes" target="_new"><i class="fa fa-twitter"></i></a></li>
+            <li class="login"><a data-target="#login-popup" type="button" data-toggle="modal" title="Log in" onclick="clearPopUp()"><i class="fa fa-sign-in"></i></a></li>
+        </ul>
+    </div>
+ 
+
+    <!-- Modal -->
+    <div class="modal fade mt-6" id="logout-popup" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content" style="background-color: #aa6f95; margin-top: 30%;">
+                <center>
+                    <div style="width: 80px; height: 80px; border-radius:50%;background-color:#e6e6fa; margin-top:-38px">
+                        <img width="80" height="80" src="https://www.anygenes.com/wp-content/uploads/2020/05/user.png" alt="user">
+                    </div>
+                </center>
+                <div class="text-center text-white">
+                    <div>
+                        <p class="modal-title" id="exampleModalLabel">Logout</p>
+                    </div>
+                </div>
+                <div class="modal-body">
+                    <div class="text-white">
+                        <span> If you want to log out click in LogOut </span>
+                    </div>
+                </div>
+
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <button type="submit" class="btn btn-primary" class="logout" onclick="logout()" style="background-color: #92278f;">Logout</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Modal -->
+    <div class="modal fade mt-6" id="login-popup" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content" style="background-color: #aa6f95; margin-top: 30%;">
+                <center>
+                    <div style="width: 80px; height: 80px; border-radius:50%;background-color:#e6e6fa; margin-top:-38px">
+                        <img width="80" height="80" src="https://www.anygenes.com/wp-content/uploads/2020/05/user.png" alt="user">
+                    </div>
+                </center>
+                <div class="text-center text-white">
+                    <div>
+                        <p class="modal-title" id="exampleModalLabel">Login</p>
+                    </div>
+                </div>
+                <div class="modal-body">
+                    <label for="Email" class="text-white"> Email</label>
+                    <input type="mail" id="login" name="login" id="Email" placeholder="Enter Email" class="form-control form-control-sm">
+
+                    <label for="Password" class="text-white pt-3"> Password</label>
+                    <input type="password" id="pwd" name="pwd" placeholder="Enter Password" id="Password" class="form-control form-control-sm">
+                </div>
+                <input type="hidden" id="ANGXP" name="ANGXP" class="rounded" value="OWY4NmQwODE4ODRjN2Q2NTlhMmZlYWEwYzU1YWQwMTVhM2Jm" />
+                <span class="error" style="color: red;"></span>
+                <span class="valid" style="color: green;"></span>
+                <div id="message">
+
+                </div>
+
+                <div class="modal-footer">
+                    <a href="https://www.anygenes.com/home/register" target="_new" style="padding-right: 200px;">Create account</a>
+                    <button type="button" class="btn btn-secondary btn-sm" data-dismiss="modal">Close</button>
+                    <button type="submit" id="submit" class="btn btn-primary btn-sm" style="background-color: #92278f;" onclick="login()">Login</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script type=text/javascript> 
+                    $(document).ready(function(){
+                    $('.login a i').removeClass('fa fa-sign-out');
+                    $('.login a i').addClass('fa fa-sign-in');
+                    $('.login a').attr('title','Log in');
+                    });
+                    </script>
+    <!-- Popup itself -->
+    <div id="test-popupProfile" class="white-popup mfp-with-anim mfp-hide">
+        <div style="display:block;border-color:steelblue;border:1px;border-radius:5px;width:60%;background-color:#AA6F95 ;margin-left:20%;margin-top:10px;">
+            <div>
+                <span>hi </span>
+                <a style="color:#000;font-size:11pt;font:FontAwesome" href="https://www.anygenes.com/index.php"> continue visiting your profile </a>
+
+            </div>
+        </div>
+    </div>
+
+    <!-- Popup itself -->
+    <div id="login-popup" class="white-popup mfp-with-anim mfp-hide">
+        <center>
+            <img src="https://www.anygenes.com/wp-content/uploads/2020/05/user.png" alt="user">
+        </center>
+        <div class="login" style="border-color:steelblue;border:1px;border-radius:5px;background-color:#AA6F95 ;">
+            <form action="https://www.anygenes.com/login.php" method="POST">
+                <div class="form-group">
+                    <center>
+                        <p style="color:#000;font-size:14pt;font-weight:bold; ">Login</p>
+                    </center>
+                    <span style="color:#fff;font-size:12pt;font-weight:bold; ">Email</span>
+                    <div style="display:flex;">
+                        <input id="email" placeholder="Enter Email" name="login" type="text" class="form-control" style=" background-color: #eaeafb;" required>
+                    </div>
+                    <br>
+                    <span style="color:#fff;font-size:12pt;font-weight:bold;">Password</span>
+                    <div style="display:flex;">
+                        <input id="password" name="pwd" type="password" class="form-control" placeholder="Enter Password" style=" background-color: #eaeafb;" required>
+                    </div>
+                    <!-- <input type="hidden" name="vider" class="rounded" value="vider" /> -->
+                </div>
+                <center>
+                    <input id="register" name="register" class="buttonLogin " type="submit" value="Login"><br />
+                </center>
+                <a href="https://www.anygenes.com/register.php" class="createAccount">Create account</a><br />
+                <a href="#" class="createAccount">Forget password</a>
+            </form>
+        </div>
+
+        <div class="register" style="display:none;border-color:steelblue;border:1px;border-radius:5px;width:60%;background-color:#AA6F95 ;margin-left:20%;margin-top:20px;">
+            <div>
+                <form name="frmReset" id="frmReset" method="post" action="sendResetPassword.php">
+                    <span style="font-weight: bold;">Reset Password</span><br>
+                    <div class="field-group">
+                        <span style="font-weight: bold; font-size: 20px;">you forgot your password?</span><br /><br />
+                        <p>Please enter your email address that you have used during registration:</p>
+                        <div><label for="emailReset">Email</label></div>
+                        <div><input type="text" name="emailReset" id="emailReset" placeholder="enter your e-mail" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$" class="input-field form-control" title="Enter your e-mail adress and we will send you a link to reset your password" required></div>
+                    </div>
+
+
+                    <div class="field-group">
+                        <div><input type="submit" name="reset" id="reset" value="Reset password" class="btn btn-default"></div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <!-- Popup itself -->
+    <div id="test-popupLogout" class="white-popup mfp-with-anim mfp-hide">
+        <div style="display:block;border-color:steelblue;border:1px;border-radius:5px;width:60%;background-color:#AA6F95 ;margin-left:20%;margin-top:20px;">
+            <div>
+                <a class="wantToLogout" style="color:#fff;font-size:13pt;" href="#">do you want to Log Out ?</a>
+                <div class="continueLogOut" style="display:none;">
+                    <a style="color:#fff;font-size:11pt;" href="https://www.anygenes.com/logout.php">Continue Log out</a>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+
+
+    <div class="text-center"><img src="https://www.anygenes.com/wp-content/uploads/2021/09/cropped-Logo-web-e1631810734194-1.jpg" alt="AnyGenes "></div><!-- search -->
+  <!-- div style="max-width:400px; margin-left: calc(50% - 192px);margin-bottom: -2px;margin-top: 6px; display:flex;">
+          <form class="form-inline md-form form-sm mt-0" style="width: 100%;">
+              <div style="display: flex;">
+                  <input style="width:280pt; margin-bottom: 16px; font-weight:bolder; list-style-type: none; font-size:18px;" class="form-control form-control-sm" type="search" id="search" placeholder="Search" aria-label="Search">  <i style="padding-top: 10px; margin-left: 2px;" class="fa fa-search"></i>
+                  </div>                 
+          </form>
+          <div id="display" class="divResults">
+      </div>
+
+              
+                  </div-->
+<!-- fin search -->
+
+<!-- les icones de panier et contact us ont été ajoutés par Imrane -->
+<div class="" style="margin-left: 90%;  margin-top: -2%;margin-bottom:20px;position: relative;">  
+<ul class="list-inline top-social">
+
+  <li><a title="shopping cart" href="https://www.anygenes.com/home/panier"><img
+                          style="width:35px;height:35px;" src="https://www.anygenes.com/wp-content/uploads/2020/05/logoKART.png"
+                          alt="shoping"></a></li>
+
+            
+              <li><a title="Contact" href="https://www.anygenes.com/home/help/contact#contact_us"><img
+                          style="width:35px;height:35px;" src="https://www.anygenes.com/wp-content/uploads/2020/05/logoEmail.png"
+                          alt="email login"></a></li>
+  </ul>
+</div>
+  
+
+<!-- -->
+
+    <script type="text/javascript">
+        jQuery(function($) {
+            if ($(window).width() > 769) {
+                $('.navbar .dropdown').hover(function() {
+                    $(this).find('.dropdown-menu').first().stop(true, true).delay(250).slideDown();
+
+                }, function() {
+                    $(this).find('.dropdown-menu').first().stop(true, true).delay(100).slideUp();
+
+                });
+
+                $('.navbar .dropdown > a').click(function() {
+                    location.href = this.href;
+                });
+
+            }
+        });
+    </script>
+
+    <nav class="navbar navbar-expand-md navbar-light bg-anygenes navbar navbar-dark" role="navigation">
+        <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-controls="bs-example-navbar-collapse-1" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+                        <a class="navbar-brand home" href="/">HOME</a>
+            <div id="bs-example-navbar-collapse-1" class="collapse navbar-collapse"><ul id="menu-menu-1" class="nav navbar-nav active"><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-970" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-970 nav-item"><a title="PRODUCTS" href="https://www.anygenes.com/home/products" class="nav-link">PRODUCTS</a>
+<ul class="dropdown-menu"  role="menu">
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-973" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-973 nav-item"><a title="Signaling Pathways" href="https://www.anygenes.com/home/products/signaling-pathways" class="dropdown-item">Signaling Pathways</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-971" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-971 nav-item"><a title="LncRNA qPCR Assays" href="https://www.anygenes.com/home/products/lncrna-qpcr-assays" class="dropdown-item">LncRNA qPCR Assays</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-977 nav-item"><a title="qPCR Master Mixes" href="https://www.anygenes.com/home/products/qpcr-master-mixes" class="dropdown-item">qPCR Master Mixes</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-976" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-976 nav-item"><a title="Validated Primer Sets" href="https://www.anygenes.com/home/products/validated-primer-sets" class="dropdown-item">Validated Primer Sets</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1088" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1088 nav-item"><a title="Single Cell Profiling" href="https://www.anygenes.com/home/products/single-cell-profiling" class="dropdown-item">Single Cell Profiling</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-975" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-975 nav-item"><a title="StaRT Reverse Transcription Kits" href="https://www.anygenes.com/home/products/start-reverse-transcritpion-kits" class="dropdown-item">StaRT Reverse Transcription Kits</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-972" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-972 nav-item"><a title="Microbiota Assays" href="https://www.anygenes.com/home/products/microbiota-assays" class="dropdown-item">Microbiota Assays</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1273" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1273 nav-item"><a title="Mycoplasma Detection Assays MycoDiag" href="https://www.anygenes.com/home/products/mycoplasma-detection-assays-mycodiag" class="dropdown-item">Mycoplasma Detection Assays MycoDiag</a></li>
+</ul>
+</li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-961" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-961 nav-item"><a title="BIOMARKER SERVICES" href="https://www.anygenes.com/home/biomarker-services" class="nav-link">BIOMARKER SERVICES</a>
+<ul class="dropdown-menu"  role="menu">
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-962" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-962 nav-item"><a title="In Vitro Drug Development" href="https://www.anygenes.com/home/biomarker-services/in-vitro-drug-development" class="dropdown-item">In Vitro Drug Development</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-963" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-963 nav-item"><a title="Histoculture Drug Response Assays" href="https://www.anygenes.com/home/biomarker-services/histoculture-drug-response-assays" class="dropdown-item">Histoculture Drug Response Assays</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-964" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-964 nav-item"><a title="Biomarkers Identification &#038; Validation" href="https://www.anygenes.com/home/biomarker-services/biomarkers-identification-validation" class="dropdown-item">Biomarkers Identification &#038; Validation</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-965" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-965 nav-item"><a title="Methylation Studies" href="https://www.anygenes.com/home/biomarker-services/methylation-studies" class="dropdown-item">Methylation Studies</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-966" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-966 nav-item"><a title="Hight Throughput Data Analysis" href="https://www.anygenes.com/home/biomarker-services/hight-throughput-data-analysis" class="dropdown-item">Hight Throughput Data Analysis</a></li>
+</ul>
+</li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-969" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-969 nav-item"><a title="MOLECULAR DIAGNOSIS" href="https://www.anygenes.com/home/molecular-diagnosis" class="nav-link">MOLECULAR DIAGNOSIS</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-978" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-978 nav-item"><a title="RESOURCES" href="https://www.anygenes.com/home/resources" class="nav-link">RESOURCES</a>
+<ul class="dropdown-menu"  role="menu">
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1070" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1070 nav-item"><a title="Data Analysis Tools" href="https://www.anygenes.com/home/resources/data-analysis-tools" class="dropdown-item">Data Analysis Tools</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1069" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1069 nav-item"><a title="Operating Protocols" href="https://www.anygenes.com/home/resources/operating-protocols" class="dropdown-item">Operating Protocols</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1073" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1073 nav-item"><a title="Flyers and Posters" href="https://www.anygenes.com/home/resources/flyers-posters" class="dropdown-item">Flyers and Posters</a></li>
+</ul>
+</li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-967" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-967 nav-item"><a title="BLOG" href="https://www.anygenes.com/home/blog" class="nav-link">BLOG</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-960" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-960 nav-item"><a title="ABOUT" href="https://www.anygenes.com/home/about" class="nav-link">ABOUT</a>
+<ul class="dropdown-menu"  role="menu">
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1079" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1079 nav-item"><a title="About AnyGenes®" href="https://www.anygenes.com/home/about/about-anygenes" class="dropdown-item">About AnyGenes®</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1078" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1078 nav-item"><a title="Distributors" href="https://www.anygenes.com/home/about/distributors" class="dropdown-item">Distributors</a></li>
+</ul>
+</li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-968" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children dropdown active menu-item-968 nav-item"><a title="HELP" href="https://www.anygenes.com/home/help" class="nav-link">HELP</a>
+<ul class="dropdown-menu"  role="menu">
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1085" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1085 nav-item"><a title="FAQ" href="https://www.anygenes.com/home/help/faq" class="dropdown-item">FAQ</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1084" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1082 current_page_item active menu-item-1084 nav-item"><a title="Contact us" href="https://www.anygenes.com/home/help/contact" class="dropdown-item" aria-current="page">Contact us</a></li>
+</ul>
+</li>
+</ul></div>
+            <div style="margin-right: 12px;">
+                <ul class="nav navbar-nav">
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-1691 nav-item">
+                        <a class="nav-link">
+                            <span class="flag-icon-gb flag-icon" style="padding-right: 10px;"></span><span> EN</span>
+                        </a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li class="choix1" value="en"><a class="dropdown-item"><span class="flag-icon-gb flag-icon" style="margin-right: 10px; margin-left: -10px;"></span>EN</a></li>
+                            <li class="choix1" value="fr"><a class="dropdown-item"><span class="flag-icon-fr flag-icon" style="margin-right: 10px; margin-left: -10px;"></span>FR</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+
+
+        </div>
+    </nav>
+
+    
+    <script type="text/javascript">
+        $("#login").keyup(function(event) {
+            if (event.keyCode === 13) {
+                $("#submit").click();
+            }
+        });
+
+        $("#pwd").keyup(function(event) {
+            if (event.keyCode === 13) {
+                $("#submit").click();
+            }
+        });
+
+
+
+        function clearPopUp() {
+            var element = document.getElementById("message");
+            element.innerHTML = '';
+        }
+
+        function login() {
+            const uniqid = document.getElementById('ANGXP').value;
+            const login = document.getElementById('login').value;
+            const pwd = document.getElementById('pwd').value;
+            $.ajax({
+                url: `https://www.anygenes.com/login.php`,
+                type: 'POST',
+                data: {
+                    uniqid,
+                    login,
+                    pwd
+                },
+                success: function(data) {
+
+                    var element = document.getElementById("message");
+                    element.innerHTML = data;
+                },
+                error: function() {}
+            });
+        }
+
+        function logout() {
+            const uniqid = document.getElementById('ANGXP').value;
+            $.ajax({
+                url: `https://www.anygenes.com/logout.php`,
+                type: 'POST',
+                data: {
+                    uniqid
+                },
+                success: function(data) {
+                    window.location.href = data;
+                },
+                error: function() {}
+            });
+        }
+
+        // $(document).on('click', '.logout', function() {
+
+        // })
+
+        $(document).on('click', '.choix1', function() {
+            const selection = $(this).attr('value');
+            const cheminComplet = document.location.href;
+            const NomDuFichier = cheminComplet.substring(cheminComplet.lastIndexOf("/") + 1);
+            let data = {
+                selection,
+                CheminComplet: cheminComplet,
+                NomDuFichier
+            };
+            data = JSON.stringify(data);
+
+            $.ajax({
+                url: `https://www.anygenes.com/service-globale/verifierLang.php`,
+                type: 'POST',
+                data: {
+                    selection,
+                    cheminComplet
+                },
+                success: function(data) {
+                    window.location.href = data;
+                },
+                error: function() {}
+            });
+
+        });
+    </script>
+
+     <!-- traitement des information de la bar de recherche  -->
+    <script type="text/javascript">
+          //on va utiliser AJAX jQUERY
+          $(document).ready(function() {
+            $('#search').blur(function(){
+                // $('#display').css('display', 'none');
+            });
+
+              // Partie de recherche
+              $('#search').keyup(function() {
+                  var geneSymbole = $('#search').val();
+
+                  if (geneSymbole == '') {
+                      $('#display').html('');
+                      $('#display').css('display', 'none');
+
+                  } else {
+                      // ici on fait appelle au service pour récupérer les données demandées selon la recherche
+                      $.ajax({
+                          url: "https://www.anygenes.com/search1.php",
+                         data: {
+                              search: geneSymbole
+                          },
+                          processData: true,
+                          type: 'POST',
+                         
+                          success: function(data) {
+
+                              $("#display").html(data).show();
+                          },
+                          error: function() {
+                              console.log('Test ', geneSymbole);
+                          }
+                      });
+
+                  }
+              })
+          });
+          </script>
+ 
+             <div class="container-fluid">
+            <div class="row">
+                                    <div class="col-sm-12 col-md-10 offset-md-1">
+                            
+                                <div class="crumbs" style="margin-bottom:5px;">
+                                    <ul>
+                                                                                    <li><a href='https://www.anygenes.com/home/help'>HELP</a></li>
+                                                                                    <li><a href='https://www.anygenes.com/home/help/contact'>Contact us</a></li>
+                                                                            </ul>
+                                </div>
+                            
+                            <div class="card-body">
+                                <!--h5 class="card-title crumbs">Contact us</h5-->
+                                <p class="card-subtitle mb-2 text-muted"></p>
+                                <p class="card-text"> <div class="vce-row-container"><div class="vce-row vce-row--col-gap-30 vce-row-columns--top vce-row-content--top" id="el-9fb30d20" data-vce-do-apply="all el-9fb30d20"><div class="vce-row-content" data-vce-element-content="true"><div class="vce-col vce-col--md-auto vce-col--xs-1 vce-col--xs-last vce-col--xs-first vce-col--sm-last vce-col--sm-first vce-col--md-last vce-col--lg-last vce-col--xl-last vce-col--md-first vce-col--lg-first vce-col--xl-first" id="el-a57c5c17"><div class="vce-col-inner" data-vce-do-apply="border margin background  el-a57c5c17"><div class="vce-col-content" data-vce-element-content="true" data-vce-do-apply="padding el-a57c5c17"><div class="vce-raw-html"><div class="vce-raw-html-wrapper" id="el-7f7a2aae" data-vce-do-apply="all el-7f7a2aae"><div id="map" style="height: 450px;"></div>
+
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBB8kEhZ59rgiieE-OoLUrrPZXMB7Qq7uI&amp;callback=initMap">
+    </script>
+
+ <script>
+    var marker;
+    var image = 'https://www.anygenes.com/images/iconeMap.ico';
+
+    function initMap() {
+        var myLatLng = {
+            lat: 48.8659586,
+            lng: 2.4009226
+        };
+
+        // Specify features and elements to define styles.
+        var styleArray = [{
+            featureType: "all",
+            stylers: [{
+                saturation: 10
+            }]
+        }, {
+            color: "#C0C0C0",
+            featureType: "road.arterial",
+            elementType: "geometry",
+            stylers: [{
+                    hue: "#CCFFFF"
+                },
+                {
+                    saturation: 50
+                }
+            ]
+        }, {
+            featureType: "poi.business",
+            elementType: "labels",
+            stylers: [{
+                visibility: "off"
+            }]
+        }];
+
+        var map = new google.maps.Map(document.getElementById('map'), {
+            center: myLatLng,
+            scrollwheel: false,
+            // Apply the map style array to the map.
+            styles: styleArray,
+            zoom: 9
+        });
+
+        var directionsDisplay = new google.maps.DirectionsRenderer({
+            map: map
+        });
+
+        // Create a marker and set its position.
+        marker = new google.maps.Marker({
+            map: map,
+            icon: image,
+            draggable: true,
+            animation: google.maps.Animation.DROP,
+            position: myLatLng
+        });
+        marker.addListener('click', toggleBounce);
+    }
+
+    function toggleBounce() {
+        if (marker.getAnimation() !== null) {
+            marker.setAnimation(null);
+        } else {
+            marker.setAnimation(google.maps.Animation.BOUNCE);
+        }
+    }
+    </script>
+    <script type="text/javascript">
+    $(document).ready(function() {
+        $('#loadingg').show(3000);
+        $('#loadingg').fadeOut('fast');
+        $('#sendDivSuccess').delay(3000).fadeIn();
+        $('#sendDivError').delay(3000).fadeIn();
+        $('#Sending').delay(3000).fadeOut();
+    });
+    </script>
+</div></div><div class="vce-text-block"><div class="vce-text-block-wrapper vce" id="el-c0a87a42" data-vce-do-apply="all el-c0a87a42"><p style="text-align: center;"><span style="font-size: 14pt;">Contact Us</span></p></div></div></div></div></div></div></div></div><div class="vce-row-container"><div class="vce-row vce-row--col-gap-30 vce-row-columns--top vce-row-content--top" id="el-ef9ff061" data-vce-do-apply="all el-ef9ff061"><div class="vce-row-content" data-vce-element-content="true"><div class="vce-col vce-col--md-auto vce-col--xs-1 vce-col--xs-last vce-col--xs-first vce-col--sm-last vce-col--sm-first vce-col--md-last vce-col--lg-last vce-col--xl-last vce-col--md-first vce-col--lg-first vce-col--xl-first" id="el-a351f53b"><div class="vce-col-inner" data-vce-do-apply="border margin background  el-a351f53b"><div class="vce-col-content" data-vce-element-content="true" data-vce-do-apply="padding el-a351f53b"><div class="vce-raw-html"><div class="vce-raw-html-wrapper" id="el-53a88f2a" data-vce-do-apply="all el-53a88f2a"><script src="https://www.google.com/recaptcha/api.js?render=6LcW8tYUAAAAAFrmNh0iaP5wdRPvHWkLpAzCxMmf"></script>
+<section class="text-justify">
+    <div class="container-fluid">
+
+        <div class="row">
+            <div class="col-md-3 offset-md-1 col-xs-10 offset-xs-1">
+                <h5 style="margin: 20px 0">
+                    Contact Info
+                </h5>
+                <strong>Head office :<br />AnyGenes®</strong>
+                <p>
+                    4 rue de la Chine<br />
+                    75970 Paris Cedex 20<br />
+                    France
+                </p>
+                <p>
+                    Phone: 00 33 (0) 1 43 58 88 63 <br>
+                </p>
+                <p>
+                    <a href="/cdn-cgi/l/email-protection#b7ded9c6c2dec5cef7d6d9ced0d2d9d2c499d4d8da"> <span class="__cf_email__" data-cfemail="c5acabb4b0acb7bc85a4abbca2a0aba0b6eba6aaa8">[email&#160;protected]</span></a>
+                </p>
+            </div>
+            <div class="col-md-7  contact" id="contact_us">
+                <div class="row">
+                    <div class="col-md-12 ">
+                        <h5 style="margin: 20px 0 20px 30px">Contact Form</h5>
+                    </div>
+                    
+                </div>
+                <form name="form1"  class="formContact">
+                    <div class="row">
+                        <div class="col-md-6 col-xs-12">
+                            <input type="text" name="name" id="name" class="form-control" placeholder="Enter name" required="required" />
+                        </div>
+                        <div class="col-md-6 col-xs-12">
+                            <input type="email" name="email" id="email1" class="form-control" placeholder="Enter email" required="required" />
+                        </div>
+                    </div>
+                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <input type="text" name="subject" class="form-control" id="subject" placeholder="Subject" required="required" />
+                        </div>
+                    </div>
+                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <textarea name="message" id="message" class="form-control" rows="4" cols="25" required="required" placeholder="Message"></textarea>
+                        </div>
+                    </div>
+                    <br />
+                    <div class="row">
+                        <div class="col-md-12">
+                            <center>
+                                <br>
+                                <!--  -->
+                                <div class="g-recaptcha" data-sitekey="6LcW8tYUAAAAAJuGVhXXOY-MHVOxHIVN62vQ1fHL">
+                                </div>
+                                <br>
+                                <input style="padding: 6px; background-color: #aa6f95 !important;" class="sendButton btn btn-primary mb-2" type="submit" name="submitcontact" value="Submit">
+                            </center>
+                        </div>
+                    </div>
+                </form>
+                <div class="resultOK"></div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+	
+	$('form.formContact').on('submit', function(evt) {
+
+		 const contact_lastname = $('#name').val();
+         const contact_email =  $('#email1').val();
+         console.log('contact_email ', contact_email);
+         const contact_subject = $('#subject').val();
+         const contact_message = $('#message').val();
+         const grecaptcha = $('#g-recaptcha-response').val();
+
+				$.ajax({
+					url: 'https://www.anygenes.com/service-globale/sendMail.php',
+					type: 'POST',
+					data: {
+						contact_lastname,
+						contact_email,
+						contact_subject,
+						contact_message,
+						submitcontact :true,
+						grecaptcha:grecaptcha
+					},
+					success: function(response) {
+							$('div.resultOK').html(response);
+							if(!response.includes("Please check reCAPTCHA option")){
+								setTimeout(function(){
+								location.reload();
+							},3000);
+							}
+					},
+					error: function(error) {
+						console.log('Afficher Error ', error);
+					}
+				});
+			return false;
+		});
+</script></div></div></div></div></div></div></div></div>
+ </p>
+                                <a href="https://www.anygenes.com/home/help/contact" class="card-link"></a>
+                                <!-- <a href="#" class="btn btn-primary">Go somewhere</a> -->
+                            </div>
+                    </div>
+                            </div>
+        </div>
+    
+			<script type="text/javascript">function showhide_toggle(e,t,r,g){var a=jQuery("#"+e+"-link-"+t),s=jQuery("a",a),i=jQuery("#"+e+"-content-"+t),l=jQuery("#"+e+"-toggle-"+t);a.toggleClass("sh-show sh-hide"),i.toggleClass("sh-show sh-hide").toggle(),"true"===s.attr("aria-expanded")?s.attr("aria-expanded","false"):s.attr("aria-expanded","true"),l.text()===r?(l.text(g),a.trigger("sh-link:more")):(l.text(r),a.trigger("sh-link:less")),a.trigger("sh-link:toggle")}</script>
+	
+<div class="xoo-el-container" style="visibility: hidden;">
+    <div class="xoo-el-opac"></div>
+    <div class="xoo-el-modal">
+        <div class="xoo-el-inmodal">
+            <span class="xoo-el-close xoo-el-icon-cancel-circle"></span>
+            <div class="xoo-el-wrap">
+                <div class="xoo-el-sidebar"></div>
+                <div class="xoo-el-srcont">
+                    <div class="xoo-el-main">
+                        
+<div class="xoo-el-form-container xoo-el-form-popup" data-active="login">
+
+	
+	
+	
+<div class="xoo-el-header">
+	<ul class="xoo-el-tabs">
+
+		<li data-tab="login" class="xoo-el-login-tgr">Login</li>
+
+		 
+			<li data-tab="register" class="xoo-el-reg-tgr">Sign Up</li>
+		
+	</ul>
+</div>
+	
+	
+			
+		<div data-section="login" class="xoo-el-section">
+
+			<div class="xoo-el-fields">
+
+				<div class="xoo-el-notice"></div>
+				<form class="xoo-el-action-form xoo-el-form-login">
+
+					
+					<div class="xoo-aff-group xoo-el-username_cont"><div class="xoo-aff-input-group"><span class="xoo-aff-input-icon far fa-user"></span><input type="text" class="xoo-aff-required xoo-aff-text" name="xoo-el-username" placeholder="Username / Email"  value="" autocomplete="email" required="	"/></div></div><div class="xoo-aff-group xoo-el-password_cont"><div class="xoo-aff-input-group"><span class="xoo-aff-input-icon fas fa-key"></span><input type="password" class="xoo-aff-required xoo-aff-password" name="xoo-el-password" placeholder="Password"  value="" required="	"/></div></div>
+<div class="xoo-aff-group xoo-el-login-btm-fields">
+	<label class="xoo-el-form-label">
+		<input type="checkbox" name="xoo-el-rememberme" value="forever" />
+		<span>Remember me</span>
+	</label>
+	<a class="xoo-el-lostpw-tgr">Forgot Password?</a>
+</div>
+
+
+<input type="hidden" name="_xoo_el_form" value="login">
+
+<button type="submit" class="button btn xoo-el-action-btn xoo-el-login-btn" >Sign In</button>
+
+<input type="hidden" name="xoo_el_redirect" value="/home/help/contact">
+					
+				</form>
+
+				
+			</div>
+
+		</div>
+
+	
+			
+		<div data-section="register" class="xoo-el-section">
+
+			<div class="xoo-el-fields">
+
+				<div class="xoo-el-notice"></div>
+				<form class="xoo-el-action-form xoo-el-form-register">
+
+					
+					
+<div class="xoo-aff-fields"><div class="xoo-aff-group xoo-aff-cont-email one xoo-aff-cont-required xoo_el_reg_email_cont"><div class="xoo-aff-input-group"><span class="xoo-aff-input-icon fas fa-at"></span><input type="email" class="xoo-aff-required xoo-aff-email" name="xoo_el_reg_email" placeholder="Email"  value="" autocomplete="email" required="	"/></div></div><div class="xoo-aff-group xoo-aff-cont-text onehalf xoo-aff-cont-required xoo_el_reg_fname_cont"><div class="xoo-aff-input-group"><span class="xoo-aff-input-icon far fa-user"></span><input type="text" class="xoo-aff-required xoo-aff-text" name="xoo_el_reg_fname" placeholder="First Name"  value="" required="	"/></div></div><div class="xoo-aff-group xoo-aff-cont-text onehalf xoo-aff-cont-required xoo_el_reg_lname_cont"><div class="xoo-aff-input-group"><span class="xoo-aff-input-icon far fa-user"></span><input type="text" class="xoo-aff-required xoo-aff-text" name="xoo_el_reg_lname" placeholder="Last Name"  value="" required="	"/></div></div><div class="xoo-aff-group xoo-aff-cont-password one xoo-aff-cont-required xoo_el_reg_pass_cont"><div class="xoo-aff-input-group"><span class="xoo-aff-input-icon fas fa-key"></span><input type="password" class="xoo-aff-required xoo-aff-password" name="xoo_el_reg_pass" placeholder="Password"  value="" maxlength="20" minlength="6" autocomplete="new-password" required="	"/></div></div><div class="xoo-aff-group xoo-aff-cont-password one xoo-aff-cont-required xoo_el_reg_pass_again_cont"><div class="xoo-aff-input-group"><span class="xoo-aff-input-icon fas fa-key"></span><input type="password" class="xoo-aff-required xoo-aff-password" name="xoo_el_reg_pass_again" placeholder="Confirm Password"  value="" autocomplete="new-password" required="	"/></div></div><div class="xoo-aff-group xoo-aff-cont-checkbox_single one xoo-aff-cont-required xoo_el_reg_terms_cont"><div class="xoo-aff-required xoo-aff-checkbox_single"><label><input type="checkbox" name="xoo_el_reg_terms" class="xoo-aff-required xoo-aff-checkbox_single" value="yes" >I accept the <a href="privacy-policy" target="_blank"> Terms of Service and Privacy Policy </a></label></div></div></div>
+<input type="hidden" name="_xoo_el_form" value="register">
+
+
+<button type="submit" class="button btn xoo-el-action-btn xoo-el-register-btn">Sign Up</button>
+
+<input type="hidden" name="xoo_el_redirect" value="/home/help/contact">
+					
+				</form>
+
+				
+			</div>
+
+		</div>
+
+	
+			
+		<div data-section="lostpw" class="xoo-el-section">
+
+			<div class="xoo-el-fields">
+
+				<div class="xoo-el-notice"></div>
+				<form class="xoo-el-action-form xoo-el-form-lostpw">
+
+					
+					
+
+<span class="xoo-el-form-txt">Lost your password? Please enter your username or email address. You will receive a link to create a new password via email.</span>
+
+<div class="xoo-aff-group user_login_cont"><div class="xoo-aff-input-group"><span class="xoo-aff-input-icon fas fa-key"></span><input type="text" class="xoo-aff-required xoo-aff-text" name="user_login" placeholder="Username / Email"  value="" required="	"/></div></div>
+
+<input type="hidden" name="_xoo_el_form" value="lostPassword">
+
+<input type="hidden" name="_wp_http_referer" value="/home/help/contact" />
+<button type="submit" class="button btn xoo-el-action-btn xoo-el-lostpw-btn">Email Reset Link</button>
+					
+				</form>
+
+				
+			</div>
+
+		</div>
+
+	
+	
+</div>                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><script type='text/javascript' src='https://www.anygenes.com/wp-content/plugins/visualcomposer/public/dist/front.bundle.js?ver=27.1' id='vcv:assets:front:script-js'></script>
+<script type='text/javascript' src='https://www.anygenes.com/wp-content/plugins/visualcomposer/public/dist/runtime.bundle.js?ver=27.1' id='vcv:assets:runtime:script-js'></script>
+<script type='text/javascript' src='https://cdn.jsdelivr.net/npm/select2@4.1.0-beta.1/dist/js/select2.min.js?ver=1.1' id='select2-js'></script>
+<script type='text/javascript' id='xoo-aff-js-js-extra'>
+/* <![CDATA[ */
+var xoo_aff_localize = {"adminurl":"https:\/\/www.anygenes.com\/wp-admin\/admin-ajax.php","countries":"{\"AF\":\"Afghanistan\",\"AX\":\"\u00c5land Islands\",\"AL\":\"Albania\",\"DZ\":\"Algeria\",\"AS\":\"American Samoa\",\"AD\":\"Andorra\",\"AO\":\"Angola\",\"AI\":\"Anguilla\",\"AQ\":\"Antarctica\",\"AG\":\"Antigua and Barbuda\",\"AR\":\"Argentina\",\"AM\":\"Armenia\",\"AW\":\"Aruba\",\"AU\":\"Australia\",\"AT\":\"Austria\",\"AZ\":\"Azerbaijan\",\"BS\":\"Bahamas\",\"BH\":\"Bahrain\",\"BD\":\"Bangladesh\",\"BB\":\"Barbados\",\"BY\":\"Belarus\",\"BE\":\"Belgium\",\"PW\":\"Belau\",\"BZ\":\"Belize\",\"BJ\":\"Benin\",\"BM\":\"Bermuda\",\"BT\":\"Bhutan\",\"BO\":\"Bolivia\",\"BQ\":\"Bonaire, Saint Eustatius and Saba\",\"BA\":\"Bosnia and Herzegovina\",\"BW\":\"Botswana\",\"BV\":\"Bouvet Island\",\"BR\":\"Brazil\",\"IO\":\"British Indian Ocean Territory\",\"BN\":\"Brunei\",\"BG\":\"Bulgaria\",\"BF\":\"Burkina Faso\",\"BI\":\"Burundi\",\"KH\":\"Cambodia\",\"CM\":\"Cameroon\",\"CA\":\"Canada\",\"CV\":\"Cape Verde\",\"KY\":\"Cayman Islands\",\"CF\":\"Central African Republic\",\"TD\":\"Chad\",\"CL\":\"Chile\",\"CN\":\"China\",\"CX\":\"Christmas Island\",\"CC\":\"Cocos (Keeling) Islands\",\"CO\":\"Colombia\",\"KM\":\"Comoros\",\"CG\":\"Congo (Brazzaville)\",\"CD\":\"Congo (Kinshasa)\",\"CK\":\"Cook Islands\",\"CR\":\"Costa Rica\",\"HR\":\"Croatia\",\"CU\":\"Cuba\",\"CW\":\"Cura\u00e7ao\",\"CY\":\"Cyprus\",\"CZ\":\"Czech Republic\",\"DK\":\"Denmark\",\"DJ\":\"Djibouti\",\"DM\":\"Dominica\",\"DO\":\"Dominican Republic\",\"EC\":\"Ecuador\",\"EG\":\"Egypt\",\"SV\":\"El Salvador\",\"GQ\":\"Equatorial Guinea\",\"ER\":\"Eritrea\",\"EE\":\"Estonia\",\"ET\":\"Ethiopia\",\"FK\":\"Falkland Islands\",\"FO\":\"Faroe Islands\",\"FJ\":\"Fiji\",\"FI\":\"Finland\",\"FR\":\"France\",\"GF\":\"French Guiana\",\"PF\":\"French Polynesia\",\"TF\":\"French Southern Territories\",\"GA\":\"Gabon\",\"GM\":\"Gambia\",\"GE\":\"Georgia\",\"DE\":\"Germany\",\"GH\":\"Ghana\",\"GI\":\"Gibraltar\",\"GR\":\"Greece\",\"GL\":\"Greenland\",\"GD\":\"Grenada\",\"GP\":\"Guadeloupe\",\"GU\":\"Guam\",\"GT\":\"Guatemala\",\"GG\":\"Guernsey\",\"GN\":\"Guinea\",\"GW\":\"Guinea-Bissau\",\"GY\":\"Guyana\",\"HT\":\"Haiti\",\"HM\":\"Heard Island and McDonald Islands\",\"HN\":\"Honduras\",\"HK\":\"Hong Kong\",\"HU\":\"Hungary\",\"IS\":\"Iceland\",\"IN\":\"India\",\"ID\":\"Indonesia\",\"IR\":\"Iran\",\"IQ\":\"Iraq\",\"IE\":\"Ireland\",\"IM\":\"Isle of Man\",\"IL\":\"Israel\",\"IT\":\"Italy\",\"CI\":\"Ivory Coast\",\"JM\":\"Jamaica\",\"JP\":\"Japan\",\"JE\":\"Jersey\",\"JO\":\"Jordan\",\"KZ\":\"Kazakhstan\",\"KE\":\"Kenya\",\"KI\":\"Kiribati\",\"KW\":\"Kuwait\",\"KG\":\"Kyrgyzstan\",\"LA\":\"Laos\",\"LV\":\"Latvia\",\"LB\":\"Lebanon\",\"LS\":\"Lesotho\",\"LR\":\"Liberia\",\"LY\":\"Libya\",\"LI\":\"Liechtenstein\",\"LT\":\"Lithuania\",\"LU\":\"Luxembourg\",\"MO\":\"Macao S.A.R., China\",\"MK\":\"North Macedonia\",\"MG\":\"Madagascar\",\"MW\":\"Malawi\",\"MY\":\"Malaysia\",\"MV\":\"Maldives\",\"ML\":\"Mali\",\"MT\":\"Malta\",\"MH\":\"Marshall Islands\",\"MQ\":\"Martinique\",\"MR\":\"Mauritania\",\"MU\":\"Mauritius\",\"YT\":\"Mayotte\",\"MX\":\"Mexico\",\"FM\":\"Micronesia\",\"MD\":\"Moldova\",\"MC\":\"Monaco\",\"MN\":\"Mongolia\",\"ME\":\"Montenegro\",\"MS\":\"Montserrat\",\"MA\":\"Morocco\",\"MZ\":\"Mozambique\",\"MM\":\"Myanmar\",\"NA\":\"Namibia\",\"NR\":\"Nauru\",\"NP\":\"Nepal\",\"NL\":\"Netherlands\",\"NC\":\"New Caledonia\",\"NZ\":\"New Zealand\",\"NI\":\"Nicaragua\",\"NE\":\"Niger\",\"NG\":\"Nigeria\",\"NU\":\"Niue\",\"NF\":\"Norfolk Island\",\"MP\":\"Northern Mariana Islands\",\"KP\":\"North Korea\",\"NO\":\"Norway\",\"OM\":\"Oman\",\"PK\":\"Pakistan\",\"PS\":\"Palestinian Territory\",\"PA\":\"Panama\",\"PG\":\"Papua New Guinea\",\"PY\":\"Paraguay\",\"PE\":\"Peru\",\"PH\":\"Philippines\",\"PN\":\"Pitcairn\",\"PL\":\"Poland\",\"PT\":\"Portugal\",\"PR\":\"Puerto Rico\",\"QA\":\"Qatar\",\"RE\":\"Reunion\",\"RO\":\"Romania\",\"RU\":\"Russia\",\"RW\":\"Rwanda\",\"BL\":\"Saint Barth\u00e9lemy\",\"SH\":\"Saint Helena\",\"KN\":\"Saint Kitts and Nevis\",\"LC\":\"Saint Lucia\",\"MF\":\"Saint Martin (French part)\",\"SX\":\"Saint Martin (Dutch part)\",\"PM\":\"Saint Pierre and Miquelon\",\"VC\":\"Saint Vincent and the Grenadines\",\"SM\":\"San Marino\",\"ST\":\"S\u00e3o Tom\u00e9 and Pr\u00edncipe\",\"SA\":\"Saudi Arabia\",\"SN\":\"Senegal\",\"RS\":\"Serbia\",\"SC\":\"Seychelles\",\"SL\":\"Sierra Leone\",\"SG\":\"Singapore\",\"SK\":\"Slovakia\",\"SI\":\"Slovenia\",\"SB\":\"Solomon Islands\",\"SO\":\"Somalia\",\"ZA\":\"South Africa\",\"GS\":\"South Georgia\\\/Sandwich Islands\",\"KR\":\"South Korea\",\"SS\":\"South Sudan\",\"ES\":\"Spain\",\"LK\":\"Sri Lanka\",\"SD\":\"Sudan\",\"SR\":\"Suriname\",\"SJ\":\"Svalbard and Jan Mayen\",\"SZ\":\"Swaziland\",\"SE\":\"Sweden\",\"CH\":\"Switzerland\",\"SY\":\"Syria\",\"TW\":\"Taiwan\",\"TJ\":\"Tajikistan\",\"TZ\":\"Tanzania\",\"TH\":\"Thailand\",\"TL\":\"Timor-Leste\",\"TG\":\"Togo\",\"TK\":\"Tokelau\",\"TO\":\"Tonga\",\"TT\":\"Trinidad and Tobago\",\"TN\":\"Tunisia\",\"TR\":\"Turkey\",\"TM\":\"Turkmenistan\",\"TC\":\"Turks and Caicos Islands\",\"TV\":\"Tuvalu\",\"UG\":\"Uganda\",\"UA\":\"Ukraine\",\"AE\":\"United Arab Emirates\",\"GB\":\"United Kingdom (UK)\",\"US\":\"United States (US)\",\"UM\":\"United States (US) Minor Outlying Islands\",\"UY\":\"Uruguay\",\"UZ\":\"Uzbekistan\",\"VU\":\"Vanuatu\",\"VA\":\"Vatican\",\"VE\":\"Venezuela\",\"VN\":\"Vietnam\",\"VG\":\"Virgin Islands (British)\",\"VI\":\"Virgin Islands (US)\",\"WF\":\"Wallis and Futuna\",\"EH\":\"Western Sahara\",\"WS\":\"Samoa\",\"YE\":\"Yemen\",\"ZM\":\"Zambia\",\"ZW\":\"Zimbabwe\"}","states":"{\"AF\":[],\"AO\":{\"BGO\":\"Bengo\",\"BLU\":\"Benguela\",\"BIE\":\"Bi\\u00e9\",\"CAB\":\"Cabinda\",\"CNN\":\"Cunene\",\"HUA\":\"Huambo\",\"HUI\":\"Hu\\u00edla\",\"CCU\":\"Kuando Kubango\",\"CNO\":\"Kwanza-Norte\",\"CUS\":\"Kwanza-Sul\",\"LUA\":\"Luanda\",\"LNO\":\"Lunda-Norte\",\"LSU\":\"Lunda-Sul\",\"MAL\":\"Malanje\",\"MOX\":\"Moxico\",\"NAM\":\"Namibe\",\"UIG\":\"U\\u00edge\",\"ZAI\":\"Zaire\"},\"AR\":{\"C\":\"Ciudad Aut\u00f3noma de Buenos Aires\",\"B\":\"Buenos Aires\",\"K\":\"Catamarca\",\"H\":\"Chaco\",\"U\":\"Chubut\",\"X\":\"C\u00f3rdoba\",\"W\":\"Corrientes\",\"E\":\"Entre R\u00edos\",\"P\":\"Formosa\",\"Y\":\"Jujuy\",\"L\":\"La Pampa\",\"F\":\"La Rioja\",\"M\":\"Mendoza\",\"N\":\"Misiones\",\"Q\":\"Neuqu\u00e9n\",\"R\":\"R\u00edo Negro\",\"A\":\"Salta\",\"J\":\"San Juan\",\"D\":\"San Luis\",\"Z\":\"Santa Cruz\",\"S\":\"Santa Fe\",\"G\":\"Santiago del Estero\",\"V\":\"Tierra del Fuego\",\"T\":\"Tucum\u00e1n\"},\"AT\":[],\"AU\":{\"ACT\":\"Australian Capital Territory\",\"NSW\":\"New South Wales\",\"NT\":\"Northern Territory\",\"QLD\":\"Queensland\",\"SA\":\"South Australia\",\"TAS\":\"Tasmania\",\"VIC\":\"Victoria\",\"WA\":\"Western Australia\"},\"AX\":[],\"BD\":{\"BD-05\":\"Bagerhat\",\"BD-01\":\"Bandarban\",\"BD-02\":\"Barguna\",\"BD-06\":\"Barishal\",\"BD-07\":\"Bhola\",\"BD-03\":\"Bogura\",\"BD-04\":\"Brahmanbaria\",\"BD-09\":\"Chandpur\",\"BD-10\":\"Chattogram\",\"BD-12\":\"Chuadanga\",\"BD-11\":\"Cox's Bazar\",\"BD-08\":\"Cumilla\",\"BD-13\":\"Dhaka\",\"BD-14\":\"Dinajpur\",\"BD-15\":\"Faridpur \",\"BD-16\":\"Feni\",\"BD-19\":\"Gaibandha\",\"BD-18\":\"Gazipur\",\"BD-17\":\"Gopalganj\",\"BD-20\":\"Habiganj\",\"BD-21\":\"Jamalpur\",\"BD-22\":\"Jashore\",\"BD-25\":\"Jhalokati\",\"BD-23\":\"Jhenaidah\",\"BD-24\":\"Joypurhat\",\"BD-29\":\"Khagrachhari\",\"BD-27\":\"Khulna\",\"BD-26\":\"Kishoreganj\",\"BD-28\":\"Kurigram\",\"BD-30\":\"Kushtia\",\"BD-31\":\"Lakshmipur\",\"BD-32\":\"Lalmonirhat\",\"BD-36\":\"Madaripur\",\"BD-37\":\"Magura\",\"BD-33\":\"Manikganj \",\"BD-39\":\"Meherpur\",\"BD-38\":\"Moulvibazar\",\"BD-35\":\"Munshiganj\",\"BD-34\":\"Mymensingh\",\"BD-48\":\"Naogaon\",\"BD-43\":\"Narail\",\"BD-40\":\"Narayanganj\",\"BD-42\":\"Narsingdi\",\"BD-44\":\"Natore\",\"BD-45\":\"Nawabganj\",\"BD-41\":\"Netrakona\",\"BD-46\":\"Nilphamari\",\"BD-47\":\"Noakhali\",\"BD-49\":\"Pabna\",\"BD-52\":\"Panchagarh\",\"BD-51\":\"Patuakhali\",\"BD-50\":\"Pirojpur\",\"BD-53\":\"Rajbari\",\"BD-54\":\"Rajshahi\",\"BD-56\":\"Rangamati\",\"BD-55\":\"Rangpur\",\"BD-58\":\"Satkhira\",\"BD-62\":\"Shariatpur\",\"BD-57\":\"Sherpur\",\"BD-59\":\"Sirajganj\",\"BD-61\":\"Sunamganj\",\"BD-60\":\"Sylhet\",\"BD-63\":\"Tangail\",\"BD-64\":\"Thakurgaon\"},\"BE\":[],\"BG\":{\"BG-01\":\"Blagoevgrad\",\"BG-02\":\"Burgas\",\"BG-08\":\"Dobrich\",\"BG-07\":\"Gabrovo\",\"BG-26\":\"Haskovo\",\"BG-09\":\"Kardzhali\",\"BG-10\":\"Kyustendil\",\"BG-11\":\"Lovech\",\"BG-12\":\"Montana\",\"BG-13\":\"Pazardzhik\",\"BG-14\":\"Pernik\",\"BG-15\":\"Pleven\",\"BG-16\":\"Plovdiv\",\"BG-17\":\"Razgrad\",\"BG-18\":\"Ruse\",\"BG-27\":\"Shumen\",\"BG-19\":\"Silistra\",\"BG-20\":\"Sliven\",\"BG-21\":\"Smolyan\",\"BG-23\":\"Sofia\",\"BG-22\":\"Sofia-Grad\",\"BG-24\":\"Stara Zagora\",\"BG-25\":\"Targovishte\",\"BG-03\":\"Varna\",\"BG-04\":\"Veliko Tarnovo\",\"BG-05\":\"Vidin\",\"BG-06\":\"Vratsa\",\"BG-28\":\"Yambol\"},\"BH\":[],\"BI\":[],\"BO\":{\"B\":\"Chuquisaca\",\"H\":\"Beni\",\"C\":\"Cochabamba\",\"L\":\"La Paz\",\"O\":\"Oruro\",\"N\":\"Pando\",\"P\":\"Potos\\u00ed\",\"S\":\"Santa Cruz\",\"T\":\"Tarija\"},\"BR\":{\"AC\":\"Acre\",\"AL\":\"Alagoas\",\"AP\":\"Amap\u00e1\",\"AM\":\"Amazonas\",\"BA\":\"Bahia\",\"CE\":\"Cear\u00e1\",\"DF\":\"Distrito Federal\",\"ES\":\"Esp\u00edrito Santo\",\"GO\":\"Goi\u00e1s\",\"MA\":\"Maranh\u00e3o\",\"MT\":\"Mato Grosso\",\"MS\":\"Mato Grosso do Sul\",\"MG\":\"Minas Gerais\",\"PA\":\"Par\u00e1\",\"PB\":\"Para\u00edba\",\"PR\":\"Paran\u00e1\",\"PE\":\"Pernambuco\",\"PI\":\"Piau\u00ed\",\"RJ\":\"Rio de Janeiro\",\"RN\":\"Rio Grande do Norte\",\"RS\":\"Rio Grande do Sul\",\"RO\":\"Rond\u00f4nia\",\"RR\":\"Roraima\",\"SC\":\"Santa Catarina\",\"SP\":\"S\u00e3o Paulo\",\"SE\":\"Sergipe\",\"TO\":\"Tocantins\"},\"CA\":{\"AB\":\"Alberta\",\"BC\":\"British Columbia\",\"MB\":\"Manitoba\",\"NB\":\"New Brunswick\",\"NL\":\"Newfoundland and Labrador\",\"NT\":\"Northwest Territories\",\"NS\":\"Nova Scotia\",\"NU\":\"Nunavut\",\"ON\":\"Ontario\",\"PE\":\"Prince Edward Island\",\"QC\":\"Quebec\",\"SK\":\"Saskatchewan\",\"YT\":\"Yukon Territory\"},\"CH\":{\"AG\":\"Aargau\",\"AR\":\"Appenzell Ausserrhoden\",\"AI\":\"Appenzell Innerrhoden\",\"BL\":\"Basel-Landschaft\",\"BS\":\"Basel-Stadt\",\"BE\":\"Bern\",\"FR\":\"Fribourg\",\"GE\":\"Geneva\",\"GL\":\"Glarus\",\"GR\":\"Graub\u00fcnden\",\"JU\":\"Jura\",\"LU\":\"Luzern\",\"NE\":\"Neuch\u00e2tel\",\"NW\":\"Nidwalden\",\"OW\":\"Obwalden\",\"SH\":\"Schaffhausen\",\"SZ\":\"Schwyz\",\"SO\":\"Solothurn\",\"SG\":\"St. Gallen\",\"TG\":\"Thurgau\",\"TI\":\"Ticino\",\"UR\":\"Uri\",\"VS\":\"Valais\",\"VD\":\"Vaud\",\"ZG\":\"Zug\",\"ZH\":\"Z\u00fcrich\"},\"CN\":{\"CN1\":\"Yunnan \\\/ \u4e91\u5357\",\"CN2\":\"Beijing \\\/ \u5317\u4eac\",\"CN3\":\"Tianjin \\\/ \u5929\u6d25\",\"CN4\":\"Hebei \\\/ \u6cb3\u5317\",\"CN5\":\"Shanxi \\\/ \u5c71\u897f\",\"CN6\":\"Inner Mongolia \\\/ \u5167\u8499\u53e4\",\"CN7\":\"Liaoning \\\/ \u8fbd\u5b81\",\"CN8\":\"Jilin \\\/ \u5409\u6797\",\"CN9\":\"Heilongjiang \\\/ \u9ed1\u9f99\u6c5f\",\"CN10\":\"Shanghai \\\/ \u4e0a\u6d77\",\"CN11\":\"Jiangsu \\\/ \u6c5f\u82cf\",\"CN12\":\"Zhejiang \\\/ \u6d59\u6c5f\",\"CN13\":\"Anhui \\\/ \u5b89\u5fbd\",\"CN14\":\"Fujian \\\/ \u798f\u5efa\",\"CN15\":\"Jiangxi \\\/ \u6c5f\u897f\",\"CN16\":\"Shandong \\\/ \u5c71\u4e1c\",\"CN17\":\"Henan \\\/ \u6cb3\u5357\",\"CN18\":\"Hubei \\\/ \u6e56\u5317\",\"CN19\":\"Hunan \\\/ \u6e56\u5357\",\"CN20\":\"Guangdong \\\/ \u5e7f\u4e1c\",\"CN21\":\"Guangxi Zhuang \\\/ \u5e7f\u897f\u58ee\u65cf\",\"CN22\":\"Hainan \\\/ \u6d77\u5357\",\"CN23\":\"Chongqing \\\/ \u91cd\u5e86\",\"CN24\":\"Sichuan \\\/ \u56db\u5ddd\",\"CN25\":\"Guizhou \\\/ \u8d35\u5dde\",\"CN26\":\"Shaanxi \\\/ \u9655\u897f\",\"CN27\":\"Gansu \\\/ \u7518\u8083\",\"CN28\":\"Qinghai \\\/ \u9752\u6d77\",\"CN29\":\"Ningxia Hui \\\/ \u5b81\u590f\",\"CN30\":\"Macau \\\/ \u6fb3\u95e8\",\"CN31\":\"Tibet \\\/ \u897f\u85cf\",\"CN32\":\"Xinjiang \\\/ \u65b0\u7586\"},\"CZ\":[],\"DE\":[],\"DK\":[],\"EE\":[],\"ES\":{\"C\":\"A Coru\u00f1a\",\"VI\":\"Araba\\\/\u00c1lava\",\"AB\":\"Albacete\",\"A\":\"Alicante\",\"AL\":\"Almer\u00eda\",\"O\":\"Asturias\",\"AV\":\"\u00c1vila\",\"BA\":\"Badajoz\",\"PM\":\"Baleares\",\"B\":\"Barcelona\",\"BU\":\"Burgos\",\"CC\":\"C\u00e1ceres\",\"CA\":\"C\u00e1diz\",\"S\":\"Cantabria\",\"CS\":\"Castell\u00f3n\",\"CE\":\"Ceuta\",\"CR\":\"Ciudad Real\",\"CO\":\"C\u00f3rdoba\",\"CU\":\"Cuenca\",\"GI\":\"Girona\",\"GR\":\"Granada\",\"GU\":\"Guadalajara\",\"SS\":\"Gipuzkoa\",\"H\":\"Huelva\",\"HU\":\"Huesca\",\"J\":\"Ja\u00e9n\",\"LO\":\"La Rioja\",\"GC\":\"Las Palmas\",\"LE\":\"Le\u00f3n\",\"L\":\"Lleida\",\"LU\":\"Lugo\",\"M\":\"Madrid\",\"MA\":\"M\u00e1laga\",\"ML\":\"Melilla\",\"MU\":\"Murcia\",\"NA\":\"Navarra\",\"OR\":\"Ourense\",\"P\":\"Palencia\",\"PO\":\"Pontevedra\",\"SA\":\"Salamanca\",\"TF\":\"Santa Cruz de Tenerife\",\"SG\":\"Segovia\",\"SE\":\"Sevilla\",\"SO\":\"Soria\",\"T\":\"Tarragona\",\"TE\":\"Teruel\",\"TO\":\"Toledo\",\"V\":\"Valencia\",\"VA\":\"Valladolid\",\"BI\":\"Bizkaia\",\"ZA\":\"Zamora\",\"Z\":\"Zaragoza\"},\"FI\":[],\"FR\":[],\"GP\":[],\"GR\":{\"I\":\"\\u0391\\u03c4\\u03c4\\u03b9\\u03ba\\u03ae\",\"A\":\"\\u0391\\u03bd\\u03b1\\u03c4\\u03bf\\u03bb\\u03b9\\u03ba\\u03ae \\u039c\\u03b1\\u03ba\\u03b5\\u03b4\\u03bf\\u03bd\\u03af\\u03b1 \\u03ba\\u03b1\\u03b9 \\u0398\\u03c1\\u03ac\\u03ba\\u03b7\",\"B\":\"\\u039a\\u03b5\\u03bd\\u03c4\\u03c1\\u03b9\\u03ba\\u03ae \\u039c\\u03b1\\u03ba\\u03b5\\u03b4\\u03bf\\u03bd\\u03af\\u03b1\",\"C\":\"\\u0394\\u03c5\\u03c4\\u03b9\\u03ba\\u03ae \\u039c\\u03b1\\u03ba\\u03b5\\u03b4\\u03bf\\u03bd\\u03af\\u03b1\",\"D\":\"\\u0389\\u03c0\\u03b5\\u03b9\\u03c1\\u03bf\\u03c2\",\"E\":\"\\u0398\\u03b5\\u03c3\\u03c3\\u03b1\\u03bb\\u03af\\u03b1\",\"F\":\"\\u0399\\u03cc\\u03bd\\u03b9\\u03bf\\u03b9 \\u039d\\u03ae\\u03c3\\u03bf\\u03b9\",\"G\":\"\\u0394\\u03c5\\u03c4\\u03b9\\u03ba\\u03ae \\u0395\\u03bb\\u03bb\\u03ac\\u03b4\\u03b1\",\"H\":\"\\u03a3\\u03c4\\u03b5\\u03c1\\u03b5\\u03ac \\u0395\\u03bb\\u03bb\\u03ac\\u03b4\\u03b1\",\"J\":\"\\u03a0\\u03b5\\u03bb\\u03bf\\u03c0\\u03cc\\u03bd\\u03bd\\u03b7\\u03c3\\u03bf\\u03c2\",\"K\":\"\\u0392\\u03cc\\u03c1\\u03b5\\u03b9\\u03bf \\u0391\\u03b9\\u03b3\\u03b1\\u03af\\u03bf\",\"L\":\"\\u039d\\u03cc\\u03c4\\u03b9\\u03bf \\u0391\\u03b9\\u03b3\\u03b1\\u03af\\u03bf\",\"M\":\"\\u039a\\u03c1\\u03ae\\u03c4\\u03b7\"},\"GF\":[],\"HK\":{\"HONG KONG\":\"Hong Kong Island\",\"KOWLOON\":\"Kowloon\",\"NEW TERRITORIES\":\"New Territories\"},\"HU\":{\"BK\":\"B\\u00e1cs-Kiskun\",\"BE\":\"B\\u00e9k\\u00e9s\",\"BA\":\"Baranya\",\"BZ\":\"Borsod-Aba\\u00faj-Zempl\\u00e9n\",\"BU\":\"Budapest\",\"CS\":\"Csongr\\u00e1d\",\"FE\":\"Fej\\u00e9r\",\"GS\":\"Gy\\u0151r-Moson-Sopron\",\"HB\":\"Hajd\\u00fa-Bihar\",\"HE\":\"Heves\",\"JN\":\"J\\u00e1sz-Nagykun-Szolnok\",\"KE\":\"Kom\\u00e1rom-Esztergom\",\"NO\":\"N\\u00f3gr\\u00e1d\",\"PE\":\"Pest\",\"SO\":\"Somogy\",\"SZ\":\"Szabolcs-Szatm\\u00e1r-Bereg\",\"TO\":\"Tolna\",\"VA\":\"Vas\",\"VE\":\"Veszpr\\u00e9m\",\"ZA\":\"Zala\"},\"ID\":{\"AC\":\"Daerah Istimewa Aceh\",\"SU\":\"Sumatera Utara\",\"SB\":\"Sumatera Barat\",\"RI\":\"Riau\",\"KR\":\"Kepulauan Riau\",\"JA\":\"Jambi\",\"SS\":\"Sumatera Selatan\",\"BB\":\"Bangka Belitung\",\"BE\":\"Bengkulu\",\"LA\":\"Lampung\",\"JK\":\"DKI Jakarta\",\"JB\":\"Jawa Barat\",\"BT\":\"Banten\",\"JT\":\"Jawa Tengah\",\"JI\":\"Jawa Timur\",\"YO\":\"Daerah Istimewa Yogyakarta\",\"BA\":\"Bali\",\"NB\":\"Nusa Tenggara Barat\",\"NT\":\"Nusa Tenggara Timur\",\"KB\":\"Kalimantan Barat\",\"KT\":\"Kalimantan Tengah\",\"KI\":\"Kalimantan Timur\",\"KS\":\"Kalimantan Selatan\",\"KU\":\"Kalimantan Utara\",\"SA\":\"Sulawesi Utara\",\"ST\":\"Sulawesi Tengah\",\"SG\":\"Sulawesi Tenggara\",\"SR\":\"Sulawesi Barat\",\"SN\":\"Sulawesi Selatan\",\"GO\":\"Gorontalo\",\"MA\":\"Maluku\",\"MU\":\"Maluku Utara\",\"PA\":\"Papua\",\"PB\":\"Papua Barat\"},\"IE\":{\"CW\":\"Carlow\",\"CN\":\"Cavan\",\"CE\":\"Clare\",\"CO\":\"Cork\",\"DL\":\"Donegal\",\"D\":\"Dublin\",\"G\":\"Galway\",\"KY\":\"Kerry\",\"KE\":\"Kildare\",\"KK\":\"Kilkenny\",\"LS\":\"Laois\",\"LM\":\"Leitrim\",\"LK\":\"Limerick\",\"LD\":\"Longford\",\"LH\":\"Louth\",\"MO\":\"Mayo\",\"MH\":\"Meath\",\"MN\":\"Monaghan\",\"OY\":\"Offaly\",\"RN\":\"Roscommon\",\"SO\":\"Sligo\",\"TA\":\"Tipperary\",\"WD\":\"Waterford\",\"WH\":\"Westmeath\",\"WX\":\"Wexford\",\"WW\":\"Wicklow\"},\"IN\":{\"AP\":\"Andhra Pradesh\",\"AR\":\"Arunachal Pradesh\",\"AS\":\"Assam\",\"BR\":\"Bihar\",\"CT\":\"Chhattisgarh\",\"GA\":\"Goa\",\"GJ\":\"Gujarat\",\"HR\":\"Haryana\",\"HP\":\"Himachal Pradesh\",\"JK\":\"Jammu and Kashmir\",\"JH\":\"Jharkhand\",\"KA\":\"Karnataka\",\"KL\":\"Kerala\",\"MP\":\"Madhya Pradesh\",\"MH\":\"Maharashtra\",\"MN\":\"Manipur\",\"ML\":\"Meghalaya\",\"MZ\":\"Mizoram\",\"NL\":\"Nagaland\",\"OR\":\"Orissa\",\"PB\":\"Punjab\",\"RJ\":\"Rajasthan\",\"SK\":\"Sikkim\",\"TN\":\"Tamil Nadu\",\"TS\":\"Telangana\",\"TR\":\"Tripura\",\"UK\":\"Uttarakhand\",\"UP\":\"Uttar Pradesh\",\"WB\":\"West Bengal\",\"AN\":\"Andaman and Nicobar Islands\",\"CH\":\"Chandigarh\",\"DN\":\"Dadra and Nagar Haveli\",\"DD\":\"Daman and Diu\",\"DL\":\"Delhi\",\"LD\":\"Lakshadeep\",\"PY\":\"Pondicherry (Puducherry)\"},\"IR\":{\"KHZ\":\"Khuzestan  (\\u062e\\u0648\\u0632\\u0633\\u062a\\u0627\\u0646)\",\"THR\":\"Tehran  (\\u062a\\u0647\\u0631\\u0627\\u0646)\",\"ILM\":\"Ilaam (\\u0627\\u06cc\\u0644\\u0627\\u0645)\",\"BHR\":\"Bushehr (\\u0628\\u0648\\u0634\\u0647\\u0631)\",\"ADL\":\"Ardabil (\\u0627\\u0631\\u062f\\u0628\\u06cc\\u0644)\",\"ESF\":\"Isfahan (\\u0627\\u0635\\u0641\\u0647\\u0627\\u0646)\",\"YZD\":\"Yazd (\\u06cc\\u0632\\u062f)\",\"KRH\":\"Kermanshah (\\u06a9\\u0631\\u0645\\u0627\\u0646\\u0634\\u0627\\u0647)\",\"KRN\":\"Kerman (\\u06a9\\u0631\\u0645\\u0627\\u0646)\",\"HDN\":\"Hamadan (\\u0647\\u0645\\u062f\\u0627\\u0646)\",\"GZN\":\"Ghazvin (\\u0642\\u0632\\u0648\\u06cc\\u0646)\",\"ZJN\":\"Zanjan (\\u0632\\u0646\\u062c\\u0627\\u0646)\",\"LRS\":\"Luristan (\\u0644\\u0631\\u0633\\u062a\\u0627\\u0646)\",\"ABZ\":\"Alborz (\\u0627\\u0644\\u0628\\u0631\\u0632)\",\"EAZ\":\"East Azarbaijan (\\u0622\\u0630\\u0631\\u0628\\u0627\\u06cc\\u062c\\u0627\\u0646 \\u0634\\u0631\\u0642\\u06cc)\",\"WAZ\":\"West Azarbaijan (\\u0622\\u0630\\u0631\\u0628\\u0627\\u06cc\\u062c\\u0627\\u0646 \\u063a\\u0631\\u0628\\u06cc)\",\"CHB\":\"Chaharmahal and Bakhtiari (\\u0686\\u0647\\u0627\\u0631\\u0645\\u062d\\u0627\\u0644 \\u0648 \\u0628\\u062e\\u062a\\u06cc\\u0627\\u0631\\u06cc)\",\"SKH\":\"South Khorasan (\\u062e\\u0631\\u0627\\u0633\\u0627\\u0646 \\u062c\\u0646\\u0648\\u0628\\u06cc)\",\"RKH\":\"Razavi Khorasan (\\u062e\\u0631\\u0627\\u0633\\u0627\\u0646 \\u0631\\u0636\\u0648\\u06cc)\",\"NKH\":\"North Khorasan (\\u062e\\u0631\\u0627\\u0633\\u0627\\u0646 \\u0634\\u0645\\u0627\\u0644\\u06cc)\",\"SMN\":\"Semnan (\\u0633\\u0645\\u0646\\u0627\\u0646)\",\"FRS\":\"Fars (\\u0641\\u0627\\u0631\\u0633)\",\"QHM\":\"Qom (\\u0642\\u0645)\",\"KRD\":\"Kurdistan \\\/ \\u06a9\\u0631\\u062f\\u0633\\u062a\\u0627\\u0646)\",\"KBD\":\"Kohgiluyeh and BoyerAhmad (\\u06a9\\u0647\\u06af\\u06cc\\u0644\\u0648\\u06cc\\u06cc\\u0647 \\u0648 \\u0628\\u0648\\u06cc\\u0631\\u0627\\u062d\\u0645\\u062f)\",\"GLS\":\"Golestan (\\u06af\\u0644\\u0633\\u062a\\u0627\\u0646)\",\"GIL\":\"Gilan (\\u06af\\u06cc\\u0644\\u0627\\u0646)\",\"MZN\":\"Mazandaran (\\u0645\\u0627\\u0632\\u0646\\u062f\\u0631\\u0627\\u0646)\",\"MKZ\":\"Markazi (\\u0645\\u0631\\u06a9\\u0632\\u06cc)\",\"HRZ\":\"Hormozgan (\\u0647\\u0631\\u0645\\u0632\\u06af\\u0627\\u0646)\",\"SBN\":\"Sistan and Baluchestan (\\u0633\\u06cc\\u0633\\u062a\\u0627\\u0646 \\u0648 \\u0628\\u0644\\u0648\\u0686\\u0633\\u062a\\u0627\\u0646)\"},\"IS\":[],\"IT\":{\"AG\":\"Agrigento\",\"AL\":\"Alessandria\",\"AN\":\"Ancona\",\"AO\":\"Aosta\",\"AR\":\"Arezzo\",\"AP\":\"Ascoli Piceno\",\"AT\":\"Asti\",\"AV\":\"Avellino\",\"BA\":\"Bari\",\"BT\":\"Barletta-Andria-Trani\",\"BL\":\"Belluno\",\"BN\":\"Benevento\",\"BG\":\"Bergamo\",\"BI\":\"Biella\",\"BO\":\"Bologna\",\"BZ\":\"Bolzano\",\"BS\":\"Brescia\",\"BR\":\"Brindisi\",\"CA\":\"Cagliari\",\"CL\":\"Caltanissetta\",\"CB\":\"Campobasso\",\"CE\":\"Caserta\",\"CT\":\"Catania\",\"CZ\":\"Catanzaro\",\"CH\":\"Chieti\",\"CO\":\"Como\",\"CS\":\"Cosenza\",\"CR\":\"Cremona\",\"KR\":\"Crotone\",\"CN\":\"Cuneo\",\"EN\":\"Enna\",\"FM\":\"Fermo\",\"FE\":\"Ferrara\",\"FI\":\"Firenze\",\"FG\":\"Foggia\",\"FC\":\"Forl\\u00ec-Cesena\",\"FR\":\"Frosinone\",\"GE\":\"Genova\",\"GO\":\"Gorizia\",\"GR\":\"Grosseto\",\"IM\":\"Imperia\",\"IS\":\"Isernia\",\"SP\":\"La Spezia\",\"AQ\":\"L'Aquila\",\"LT\":\"Latina\",\"LE\":\"Lecce\",\"LC\":\"Lecco\",\"LI\":\"Livorno\",\"LO\":\"Lodi\",\"LU\":\"Lucca\",\"MC\":\"Macerata\",\"MN\":\"Mantova\",\"MS\":\"Massa-Carrara\",\"MT\":\"Matera\",\"ME\":\"Messina\",\"MI\":\"Milano\",\"MO\":\"Modena\",\"MB\":\"Monza e della Brianza\",\"NA\":\"Napoli\",\"NO\":\"Novara\",\"NU\":\"Nuoro\",\"OR\":\"Oristano\",\"PD\":\"Padova\",\"PA\":\"Palermo\",\"PR\":\"Parma\",\"PV\":\"Pavia\",\"PG\":\"Perugia\",\"PU\":\"Pesaro e Urbino\",\"PE\":\"Pescara\",\"PC\":\"Piacenza\",\"PI\":\"Pisa\",\"PT\":\"Pistoia\",\"PN\":\"Pordenone\",\"PZ\":\"Potenza\",\"PO\":\"Prato\",\"RG\":\"Ragusa\",\"RA\":\"Ravenna\",\"RC\":\"Reggio Calabria\",\"RE\":\"Reggio Emilia\",\"RI\":\"Rieti\",\"RN\":\"Rimini\",\"RM\":\"Roma\",\"RO\":\"Rovigo\",\"SA\":\"Salerno\",\"SS\":\"Sassari\",\"SV\":\"Savona\",\"SI\":\"Siena\",\"SR\":\"Siracusa\",\"SO\":\"Sondrio\",\"SU\":\"Sud Sardegna\",\"TA\":\"Taranto\",\"TE\":\"Teramo\",\"TR\":\"Terni\",\"TO\":\"Torino\",\"TP\":\"Trapani\",\"TN\":\"Trento\",\"TV\":\"Treviso\",\"TS\":\"Trieste\",\"UD\":\"Udine\",\"VA\":\"Varese\",\"VE\":\"Venezia\",\"VB\":\"Verbano-Cusio-Ossola\",\"VC\":\"Vercelli\",\"VR\":\"Verona\",\"VV\":\"Vibo Valentia\",\"VI\":\"Vicenza\",\"VT\":\"Viterbo\"},\"IL\":[],\"IM\":[],\"JP\":{\"JP01\":\"Hokkaido\",\"JP02\":\"Aomori\",\"JP03\":\"Iwate\",\"JP04\":\"Miyagi\",\"JP05\":\"Akita\",\"JP06\":\"Yamagata\",\"JP07\":\"Fukushima\",\"JP08\":\"Ibaraki\",\"JP09\":\"Tochigi\",\"JP10\":\"Gunma\",\"JP11\":\"Saitama\",\"JP12\":\"Chiba\",\"JP13\":\"Tokyo\",\"JP14\":\"Kanagawa\",\"JP15\":\"Niigata\",\"JP16\":\"Toyama\",\"JP17\":\"Ishikawa\",\"JP18\":\"Fukui\",\"JP19\":\"Yamanashi\",\"JP20\":\"Nagano\",\"JP21\":\"Gifu\",\"JP22\":\"Shizuoka\",\"JP23\":\"Aichi\",\"JP24\":\"Mie\",\"JP25\":\"Shiga\",\"JP26\":\"Kyoto\",\"JP27\":\"Osaka\",\"JP28\":\"Hyogo\",\"JP29\":\"Nara\",\"JP30\":\"Wakayama\",\"JP31\":\"Tottori\",\"JP32\":\"Shimane\",\"JP33\":\"Okayama\",\"JP34\":\"Hiroshima\",\"JP35\":\"Yamaguchi\",\"JP36\":\"Tokushima\",\"JP37\":\"Kagawa\",\"JP38\":\"Ehime\",\"JP39\":\"Kochi\",\"JP40\":\"Fukuoka\",\"JP41\":\"Saga\",\"JP42\":\"Nagasaki\",\"JP43\":\"Kumamoto\",\"JP44\":\"Oita\",\"JP45\":\"Miyazaki\",\"JP46\":\"Kagoshima\",\"JP47\":\"Okinawa\"},\"KR\":[],\"KW\":[],\"LB\":[],\"LR\":{\"BM\":\"Bomi\",\"BN\":\"Bong\",\"GA\":\"Gbarpolu\",\"GB\":\"Grand Bassa\",\"GC\":\"Grand Cape Mount\",\"GG\":\"Grand Gedeh\",\"GK\":\"Grand Kru\",\"LO\":\"Lofa\",\"MA\":\"Margibi\",\"MY\":\"Maryland\",\"MO\":\"Montserrado\",\"NM\":\"Nimba\",\"RV\":\"Rivercess\",\"RG\":\"River Gee\",\"SN\":\"Sinoe\"},\"LU\":[],\"MD\":{\"C\":\"Chi\u0219in\u0103u\",\"BL\":\"B\u0103l\u021bi\",\"AN\":\"Anenii Noi\",\"BS\":\"Basarabeasca\",\"BR\":\"Briceni\",\"CH\":\"Cahul\",\"CT\":\"Cantemir\",\"CL\":\"C\u0103l\u0103ra\u0219i\",\"CS\":\"C\u0103u\u0219eni\",\"CM\":\"Cimi\u0219lia\",\"CR\":\"Criuleni\",\"DN\":\"Dondu\u0219eni\",\"DR\":\"Drochia\",\"DB\":\"Dub\u0103sari\",\"ED\":\"Edine\u021b\",\"FL\":\"F\u0103le\u0219ti\",\"FR\":\"Flore\u0219ti\",\"GE\":\"UTA G\u0103g\u0103uzia\",\"GL\":\"Glodeni\",\"HN\":\"H\u00eence\u0219ti\",\"IL\":\"Ialoveni\",\"LV\":\"Leova\",\"NS\":\"Nisporeni\",\"OC\":\"Ocni\u021ba\",\"OR\":\"Orhei\",\"RZ\":\"Rezina\",\"RS\":\"R\u00ee\u0219cani\",\"SG\":\"S\u00eengerei\",\"SR\":\"Soroca\",\"ST\":\"Str\u0103\u0219eni\",\"SD\":\"\u0218old\u0103ne\u0219ti\",\"SV\":\"\u0218tefan Vod\u0103\",\"TR\":\"Taraclia\",\"TL\":\"Telene\u0219ti\",\"UN\":\"Ungheni\"},\"MQ\":[],\"MT\":[],\"MX\":{\"DF\":\"Ciudad de M\u00e9xico\",\"JA\":\"Jalisco\",\"NL\":\"Nuevo Le\u00f3n\",\"AG\":\"Aguascalientes\",\"BC\":\"Baja California\",\"BS\":\"Baja California Sur\",\"CM\":\"Campeche\",\"CS\":\"Chiapas\",\"CH\":\"Chihuahua\",\"CO\":\"Coahuila\",\"CL\":\"Colima\",\"DG\":\"Durango\",\"GT\":\"Guanajuato\",\"GR\":\"Guerrero\",\"HG\":\"Hidalgo\",\"MX\":\"Estado de M\u00e9xico\",\"MI\":\"Michoac\u00e1n\",\"MO\":\"Morelos\",\"NA\":\"Nayarit\",\"OA\":\"Oaxaca\",\"PU\":\"Puebla\",\"QT\":\"Quer\u00e9taro\",\"QR\":\"Quintana Roo\",\"SL\":\"San Luis Potos\u00ed\",\"SI\":\"Sinaloa\",\"SO\":\"Sonora\",\"TB\":\"Tabasco\",\"TM\":\"Tamaulipas\",\"TL\":\"Tlaxcala\",\"VE\":\"Veracruz\",\"YU\":\"Yucat\u00e1n\",\"ZA\":\"Zacatecas\"},\"MY\":{\"JHR\":\"Johor\",\"KDH\":\"Kedah\",\"KTN\":\"Kelantan\",\"LBN\":\"Labuan\",\"MLK\":\"Malacca (Melaka)\",\"NSN\":\"Negeri Sembilan\",\"PHG\":\"Pahang\",\"PNG\":\"Penang (Pulau Pinang)\",\"PRK\":\"Perak\",\"PLS\":\"Perlis\",\"SBH\":\"Sabah\",\"SWK\":\"Sarawak\",\"SGR\":\"Selangor\",\"TRG\":\"Terengganu\",\"PJY\":\"Putrajaya\",\"KUL\":\"Kuala Lumpur\"},\"NG\":{\"AB\":\"Abia\",\"FC\":\"Abuja\",\"AD\":\"Adamawa\",\"AK\":\"Akwa Ibom\",\"AN\":\"Anambra\",\"BA\":\"Bauchi\",\"BY\":\"Bayelsa\",\"BE\":\"Benue\",\"BO\":\"Borno\",\"CR\":\"Cross River\",\"DE\":\"Delta\",\"EB\":\"Ebonyi\",\"ED\":\"Edo\",\"EK\":\"Ekiti\",\"EN\":\"Enugu\",\"GO\":\"Gombe\",\"IM\":\"Imo\",\"JI\":\"Jigawa\",\"KD\":\"Kaduna\",\"KN\":\"Kano\",\"KT\":\"Katsina\",\"KE\":\"Kebbi\",\"KO\":\"Kogi\",\"KW\":\"Kwara\",\"LA\":\"Lagos\",\"NA\":\"Nasarawa\",\"NI\":\"Niger\",\"OG\":\"Ogun\",\"ON\":\"Ondo\",\"OS\":\"Osun\",\"OY\":\"Oyo\",\"PL\":\"Plateau\",\"RI\":\"Rivers\",\"SO\":\"Sokoto\",\"TA\":\"Taraba\",\"YO\":\"Yobe\",\"ZA\":\"Zamfara\"},\"NL\":[],\"NO\":[],\"NP\":{\"BAG\":\"Bagmati\",\"BHE\":\"Bheri\",\"DHA\":\"Dhaulagiri\",\"GAN\":\"Gandaki\",\"JAN\":\"Janakpur\",\"KAR\":\"Karnali\",\"KOS\":\"Koshi\",\"LUM\":\"Lumbini\",\"MAH\":\"Mahakali\",\"MEC\":\"Mechi\",\"NAR\":\"Narayani\",\"RAP\":\"Rapti\",\"SAG\":\"Sagarmatha\",\"SET\":\"Seti\"},\"NZ\":{\"NL\":\"Northland\",\"AK\":\"Auckland\",\"WA\":\"Waikato\",\"BP\":\"Bay of Plenty\",\"TK\":\"Taranaki\",\"GI\":\"Gisborne\",\"HB\":\"Hawke\u2019s Bay\",\"MW\":\"Manawatu-Wanganui\",\"WE\":\"Wellington\",\"NS\":\"Nelson\",\"MB\":\"Marlborough\",\"TM\":\"Tasman\",\"WC\":\"West Coast\",\"CT\":\"Canterbury\",\"OT\":\"Otago\",\"SL\":\"Southland\"},\"PE\":{\"CAL\":\"El Callao\",\"LMA\":\"Municipalidad Metropolitana de Lima\",\"AMA\":\"Amazonas\",\"ANC\":\"Ancash\",\"APU\":\"Apur\u00edmac\",\"ARE\":\"Arequipa\",\"AYA\":\"Ayacucho\",\"CAJ\":\"Cajamarca\",\"CUS\":\"Cusco\",\"HUV\":\"Huancavelica\",\"HUC\":\"Hu\u00e1nuco\",\"ICA\":\"Ica\",\"JUN\":\"Jun\u00edn\",\"LAL\":\"La Libertad\",\"LAM\":\"Lambayeque\",\"LIM\":\"Lima\",\"LOR\":\"Loreto\",\"MDD\":\"Madre de Dios\",\"MOQ\":\"Moquegua\",\"PAS\":\"Pasco\",\"PIU\":\"Piura\",\"PUN\":\"Puno\",\"SAM\":\"San Mart\u00edn\",\"TAC\":\"Tacna\",\"TUM\":\"Tumbes\",\"UCA\":\"Ucayali\"},\"PH\":{\"ABR\":\"Abra\",\"AGN\":\"Agusan del Norte\",\"AGS\":\"Agusan del Sur\",\"AKL\":\"Aklan\",\"ALB\":\"Albay\",\"ANT\":\"Antique\",\"APA\":\"Apayao\",\"AUR\":\"Aurora\",\"BAS\":\"Basilan\",\"BAN\":\"Bataan\",\"BTN\":\"Batanes\",\"BTG\":\"Batangas\",\"BEN\":\"Benguet\",\"BIL\":\"Biliran\",\"BOH\":\"Bohol\",\"BUK\":\"Bukidnon\",\"BUL\":\"Bulacan\",\"CAG\":\"Cagayan\",\"CAN\":\"Camarines Norte\",\"CAS\":\"Camarines Sur\",\"CAM\":\"Camiguin\",\"CAP\":\"Capiz\",\"CAT\":\"Catanduanes\",\"CAV\":\"Cavite\",\"CEB\":\"Cebu\",\"COM\":\"Compostela Valley\",\"NCO\":\"Cotabato\",\"DAV\":\"Davao del Norte\",\"DAS\":\"Davao del Sur\",\"DAC\":\"Davao Occidental\",\"DAO\":\"Davao Oriental\",\"DIN\":\"Dinagat Islands\",\"EAS\":\"Eastern Samar\",\"GUI\":\"Guimaras\",\"IFU\":\"Ifugao\",\"ILN\":\"Ilocos Norte\",\"ILS\":\"Ilocos Sur\",\"ILI\":\"Iloilo\",\"ISA\":\"Isabela\",\"KAL\":\"Kalinga\",\"LUN\":\"La Union\",\"LAG\":\"Laguna\",\"LAN\":\"Lanao del Norte\",\"LAS\":\"Lanao del Sur\",\"LEY\":\"Leyte\",\"MAG\":\"Maguindanao\",\"MAD\":\"Marinduque\",\"MAS\":\"Masbate\",\"MSC\":\"Misamis Occidental\",\"MSR\":\"Misamis Oriental\",\"MOU\":\"Mountain Province\",\"NEC\":\"Negros Occidental\",\"NER\":\"Negros Oriental\",\"NSA\":\"Northern Samar\",\"NUE\":\"Nueva Ecija\",\"NUV\":\"Nueva Vizcaya\",\"MDC\":\"Occidental Mindoro\",\"MDR\":\"Oriental Mindoro\",\"PLW\":\"Palawan\",\"PAM\":\"Pampanga\",\"PAN\":\"Pangasinan\",\"QUE\":\"Quezon\",\"QUI\":\"Quirino\",\"RIZ\":\"Rizal\",\"ROM\":\"Romblon\",\"WSA\":\"Samar\",\"SAR\":\"Sarangani\",\"SIQ\":\"Siquijor\",\"SOR\":\"Sorsogon\",\"SCO\":\"South Cotabato\",\"SLE\":\"Southern Leyte\",\"SUK\":\"Sultan Kudarat\",\"SLU\":\"Sulu\",\"SUN\":\"Surigao del Norte\",\"SUR\":\"Surigao del Sur\",\"TAR\":\"Tarlac\",\"TAW\":\"Tawi-Tawi\",\"ZMB\":\"Zambales\",\"ZAN\":\"Zamboanga del Norte\",\"ZAS\":\"Zamboanga del Sur\",\"ZSI\":\"Zamboanga Sibugay\",\"00\":\"Metro Manila\"},\"PK\":{\"JK\":\"Azad Kashmir\",\"BA\":\"Balochistan\",\"TA\":\"FATA\",\"GB\":\"Gilgit Baltistan\",\"IS\":\"Islamabad Capital Territory\",\"KP\":\"Khyber Pakhtunkhwa\",\"PB\":\"Punjab\",\"SD\":\"Sindh\"},\"PL\":[],\"PT\":[],\"PY\":{\"PY-ASU\":\"Asunci\u00f3n\",\"PY-1\":\"Concepci\u00f3n\",\"PY-2\":\"San Pedro\",\"PY-3\":\"Cordillera\",\"PY-4\":\"Guair\u00e1\",\"PY-5\":\"Caaguaz\u00fa\",\"PY-6\":\"Caazap\u00e1\",\"PY-7\":\"Itap\u00faa\",\"PY-8\":\"Misiones\",\"PY-9\":\"Paraguar\u00ed\",\"PY-10\":\"Alto Paran\u00e1\",\"PY-11\":\"Central\",\"PY-12\":\"\u00d1eembuc\u00fa\",\"PY-13\":\"Amambay\",\"PY-14\":\"Canindey\u00fa\",\"PY-15\":\"Presidente Hayes\",\"PY-16\":\"Alto Paraguay\",\"PY-17\":\"Boquer\u00f3n\"},\"RE\":[],\"RO\":{\"AB\":\"Alba\",\"AR\":\"Arad\",\"AG\":\"Arge\u0219\",\"BC\":\"Bac\u0103u\",\"BH\":\"Bihor\",\"BN\":\"Bistri\u021ba-N\u0103s\u0103ud\",\"BT\":\"Boto\u0219ani\",\"BR\":\"Br\u0103ila\",\"BV\":\"Bra\u0219ov\",\"B\":\"Bucure\u0219ti\",\"BZ\":\"Buz\u0103u\",\"CL\":\"C\u0103l\u0103ra\u0219i\",\"CS\":\"Cara\u0219-Severin\",\"CJ\":\"Cluj\",\"CT\":\"Constan\u021ba\",\"CV\":\"Covasna\",\"DB\":\"D\u00e2mbovi\u021ba\",\"DJ\":\"Dolj\",\"GL\":\"Gala\u021bi\",\"GR\":\"Giurgiu\",\"GJ\":\"Gorj\",\"HR\":\"Harghita\",\"HD\":\"Hunedoara\",\"IL\":\"Ialomi\u021ba\",\"IS\":\"Ia\u0219i\",\"IF\":\"Ilfov\",\"MM\":\"Maramure\u0219\",\"MH\":\"Mehedin\u021bi\",\"MS\":\"Mure\u0219\",\"NT\":\"Neam\u021b\",\"OT\":\"Olt\",\"PH\":\"Prahova\",\"SJ\":\"S\u0103laj\",\"SM\":\"Satu Mare\",\"SB\":\"Sibiu\",\"SV\":\"Suceava\",\"TR\":\"Teleorman\",\"TM\":\"Timi\u0219\",\"TL\":\"Tulcea\",\"VL\":\"V\u00e2lcea\",\"VS\":\"Vaslui\",\"VN\":\"Vrancea\"},\"RS\":[],\"SG\":[],\"SK\":[],\"SI\":[],\"TH\":{\"TH-37\":\"Amnat Charoen\",\"TH-15\":\"Ang Thong\",\"TH-14\":\"Ayutthaya\",\"TH-10\":\"Bangkok\",\"TH-38\":\"Bueng Kan\",\"TH-31\":\"Buri Ram\",\"TH-24\":\"Chachoengsao\",\"TH-18\":\"Chai Nat\",\"TH-36\":\"Chaiyaphum\",\"TH-22\":\"Chanthaburi\",\"TH-50\":\"Chiang Mai\",\"TH-57\":\"Chiang Rai\",\"TH-20\":\"Chonburi\",\"TH-86\":\"Chumphon\",\"TH-46\":\"Kalasin\",\"TH-62\":\"Kamphaeng Phet\",\"TH-71\":\"Kanchanaburi\",\"TH-40\":\"Khon Kaen\",\"TH-81\":\"Krabi\",\"TH-52\":\"Lampang\",\"TH-51\":\"Lamphun\",\"TH-42\":\"Loei\",\"TH-16\":\"Lopburi\",\"TH-58\":\"Mae Hong Son\",\"TH-44\":\"Maha Sarakham\",\"TH-49\":\"Mukdahan\",\"TH-26\":\"Nakhon Nayok\",\"TH-73\":\"Nakhon Pathom\",\"TH-48\":\"Nakhon Phanom\",\"TH-30\":\"Nakhon Ratchasima\",\"TH-60\":\"Nakhon Sawan\",\"TH-80\":\"Nakhon Si Thammarat\",\"TH-55\":\"Nan\",\"TH-96\":\"Narathiwat\",\"TH-39\":\"Nong Bua Lam Phu\",\"TH-43\":\"Nong Khai\",\"TH-12\":\"Nonthaburi\",\"TH-13\":\"Pathum Thani\",\"TH-94\":\"Pattani\",\"TH-82\":\"Phang Nga\",\"TH-93\":\"Phatthalung\",\"TH-56\":\"Phayao\",\"TH-67\":\"Phetchabun\",\"TH-76\":\"Phetchaburi\",\"TH-66\":\"Phichit\",\"TH-65\":\"Phitsanulok\",\"TH-54\":\"Phrae\",\"TH-83\":\"Phuket\",\"TH-25\":\"Prachin Buri\",\"TH-77\":\"Prachuap Khiri Khan\",\"TH-85\":\"Ranong\",\"TH-70\":\"Ratchaburi\",\"TH-21\":\"Rayong\",\"TH-45\":\"Roi Et\",\"TH-27\":\"Sa Kaeo\",\"TH-47\":\"Sakon Nakhon\",\"TH-11\":\"Samut Prakan\",\"TH-74\":\"Samut Sakhon\",\"TH-75\":\"Samut Songkhram\",\"TH-19\":\"Saraburi\",\"TH-91\":\"Satun\",\"TH-17\":\"Sing Buri\",\"TH-33\":\"Sisaket\",\"TH-90\":\"Songkhla\",\"TH-64\":\"Sukhothai\",\"TH-72\":\"Suphan Buri\",\"TH-84\":\"Surat Thani\",\"TH-32\":\"Surin\",\"TH-63\":\"Tak\",\"TH-92\":\"Trang\",\"TH-23\":\"Trat\",\"TH-34\":\"Ubon Ratchathani\",\"TH-41\":\"Udon Thani\",\"TH-61\":\"Uthai Thani\",\"TH-53\":\"Uttaradit\",\"TH-95\":\"Yala\",\"TH-35\":\"Yasothon\"},\"TR\":{\"TR01\":\"Adana\",\"TR02\":\"Ad\u0131yaman\",\"TR03\":\"Afyon\",\"TR04\":\"A\u011fr\u0131\",\"TR05\":\"Amasya\",\"TR06\":\"Ankara\",\"TR07\":\"Antalya\",\"TR08\":\"Artvin\",\"TR09\":\"Ayd\u0131n\",\"TR10\":\"Bal\u0131kesir\",\"TR11\":\"Bilecik\",\"TR12\":\"Bing\u00f6l\",\"TR13\":\"Bitlis\",\"TR14\":\"Bolu\",\"TR15\":\"Burdur\",\"TR16\":\"Bursa\",\"TR17\":\"\u00c7anakkale\",\"TR18\":\"\u00c7ank\u0131r\u0131\",\"TR19\":\"\u00c7orum\",\"TR20\":\"Denizli\",\"TR21\":\"Diyarbak\u0131r\",\"TR22\":\"Edirne\",\"TR23\":\"Elaz\u0131\u011f\",\"TR24\":\"Erzincan\",\"TR25\":\"Erzurum\",\"TR26\":\"Eski\u015fehir\",\"TR27\":\"Gaziantep\",\"TR28\":\"Giresun\",\"TR29\":\"G\u00fcm\u00fc\u015fhane\",\"TR30\":\"Hakkari\",\"TR31\":\"Hatay\",\"TR32\":\"Isparta\",\"TR33\":\"\u0130\u00e7el\",\"TR34\":\"\u0130stanbul\",\"TR35\":\"\u0130zmir\",\"TR36\":\"Kars\",\"TR37\":\"Kastamonu\",\"TR38\":\"Kayseri\",\"TR39\":\"K\u0131rklareli\",\"TR40\":\"K\u0131r\u015fehir\",\"TR41\":\"Kocaeli\",\"TR42\":\"Konya\",\"TR43\":\"K\u00fctahya\",\"TR44\":\"Malatya\",\"TR45\":\"Manisa\",\"TR46\":\"Kahramanmara\u015f\",\"TR47\":\"Mardin\",\"TR48\":\"Mu\u011fla\",\"TR49\":\"Mu\u015f\",\"TR50\":\"Nev\u015fehir\",\"TR51\":\"Ni\u011fde\",\"TR52\":\"Ordu\",\"TR53\":\"Rize\",\"TR54\":\"Sakarya\",\"TR55\":\"Samsun\",\"TR56\":\"Siirt\",\"TR57\":\"Sinop\",\"TR58\":\"Sivas\",\"TR59\":\"Tekirda\u011f\",\"TR60\":\"Tokat\",\"TR61\":\"Trabzon\",\"TR62\":\"Tunceli\",\"TR63\":\"\u015eanl\u0131urfa\",\"TR64\":\"U\u015fak\",\"TR65\":\"Van\",\"TR66\":\"Yozgat\",\"TR67\":\"Zonguldak\",\"TR68\":\"Aksaray\",\"TR69\":\"Bayburt\",\"TR70\":\"Karaman\",\"TR71\":\"K\u0131r\u0131kkale\",\"TR72\":\"Batman\",\"TR73\":\"\u015e\u0131rnak\",\"TR74\":\"Bart\u0131n\",\"TR75\":\"Ardahan\",\"TR76\":\"I\u011fd\u0131r\",\"TR77\":\"Yalova\",\"TR78\":\"Karab\u00fck\",\"TR79\":\"Kilis\",\"TR80\":\"Osmaniye\",\"TR81\":\"D\u00fczce\"},\"TZ\":{\"TZ01\":\"Arusha\",\"TZ02\":\"Dar es Salaam\",\"TZ03\":\"Dodoma\",\"TZ04\":\"Iringa\",\"TZ05\":\"Kagera\",\"TZ06\":\"Pemba North\",\"TZ07\":\"Zanzibar North\",\"TZ08\":\"Kigoma\",\"TZ09\":\"Kilimanjaro\",\"TZ10\":\"Pemba South\",\"TZ11\":\"Zanzibar South\",\"TZ12\":\"Lindi\",\"TZ13\":\"Mara\",\"TZ14\":\"Mbeya\",\"TZ15\":\"Zanzibar West\",\"TZ16\":\"Morogoro\",\"TZ17\":\"Mtwara\",\"TZ18\":\"Mwanza\",\"TZ19\":\"Coast\",\"TZ20\":\"Rukwa\",\"TZ21\":\"Ruvuma\",\"TZ22\":\"Shinyanga\",\"TZ23\":\"Singida\",\"TZ24\":\"Tabora\",\"TZ25\":\"Tanga\",\"TZ26\":\"Manyara\",\"TZ27\":\"Geita\",\"TZ28\":\"Katavi\",\"TZ29\":\"Njombe\",\"TZ30\":\"Simiyu\"},\"LK\":[],\"SE\":[],\"US\":{\"AL\":\"Alabama\",\"AK\":\"Alaska\",\"AZ\":\"Arizona\",\"AR\":\"Arkansas\",\"CA\":\"California\",\"CO\":\"Colorado\",\"CT\":\"Connecticut\",\"DE\":\"Delaware\",\"DC\":\"District Of Columbia\",\"FL\":\"Florida\",\"GA\":\"Georgia\",\"HI\":\"Hawaii\",\"ID\":\"Idaho\",\"IL\":\"Illinois\",\"IN\":\"Indiana\",\"IA\":\"Iowa\",\"KS\":\"Kansas\",\"KY\":\"Kentucky\",\"LA\":\"Louisiana\",\"ME\":\"Maine\",\"MD\":\"Maryland\",\"MA\":\"Massachusetts\",\"MI\":\"Michigan\",\"MN\":\"Minnesota\",\"MS\":\"Mississippi\",\"MO\":\"Missouri\",\"MT\":\"Montana\",\"NE\":\"Nebraska\",\"NV\":\"Nevada\",\"NH\":\"New Hampshire\",\"NJ\":\"New Jersey\",\"NM\":\"New Mexico\",\"NY\":\"New York\",\"NC\":\"North Carolina\",\"ND\":\"North Dakota\",\"OH\":\"Ohio\",\"OK\":\"Oklahoma\",\"OR\":\"Oregon\",\"PA\":\"Pennsylvania\",\"RI\":\"Rhode Island\",\"SC\":\"South Carolina\",\"SD\":\"South Dakota\",\"TN\":\"Tennessee\",\"TX\":\"Texas\",\"UT\":\"Utah\",\"VT\":\"Vermont\",\"VA\":\"Virginia\",\"WA\":\"Washington\",\"WV\":\"West Virginia\",\"WI\":\"Wisconsin\",\"WY\":\"Wyoming\",\"AA\":\"Armed Forces (AA)\",\"AE\":\"Armed Forces (AE)\",\"AP\":\"Armed Forces (AP)\"},\"VN\":[],\"YT\":[],\"ZA\":{\"EC\":\"Eastern Cape\",\"FS\":\"Free State\",\"GP\":\"Gauteng\",\"KZN\":\"KwaZulu-Natal\",\"LP\":\"Limpopo\",\"MP\":\"Mpumalanga\",\"NC\":\"Northern Cape\",\"NW\":\"North West\",\"WC\":\"Western Cape\"}}","password_strength":{"min_password_strength":3,"i18n_password_error":"Please enter a stronger password.","i18n_password_hint":"Conseil\u00a0: Le mot de passe devrait contenir au moins douze caract\u00e8res. Pour le rendre plus s\u00fbr, utilisez des lettres en majuscules et minuscules, des nombres, et des symboles tels que ! &quot; ? $ % ^ &amp; )."}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.anygenes.com/wp-content/plugins/easy-login-woocommerce/xoo-form-fields-fw/assets/js/xoo-aff-js.js?ver=1.1' id='xoo-aff-js-js'></script>
+<script type='text/javascript' src='https://www.anygenes.com/wp-content/plugins/easy-login-woocommerce/library/smooth-scrollbar/smooth-scrollbar.js?ver=2.1' id='smooth-scrollbar-js'></script>
+<script type='text/javascript' id='xoo-el-js-js-extra'>
+/* <![CDATA[ */
+var xoo_el_localize = {"adminurl":"https:\/\/www.anygenes.com\/wp-admin\/admin-ajax.php","redirectDelay":"300","html":{"spinner":"<i class=\"fas fa-circle-notch spinner fa-spin\" aria-hidden=\"true\"><\/i>"},"autoOpenPopup":"no","aoDelay":"500"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.anygenes.com/wp-content/plugins/easy-login-woocommerce/assets/js/xoo-el-js.js?ver=2.1' id='xoo-el-js-js'></script>
+<script type='text/javascript' src='https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js?ver=5.7.4' id='popper-js'></script>
+<script type='text/javascript' src='https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js?ver=5.7.4' id='bootstrap-js'></script>
+<script type='text/javascript' src='https://www.anygenes.com/wp-includes/js/wp-embed.min.js?ver=5.7.4' id='wp-embed-js'></script>
+<script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBB8kEhZ59rgiieE-OoLUrrPZXMB7Qq7uI&callback=initMap">
+    </script>
+
+ <script>
+    var marker;
+    var image = 'https://www.anygenes.com/images/iconeMap.ico';
+
+    function initMap() {
+        var myLatLng = {
+            lat: 48.8659586,
+            lng: 2.4009226
+        };
+
+        // Specify features and elements to define styles.
+        var styleArray = [{
+            featureType: "all",
+            stylers: [{
+                saturation: 10
+            }]
+        }, {
+            color: "#C0C0C0",
+            featureType: "road.arterial",
+            elementType: "geometry",
+            stylers: [{
+                    hue: "#CCFFFF"
+                },
+                {
+                    saturation: 50
+                }
+            ]
+        }, {
+            featureType: "poi.business",
+            elementType: "labels",
+            stylers: [{
+                visibility: "off"
+            }]
+        }];
+
+        var map = new google.maps.Map(document.getElementById('map'), {
+            center: myLatLng,
+            scrollwheel: false,
+            // Apply the map style array to the map.
+            styles: styleArray,
+            zoom: 9
+        });
+
+        var directionsDisplay = new google.maps.DirectionsRenderer({
+            map: map
+        });
+
+        // Create a marker and set its position.
+        marker = new google.maps.Marker({
+            map: map,
+            icon: image,
+            draggable: true,
+            animation: google.maps.Animation.DROP,
+            position: myLatLng
+        });
+        marker.addListener('click', toggleBounce);
+    }
+
+    function toggleBounce() {
+        if (marker.getAnimation() !== null) {
+            marker.setAnimation(null);
+        } else {
+            marker.setAnimation(google.maps.Animation.BOUNCE);
+        }
+    }
+    </script>
+    <script type="text/javascript">
+    $(document).ready(function() {
+        $('#loadingg').show(3000);
+        $('#loadingg').fadeOut('fast');
+        $('#sendDivSuccess').delay(3000).fadeIn();
+        $('#sendDivError').delay(3000).fadeIn();
+        $('#Sending').delay(3000).fadeOut();
+    });
+    </script>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KSCJB9G" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<style type="text/css">
+	.tooltip {
+		display: none;
+		position: absolute;
+		border: 1px solid #333;
+		background-color: #161616;
+		border-radius: 5px;
+		padding: 10px;
+		color: #fff;
+		font-size: 12px Arial;
+	}
+</style>
+
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-md-12">
+			<ul class="" style="float: right;">
+				<a href="#TOP" class="masterTooltip TOPP" title="go to top">
+					<i style="color:blue;" class="fa fa-arrow-circle-up fa-2x" aria-hidden="true"></i>
+				</a>
+			</ul>
+		</div>
+	</div>
+</div>
+
+<footer>
+	<div class="top-footer">
+		<span style="color:steelblue;font-size:12pt;font-weight:bold;margin-left:10%;"><i style="margin-right:10px;" class="fa fa-handshake-o" aria-hidden="true"></i> Some of our partners<br /><br />
+		</span>
+		<div id="owl-brand" class="owl-carousel">
+			<div class="item">
+				<img style="width:150px;height:50px;" loading="lazy" src="https://www.anygenes.com/wp-content/themes/AnyGenes/assets/img/inserm.jpg" alt="Inserm" class="img-fluid" />
+			</div>
+			<div class="item">
+				<img style="width:150px;height:50px;" loading="lazy" src="https://www.anygenes.com/wp-content/themes/AnyGenes/assets/img/APHP.jpg" alt="Assistance Public Hôpitaux de Paris" class="img-fluid" />
+			</div>
+			<div class="item">
+				<img style="width:150px;height:50px;" loading="lazy" src="https://www.anygenes.com/wp-content/themes/AnyGenes/assets/img/gustave-roussy.jpg" alt="Gustave Roussy" class="img-fluid" />
+			</div>
+			<div class="item">
+				<img style="width:150px;height:50px;" loading="lazy" src="https://www.anygenes.com/wp-content/themes/AnyGenes/assets/img/universite-paris-descarte.jpeg" alt="universite paris descarte" class="img-fluid" />
+			</div>
+			<div class="item">
+				<img style="width:150px;height:50px;" loading="lazy" src="https://www.anygenes.com/wp-content/themes/AnyGenes/assets/img/IFM.jpg" alt="ifm" class="img-fluid" />
+			</div>
+			<div class="item">
+				<img style="width:150px;height:50px;" loading="lazy" src="https://www.anygenes.com/wp-content/themes/AnyGenes/assets/img/luxembourg-institute-health.jpg" alt="luxembourg institute health" class="img-fluid" />
+			</div>
+			<div class="item">
+				<img style="width:150px;height:50px;" loading="lazy" src="https://www.anygenes.com/wp-content/themes/AnyGenes/assets/img/idipaz.jpg" alt="idipaz" class="img-fluid" />
+			</div>
+			<div class="item">
+				<img style="width:150px;height:50px;" loading="lazy" src="https://www.anygenes.com/wp-content/themes/AnyGenes/assets/img/KERY.jpg" alt="KERY" class="img-fluid" />
+			</div>
+			<div class="item">
+				<img style="width:150px;height:50px;" loading="lazy" src="https://www.anygenes.com/wp-content/themes/AnyGenes/assets/img/hospiatl-universitario-ramon-cajal.jpg" alt="hospiatl universitario ramon cajal" class="img-fluid" />
+			</div>
+		</div>
+	</div>
+
+
+	<div class="container-fluid">
+		<div class="col-md-6 col-md-offset-1  col-xs-12 col-sm-8  col-sm-offset-1  ">
+							<br />
+				<h3 class="widget-title">Subscribe</h3>
+				<p>
+					Never miss any news published in our website. Subscribe to our newsletter now.
+				</p>
+				<p>
+					Email address:
+				</p>
+
+			
+			<form action=https://www.anygenes.com/home/register method="POST">
+									<input class="form-control form-control-sm" type="text" name="email" value="" size="40" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$" placeholder="Your Email" required />
+								<input class="form-control form-control-sm" type="hidden" name="subscribe" value="subscribe" />
+									<input type="submit" value="SUBSCRIBE" class="btn button button-subcribe btn-sm" />
+							</form>
+		</div>
+	</div>
+	<br>
+
+
+	<div class="copyright">
+		<div class="" style="padding:10px;">
+			Copyright © 2021 AnyGenes - Designed by <a href=https://www.anygenes.com title="Efficient technologies for signaling pathways">AnyGenes</a>
+			<ul class="quick-link">
+				<li><a href=https://www.anygenes.com/tu.php >Terms of Use & Privacy Policy</a></li>
+			</ul>
+		</div>
+	</div>
+</footer>
+<script>
+	$(document).ready(function() {
+		$("#owl-brand").owlCarousel({
+			margin: 5,
+
+			autoPlay: 3000,
+			stopOnHover: true,
+			items: 6,
+			itemsDesktop: [1199, 4],
+			itemsMobile: [479, 1],
+			itemsTablet: [768, 2],
+			itemsDesktopSmall: [979, 3],
+			navigation: true,
+			navigationText: ['<i class="fa fa-chevron-left fa-1x"></i>', '<i class="fa fa-chevron-right fa-1x"></i>'],
+			pagination: false,
+			responsive: true,
+			itemsTablet: [768, 2],
+			itemsTabletSmall: false,
+			singleItem: false,
+
+			responsiveClass: true,
+			responsive: {
+				0: {
+					items: 1,
+					nav: true
+				},
+				600: {
+					items: 4,
+					nav: true
+				},
+				1000: {
+					items: 6,
+					nav: true,
+
+				}
+			}
+		});
+	});
+</script>
+<script type="text/javascript">
+	$('.masterTooltip').hover(function() {
+		// Hover over code
+		var title = $(this).attr('title');
+		$(this).data('tipText', title).removeAttr('title');
+		$('<p class="tooltip" style="font-size:12pt;"></p>')
+			.text(title)
+			.appendTo('body')
+			.fadeIn('slow');
+	}, function() {
+		// Hover out code
+		$(this).attr('title', $(this).data('tipText'));
+		$('.tooltip').remove();
+	}).mousemove(function(e) {
+		var mousex = e.pageX - 110;
+		var mousey = e.pageY - 25;
+		$('.tooltip')
+			.css({
+				top: mousey,
+				left: mousex
+			})
+	});
+
+	$(document).ready(function() {
+		// Popup Window
+		var scrollTop = '';
+		var newHeight = '100';
+
+		$(window).bind('scroll', function() {
+			scrollTop = $(window).scrollTop();
+			newHeight = scrollTop + 100;
+		});
+
+		$('.popup-trigger').click(function(e) {
+			e.stopPropagation();
+			if (jQuery(window).width() < 767) {
+				$(this).after($(".popup"));
+				$('.popup').show().addClass('popup-mobile').css('top', 0);
+				$('html, body').animate({
+					scrollTop: $('.popup').offset().top
+				}, 1000);
+			} else {
+				$('.popup').removeClass('popup-mobile').css('top', newHeight).toggle();
+			};
+		});
+
+		$('html').click(function() {
+			$('.popup').hide();
+		});
+
+		$('.popup-btn-close').click(function(e) {
+			$('.popup').hide();
+		});
+
+		$('.popup').click(function(e) {
+			e.stopPropagation();
+		});
+
+		$('.TOPP').click(function() {
+			$('body,html').animate({
+				scrollTop: 0
+			}, 1000);
+			return false;
+		});
+	});
+</script>
+
+
+</body>
+
+</html>
