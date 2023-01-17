@@ -9,7 +9,7 @@ def writeExcelRow(workSheet, headers, rowIndex, data):
     cellIndex = 1
     for head in headers:
         try:
-            if head in info:
+            if head in data:
                 content = ILLEGAL_CHARACTERS_RE.sub(r'', data[head])
                 workSheet.cell(rowIndex, cellIndex).value = content.strip()
             else:
@@ -20,8 +20,16 @@ def writeExcelRow(workSheet, headers, rowIndex, data):
 
 
 def writeExcel(workSheet, headers, products):
-    for index, head in headers:
+    for index, head in enumerate(headers):
         workSheet.cell(1, index+1).value = head.strip()
 
-    for index, p in products:
+    for index, p in enumerate(products):
         writeExcelRow(workSheet, headers, index + 2, p)
+
+def generateExcel(fileName, products, headers):
+    excelFileName = fileName
+    wb = Workbook()
+    workSheet = wb.active
+    writeExcel(workSheet, headers, products)
+    wb.save(excelFileName)
+    print("flish")

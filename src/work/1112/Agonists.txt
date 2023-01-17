@@ -1,0 +1,1977 @@
+<div class="search_results" data-total-items="56">
+
+
+<div data-productcode="ab120299" data-productname="Brefeldin A, Inhibitor of ADP-ribosylation factor (ab120299)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab120299"><label for="selection-item__ab120299"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/120/ab120299/Images/ab120299-10-ab120299-Brefeldin-A-Structure-CAS-20350156.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/120/ab120299/Images/ab120299-10-ab120299-Brefeldin-A-Structure-CAS-20350156.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/120/ab120299/Images/ab120299-10-ab120299-Brefeldin-A-Structure-CAS-20350156.jpg"></li><li data-img-url="https://www.abcam.com/ps/products/120/ab120299/Images/ab120299-472347-antitnfalphatumournecrosisfactorantibodyimmunocytochemistryraw2647lpsbrefeldinatreatedmouse.jpg"></li><li data-img-url="https://www.abcam.com/ps/products/120/ab120299/Images/ab120299-255001-brefeldin-a-inhibitor-of-adp-ribosylation-factor-20350-15-6.jpg"></li><li data-img-url="https://www.abcam.com/ps/products/120/ab120299/Images/ab120299-450607-anti-mcp3-antibody-epr22649-155-bsa-and-azide-free-western-blot-wildtype-raw-264-7-untreated-control-wildtype-raw-264-7-pma-treated-80.jpg"></li><li data-img-url="https://www.abcam.com/ps/products/120/ab120299/Images/ab120299-450617-anti-tnf-alpha-antibody-epr22598-212-western-blot-wildtype-thp1-brefeldin-a-treated-5-ugml-4-h-wildtype-thp1-lps-treate.jpg"></li><li data-img-url="https://www.abcam.com/ps/products/120/ab120299/Images/ab120299-450603-anti-tnf-alpha-antibody-epr19147-western-blot-wildtype-thp1-brefeldin-a-treated-5-ugml-4-h-wildtype-thp1-lps-treate.jpg"></li><li data-img-url="https://www.abcam.com/ps/products/120/ab120299/Images/ab120299-447612-brefeldin-a-western-blot-a549-thp1-human.jpg"></li><li data-img-url="https://www.abcam.com/ps/products/120/ab120299/Images/ab120299-447591-brefeldin-a-western-blot-a549-human.jpg"></li><li data-img-url="https://www.abcam.com/ps/products/120/ab120299/Images/ab120299-447581-brefeldin-a-western-blot-a549-human.jpg"></li><li data-img-url="https://www.abcam.com/ps/products/120/ab120299/Images/ab120299-447580-brefeldin-a-western-blot-a549-human.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(10)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/brefeldin-a-inhibitor-of-adp-ribosylation-factor-ab120299.html">Brefeldin A, Inhibitor of ADP-ribosylation factor <span>(ab120299)</span></a>
+            </h3>
+            <div class="pws_links">
+                        <a href="/brefeldin-a-inhibitor-of-adp-ribosylation-factor-ab120299.html?productwalltab=abreviews"><span class="pws_ratings star_5"></span>Reviews (1)</a>
+                                    <a href="/brefeldin-a-inhibitor-of-adp-ribosylation-factor-ab120299.html#description_references" class="pws_publications pws_link">Specific References (5)</a>
+            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Inhibitor of ADP-ribosylation factor</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab141248" data-productname="Docetaxel, Cytotoxic agent (ab141248)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab141248"><label for="selection-item__ab141248"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/141/ab141248/Images/ab141248-1-ab141248-Docetaxel-Structure-CAS-114977285.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/141/ab141248/Images/ab141248-1-ab141248-Docetaxel-Structure-CAS-114977285.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/141/ab141248/Images/ab141248-1-ab141248-Docetaxel-Structure-CAS-114977285.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/docetaxel-cytotoxic-agent-ab141248.html">Docetaxel, Cytotoxic agent <span>(ab141248)</span></a>
+            </h3>
+            <div class="pws_links">
+                                    <a href="/docetaxel-cytotoxic-agent-ab141248.html#description_references" class="pws_publications pws_link">Specific References (2)</a>
+            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Potent cytotoxic agent</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 99%</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab120292" data-productname="Exo-1, Vesicular trafficking inhibitor (ab120292)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab120292"><label for="selection-item__ab120292"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/120/ab120292/Images/ab120292-2-ab120292-Exo1-Structure-CAS-461681889.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/120/ab120292/Images/ab120292-2-ab120292-Exo1-Structure-CAS-461681889.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/120/ab120292/Images/ab120292-2-ab120292-Exo1-Structure-CAS-461681889.jpg"></li><li data-img-url="https://www.abcam.com/ps/products/120/ab120292/Images/ab120292-254992-exo-1-vesicular-trafficking-inhibitor-461681-88-9.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(2)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/exo-1-vesicular-trafficking-inhibitor-ab120292.html">Exo-1, Vesicular trafficking inhibitor <span>(ab120292)</span></a>
+            </h3>
+            <div class="pws_links">
+                                    <a href="/exo-1-vesicular-trafficking-inhibitor-ab120292.html#description_references" class="pws_publications pws_link">Specific References (2)</a>
+            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Vesicular trafficking inhibitor</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab141423" data-productname="Ascorbic acid 6-palmitate, Ascorbic acid derivative (ab141423)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab141423"><label for="selection-item__ab141423"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/141/ab141423/Images/ab141423-1-ab141423-Ascorbic-acid-6palmitate-Structure-CAS-137666.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/141/ab141423/Images/ab141423-1-ab141423-Ascorbic-acid-6palmitate-Structure-CAS-137666.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/141/ab141423/Images/ab141423-1-ab141423-Ascorbic-acid-6palmitate-Structure-CAS-137666.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/ascorbic-acid-6-palmitate-ascorbic-acid-derivative-ab141423.html">Ascorbic acid 6-palmitate, Ascorbic acid derivative <span>(ab141423)</span></a>
+            </h3>
+            <div class="pws_links">
+                            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Ascorbic acid derivative</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 99%</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab142484" data-productname="Atracurium besylate, neuromuscular blocking agent (ab142484)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab142484"><label for="selection-item__ab142484"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/142/ab142484/Images/ab142484-1-ab142484-Atracurium-besylate-Structure-CAS-64228815.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/142/ab142484/Images/ab142484-1-ab142484-Atracurium-besylate-Structure-CAS-64228815.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/142/ab142484/Images/ab142484-1-ab142484-Atracurium-besylate-Structure-CAS-64228815.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/atracurium-besylate-neuromuscular-blocking-agent-ab142484.html">Atracurium besylate, neuromuscular blocking agent <span>(ab142484)</span></a>
+            </h3>
+            <div class="pws_links">
+                            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Competitive neuromuscular blocking agent</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 95%</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab142542" data-productname="SCPA, Neuropeptide (ab142542)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab142542"><label for="selection-item__ab142542"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/142/ab142542/Images/ab142542-1-ab142542-SCPA-Structure-CAS-98035791.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/142/ab142542/Images/ab142542-1-ab142542-SCPA-Structure-CAS-98035791.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/142/ab142542/Images/ab142542-1-ab142542-SCPA-Structure-CAS-98035791.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/scpa-neuropeptide-ab142542.html">SCPA, Neuropeptide <span>(ab142542)</span></a>
+            </h3>
+            <div class="pws_links">
+                            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Neuropeptide. Potent modulatory actions in Aplysia.</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 95%</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab142167" data-productname="Vinorelbine tartrate (Navelbine), mitotic microtubule antagonist (ab142167)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab142167"><label for="selection-item__ab142167"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/142/ab142167/Images/ab142167-1-ab142167-Vinorelbine-tartrate-Navelbine-Structure-CAS-125317397.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/142/ab142167/Images/ab142167-1-ab142167-Vinorelbine-tartrate-Navelbine-Structure-CAS-125317397.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/142/ab142167/Images/ab142167-1-ab142167-Vinorelbine-tartrate-Navelbine-Structure-CAS-125317397.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/vinorelbine-tartrate-navelbine-mitotic-microtubule-antagonist-ab142167.html">Vinorelbine tartrate (Navelbine), mitotic microtubule antagonist <span>(ab142167)</span></a>
+            </h3>
+            <div class="pws_links">
+                            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Selective mitotic microtubule antagonist</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 98%</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab142668" data-productname="Vinorelbine, cell proliferation inhibitor (ab142668)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab142668"><label for="selection-item__ab142668"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/142/ab142668/Images/ab142668-1-ab142668-Vinorelbine-Structure-CAS-71486221.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/142/ab142668/Images/ab142668-1-ab142668-Vinorelbine-Structure-CAS-71486221.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/142/ab142668/Images/ab142668-1-ab142668-Vinorelbine-Structure-CAS-71486221.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/vinorelbine-cell-proliferation-inhibitor-ab142668.html">Vinorelbine, cell proliferation inhibitor <span>(ab142668)</span></a>
+            </h3>
+            <div class="pws_links">
+                            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Potent and selective cell proliferation inhibitor</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 90%</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab120425" data-productname="(±)-Blebbistatin, inhibitor of myosin II (ab120425)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab120425"><label for="selection-item__ab120425"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/120/ab120425/Images/ab120425-2-ab120425-plusmnBlebbistatin-Structure-CAS-674289555.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/120/ab120425/Images/ab120425-2-ab120425-plusmnBlebbistatin-Structure-CAS-674289555.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/120/ab120425/Images/ab120425-2-ab120425-plusmnBlebbistatin-Structure-CAS-674289555.jpg"></li><li data-img-url="https://www.abcam.com/ps/products/120/ab120425/Images/ab120425-255020-plusminus-blebbistatin-inhibitor-of-myosin-ii-674289-55-5.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(2)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/plusminus-blebbistatin-inhibitor-of-myosin-ii-ab120425.html">(±)-Blebbistatin, inhibitor of myosin II <span>(ab120425)</span></a>
+            </h3>
+            <div class="pws_links">
+                                    <a href="/plusminus-blebbistatin-inhibitor-of-myosin-ii-ab120425.html#description_references" class="pws_publications pws_link">Specific References (25)</a>
+            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Potent, selective, inhibitor of myosin II</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab143482" data-productname="Cytochalasin B, actin polymerization inhibitor (ab143482)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab143482"><label for="selection-item__ab143482"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/143/ab143482/Images/ab143482-1-ab143482-Cytochalasin-B-Structure-CAS-14930962.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/143/ab143482/Images/ab143482-1-ab143482-Cytochalasin-B-Structure-CAS-14930962.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/143/ab143482/Images/ab143482-1-ab143482-Cytochalasin-B-Structure-CAS-14930962.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/cytochalasin-b-actin-polymerization-inhibitor-ab143482.html">Cytochalasin B, actin polymerization inhibitor <span>(ab143482)</span></a>
+            </h3>
+            <div class="pws_links">
+                        <a href="/cytochalasin-b-actin-polymerization-inhibitor-ab143482.html?productwalltab=abreviews"><span class="pws_ratings star_5"></span>Reviews (1)</a>
+                                    <a href="/cytochalasin-b-actin-polymerization-inhibitor-ab143482.html#description_references" class="pws_publications pws_link">Specific References (2)</a>
+            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Cell permeable actin polymerization inhibitor. Reversible K<sub>V</sub>1.5 blocker.</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 97%</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab143484" data-productname="Cytochalasin D, actin polymerization inhibitor (ab143484)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab143484"><label for="selection-item__ab143484"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/143/ab143484/Images/ab143484-1-ab143484-Cytochalasin-D-Structure-CAS-22144770.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/143/ab143484/Images/ab143484-1-ab143484-Cytochalasin-D-Structure-CAS-22144770.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/143/ab143484/Images/ab143484-1-ab143484-Cytochalasin-D-Structure-CAS-22144770.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/cytochalasin-d-actin-polymerization-inhibitor-ab143484.html">Cytochalasin D, actin polymerization inhibitor <span>(ab143484)</span></a>
+            </h3>
+            <div class="pws_links">
+                                    <a href="/cytochalasin-d-actin-polymerization-inhibitor-ab143484.html#description_references" class="pws_publications pws_link">Specific References (11)</a>
+            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Potent actin polymerization inhibitor</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 98%</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab144290" data-productname="Latrunculin A (LAT-A), Actin polymerization inhibitor (ab144290)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab144290"><label for="selection-item__ab144290"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/144/ab144290/Images/ab144290-2-ab144290-Latrunculin-A-LATA-Structure-CAS-76343936.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/144/ab144290/Images/ab144290-2-ab144290-Latrunculin-A-LATA-Structure-CAS-76343936.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/144/ab144290/Images/ab144290-2-ab144290-Latrunculin-A-LATA-Structure-CAS-76343936.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/latrunculin-a-lat-a-actin-polymerization-inhibitor-ab144290.html">Latrunculin A (LAT-A), Actin polymerization inhibitor <span>(ab144290)</span></a>
+            </h3>
+            <div class="pws_links">
+                                    <a href="/latrunculin-a-lat-a-actin-polymerization-inhibitor-ab144290.html#description_references" class="pws_publications pws_link">Specific References (16)</a>
+            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Actin polymerization inhibitor. Potent antiproliferative agent.</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 95%</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab144291" data-productname="Latrunculin B, actin polymerization inhibitor (ab144291)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab144291"><label for="selection-item__ab144291"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/144/ab144291/Images/ab144291-1-ab144291-Latrunculin-B-Structure-CAS-76343947.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/144/ab144291/Images/ab144291-1-ab144291-Latrunculin-B-Structure-CAS-76343947.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/144/ab144291/Images/ab144291-1-ab144291-Latrunculin-B-Structure-CAS-76343947.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/latrunculin-b-actin-polymerization-inhibitor-ab144291.html">Latrunculin B, actin polymerization inhibitor <span>(ab144291)</span></a>
+            </h3>
+            <div class="pws_links">
+                                    <a href="/latrunculin-b-actin-polymerization-inhibitor-ab144291.html#description_references" class="pws_publications pws_link">Specific References (23)</a>
+            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Cell-permeable actin polymerization inhibitor</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 96%</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab141409" data-productname="Jasplakinolide, Actin polymerization and stabilization inducer (ab141409)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab141409"><label for="selection-item__ab141409"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/141/ab141409/Images/ab141409-1-ab141409-Jasplakinolide-Structure-CAS-102396247.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/141/ab141409/Images/ab141409-1-ab141409-Jasplakinolide-Structure-CAS-102396247.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/141/ab141409/Images/ab141409-1-ab141409-Jasplakinolide-Structure-CAS-102396247.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/jasplakinolide-actin-polymerization-and-stabilization-inducer-ab141409.html">Jasplakinolide, Actin polymerization and stabilization inducer <span>(ab141409)</span></a>
+            </h3>
+            <div class="pws_links">
+                                    <a href="/jasplakinolide-actin-polymerization-and-stabilization-inducer-ab141409.html#description_references" class="pws_publications pws_link">Specific References (9)</a>
+            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Actin polymerization and stabilization inducer. Cell-permeable.</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 95%</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab144589" data-productname="Mdivi-1, Drp1 inhibitor (ab144589)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab144589"><label for="selection-item__ab144589"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/144/ab144589/Images/ab144589-2-ab144589-Mdivi1-Structure-CAS-338967876.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/144/ab144589/Images/ab144589-2-ab144589-Mdivi1-Structure-CAS-338967876.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/144/ab144589/Images/ab144589-2-ab144589-Mdivi1-Structure-CAS-338967876.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/mdivi-1-drp1-inhibitor-ab144589.html">Mdivi-1, Drp1 inhibitor <span>(ab144589)</span></a>
+            </h3>
+            <div class="pws_links">
+                                    <a href="/mdivi-1-drp1-inhibitor-ab144589.html#description_references" class="pws_publications pws_link">Specific References (7)</a>
+            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Selective, cell-permeable mitochondrial division Drp1 inhibitor</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 98%</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab141231" data-productname="CK 666, Actin polymerization inhibitor (ab141231)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab141231"><label for="selection-item__ab141231"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/141/ab141231/Images/ab141231-2-ab141231-CK-666-Structure-CAS-442633003.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/141/ab141231/Images/ab141231-2-ab141231-CK-666-Structure-CAS-442633003.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/141/ab141231/Images/ab141231-2-ab141231-CK-666-Structure-CAS-442633003.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/ck-666-actin-polymerization-inhibitor-ab141231.html">CK 666, Actin polymerization inhibitor <span>(ab141231)</span></a>
+            </h3>
+            <div class="pws_links">
+                                    <a href="/ck-666-actin-polymerization-inhibitor-ab141231.html#description_references" class="pws_publications pws_link">Specific References (7)</a>
+            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Potent inhibitor of actin polymerization</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 99%</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab120793" data-productname="TMPyP4 tosylate, Telomerase inhibitor (ab120793)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab120793"><label for="selection-item__ab120793"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/120/ab120793/Images/ab120793-2-ab120793-TMPyP4-tosylate-Structure-CAS-36951721.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/120/ab120793/Images/ab120793-2-ab120793-TMPyP4-tosylate-Structure-CAS-36951721.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/120/ab120793/Images/ab120793-2-ab120793-TMPyP4-tosylate-Structure-CAS-36951721.jpg"></li><li data-img-url="https://www.abcam.com/ps/products/120/ab120793/Images/ab120793-255094-tmpyp4-tosylate-telomerase-inhibitor-36951-72-1.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(2)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/tmpyp4-tosylate-telomerase-inhibitor-ab120793.html">TMPyP4 tosylate, Telomerase inhibitor <span>(ab120793)</span></a>
+            </h3>
+            <div class="pws_links">
+                                    <a href="/tmpyp4-tosylate-telomerase-inhibitor-ab120793.html#description_references" class="pws_publications pws_link">Specific References (2)</a>
+            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Telomerase inhibitor. Binds and stabilizes DNA G-quadruplexes.</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 94%</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab143603" data-productname="Diallyl tetrasulfide, ROS inducer (ab143603)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab143603"><label for="selection-item__ab143603"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/143/ab143603/Images/ab143603-1-ab143603-Diallyl-tetrasulfide-Structure-CAS-2444497.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/143/ab143603/Images/ab143603-1-ab143603-Diallyl-tetrasulfide-Structure-CAS-2444497.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/143/ab143603/Images/ab143603-1-ab143603-Diallyl-tetrasulfide-Structure-CAS-2444497.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/diallyl-tetrasulfide-ros-inducer-ab143603.html">Diallyl tetrasulfide, ROS inducer <span>(ab143603)</span></a>
+            </h3>
+            <div class="pws_links">
+                                    <a href="/diallyl-tetrasulfide-ros-inducer-ab143603.html#description_references" class="pws_publications pws_link">Specific References (1)</a>
+            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">JNK activator. ROS inducer.</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 90%</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab120226" data-productname="Vincristine sulfate salt, Microtubule inhibitor (ab120226)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab120226"><label for="selection-item__ab120226"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/120/ab120226/Images/ab120226-1-ab120226-Vincristine-sulfate-salt-Microtubule-inhibitor-Structure-CAS-2068782.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/120/ab120226/Images/ab120226-1-ab120226-Vincristine-sulfate-salt-Microtubule-inhibitor-Structure-CAS-2068782.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/120/ab120226/Images/ab120226-1-ab120226-Vincristine-sulfate-salt-Microtubule-inhibitor-Structure-CAS-2068782.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/vincristine-sulfate-salt-microtubule-inhibitor-ab120226.html">Vincristine sulfate salt, Microtubule inhibitor <span>(ab120226)</span></a>
+            </h3>
+            <div class="pws_links">
+                                    <a href="/vincristine-sulfate-salt-microtubule-inhibitor-ab120226.html#description_references" class="pws_publications pws_link">Specific References (1)</a>
+            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Microtubule inhibitor</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab120663" data-productname="Colchicine from Colchicum autumnale, microtubule formation inhibitor (ab120663)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab120663"><label for="selection-item__ab120663"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/120/ab120663/Images/ab120663-1-ab120663-Colchicine-from-Colchicum-autumnale-Structure-CAS-64868.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/120/ab120663/Images/ab120663-1-ab120663-Colchicine-from-Colchicum-autumnale-Structure-CAS-64868.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/120/ab120663/Images/ab120663-1-ab120663-Colchicine-from-Colchicum-autumnale-Structure-CAS-64868.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/colchicine-from-colchicum-autumnale-microtubule-formation-inhibitor-ab120663.html">Colchicine from Colchicum autumnale, microtubule formation inhibitor <span>(ab120663)</span></a>
+            </h3>
+            <div class="pws_links">
+                                    <a href="/colchicine-from-colchicum-autumnale-microtubule-formation-inhibitor-ab120663.html#description_references" class="pws_publications pws_link">Specific References (2)</a>
+            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Inhibitor of microtubule formation</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 99%</div>
+</div>
+
+        </div>
+    </div>
+</div>
+<script id="load-more-translations" type="application/json">
+    {
+        "summary": "Showing {0} of {1} items"
+        , "button": "Load more"
+        , "buttonBusy": "Loading"
+        , "error": "Something went wrong. Please try again"
+    }
+</script>
+            
+
+<div data-productcode="ab120925" data-productname="Combretastatin A4, Tubulin polymerization inhibitor (ab120925)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab120925"><label for="selection-item__ab120925"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/120/ab120925/Images/ab120925-1-ab120925-Combretastatin-A4-Tubulin-polymerization-inhibitor-Structure-CAS-117048596.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/120/ab120925/Images/ab120925-1-ab120925-Combretastatin-A4-Tubulin-polymerization-inhibitor-Structure-CAS-117048596.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/120/ab120925/Images/ab120925-1-ab120925-Combretastatin-A4-Tubulin-polymerization-inhibitor-Structure-CAS-117048596.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/combretastatin-a4-tubulin-polymerization-inhibitor-ab120925.html">Combretastatin A4, Tubulin polymerization inhibitor <span>(ab120925)</span></a>
+            </h3>
+            <div class="pws_links">
+                                    <a href="/combretastatin-a4-tubulin-polymerization-inhibitor-ab120925.html#description_references" class="pws_publications pws_link">Specific References (1)</a>
+            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Potent inhibitor of tubulin polymerization</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 98%</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab143615" data-productname="Epothilone A, Microtubule-stabilizing agent (ab143615)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab143615"><label for="selection-item__ab143615"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/143/ab143615/Images/ab143615-1-ab143615-Epothilone-A-Structure-CAS-152044536.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/143/ab143615/Images/ab143615-1-ab143615-Epothilone-A-Structure-CAS-152044536.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/143/ab143615/Images/ab143615-1-ab143615-Epothilone-A-Structure-CAS-152044536.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/epothilone-a-microtubule-stabilizing-agent-ab143615.html">Epothilone A, Microtubule-stabilizing agent <span>(ab143615)</span></a>
+            </h3>
+            <div class="pws_links">
+                                    <a href="/epothilone-a-microtubule-stabilizing-agent-ab143615.html#description_references" class="pws_publications pws_link">Specific References (1)</a>
+            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Competitive microtubule-stabilizing agent. Potent antiproliferative agent.</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 95%</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab143616" data-productname="Epothilone D, Microtubule-stabilizing agent (ab143616)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab143616"><label for="selection-item__ab143616"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/143/ab143616/Images/ab143616-1-ab143616-Epothilone-D-Structure-CAS-189453109.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/143/ab143616/Images/ab143616-1-ab143616-Epothilone-D-Structure-CAS-189453109.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/143/ab143616/Images/ab143616-1-ab143616-Epothilone-D-Structure-CAS-189453109.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/epothilone-d-microtubule-stabilizing-agent-ab143616.html">Epothilone D, Microtubule-stabilizing agent <span>(ab143616)</span></a>
+            </h3>
+            <div class="pws_links">
+                                    <a href="/epothilone-d-microtubule-stabilizing-agent-ab143616.html#description_references" class="pws_publications pws_link">Specific References (5)</a>
+            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Microtubule-stabilizing agent</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 98%</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab145567" data-productname="HA 100 dihydrochloride, Myosin light chain kinase, PKA, PKC and PKG inhibitor (ab145567)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab145567"><label for="selection-item__ab145567"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/145/ab145567/Images/ab145567-1-ab145567-HA-100-dihydrochloride-Structure-CAS-84468246-free-base.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/145/ab145567/Images/ab145567-1-ab145567-HA-100-dihydrochloride-Structure-CAS-84468246-free-base.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/145/ab145567/Images/ab145567-1-ab145567-HA-100-dihydrochloride-Structure-CAS-84468246-free-base.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/ha-100-dihydrochloride-myosin-light-chain-kinase-pka-pkc-and-pkg-inhibitor-ab145567.html">HA 100 dihydrochloride, Myosin light chain kinase, PKA, PKC and PKG inhibitor <span>(ab145567)</span></a>
+            </h3>
+            <div class="pws_links">
+                                    <a href="/ha-100-dihydrochloride-myosin-light-chain-kinase-pka-pkc-and-pkg-inhibitor-ab145567.html#description_references" class="pws_publications pws_link">Specific References (1)</a>
+            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Myosin light chain kinase, PKA, PKC and PKG inhibitor</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 98%</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab141087" data-productname="Monastrol, cell permeable mitosis inhibitor (ab141087)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab141087"><label for="selection-item__ab141087"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/141/ab141087/Images/ab141087-1-ab141087-Monastrol-Structure-CAS-329689238.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/141/ab141087/Images/ab141087-1-ab141087-Monastrol-Structure-CAS-329689238.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/141/ab141087/Images/ab141087-1-ab141087-Monastrol-Structure-CAS-329689238.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/monastrol-cell-permeable-mitosis-inhibitor-ab141087.html">Monastrol, cell permeable mitosis inhibitor <span>(ab141087)</span></a>
+            </h3>
+            <div class="pws_links">
+                                    <a href="/monastrol-cell-permeable-mitosis-inhibitor-ab141087.html#description_references" class="pws_publications pws_link">Specific References (2)</a>
+            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Potent and cell permeable mitosis inhibitor. Kinesin Eg5 inhibitor.</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 99%</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab143532" data-productname="Phallacidin, F-actin filament stabilizing agent (ab143532)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab143532"><label for="selection-item__ab143532"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/143/ab143532/Images/ab143532-1-ab143532-Phallacidin-Structure-CAS-26645352.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/143/ab143532/Images/ab143532-1-ab143532-Phallacidin-Structure-CAS-26645352.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/143/ab143532/Images/ab143532-1-ab143532-Phallacidin-Structure-CAS-26645352.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/phallacidin-f-actin-filament-stabilizing-agent-ab143532.html">Phallacidin, F-actin filament stabilizing agent <span>(ab143532)</span></a>
+            </h3>
+            <div class="pws_links">
+                                    <a href="/phallacidin-f-actin-filament-stabilizing-agent-ab143532.html#description_references" class="pws_publications pws_link">Specific References (1)</a>
+            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Selective F-actin filament stabilizing agent</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 98%</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab143533" data-productname="Phalloidin, F-actin depolymerization inhibitor (ab143533)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab143533"><label for="selection-item__ab143533"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/143/ab143533/Images/ab143533-1-ab143533-Phalloidin-Structure-CAS-17466454.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/143/ab143533/Images/ab143533-1-ab143533-Phalloidin-Structure-CAS-17466454.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/143/ab143533/Images/ab143533-1-ab143533-Phalloidin-Structure-CAS-17466454.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/phalloidin-f-actin-depolymerization-inhibitor-ab143533.html">Phalloidin, F-actin depolymerization inhibitor <span>(ab143533)</span></a>
+            </h3>
+            <div class="pws_links">
+                                    <a href="/phalloidin-f-actin-depolymerization-inhibitor-ab143533.html#description_references" class="pws_publications pws_link">Specific References (3)</a>
+            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">F-actin depolymerization inhibitor</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 95%</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab142606" data-productname="Podophyllotoxin, microtubule assembly inhibitor (ab142606)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab142606"><label for="selection-item__ab142606"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/142/ab142606/Images/ab142606-1-ab142606-Podophyllotoxin-Structure-CAS-518285.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/142/ab142606/Images/ab142606-1-ab142606-Podophyllotoxin-Structure-CAS-518285.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/142/ab142606/Images/ab142606-1-ab142606-Podophyllotoxin-Structure-CAS-518285.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/podophyllotoxin-microtubule-assembly-inhibitor-ab142606.html">Podophyllotoxin, microtubule assembly inhibitor <span>(ab142606)</span></a>
+            </h3>
+            <div class="pws_links">
+                                    <a href="/podophyllotoxin-microtubule-assembly-inhibitor-ab142606.html#description_references" class="pws_publications pws_link">Specific References (1)</a>
+            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Potent, competitive microtubule assembly inhibitor</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 90%</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab141085" data-productname="Wiskostatin, N-WASP inhibitor (ab141085)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab141085"><label for="selection-item__ab141085"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/141/ab141085/Images/ab141085-1-ab141085-Wiskostatin-Structure-CAS-253449046.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/141/ab141085/Images/ab141085-1-ab141085-Wiskostatin-Structure-CAS-253449046.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/141/ab141085/Images/ab141085-1-ab141085-Wiskostatin-Structure-CAS-253449046.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/wiskostatin-n-wasp-inhibitor-ab141085.html">Wiskostatin, N-WASP inhibitor <span>(ab141085)</span></a>
+            </h3>
+            <div class="pws_links">
+                                    <a href="/wiskostatin-n-wasp-inhibitor-ab141085.html#description_references" class="pws_publications pws_link">Specific References (2)</a>
+            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Selective N-WASP inhibitor</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 99%</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab142593" data-productname="10-Deacetyltaxol, Antineoplastic agent (ab142593)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab142593"><label for="selection-item__ab142593"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/142/ab142593/Images/ab142593-1-ab142593-10Deacetyltaxol-Structure-CAS-78432776.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/142/ab142593/Images/ab142593-1-ab142593-10Deacetyltaxol-Structure-CAS-78432776.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/142/ab142593/Images/ab142593-1-ab142593-10Deacetyltaxol-Structure-CAS-78432776.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/10-deacetyltaxol-antineoplastic-agent-ab142593.html">10-Deacetyltaxol, Antineoplastic agent <span>(ab142593)</span></a>
+            </h3>
+            <div class="pws_links">
+                            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Antineoplastic agent</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 98%</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab142595" data-productname="7-epi-Taxol, Metabolite of Paclitaxel (ab142595)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab142595"><label for="selection-item__ab142595"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/142/ab142595/Images/ab142595-1-ab142595-7epiTaxol-Structure-CAS-105454044.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/142/ab142595/Images/ab142595-1-ab142595-7epiTaxol-Structure-CAS-105454044.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/142/ab142595/Images/ab142595-1-ab142595-7epiTaxol-Structure-CAS-105454044.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/7-epi-taxol-metabolite-of-paclitaxel-ab142595.html">7-epi-Taxol, Metabolite of Paclitaxel <span>(ab142595)</span></a>
+            </h3>
+            <div class="pws_links">
+                            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Metabolite of Paclitaxel. Antineoplastic agent.</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 95%</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab141241" data-productname="Albendazole, Microtubule depolymerizing agent (ab141241)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab141241"><label for="selection-item__ab141241"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/141/ab141241/Images/ab141241-1-ab141241-Albendazole-Structure-CAS-54965218.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/141/ab141241/Images/ab141241-1-ab141241-Albendazole-Structure-CAS-54965218.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/141/ab141241/Images/ab141241-1-ab141241-Albendazole-Structure-CAS-54965218.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/albendazole-microtubule-depolymerizing-agent-ab141241.html">Albendazole, Microtubule depolymerizing agent <span>(ab141241)</span></a>
+            </h3>
+            <div class="pws_links">
+                            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Microtubule depolymerizing agent; affects tubulin dynamics</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 98%</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab142401" data-productname="Baccatin III, Apoptosis inducer (ab142401)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab142401"><label for="selection-item__ab142401"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/142/ab142401/Images/ab142401-1-ab142401-Baccatin-III-Structure-CAS-27548932.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/142/ab142401/Images/ab142401-1-ab142401-Baccatin-III-Structure-CAS-27548932.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/142/ab142401/Images/ab142401-1-ab142401-Baccatin-III-Structure-CAS-27548932.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/baccatin-iii-apoptosis-inducer-ab142401.html">Baccatin III, Apoptosis inducer <span>(ab142401)</span></a>
+            </h3>
+            <div class="pws_links">
+                            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Apoptosis inducer and precursor to paclitaxel/taxol</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 98%</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab145171" data-productname="beta-Elemene, Anticancer agent (ab145171)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab145171"><label for="selection-item__ab145171"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/145/ab145171/Images/ab145171-1-ab145171-betaElemene-Structure-CAS-515139.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/145/ab145171/Images/ab145171-1-ab145171-betaElemene-Structure-CAS-515139.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/145/ab145171/Images/ab145171-1-ab145171-betaElemene-Structure-CAS-515139.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/beta-elemene-anticancer-agent-ab145171.html">beta-Elemene, Anticancer agent <span>(ab145171)</span></a>
+            </h3>
+            <div class="pws_links">
+                            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Anticancer agent</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab141419" data-productname="Catharanthine, monomeric precursor to Vincristine and vinblastine (ab141419)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab141419"><label for="selection-item__ab141419"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/141/ab141419/Images/ab141419-1-ab141419-Catharanthine-Structure-CAS-2468215.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/141/ab141419/Images/ab141419-1-ab141419-Catharanthine-Structure-CAS-2468215.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/141/ab141419/Images/ab141419-1-ab141419-Catharanthine-Structure-CAS-2468215.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/catharanthine-monomeric-precursor-to-vincristine-and-vinblastine-ab141419.html">Catharanthine, monomeric precursor to Vincristine and vinblastine <span>(ab141419)</span></a>
+            </h3>
+            <div class="pws_links">
+                            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Monomeric precursor to Vincristine and vinblastine</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 98%</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab144219" data-productname="Chaetoglobosin A, Antibiotic agent (ab144219)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab144219"><label for="selection-item__ab144219"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/144/ab144219/Images/ab144219-1-ab144219-Chaetoglobosin-A-Structure-CAS-50335030.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/144/ab144219/Images/ab144219-1-ab144219-Chaetoglobosin-A-Structure-CAS-50335030.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/144/ab144219/Images/ab144219-1-ab144219-Chaetoglobosin-A-Structure-CAS-50335030.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/chaetoglobosin-a-antibiotic-agent-ab144219.html">Chaetoglobosin A, Antibiotic agent <span>(ab144219)</span></a>
+            </h3>
+            <div class="pws_links">
+                            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Antibiotic agent. Phytotoxin.</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 98%</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab143481" data-productname="Cytochalasin A, actin polymerization inhibitor (ab143481)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab143481"><label for="selection-item__ab143481"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/143/ab143481/Images/ab143481-1-ab143481-Cytochalasin-A-Structure-CAS-14110646.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/143/ab143481/Images/ab143481-1-ab143481-Cytochalasin-A-Structure-CAS-14110646.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/143/ab143481/Images/ab143481-1-ab143481-Cytochalasin-A-Structure-CAS-14110646.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/cytochalasin-a-actin-polymerization-inhibitor-ab143481.html">Cytochalasin A, actin polymerization inhibitor <span>(ab143481)</span></a>
+            </h3>
+            <div class="pws_links">
+                            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Cell permeable actin polymerization inhibitor</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 98%</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab143483" data-productname="Cytochalasin C, actin polymerization inhibitor (ab143483)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab143483"><label for="selection-item__ab143483"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/143/ab143483/Images/ab143483-1-ab143483-Cytochalasin-C-Structure-CAS-22144769.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/143/ab143483/Images/ab143483-1-ab143483-Cytochalasin-C-Structure-CAS-22144769.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/143/ab143483/Images/ab143483-1-ab143483-Cytochalasin-C-Structure-CAS-22144769.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/cytochalasin-c-actin-polymerization-inhibitor-ab143483.html">Cytochalasin C, actin polymerization inhibitor <span>(ab143483)</span></a>
+            </h3>
+            <div class="pws_links">
+                            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Cell permeable actin polymerization inhibitor. Mycotoxin.</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 98%</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab142278" data-productname="Demecolcine, Antimitotic alkaloid (ab142278)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab142278"><label for="selection-item__ab142278"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/142/ab142278/Images/ab142278-1-ab142278-Demecolcine-Structure-CAS-477305.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/142/ab142278/Images/ab142278-1-ab142278-Demecolcine-Structure-CAS-477305.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/142/ab142278/Images/ab142278-1-ab142278-Demecolcine-Structure-CAS-477305.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/demecolcine-antimitotic-alkaloid-ab142278.html">Demecolcine, Antimitotic alkaloid <span>(ab142278)</span></a>
+            </h3>
+            <div class="pws_links">
+                            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Antimitotic alkaloid. Microtubule inhibitor.</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 98%</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab142289" data-productname="Dihydrocytochalasin B, Cytokinesis inhibitor (ab142289)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab142289"><label for="selection-item__ab142289"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/142/ab142289/Images/ab142289-1-ab142289-Dihydrocytochalasin-B-Structure-CAS-39156677.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/142/ab142289/Images/ab142289-1-ab142289-Dihydrocytochalasin-B-Structure-CAS-39156677.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/142/ab142289/Images/ab142289-1-ab142289-Dihydrocytochalasin-B-Structure-CAS-39156677.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/dihydrocytochalasin-b-cytokinesis-inhibitor-ab142289.html">Dihydrocytochalasin B, Cytokinesis inhibitor <span>(ab142289)</span></a>
+            </h3>
+            <div class="pws_links">
+                            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Cytokinesis inhibitor and induces changes in cell morphology and motility</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 98%</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab144253" data-productname="Ferulenol, ATP synthesis inhibitor (ab144253)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab144253"><label for="selection-item__ab144253"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/144/ab144253/Images/ab144253-1-ab144253-Ferulenol-Structure-CAS-6805341.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/144/ab144253/Images/ab144253-1-ab144253-Ferulenol-Structure-CAS-6805341.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/144/ab144253/Images/ab144253-1-ab144253-Ferulenol-Structure-CAS-6805341.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/ferulenol-atp-synthesis-inhibitor-ab144253.html">Ferulenol, ATP synthesis inhibitor <span>(ab144253)</span></a>
+            </h3>
+            <div class="pws_links">
+                            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">ATP synthesis inhibitor. Potent antibiotic agent. Tubulin polymerisation stimulator.</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 98%</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab143494" data-productname="Forchlorfenuron (KT-30), septins inhibitor (ab143494)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab143494"><label for="selection-item__ab143494"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/143/ab143494/Images/ab143494-1-ab143494-Forchlorfenuron-KT30-Structure-CAS-68157608.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/143/ab143494/Images/ab143494-1-ab143494-Forchlorfenuron-KT30-Structure-CAS-68157608.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/143/ab143494/Images/ab143494-1-ab143494-Forchlorfenuron-KT30-Structure-CAS-68157608.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/forchlorfenuron-kt-30-septins-inhibitor-ab143494.html">Forchlorfenuron (KT-30), septins inhibitor <span>(ab143494)</span></a>
+            </h3>
+            <div class="pws_links">
+                            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Synthetic cytokinin and plant growth regulator. Potent septin polymerization inducer.</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 98%</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab141625" data-productname="Ilimaquinone, Cytoplasmic microtubule inhibitor (ab141625)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab141625"><label for="selection-item__ab141625"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/141/ab141625/Images/ab141625-1-ab141625-Ilimaquinone-Structure-CAS-71678030.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/141/ab141625/Images/ab141625-1-ab141625-Ilimaquinone-Structure-CAS-71678030.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/141/ab141625/Images/ab141625-1-ab141625-Ilimaquinone-Structure-CAS-71678030.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/ilimaquinone-cytoplasmic-microtubule-inhibitor-ab141625.html">Ilimaquinone, Cytoplasmic microtubule inhibitor <span>(ab141625)</span></a>
+            </h3>
+            <div class="pws_links">
+                            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Cytoplasmic microtubule inhibitor. Disrupts Golgi membranes.</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 98%</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab142122" data-productname="IU1, Usp14 inhibitor. Cell-permeable (ab142122)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab142122"><label for="selection-item__ab142122"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/142/ab142122/Images/ab142122-1-ab142122-IU1-Structure-CAS-314245335.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/142/ab142122/Images/ab142122-1-ab142122-IU1-Structure-CAS-314245335.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/142/ab142122/Images/ab142122-1-ab142122-IU1-Structure-CAS-314245335.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/iu1-usp14-inhibitor-cell-permeable-ab142122.html">IU1, Usp14 inhibitor. Cell-permeable <span>(ab142122)</span></a>
+            </h3>
+            <div class="pws_links">
+                            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Selective, reversible Usp14 inhibitor. Cell-permeable</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 98%</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab120819" data-productname="JK 184, Hedgehog signaling inhibitor (ab120819)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab120819"><label for="selection-item__ab120819"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/120/ab120819/Images/ab120819-1-ab120819-JK-184-Structure-CAS-315703527.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/120/ab120819/Images/ab120819-1-ab120819-JK-184-Structure-CAS-315703527.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/120/ab120819/Images/ab120819-1-ab120819-JK-184-Structure-CAS-315703527.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/jk-184-hedgehog-signaling-inhibitor-ab120819.html">JK 184, Hedgehog signaling inhibitor <span>(ab120819)</span></a>
+            </h3>
+            <div class="pws_links">
+                            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Potent Hedgehog signaling inhibitor</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 99%</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab146011" data-productname="KRIBB3 (5-(5-Ethyl-2-hydroxy-4-methoxyphenyl)-4-(4-methoxyphenyl)isoxazole), Hsp27 inhibitor (ab146011)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab146011"><label for="selection-item__ab146011"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/146/ab146011/Images/ab146011-1-ab146011-KRIBB3-55Ethyl2hydroxy4methoxyphenyl44methoxyphenylisoxazole-Structure-CAS-129414886.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/146/ab146011/Images/ab146011-1-ab146011-KRIBB3-55Ethyl2hydroxy4methoxyphenyl44methoxyphenylisoxazole-Structure-CAS-129414886.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/146/ab146011/Images/ab146011-1-ab146011-KRIBB3-55Ethyl2hydroxy4methoxyphenyl44methoxyphenylisoxazole-Structure-CAS-129414886.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/kribb3-5-5-ethyl-2-hydroxy-4-methoxyphenyl-4-4-methoxyphenylisoxazole-hsp27-inhibitor-ab146011.html">KRIBB3 (5-(5-Ethyl-2-hydroxy-4-methoxyphenyl)-4-(4-methoxyphenyl)isoxazole), Hsp27 inhibitor <span>(ab146011)</span></a>
+            </h3>
+            <div class="pws_links">
+                            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Selective Hsp27 inhibitor. Microtubule inhibitor.</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 98%</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab141246" data-productname="Mebendazole, Benzimidazole antihelmintic (ab141246)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab141246"><label for="selection-item__ab141246"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/141/ab141246/Images/ab141246-1-ab141246-Mebendazole-Structure-CAS-31431397.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/141/ab141246/Images/ab141246-1-ab141246-Mebendazole-Structure-CAS-31431397.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/141/ab141246/Images/ab141246-1-ab141246-Mebendazole-Structure-CAS-31431397.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/mebendazole-benzimidazole-antihelmintic-ab141246.html">Mebendazole, Benzimidazole antihelmintic <span>(ab141246)</span></a>
+            </h3>
+            <div class="pws_links">
+                            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Benzimidazole antihelmintic. Tubulin-disrupting drug.</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 99%</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab144322" data-productname="Paprotrain, MKLP-2 inhibitor (ab144322)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab144322"><label for="selection-item__ab144322"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/144/ab144322/Images/ab144322-1-ab144322-Paprotrain-Structure-CAS-57046738.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/144/ab144322/Images/ab144322-1-ab144322-Paprotrain-Structure-CAS-57046738.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/144/ab144322/Images/ab144322-1-ab144322-Paprotrain-Structure-CAS-57046738.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/paprotrain-mklp-2-inhibitor-ab144322.html">Paprotrain, MKLP-2 inhibitor <span>(ab144322)</span></a>
+            </h3>
+            <div class="pws_links">
+                            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Selective cell-permeable MKLP-2 inhibitor. ATPase and Aurora B inhibitor.</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 98%</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab144578" data-productname="S-Trityl-cysteine, kinesin Eg5 inhibitor (ab144578)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab144578"><label for="selection-item__ab144578"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/144/ab144578/Images/ab144578-1-ab144578-STritylcysteine-Structure-CAS-2799077.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/144/ab144578/Images/ab144578-1-ab144578-STritylcysteine-Structure-CAS-2799077.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/144/ab144578/Images/ab144578-1-ab144578-STritylcysteine-Structure-CAS-2799077.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/s-trityl-cysteine-kinesin-eg5-inhibitor-ab144578.html">S-Trityl-cysteine, kinesin Eg5 inhibitor <span>(ab144578)</span></a>
+            </h3>
+            <div class="pws_links">
+                            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Potent, cell-permeable kinesin Eg5 inhibitor</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 98%</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab144366" data-productname="Swinholide A, F-actin inhibitor (ab144366)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab144366"><label for="selection-item__ab144366"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/144/ab144366/Images/ab144366-1-ab144366-Swinholide-A-Structure-CAS-95927676.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/144/ab144366/Images/ab144366-1-ab144366-Swinholide-A-Structure-CAS-95927676.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/144/ab144366/Images/ab144366-1-ab144366-Swinholide-A-Structure-CAS-95927676.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/swinholide-a-f-actin-inhibitor-ab144366.html">Swinholide A, F-actin inhibitor <span>(ab144366)</span></a>
+            </h3>
+            <div class="pws_links">
+                            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Cell permeable, selective F-actin inhibitor</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 97%</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab141493" data-productname="TAME hydrochloride, Ubiquitin ligase APC/C inhibitor (ab141493)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab141493"><label for="selection-item__ab141493"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/141/ab141493/Images/ab141493-1-ab141493-TAME-hydrochloride-Structure-CAS-1784038.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/141/ab141493/Images/ab141493-1-ab141493-TAME-hydrochloride-Structure-CAS-1784038.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/141/ab141493/Images/ab141493-1-ab141493-TAME-hydrochloride-Structure-CAS-1784038.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/tame-hydrochloride-ubiquitin-ligase-apcc-inhibitor-ab141493.html">TAME hydrochloride, Ubiquitin ligase APC/C inhibitor <span>(ab141493)</span></a>
+            </h3>
+            <div class="pws_links">
+                            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Competitive ubiquitin ligase APC/C inhibitor.</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 98%</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab143553" data-productname="Taxol F, Benzyl Paclitaxel analog (ab143553)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab143553"><label for="selection-item__ab143553"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/143/ab143553/Images/ab143553-1-ab143553-Taxol-F-Structure-CAS-173101569.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/143/ab143553/Images/ab143553-1-ab143553-Taxol-F-Structure-CAS-173101569.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/143/ab143553/Images/ab143553-1-ab143553-Taxol-F-Structure-CAS-173101569.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/taxol-f-benzyl-paclitaxel-analog-ab143553.html">Taxol F, Benzyl Paclitaxel analog <span>(ab143553)</span></a>
+            </h3>
+            <div class="pws_links">
+                            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Benzyl Paclitaxel analog</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 98%</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab142601" data-productname="Terazosin hydrochloride dihydrate, Adrenergic alpha-receptor antagonist (ab142601)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab142601"><label for="selection-item__ab142601"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/142/ab142601/Images/ab142601-1-ab142601-Terazosin-hydrochloride-dihydrate-Structure-CAS-70024407.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/142/ab142601/Images/ab142601-1-ab142601-Terazosin-hydrochloride-dihydrate-Structure-CAS-70024407.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/142/ab142601/Images/ab142601-1-ab142601-Terazosin-hydrochloride-dihydrate-Structure-CAS-70024407.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/terazosin-hydrochloride-dihydrate-adrenergic-alpha-receptor-antagonist-ab142601.html">Terazosin hydrochloride dihydrate, Adrenergic alpha-receptor antagonist <span>(ab142601)</span></a>
+            </h3>
+            <div class="pws_links">
+                            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Adrenergic α-receptor antagonist</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 98%</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab143558" data-productname="Tryprostatin A, MAP-dependent microtubule assembly inhibitor (ab143558)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab143558"><label for="selection-item__ab143558"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/143/ab143558/Images/ab143558-1-ab143558-Tryprostatin-A-Structure-CAS-171864805.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/143/ab143558/Images/ab143558-1-ab143558-Tryprostatin-A-Structure-CAS-171864805.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/143/ab143558/Images/ab143558-1-ab143558-Tryprostatin-A-Structure-CAS-171864805.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/tryprostatin-a-map-dependent-microtubule-assembly-inhibitor-ab143558.html">Tryprostatin A, MAP-dependent microtubule assembly inhibitor <span>(ab143558)</span></a>
+            </h3>
+            <div class="pws_links">
+                            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Selective MAP-dependent microtubule assembly inhibitor</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 92%</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab141475" data-productname="Vinblastine sulfate, Microtubule dynamics inhibitor (ab141475)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab141475"><label for="selection-item__ab141475"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/141/ab141475/Images/ab141475-1-ab141475-Vinblastine-sulfate-Structure-CAS-143679.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/141/ab141475/Images/ab141475-1-ab141475-Vinblastine-sulfate-Structure-CAS-143679.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/141/ab141475/Images/ab141475-1-ab141475-Vinblastine-sulfate-Structure-CAS-143679.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/vinblastine-sulfate-microtubule-dynamics-inhibitor-ab141475.html">Vinblastine sulfate, Microtubule dynamics inhibitor <span>(ab141475)</span></a>
+            </h3>
+            <div class="pws_links">
+                            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Potent microtubule dynamics inhibitor</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 95%</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div data-productcode="ab142667" data-productname="Vindoline, H+/K+ ATPase inhibitor (ab142667)" class="clearfix selection-item res res-item-Biochemicals has-img js-item-treated"><div class="selection-item__button action-btn"><input type="checkbox" id="selection-item__ab142667"><label for="selection-item__ab142667"><span><span class="action-btn__link">Compare</span> (max 4)</span></label><div class="selection-item__layer-hover"></div></div>
+        <div class="pws_right_panel">
+            <div rel="lightbox" data-image-policy="?impolicy=product-thumbnail">
+                <noscript><img src='https://www.abcam.com/ps/products/142/ab142667/Images/ab142667-1-ab142667-Vindoline-Structure-CAS-2182141.jpg' alt='Product image' width=280 height=230 /></noscript><img src="https://www.abcam.com/ps/products/142/ab142667/Images/ab142667-1-ab142667-Vindoline-Structure-CAS-2182141.jpg?impolicy=product-thumbnail" width="280" height="230" alt="Product image" loading="lazy">
+                <div class="lbcr hide"><ul><li data-img-url="https://www.abcam.com/ps/products/142/ab142667/Images/ab142667-1-ab142667-Vindoline-Structure-CAS-2182141.jpg"></li></ul></div>
+            <span class="lb__counter"><span class="lb__icon lb__icon--camera"></span>(1)</span></div>
+        </div>
+    <div class="pws_left_panel">
+
+        <div class="pws-item-info">
+
+            
+    <div class="pws_header_band">
+                
+            </div>
+
+
+            <h3>
+                <a href="/vindoline-hk-atpase-inhibitor-ab142667.html">Vindoline, H+/K+ ATPase inhibitor <span>(ab142667)</span></a>
+            </h3>
+            <div class="pws_links">
+                            </div>
+            <div class="clearfix pws_item ProductDescription">
+<div class="pws_label">Description:</div>
+<div class="pws_value">Weak tubulin polymerization inhibitor. H<sup>+</sup>/K<sup>+</sup> ATPase inhibitor.</div>
+</div>
+<div class="clearfix pws_item Purity">
+<div class="pws_label">Purity:</div>
+<div class="pws_value">&gt; 98%</div>
+</div>
+
+        </div>
+    </div>
+</div></div>

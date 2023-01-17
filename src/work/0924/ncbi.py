@@ -51,15 +51,7 @@ def getHtmlFromUrl(url, type="get", para={}):
     return html_code
 
 
-def getRenderdHtmlFromUrl(url):
-    chrome_options = webdriver.ChromeOptions()
-    chrome_options.add_argument('--headless')
-    chrome_options.add_argument('--disable-gpu')
-    chrome_options.add_argument("window-size=1024,768")
-
-    chrome_options.add_argument("--no-sandbox")
-    browser = webdriver.Chrome(chrome_options=chrome_options)
-
+def getRenderdHtmlFromUrl(browser, url):
     browser.get(url)
     time.sleep(4)
     return browser.page_source
@@ -79,10 +71,10 @@ def writeExcel(workSheet, headers, rowIndex, info):
             print(rowIndex)
 
 
-def getProductInfo(url, cas, products):
+def getProductInfo(url, cas, products, browser):
     print(str(len(products)) + cas + url)
 
-    productListHtml = getRenderdHtmlFromUrl(url)
+    productListHtml = getRenderdHtmlFromUrl(browser, url)
     tempPinfo = {
         "cas": cas
     }
@@ -129,7 +121,7 @@ def getProductInfo(url, cas, products):
     products.append(tempPinfo.copy())
 
 
-def getProductList(cas, products):
+def getProductList(cas, products, browser):
     productListHtml = getHtmlFromUrl(
         "https://www.ncbi.nlm.nih.gov/pccompound/?term="+cas)
     if productListHtml != None:
@@ -141,7 +133,7 @@ def getProductList(cas, products):
             title = pro.find("p", attrs={"class": "title"})
             if getNodeText(title).find(cas) > -1:
                 pLink = title.find("a")
-                getProductInfo(pLink["href"], cas, products)
+                getProductInfo(pLink["href"], cas, products,browser)
             else:
                 products.append({"cas": cas})
         else:
@@ -150,36 +142,32 @@ def getProductList(cas, products):
         products.append({"cas": cas})
 
 
-def theardFun(name, inx):
-    products = []
-    excelFileName = "ncbi"+str(inx)+".xlsx"
-    wb = Workbook()
-    workSheet = wb.active
-    fileName = "cat"+str(inx)+".txt"
-    with open(fileName, 'r') as file_to_read:
-        index = 1
-        type = 1
-        while True:
-            lines = file_to_read.readline()
-            if not lines:
-                break
-            getProductList(lines.replace("\n", ""), products)
+chrome_options = webdriver.ChromeOptions()
+chrome_options.add_argument('--headless')
+chrome_options.add_argument('--disable-gpu')
+chrome_options.add_argument("window-size=1024,768")
+chrome_options.add_argument("--no-sandbox")
+browser = webdriver.Chrome(chrome_options=chrome_options)
+products = []
+excelFileName = "ncbi1.xlsx"
+wb = Workbook()
+workSheet = wb.active
+fileName = "cat1.txt"
+with open(fileName, 'r') as file_to_read:
+    index = 1
+    type = 1
+    while True:
+        lines = file_to_read.readline()
+        if not lines:
+            break
+        getProductList(lines.replace("\n", ""), products, browser)
 
-    headers = ['cas', 'Product Name', 'Molecular Formula', 'Synonyms', 'Molecular Weight',
-               'IUPACName', 'InChI', 'InChIKey', 'CanonicalSMILES', 'CAS1', 'MolecularFormula']
-    rindex = 1
-    for p in products:
-        writeExcel(workSheet, headers, rindex, p)
-        rindex = rindex + 1
-    print("flish")
+headers = ['cas', 'Product Name', 'Molecular Formula', 'Synonyms', 'Molecular Weight',
+            'IUPACName', 'InChI', 'InChIKey', 'CanonicalSMILES', 'CAS1', 'MolecularFormula']
+rindex = 1
+for p in products:
+    writeExcel(workSheet, headers, rindex, p)
+    rindex = rindex + 1
+print("flish")
 
-    wb.save(excelFileName)
-
-try:
-    _thread.start_new_thread(theardFun, ('', 1))
-    # _thread.start_new_thread(theardFun, ('', 2))
-    # _thread.start_new_thread(theardFun, ('', 3))
-except:
-    print("Error: 无法启动线程")
-while 1:
-    pass
+wb.save(excelFileName)

@@ -24,9 +24,14 @@ import time
 import math
 import _thread
 from dateutil.parser import parse
+import ssl
+import sys
 
+sys.path.append('../..')
+from lib import Files
 import numpy as np
 
+ssl._create_default_https_context = ssl._create_unverified_context
 http.client._MAXHEADERS = 1000
 
 
@@ -79,22 +84,31 @@ def requestJson(url, pIndex):
     })
     print(r.text)
 
+def havingError(str):
+    return str.find("400 Bad Request") > -1 or str.find("Internal Server Error") > -1 or str.find("Internal Server Error, real status: 503") > -1 or str.find("504 Gateway Time-out") > -1 or str.find("Please report this message and include the following information to us") > -1
+
 def getRenderdHtmlFromUrl(browser, url):
     browser.get(url)
     data4CommentsSope = BeautifulSoup(browser.page_source, "html.parser")
     data4CommentsStr = getNodeText(data4CommentsSope.find("body"))
-    if data4CommentsStr.find("400 Bad Request") > -1 or data4CommentsStr.find("Internal Server Error") > -1 or data4CommentsStr.find("Internal Server Error, real status: 503") > -1:
+    if havingError(data4CommentsStr):
         time.sleep(20)
         browser.get(url)
         data4CommentsSope = BeautifulSoup(browser.page_source, "html.parser")
         data4CommentsStr = getNodeText(data4CommentsSope.find("body"))
-        if data4CommentsStr.find("400 Bad Request") > -1 or data4CommentsStr.find("Internal Server Error") > -1 or data4CommentsStr.find("Internal Server Error, real status: 503") > -1:
+        if havingError(data4CommentsStr):
             time.sleep(20)
             browser.get(url)
             data4CommentsSope = BeautifulSoup(browser.page_source, "html.parser")
             data4CommentsStr = getNodeText(data4CommentsSope.find("body"))
-    
-    return json.loads(data4CommentsStr)
+    try:
+        return json.loads(data4CommentsStr)
+    except:
+        time.sleep(60)
+        browser.get(url)
+        data4CommentsSope = BeautifulSoup(browser.page_source, "html.parser")
+        data4CommentsStr = getNodeText(data4CommentsSope.find("body"))
+        return json.loads(data4CommentsStr)
 
 
 def writeExcel(workSheet, headers, rowIndex, info):
@@ -102,7 +116,7 @@ def writeExcel(workSheet, headers, rowIndex, info):
     for head in headers:
         try:
             if head in info:
-                content = ILLEGAL_CHARACTERS_RE.sub(r'', info[head])
+                content = ILLEGAL_CHARACTERS_RE.sub(r'', info[head]) if info[head]!=None else ""
                 workSheet.cell(rowIndex, cellIndex).value = content.strip()
             else:
                 workSheet.cell(rowIndex, cellIndex).value = ""
@@ -112,142 +126,153 @@ def writeExcel(workSheet, headers, rowIndex, info):
         cellIndex = cellIndex+1
 
 
-def getWeiBoInfo(browser, products):
+def getWeiBoInfo(browser, products, currentIndex):
     weiBoArticles = []
     likedWeibo = []
     pinglun = []
     fensiListRes = []
     guanzhuListRes = []
-    for index,p in enumerate(products):
-        print(str(index)+"/"+str(len(products)))
-        bozhuName = p["bozhuName"]
-        data4UserInfo = getRenderdHtmlFromUrl(browser, "https://weibo.com/ajax/profile/info?uid="+p["userId"])
-        #获取博主的所有文章
-        for pIndex in range(1, 7):
-            data = getRenderdHtmlFromUrl(browser, "https://weibo.com/ajax/statuses/mymblog?uid="+p["userId"]+"&page="+str(pIndex)+"&feature=0")
-            if len(data["data"]["list"]) == 0:
-                break;
-            for article in data["data"]["list"]:
-                userName = article["user"]["screen_name"]
-                articleSope =  BeautifulSoup(article["text"], "html.parser")
-                weiboContent = getNodeText(articleSope)
-                address = ""
-                if "region_name" in article:
-                    address = article["region_name"]
-                #如果博文作者不是博主名称，则为赞过的微博
-                if bozhuName == userName:
-                    weiboId = str(len(weiBoArticles))
-                    weiBoArticles.append({
-                        "weiboId": weiboId,
-                        "bozhuName": userName,
-                        "fensi": str(data4UserInfo["data"]["user"]["followers_count"]),
-                        "guanzhu": str(data4UserInfo["data"]["user"]["friends_count"]),
-                        "address": address, 
-                        "weiboContent": weiboContent, 
-                        "publishTime": parse(article["created_at"]).strftime("%y-%m-%d %H:%M:%S")
-                    })
-                    commentsUrl = "https://weibo.com/ajax/statuses/buildComments?is_reload=1&id="+str(article["id"])+"&is_show_bulletin=2&is_mix=0&count=20&type=feed&uid="+str(article["user"]["id"])
-                    
-                    data4Comments = getRenderdHtmlFromUrl(browser, commentsUrl )
-
-                    for pinlun in data4Comments["data"]:
-                        pinglun.append({
+    try:
+        regReplace = re.compile(u'['u'\U0001F300-\U0001F64F' u'\U0001F680-\U0001F6FF' u'\u0000-\u26ff \U00100000-\U0010ffff \U00002700-\U000027ff]+')
+        for index in range(currentIndex, len(products)):
+            p = products[index]
+            p["current"] = "1"
+            print(str(index)+"/"+str(len(products)))
+            if index%10 == 0:
+                browser.get("https://weibo.com/p/100101B2094757D069A6FD4299")
+                time.sleep(5)
+            bozhuName = p["bozhuName"]
+            data4UserInfo = getRenderdHtmlFromUrl(browser, "https://weibo.com/ajax/profile/info?uid="+p["userId"])
+            #获取博主的所有文章
+            for pIndex in range(1, 7):
+                data = getRenderdHtmlFromUrl(browser, "https://weibo.com/ajax/statuses/mymblog?uid="+p["userId"]+"&page="+str(pIndex)+"&feature=0")
+                if len(data["data"]["list"]) == 0:
+                    break;
+                for article in data["data"]["list"]:
+                    userObj = article["user"]
+                    userName = ""
+                    if "screen_name" in userObj:
+                        userName = userObj["screen_name"]
+                    else:
+                        print(userObj)
+                    articleSope =  BeautifulSoup(article["text"], "html.parser")
+                    weiboContent =  re.sub(regReplace,'',getNodeText(articleSope))
+                    address = ""
+                    if "region_name" in article:
+                        address = article["region_name"]
+                    #如果博文作者不是博主名称，则为赞过的微博
+                    if bozhuName == userName:
+                        weiboId = str(len(weiBoArticles))
+                        weiBoArticles.append({
                             "weiboId": weiboId,
-                            "pinlunRen": pinlun["user"]["screen_name"],
-                            "pinlunContent": pinlun["text"],
-                            "pinlunTime": parse(pinlun["created_at"]).strftime("%y-%m-%d %H:%M:%S")
-                        })
-                else:
-                    if "title" in article:
-                        data4LikedUser = getRenderdHtmlFromUrl(browser, "https://weibo.com/ajax/profile/info?uid="+str(article["user"]["id"]))
-
-                        data4LikedUserDetail = getRenderdHtmlFromUrl(browser, "https://weibo.com/ajax/profile/detail?uid="+str(article["user"]["id"]))
-                        labels = ""
-                        data4LikedUserObj = data4LikedUserDetail["data"]
-                        if "label_desc" in data4LikedUserObj and len(data4LikedUserObj["label_desc"]) >0:
-                            for label in data4LikedUserObj["label_desc"]:
-                                labels += label["name"]+"|"
-                        title = article["title"]["text"]
-                        verified_reason = ""
-                        if "verified_reason" in data4LikedUser["data"]["user"]:
-                            verified_reason = data4LikedUser["data"]["user"]["verified_reason"]
-                        likedWeibo.append({
-                            "bozhuName": bozhuName, 
-                            "userName": userName, 
-                            "beiZhanRenUrl": "https://weibo.com/u/"+str(article["user"]["id"]), 
+                            "bozhuName": userName,
+                            "gender": data4UserInfo["data"]["user"]["gender"],
+                            "fensi": str(data4UserInfo["data"]["user"]["followers_count"]),
+                            "guanzhu": str(data4UserInfo["data"]["user"]["friends_count"]),
                             "address": address, 
                             "weiboContent": weiboContent, 
-                            "publishTime": parse(article["created_at"]).strftime("%y-%m-%d %H:%M:%S"), 
-                            "likedTime": title.replace("赞过的微博","").replace("她","").replace("他",""),
-                            "renzheng": verified_reason,
-                            "fenshi": str(data4LikedUser["data"]["user"]["followers_count"]),
-                            "guanzhu": str(data4LikedUser["data"]["user"]["friends_count"]),
-                            "labels": labels
+                            "publishTime": parse(article["created_at"]).strftime("%y-%m-%d %H:%M:%S")
                         })
-            
-        #获取粉丝标记
-        for pIndex in range(1, 100):
-            data = getRenderdHtmlFromUrl(browser, "https://weibo.com/ajax/friendships/friends?relate=fans&page="+str(pIndex)+"&uid="+p["userId"]+"&type=all&newFollowerCount=0")
-            if "users" in data:
-                users = data["users"]
-                for user in users:
-                    fensiListRes.append({
-                        "bozhuName": bozhuName,
-                        "fensiName": user["name"],
-                        "profile_url": user["profile_url"],
-                        "fensi": str(user["followers_count"]),
-                        "guanzhu": str(user["friends_count"])
-                    })
-                if len(users) < 20: break;
+                        commentsUrl = "https://weibo.com/ajax/statuses/buildComments?is_reload=1&id="+str(article["id"])+"&is_show_bulletin=2&is_mix=0&count=20&type=feed&uid="+str(article["user"]["id"])
+                        
+                        data4Comments = getRenderdHtmlFromUrl(browser, commentsUrl )
 
-        #获取关注标记
-        for pIndex in range(1, 100):
-            data = getRenderdHtmlFromUrl(browser, "https://weibo.com/ajax/friendships/friends?page="+str(pIndex)+"&uid="+p["userId"])
-            if "users" in data:
-                users = data["users"]
-                for user in users:
-                    guanzhuListRes.append({
-                        "bozhuName": bozhuName,
-                        "guanzhuName": user["name"],
-                        "profile_url": user["profile_url"],
-                        "fensi": str(user["followers_count"]),
-                        "guanzhu": str(user["friends_count"])
-                    })
-                if len(users) < 20: break;
+                        for pinlun in data4Comments["data"]:
+                            pinlunUserObj = pinlun["user"]
+                            pinglun.append({
+                                "weiboId": weiboId,
+                                "pinlunRen": pinlunUserObj["screen_name"] if "screen_name" in  pinlunUserObj else "",
+                                "pinlunContent": pinlun["text"],
+                                "pinlunTime": parse(pinlun["created_at"]).strftime("%y-%m-%d %H:%M:%S")
+                            })
+                    else:
+                        if "title" in article:
+                            data4LikedUser = getRenderdHtmlFromUrl(browser, "https://weibo.com/ajax/profile/info?uid="+str(article["user"]["id"]))
+                            data4LikedUserDetail = getRenderdHtmlFromUrl(browser, "https://weibo.com/ajax/profile/detail?uid="+str(article["user"]["id"]))
+                            labels = ""
+                            data4LikedUserObj = data4LikedUserDetail["data"]
+                            if "label_desc" in data4LikedUserObj and len(data4LikedUserObj["label_desc"]) >0:
+                                for label in data4LikedUserObj["label_desc"]:
+                                    labels += label["name"]+"|"
+                            title = article["title"]["text"]
+                            verified_reason = ""
+                            if "verified_reason" in data4LikedUser["data"]["user"]:
+                                verified_reason = data4LikedUser["data"]["user"]["verified_reason"]
+                            likedWeibo.append({
+                                "bozhuName": bozhuName, 
+                                "userName": userName, 
+                                "gender": data4LikedUserObj["gender"],
+                                "beiZhanRenUrl": "https://weibo.com/u/"+str(article["user"]["id"]), 
+                                "address": address, 
+                                "weiboContent": weiboContent, 
+                                "publishTime": parse(article["created_at"]).strftime("%y-%m-%d %H:%M:%S"), 
+                                "likedTime": title.replace("赞过的微博","").replace("她","").replace("他",""),
+                                "renzheng": verified_reason,
+                                "fenshi": str(data4LikedUser["data"]["user"]["followers_count"]),
+                                "guanzhu": str(data4LikedUser["data"]["user"]["friends_count"]),
+                                "labels": labels
+                            })
+                
+            #获取粉丝标记
+            for pIndex in range(1, 100):
+                data = getRenderdHtmlFromUrl(browser, "https://weibo.com/ajax/friendships/friends?relate=fans&page="+str(pIndex)+"&uid="+p["userId"]+"&type=all&newFollowerCount=0")
+                if "users" in data:
+                    users = data["users"]
+                    for user in users:
+                        data4FenShiUserDetail = getRenderdHtmlFromUrl(browser, "https://weibo.com/ajax/profile/detail?uid="+str(user["id"]))
+                        data4FenShiUserInfo = getRenderdHtmlFromUrl(browser, "https://weibo.com/ajax/profile/info?uid="+str(user["id"]))
+
+                        data4FenShiUserObj = data4FenShiUserDetail["data"]
+                        data4FenShiUserInfoObj = data4FenShiUserInfo["data"]
+                        labels = ""
+                        if "label_desc" in data4FenShiUserObj and len(data4FenShiUserObj["label_desc"]) >0:
+                            for label in data4FenShiUserObj["label_desc"]:
+                                labels += label["name"]+"|"
+                        fensiListRes.append({
+                            "bozhuName": bozhuName,
+                            "fensiName": user["name"],
+                            "profile_url": user["profile_url"],
+                            "gender": data4FenShiUserInfoObj["user"]["gender"],
+                            "fensi": str(user["followers_count"]),
+                            "guanzhu": str(user["friends_count"]),
+                            'labels': labels,
+                            'renzheng': data4FenShiUserObj["desc_text"] if "desc_text" in data4FenShiUserObj else ""
+                        })
+                    if len(users) < 20: break;
+
+            #获取关注标记
+            for pIndex in range(1, 100):
+                data = getRenderdHtmlFromUrl(browser, "https://weibo.com/ajax/friendships/friends?page="+str(pIndex)+"&uid="+p["userId"])
+                if "users" in data:
+                    users = data["users"]
+                    for user in users:
+                        data4GuanZhuUserDetail = getRenderdHtmlFromUrl(browser, "https://weibo.com/ajax/profile/detail?uid="+str(user["id"]))
+                        data4GuanZhuUserInfo = getRenderdHtmlFromUrl(browser, "https://weibo.com/ajax/profile/info?uid="+str(user["id"]))
+                        data4GuanZhuUserObj = data4GuanZhuUserDetail["data"]
+                        data4GuanZhuUserInfoObj = data4GuanZhuUserInfo["data"]
+                        labels = ""
+                        if "label_desc" in data4GuanZhuUserObj and len(data4GuanZhuUserObj["label_desc"]) >0:
+                            for label in data4GuanZhuUserObj["label_desc"]:
+                                labels += label["name"]+"|"
+                        guanzhuListRes.append({
+                            "bozhuName": bozhuName,
+                            "guanzhuName": user["name"],
+                            "profile_url": user["profile_url"],
+                            "gender": data4GuanZhuUserInfoObj["user"]["gender"],
+                            "fensi": str(user["followers_count"]),
+                            "guanzhu": str(user["friends_count"]),
+                            'labels': labels,
+                            'renzheng': data4GuanZhuUserObj["desc_text"] if "desc_text" in data4GuanZhuUserObj else ""
+                        })
+                    if len(users) < 20: break;
+            p["current"] = ""
+    except:
+        print('出错跳出了')
+
+    return {"users":products,"weiBoArticles":weiBoArticles, "likedWeibo": likedWeibo, "pinglun":pinglun, "fensiListRes":fensiListRes,"guanzhuListRes":guanzhuListRes}
 
 
-    return {"weiBoArticles":weiBoArticles, "likedWeibo": likedWeibo, "pinglun":pinglun, "fensiListRes":fensiListRes,"guanzhuListRes":guanzhuListRes}
-
-
-def getAuthorList(url,  products):
-    chrome_options = webdriver.ChromeOptions()
-    # chrome_options.add_argument('--headless')
-    chrome_options.add_argument('--disable-gpu')
-    chrome_options.add_argument("window-size=1024,768")
-
-    chrome_options.add_argument("--no-sandbox")
-    browser = webdriver.Chrome(chrome_options=chrome_options)
-    browser.maximize_window()
-    browser.get(url)
-    # browser.add_cookie({'domain': '.sina.com.cn', 'httpOnly': False, 'name': 'ALF', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1695213744'})
-    # browser.add_cookie({'domain': '.sina.com.cn', 'httpOnly': False, 'name': 'SUBP', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '0033WrSXqPxfM725Ws9jqgMF55529P9D9Wh67rqn0jCF8RVZkpC54nWZ5NHD95Qceh5Xeon7SKe7Ws4Dqcj3i--Ni-iWi-2Ei--ciK.RiKLsi--4iK.Ni-8Wi--4iK.Ni-8WIrHjIgHX'})
-    # browser.add_cookie({'domain': '.sina.com.cn', 'httpOnly': True, 'name': 'SCF', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'AjUvWuiha4N_hVf6kE9Shy6oTw93Q8gi5jAiLCjseMCxNRYNeE8g48T87JwdVmIt_TZgZX9Lxeamm-bhLVP45Mk.'})
-    # browser.add_cookie({'domain': 'place.weibo.com', 'httpOnly': False, 'name': 'PHPSESSID', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'c1f007db93f862677d898e02dca75238'})
-    browser.add_cookie({'domain': '.weibo.com', 'httpOnly': False, 'name': 'SUB', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '_2A25OMEctDeRhGeBO61YT-C7JyDyIHXVtRD_lrDV8PUNbmtANLW6lkW9NSlmktGWxDL1S7y0NA3pa81QGpw1AME0S'})
-    browser.add_cookie({'domain': '.weibo.com', 'httpOnly': False, 'name': 'PC_TOKEN', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '52374714f9'})
-    browser.add_cookie({'domain': '.weibo.com', 'httpOnly': False, 'name': 'WBPSESS', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '-slJzTKhzDzKK5KM1fl5TcM--I2sb6AcKhCyrd1qF-u7sB6vs61-RtlnJXtO6YNtVIC-phJu5qi6LO4nhQl7y93OTlNDunklB4k6ybkEvIBGce6F34tlnXF_Ol9Xhdyr'})
-    browser.add_cookie({'domain': '.weibo.com', 'httpOnly': False, 'name': 'XSRF-TOKEN', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'ZlpWHaMgxKSc1S_agR2fP53q'})
-    browser.add_cookie({'domain': '.weibo.com', 'httpOnly': False, 'name': 'SUBP', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '0033WrSXqPxfM725Ws9jqgMF55529P9D9Wh67rqn0jCF8RVZkpC54nWZ5JpX5KMhUgL.Foq7ehBE1h5fe052dJLoIEQLxKMLB.2LBKzLxKqL1KnL1-qLxK.L1KMLB-2LxK.L1KMLB-83UgpD9PBt'})
-    browser.add_cookie({'domain': '.weibo.com', 'httpOnly': False, 'name': 'webim_unReadCount', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '%7B%22time%22%3A1663856663978%2C%22dm_pub_total%22%3A2%2C%22chat_group_client%22%3A0%2C%22chat_group_notice%22%3A0%2C%22allcountNum%22%3A44%2C%22msgbox%22%3A0%7D'})
-    browser.add_cookie({'domain': '.weibo.com', 'httpOnly': False, 'name': '_s_tentry', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'login.sina.com.cn'})
-    browser.add_cookie({'domain': '.weibo.com', 'httpOnly': False, 'name': 'Apache', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '5771222996564.216.1664279994027'})
-    browser.add_cookie({'domain': '.weibo.com', 'httpOnly': False, 'name': 'UOR', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': ',,login.sina.com.cn'})
-    browser.add_cookie({'domain': '.weibo.com', 'httpOnly': False, 'name': 'ALF', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1695902459'})
-    browser.add_cookie({'domain': '.weibo.com', 'httpOnly': False, 'name': 'SSOLoginState', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1663847155'})
-    browser.add_cookie({'domain': '.weibo.com', 'httpOnly': False, 'name': 'SCF', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'AjUvWuiha4N_hVf6kE9Shy6oTw93Q8gi5jAiLCjseMCxIiYH7XB0j6S1_EPI31lrynUgzSgN1qeQI3P3MsUIh60.'})
-    browser.add_cookie({'domain': '.weibo.com', 'httpOnly': False, 'name': 'ULV', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1664279994029:9:9:4:5771222996564.216.1664279994027:1664196186790'})
-    browser.add_cookie({'domain': '.weibo.com', 'httpOnly': False, 'name': 'wb_view_log_6004280530', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1920*10801'})
-    browser.add_cookie({'domain': '.weibo.com', 'httpOnly': False, 'name': 'SINAGLOBAL', 'path': '/', 'sameSite': 'None', 'secure': False, 'value': '2243265361707.869.1663339298312'})
+def getAuthorList(browser, url,  products):
 
     browser.get(url)
     time.sleep(10)
@@ -297,17 +322,63 @@ def getAuthorList(url,  products):
     return browser
 
 
+chrome_options = webdriver.ChromeOptions()
+chrome_options = webdriver.ChromeOptions()
+# chrome_options.add_argument('--headless')
+chrome_options.add_argument('--disable-gpu')
+chrome_options.add_argument("window-size=1024,768")
 
-excelFname = datetime.datetime.now().strftime("%y-%m-%d %H:%M:%S")+".xlsx"
+chrome_options.add_argument("--no-sandbox")
+browser = webdriver.Chrome(chrome_options=chrome_options)
+browser.maximize_window()
+browser.get("https://weibo.com/p/100101B2094757D069A6FD4299")
+# browser.add_cookie({'domain': '.sina.com.cn', 'httpOnly': False, 'name': 'ALF', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1695213744'})
+# browser.add_cookie({'domain': '.sina.com.cn', 'httpOnly': False, 'name': 'SUBP', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '0033WrSXqPxfM725Ws9jqgMF55529P9D9Wh67rqn0jCF8RVZkpC54nWZ5NHD95Qceh5Xeon7SKe7Ws4Dqcj3i--Ni-iWi-2Ei--ciK.RiKLsi--4iK.Ni-8Wi--4iK.Ni-8WIrHjIgHX'})
+# browser.add_cookie({'domain': '.sina.com.cn', 'httpOnly': True, 'name': 'SCF', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'AjUvWuiha4N_hVf6kE9Shy6oTw93Q8gi5jAiLCjseMCxNRYNeE8g48T87JwdVmIt_TZgZX9Lxeamm-bhLVP45Mk.'})
+# browser.add_cookie({'domain': 'place.weibo.com', 'httpOnly': False, 'name': 'PHPSESSID', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'c1f007db93f862677d898e02dca75238'})
+browser.add_cookie({'domain': '.weibo.com', 'httpOnly': False, 'name': 'SUB', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '_2A25OTGgcDeRhGeBO61YT-C7JyDyIHXVtON7UrDV8PUNbmtAKLWmnkW9NSlmktGEgh9hUxg_JGL4lfhy9BXeCjwa8'})
+browser.add_cookie({'domain': '.weibo.com', 'httpOnly': False, 'name': 'PC_TOKEN', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '73d6983a1c'})
+browser.add_cookie({'domain': '.weibo.com', 'httpOnly': False, 'name': 'WBPSESS', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '-slJzTKhzDzKK5KM1fl5TcM--I2sb6AcKhCyrd1qF-vBbOlAz13CO9r8MJ_5vuhCfI5eXErjZnRoihmmEAw4d53KSz-7DVl-dkWlj0RqHN4kQzZPvuKXcNQreiROghIj'})
+browser.add_cookie({'domain': '.weibo.com', 'httpOnly': False, 'name': 'XSRF-TOKEN', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'pZ_wUrQ1NLgct4-XRZAlUzSe'})
+browser.add_cookie({'domain': '.weibo.com', 'httpOnly': False, 'name': 'SUBP', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '0033WrSXqPxfM725Ws9jqgMF55529P9D9Wh67rqn0jCF8RVZkpC54nWZ5JpX5KMhUgL.Foq7ehBE1h5fe052dJLoIEQLxKMLB.2LBKzLxKqL1KnL1-qLxK.L1KMLB-2LxK.L1KMLB-83UgpD9PBt'})
+browser.add_cookie({'domain': '.weibo.com', 'httpOnly': False, 'name': 'webim_unReadCount', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '%7B%22time%22%3A1665234784317%2C%22dm_pub_total%22%3A4%2C%22chat_group_client%22%3A0%2C%22chat_group_notice%22%3A0%2C%22allcountNum%22%3A46%2C%22msgbox%22%3A0%7D'})
+browser.add_cookie({'domain': '.weibo.com', 'httpOnly': False, 'name': '_s_tentry', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'login.sina.com.cn'})
+browser.add_cookie({'domain': '.weibo.com', 'httpOnly': False, 'name': 'Apache', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '4283487584599.3394.1665311825975'})
+browser.add_cookie({'domain': '.weibo.com', 'httpOnly': False, 'name': 'UOR', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': ',,login.sina.com.cn'})
+browser.add_cookie({'domain': '.weibo.com', 'httpOnly': False, 'name': 'ALF', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1697205193'})
+browser.add_cookie({'domain': '.weibo.com', 'httpOnly': False, 'name': 'SSOLoginState', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1665232284'})
+browser.add_cookie({'domain': '.weibo.com', 'httpOnly': False, 'name': 'SCF', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': 'AjUvWuiha4N_hVf6kE9Shy6oTw93Q8gi5jAiLCjseMCxgrJKgerONTNNrRf2p99W0dLKWiH75cjTcFwYu3EzeIM.'})
+browser.add_cookie({'domain': '.weibo.com', 'httpOnly': False, 'name': 'ULV', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1665311825978:11:2:1:4283487584599.3394.1665311825975:1665232286884'})
+browser.add_cookie({'domain': '.weibo.com', 'httpOnly': False, 'name': 'wb_view_log_6004280530', 'path': '/', 'sameSite': 'None', 'secure': True, 'value': '1920*10801'})
+browser.add_cookie({'domain': '.weibo.com', 'httpOnly': False, 'name': 'SINAGLOBAL', 'path': '/', 'sameSite': 'None', 'secure': False, 'value': '2243265361707.869.1663339298312'})
+
+browser.get("https://weibo.com/p/100101B2094757D069A6FD4299")
+
+excelFname = datetime.datetime.now().strftime("%y%m%d%H%M%S")+".xlsx"
 products = []
-# browser = getAuthorList('https://weibo.com/p/100101B2094757D069A6FD4299?feed_filter=filter&feed_sort=filter&current_page=0&since_id=&page=1', products)
+excelPath = Files.getLatestExcel("G:/git/python-caiji/src/work/0830/")
+currentIndex = 0
+if excelPath!= None:
+    book =load_workbook(excelPath)
+    sheet = book["博主"]
+    rows = sheet.max_row
+    head = [row for row in sheet.iter_rows(min_row=1, max_row=1, values_only=True)][0]
+    for index,row in enumerate(sheet.iter_rows(min_row=2, max_row=rows + 1, values_only=True)):
+        data = dict(zip(head, row))
+        if str(data["current"])=="1":
+            currentIndex = index
+        products.append(data)
+else:
+    for pIndex in range(1, 25):
+        getAuthorList(browser, 'https://weibo.com/p/100101B2094757D069A6FD4299?feed_filter=filter&feed_sort=filter&current_page=' +
+                    str(pIndex*3-1)+'&since_id=&page='+str(pIndex), products)
 
-browser = NULL
-for pIndex in range(1, 25):
-    browser=getAuthorList('https://weibo.com/p/100101B2094757D069A6FD4299?feed_filter=filter&feed_sort=filter&current_page=' +
-                   str(pIndex*3-1)+'&since_id=&page='+str(pIndex), products)
-weobo = getWeiBoInfo(browser, products)
+weobo = getWeiBoInfo(browser, products, currentIndex)
+
+#测试代码
+# browser = getAuthorList('https://weibo.com/p/100101B2094757D069A6FD4299?feed_filter=filter&feed_sort=filter&current_page=0&since_id=&page=1', products)
 # weobo = getWeiBoInfo(browser, [{"bozhuName":"See4amsun","userId":"7541086833"}])
+#测试代码
 
 wb = Workbook()
 sheet1 = wb.create_sheet(title="微博")
@@ -315,20 +386,22 @@ sheet2 =wb.create_sheet(title="评论")
 sheet3 =wb.create_sheet(title="赞过的微博")
 fensiSheet =wb.create_sheet(title="粉丝")
 guanzhuSheet =wb.create_sheet(title="关注")
+userSheet =wb.create_sheet(title="博主")
 
 
 headers1 = [
-    'weiboId', 'bozhuName','fensi','guanzhu','address','weiboContent','publishTime'
+    'weiboId', 'bozhuName','gender','fensi','guanzhu','address','weiboContent','publishTime'
 ]
 headers2 = [
     'weiboId', 'pinlunRen','pinlunContent','pinlunTime'
 ]
 headers3 = [
-    'bozhuName', 'userName', 'address','weiboContent','publishTime','likedTime','beiZhanRenUrl','renzheng','fenshi','guanzhu','labels'
+    'bozhuName', 'userName','gender', 'address','weiboContent','publishTime','likedTime','beiZhanRenUrl','renzheng','fenshi','guanzhu','labels'
 ]
 
-fensiHeader = ['bozhuName','fensiName','profile_url','fensi','guanzhu']
-guanzhuHeader = ['bozhuName','guanzhuName','profile_url','fensi','guanzhu']
+fensiHeader = ['bozhuName','fensiName','profile_url','fensi','guanzhu','gender', 'labels','renzheng']
+guanzhuHeader = ['bozhuName','guanzhuName','profile_url','fensi','guanzhu','gender', 'labels','renzheng']
+userHeader = ['bozhuName','userId','current']
 
 for index, head in enumerate(headers1):
     sheet1.cell(1, index+1).value = head.strip()
@@ -361,6 +434,11 @@ for index, head in enumerate(guanzhuHeader):
     guanzhuSheet.cell(1, index+1).value = head.strip()
 for index, p in enumerate(weobo["guanzhuListRes"]):
     writeExcel(guanzhuSheet, guanzhuHeader, index + 2, p)
+
+for index, head in enumerate(userHeader):
+    userSheet.cell(1, index+1).value = head.strip()
+for index, p in enumerate(weobo["users"]):
+    writeExcel(userSheet, userHeader, index + 2, p)
 
 print("flish")
 
