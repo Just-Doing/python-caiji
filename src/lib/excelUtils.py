@@ -10,13 +10,13 @@ def writeExcelRow(workSheet, headers, rowIndex, data):
     for head in headers:
         try:
             if head in data:
-                content = ILLEGAL_CHARACTERS_RE.sub(r'', data[head])
+                content = ILLEGAL_CHARACTERS_RE.sub(r'', str(data[head]))
                 workSheet.cell(rowIndex, cellIndex).value = content.strip()
             else:
                 workSheet.cell(rowIndex, cellIndex).value = ""
             cellIndex = cellIndex+1
         except:
-            print(rowIndex)
+            print("errIndex:"+rowIndex)
 
 
 def writeExcel(workSheet, headers, products):
@@ -31,5 +31,14 @@ def generateExcel(fileName, products, headers):
     wb = Workbook()
     workSheet = wb.active
     writeExcel(workSheet, headers, products)
+    wb.save(excelFileName)
+    print("flish")
+
+def generateExcelMultipleSheet(fileName, data):
+    excelFileName = fileName
+    wb = Workbook()
+    for sheetName in data:
+        sheet1 = wb.create_sheet(title=sheetName["name"])
+        writeExcel(sheet1, sheetName["header"], sheetName["data"])
     wb.save(excelFileName)
     print("flish")

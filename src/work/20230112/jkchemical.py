@@ -43,6 +43,7 @@ def getProductInfo(url, type1, type2, type3, data):
     "纯度": data["purity"] if "purity" in data else "",
     "分子量": data["molecularWeight"] if "molecularWeight" in data else ""
   }
+  pInfo["分子量"] = str(pInfo["分子量"])
   content = sope.find("div", attrs={"class":"details"})
   timeToWaite = 1
   while(content == None):
@@ -84,7 +85,7 @@ def getProductInfo(url, type1, type2, type3, data):
   if img!=None:
     httpUtils.urllib_download(img["src"], imageName)
     pInfo["imageName"] = imageName
-
+  print(pInfo)
   products.append(pInfo.copy())
 
 
