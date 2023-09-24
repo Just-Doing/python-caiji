@@ -41,4 +41,5 @@ def generateExcelMultipleSheet(fileName, data):
         sheet1 = wb.create_sheet(title=sheetName["name"])
         writeExcel(sheet1, sheetName["header"], sheetName["data"])
     wb.save(excelFileName)
+    wb.close()
     print("flish")

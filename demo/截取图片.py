@@ -1,5 +1,5 @@
 
-def getRenderdHtmlFromUrl(url, isScreenShotName=""):
+def cutImgFromUrl(url, isScreenShotName=""):
 	chrome_options = webdriver.ChromeOptions()
 	chrome_options.add_argument('--headless')
 	chrome_options.add_argument('--disable-gpu')
@@ -10,10 +10,8 @@ def getRenderdHtmlFromUrl(url, isScreenShotName=""):
 
 	browser = webdriver.Chrome(chrome_options=chrome_options)
 	browser.get(url)
-	time.sleep(10)
 	if len(isScreenShotName) > 0:
 		imgEle = browser.find_element_by_xpath('//body/img[1]')
 		if imgEle !=None:
 			imgEle.screenshot(isScreenShotName)
-	return browser.page_source
 	

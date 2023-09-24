@@ -12,9 +12,6 @@ from lib import textUtil
 from lib.htmlEleUtils import getNodeText
 from lib.htmlEleUtils import getInnerHtml
 products1 = []
-products2 = []
-products3 = []
-products4 = []
 customerHeader = []
 sizeHeader=[]
 
@@ -23,12 +20,15 @@ def addHeader(header, title):
     header.append(title)
 
 
-def getProductInfo(url, type):
-	print(str(len(products1))+"-"+str(len(products2))+"-"+str(len(products3)) + "==" + url)
+def getProductInfo(url):
+	print(str(len(products1))+ "==" + url)
 	sope = httpUtils.getHtmlFromUrl(url)
+
+	pType = sope.find_all("ul", attrs={"class":"uk-breadcrumb uk-margin-remove"})
 	pName = sope.find("h1", attrs={"class":"uk-text-bold uk-margin-bottom uk-margin-remove-top uk-display-block uk-heading-line uk-h3"})
 	pInfo = {
 		"link": url,
+		"Product Category": getNodeText(pType[1]),
 		"Product Name": getNodeText(pName),
 	}
 	trs = sope.find_all("tr")
@@ -55,58 +55,30 @@ def getProductInfo(url, type):
 			if len(title) >0:
 				pInfo[title] = value
 				addHeader(customerHeader, title)
-	if type == "1":
-		products1.append(pInfo.copy())
-	if type == "2":
-		products2.append(pInfo.copy())
-	if type == "3":
-		products3.append(pInfo.copy())
-	if type == "4":
-		products4.append(pInfo.copy())
+	products1.append(pInfo.copy())
 
-def getProductList(url, type):
+
+def getProductList(url):
 	sope = httpUtils.getHtmlFromUrl(url)
-	ps = sope.find_all("div", attrs={"class":"product-listing uk-grid uk-grid-small uk-margin-remove uk-padding-small"})
+	ps = sope.find_all("div", attrs={"class":"product-listing"})
 	for p in ps:
 		pLink = p.find("a")
-		getProductInfo("https://www.mybiosource.com"+pLink["href"], type)
+		getProductInfo("https://www.mybiosource.com"+pLink["href"])
 			
 
-# getProductList("https://www.mybiosource.com/pathway/736188", '1')
 
-# for pIndex in range(1, 5):
-# 	getProductList("https://www.mybiosource.com/pathway/198312?name=198312&page="+str(pIndex), '2')
+for pIndex in range(1, 12):
+	getProductList("https://www.mybiosource.com/search/leukemia?type=ELISA+Kit&size=200&page="+str(pIndex))
 
-# getProductList("https://www.mybiosource.com/pathway/139776", '3')
+# getProductInfo("https://www.mybiosource.com/rabbit-elisa-kits/arg/2513649")
 
-
-# for pIndex in range(1, 52):
-# 	getProductList("https://www.mybiosource.com/pathway/187191&page="+str(pIndex), '4')
-
-getProductInfo("https://www.mybiosource.com/human-elisa-kits/neutrophil-gelatinase-associated-lipocalin-ngal/2021888", '1')
-
-headers=['link','Product Name','Catalog #']
+headers=['link','Product Name','Catalog #','Product Category']
 
 
 excelUtils.generateExcelMultipleSheet('mybiosource.xlsx', [
 	{
-		"name":"Iron Complex Transport System Pathwayy",
-		"header": headers + sizeHeader + customerHeader,
+		"name":"ELISA Kit",
+		"header": headers + sizeHeader + customerHeader  ,
 		"data": products1
-	},
-	{
-		"name":"Iron Homeostasis Pathway",
-		"header": headers + sizeHeader + customerHeader,
-		"data": products2
-	},
-	{
-		"name":"Iron Reduction And Absorption Pathway",
-		"header": headers + sizeHeader + customerHeader,
-		"data": products3
-	},
-	{
-		"name":"Iron Uptake And Transport Pathway",
-		"header": headers + sizeHeader + customerHeader,
-		"data": products4
 	}
 ])

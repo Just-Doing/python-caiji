@@ -1,0 +1,412 @@
+[
+  {
+    "t1": "Angiogenesis Inhibitor in Cancer",
+    "t2": "ANGPT2",
+    "url": "https://www.cusabio.com/target/ANGPT2.html"
+  },
+  {
+    "t1": "Angiogenesis Inhibitor in Cancer",
+    "t2": "CALR",
+    "url": "https://www.cusabio.com/target/CALR.html"
+  },
+  {
+    "t1": "Angiogenesis Inhibitor in Cancer",
+    "t2": "CHGA",
+    "url": "https://www.cusabio.com/target/CHGA.html"
+  },
+  {
+    "t1": "Angiogenesis Inhibitor in Cancer",
+    "t2": "COL1A1",
+    "url": "https://www.cusabio.com/target/COL1A1.html"
+  },
+  {
+    "t1": "Angiogenesis Inhibitor in Cancer",
+    "t2": "PF4",
+    "url": "https://www.cusabio.com/target/PF4.html"
+  },
+  {
+    "t1": "Angiogenesis Inhibitor in Cancer",
+    "t2": "TSP1",
+    "url": "https://www.cusabio.com/target/THBS1.html"
+  },
+  {
+    "t1": "Angiogenesis Inhibitor in Cancer",
+    "t2": "THBS2",
+    "url": "https://www.cusabio.com/target/THBS2.html"
+  },
+  {
+    "t1": "Angiogenesis Inhibitor in Cancer",
+    "t2": "TIMP-1",
+    "url": "https://www.cusabio.com/target/TIMP1.html"
+  },
+  {
+    "t1": "Angiogenic Activator in Cancer",
+    "t2": "G-CSF",
+    "url": "https://www.cusabio.com/target/CSF3.html"
+  },
+  {
+    "t1": "Angiogenic Activator in Cancer",
+    "t2": "CXCL8",
+    "url": "https://www.cusabio.com/target/CXCL8.html"
+  },
+  {
+    "t1": "Angiogenic Activator in Cancer",
+    "t2": "EGF",
+    "url": "https://www.cusabio.com/target/EGF.html"
+  },
+  {
+    "t1": "Angiogenic Activator in Cancer",
+    "t2": "FGF2",
+    "url": "https://www.cusabio.com/target/FGF2.html"
+  },
+  {
+    "t1": "Angiogenic Activator in Cancer",
+    "t2": "HGF",
+    "url": "https://www.cusabio.com/target/HGF.html"
+  },
+  {
+    "t1": "Angiogenic Activator in Cancer",
+    "t2": "PDGFA",
+    "url": "https://www.cusabio.com/target/PDGFA.html"
+  },
+  {
+    "t1": "Angiogenic Activator in Cancer",
+    "t2": "PDGF-B",
+    "url": "https://www.cusabio.com/target/PDGFB.html"
+  },
+  {
+    "t1": "Angiogenic Activator in Cancer",
+    "t2": "PDGF-C",
+    "url": "https://www.cusabio.com/target/PDGFC.html"
+  },
+  {
+    "t1": "Angiogenic Activator in Cancer",
+    "t2": "PDGF-D",
+    "url": "https://www.cusabio.com/target/PDGFD.html"
+  },
+  {
+    "t1": "Angiogenic Activator in Cancer",
+    "t2": "PLGF/PGF",
+    "url": "https://www.cusabio.com/target/PGF.html"
+  },
+  {
+    "t1": "Angiogenic Activator in Cancer",
+    "t2": "TGF-alpha",
+    "url": "https://www.cusabio.com/target/TGFA.html"
+  },
+  {
+    "t1": "Angiogenic Activator in Cancer",
+    "t2": "TGF beta 1",
+    "url": "https://www.cusabio.com/target/TGFB1.html"
+  },
+  {
+    "t1": "Angiogenic Activator in Cancer",
+    "t2": "TNF-alpha",
+    "url": "https://www.cusabio.com/target/TNF.html"
+  },
+  {
+    "t1": "Angiogenic Activator in Cancer",
+    "t2": "VEGFA",
+    "url": "https://www.cusabio.com/target/VEGFA.html"
+  },
+  {
+    "t1": "ECM and ECM Regulators",
+    "t2": "COL10A1",
+    "url": "https://www.cusabio.com/target/COL10A1.html"
+  },
+  {
+    "t1": "ECM and ECM Regulators",
+    "t2": "COL11A1",
+    "url": "https://www.cusabio.com/target/COL11A1.html"
+  },
+  {
+    "t1": "ECM and ECM Regulators",
+    "t2": "COL1A1",
+    "url": "https://www.cusabio.com/target/COL1A1.html"
+  },
+  {
+    "t1": "ECM and ECM Regulators",
+    "t2": "COL22A1",
+    "url": "https://www.cusabio.com/target/COL22A1.html"
+  },
+  {
+    "t1": "ECM and ECM Regulators",
+    "t2": "COL2A1",
+    "url": "https://www.cusabio.com/target/COL2A1.html"
+  },
+  {
+    "t1": "ECM and ECM Regulators",
+    "t2": "COL3A1",
+    "url": "https://www.cusabio.com/target/COL3A1.html"
+  },
+  {
+    "t1": "ECM and ECM Regulators",
+    "t2": "COL4A1",
+    "url": "https://www.cusabio.com/target/COL4A1.html"
+  },
+  {
+    "t1": "ECM and ECM Regulators",
+    "t2": "COL4A2",
+    "url": "https://www.cusabio.com/target/COL4A2.html"
+  },
+  {
+    "t1": "ECM and ECM Regulators",
+    "t2": "COL4A3",
+    "url": "https://www.cusabio.com/target/COL4A3.html"
+  },
+  {
+    "t1": "ECM and ECM Regulators",
+    "t2": "COL4A4",
+    "url": "https://www.cusabio.com/target/COL4A4.html"
+  },
+  {
+    "t1": "ECM and ECM Regulators",
+    "t2": "COL4A5",
+    "url": "https://www.cusabio.com/target/COL4A5.html"
+  },
+  {
+    "t1": "ECM and ECM Regulators",
+    "t2": "COL4A6",
+    "url": "https://www.cusabio.com/target/COL4A6.html"
+  },
+  {
+    "t1": "ECM and ECM Regulators",
+    "t2": "COL6A2",
+    "url": "https://www.cusabio.com/target/COL6A2.html"
+  },
+  {
+    "t1": "ECM and ECM Regulators",
+    "t2": "COL6A3",
+    "url": "https://www.cusabio.com/target/COL6A3.html"
+  },
+  {
+    "t1": "ECM and ECM Regulators",
+    "t2": "COL6A5",
+    "url": "https://www.cusabio.com/target/COL6A5.html"
+  },
+  {
+    "t1": "ECM and ECM Regulators",
+    "t2": "COL9A1",
+    "url": "https://www.cusabio.com/target/COL9A1.html"
+  },
+  {
+    "t1": "ECM and ECM Regulators",
+    "t2": "COL9A2",
+    "url": "https://www.cusabio.com/target/COL9A2.html"
+  },
+  {
+    "t1": "ECM and ECM Regulators",
+    "t2": "CTSB",
+    "url": "https://www.cusabio.com/target/CTSB.html"
+  },
+  {
+    "t1": "ECM and ECM Regulators",
+    "t2": "LOX",
+    "url": "https://www.cusabio.com/target/LOX.html"
+  },
+  {
+    "t1": "ECM and ECM Regulators",
+    "t2": "PLOD2",
+    "url": "https://www.cusabio.com/target/PLOD2.html"
+  },
+  {
+    "t1": "MDSC Cytokines and Growth Factors",
+    "t2": "M-CSF",
+    "url": "https://www.cusabio.com/target/CSF1.html"
+  },
+  {
+    "t1": "MDSC Cytokines and Growth Factors",
+    "t2": "GM-CSF",
+    "url": "https://www.cusabio.com/target/CSF2.html"
+  },
+  {
+    "t1": "MDSC Cytokines and Growth Factors",
+    "t2": "IFN Gamma",
+    "url": "https://www.cusabio.com/target/IFNG.html"
+  },
+  {
+    "t1": "MDSC Cytokines and Growth Factors",
+    "t2": "IL10",
+    "url": "https://www.cusabio.com/target/IL10.html"
+  },
+  {
+    "t1": "MDSC Cytokines and Growth Factors",
+    "t2": "IL12A",
+    "url": "https://www.cusabio.com/target/IL12A.html"
+  },
+  {
+    "t1": "MDSC Cytokines and Growth Factors",
+    "t2": "IL13",
+    "url": "https://www.cusabio.com/target/IL13.html"
+  },
+  {
+    "t1": "MDSC Cytokines and Growth Factors",
+    "t2": "IL6",
+    "url": "https://www.cusabio.com/target/IL6.html"
+  },
+  {
+    "t1": "MDSC Cytokines and Growth Factors",
+    "t2": "PTGES2",
+    "url": "https://www.cusabio.com/target/PTGES2.html"
+  },
+  {
+    "t1": "MDSC Cytokines and Growth Factors",
+    "t2": "S100A8",
+    "url": "https://www.cusabio.com/target/S100A8.html"
+  },
+  {
+    "t1": "MDSC Cytokines and Growth Factors",
+    "t2": "S100A9",
+    "url": "https://www.cusabio.com/target/S100A9.html"
+  },
+  {
+    "t1": "MDSC Cytokines and Growth Factors",
+    "t2": "TGF beta 1",
+    "url": "https://www.cusabio.com/target/TGFB1.html"
+  },
+  {
+    "t1": "MDSC Cytokines and Growth Factors",
+    "t2": "TGF beta 2",
+    "url": "https://www.cusabio.com/target/TGFB2.html"
+  },
+  {
+    "t1": "MDSC Cytokines and Growth Factors",
+    "t2": "TGF-beta 3",
+    "url": "https://www.cusabio.com/target/TGFB3.html"
+  },
+  {
+    "t1": "MDSC Cytokines and Growth Factors",
+    "t2": "VEGFA",
+    "url": "https://www.cusabio.com/target/VEGFA.html"
+  },
+  {
+    "t1": "MDS Intracellular Signaling Factors",
+    "t2": "NOS2",
+    "url": "https://www.cusabio.com/target/NOS2.html"
+  },
+  {
+    "t1": "MDS Intracellular Signaling Factors",
+    "t2": "STAT1",
+    "url": "https://www.cusabio.com/target/STAT1.html"
+  },
+  {
+    "t1": "MDS Intracellular Signaling Factors",
+    "t2": "STAT3",
+    "url": "https://www.cusabio.com/target/STAT3.html"
+  },
+  {
+    "t1": "MDS Intracellular Signaling Factors",
+    "t2": "STAT6",
+    "url": "https://www.cusabio.com/target/STAT6.html"
+  },
+  {
+    "t1": "MDSC Phenotyping-Negative/Positive Markers",
+    "t2": "CD14",
+    "url": "https://www.cusabio.com/target/CD14.html"
+  },
+  {
+    "t1": "MDSC Phenotyping-Negative/Positive Markers",
+    "t2": "CD34",
+    "url": "https://www.cusabio.com/target/CD34.html"
+  },
+  {
+    "t1": "MDSC Phenotyping-Negative/Positive Markers",
+    "t2": "CD40",
+    "url": "https://www.cusabio.com/target/CD40.html"
+  },
+  {
+    "t1": "MDSC Phenotyping-Negative/Positive Markers",
+    "t2": "CD35",
+    "url": "https://www.cusabio.com/target/CR1.html"
+  },
+  {
+    "t1": "MDSC Phenotyping-Negative/Positive Markers",
+    "t2": "CD21",
+    "url": "https://www.cusabio.com/target/CR2.html"
+  },
+  {
+    "t1": "MDSC Phenotyping-Negative/Positive Markers",
+    "t2": "CD23",
+    "url": "https://www.cusabio.com/target/FCER2.html"
+  },
+  {
+    "t1": "MDSC Phenotyping-Negative/Positive Markers",
+    "t2": "CD11c",
+    "url": "https://www.cusabio.com/target/ITGAX.html"
+  },
+  {
+    "t1": "MDSC Phenotyping-Negative/Positive Markers",
+    "t2": "C5AR1",
+    "url": "https://www.cusabio.com/target/C5AR1.html"
+  },
+  {
+    "t1": "MDSC Phenotyping-Negative/Positive Markers",
+    "t2": "CCR2",
+    "url": "https://www.cusabio.com/target/CCR2.html"
+  },
+  {
+    "t1": "MDSC Phenotyping-Negative/Positive Markers",
+    "t2": "CD1D",
+    "url": "https://www.cusabio.com/target/CD1D.html"
+  },
+  {
+    "t1": "MDSC Phenotyping-Negative/Positive Markers",
+    "t2": "CD2",
+    "url": "https://www.cusabio.com/target/CD2.html"
+  },
+  {
+    "t1": "MDSC Phenotyping-Negative/Positive Markers",
+    "t2": "CD274",
+    "url": "https://www.cusabio.com/target/CD274.html"
+  },
+  {
+    "t1": "MDSC Phenotyping-Negative/Positive Markers",
+    "t2": "CD33",
+    "url": "https://www.cusabio.com/target/CD33.html"
+  },
+  {
+    "t1": "MDSC Phenotyping-Negative/Positive Markers",
+    "t2": "CD44",
+    "url": "https://www.cusabio.com/target/CD44.html"
+  },
+  {
+    "t1": "MDSC Phenotyping-Negative/Positive Markers",
+    "t2": "FLT1",
+    "url": "https://www.cusabio.com/target/FLT1.html"
+  },
+  {
+    "t1": "MDSC Phenotyping-Negative/Positive Markers",
+    "t2": "ICAM1",
+    "url": "https://www.cusabio.com/target/ICAM1.html"
+  },
+  {
+    "t1": "MDSC Phenotyping-Negative/Positive Markers",
+    "t2": "IL1R1",
+    "url": "https://www.cusabio.com/target/IL1R1.html"
+  },
+  {
+    "t1": "MDSC Phenotyping-Negative/Positive Markers",
+    "t2": "IL4R",
+    "url": "https://www.cusabio.com/target/IL4R.html"
+  },
+  {
+    "t1": "MDSC Phenotyping-Negative/Positive Markers",
+    "t2": "IL-6R",
+    "url": "https://www.cusabio.com/target/IL6R.html"
+  },
+  {
+    "t1": "MDSC Phenotyping-Negative/Positive Markers",
+    "t2": "ITGA4",
+    "url": "https://www.cusabio.com/target/ITGA4.html"
+  },
+  {
+    "t1": "MDSC Phenotyping-Negative/Positive Markers",
+    "t2": "ITGB2",
+    "url": "https://www.cusabio.com/target/ITGB2.html"
+  },
+  {
+    "t1": "MDSC Phenotyping-Negative/Positive Markers",
+    "t2": "TFRC",
+    "url": "https://www.cusabio.com/target/TFRC.html"
+  }
+]

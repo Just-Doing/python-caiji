@@ -1,0 +1,5942 @@
+[
+  {
+    "name": "Methyl 5-chloronorobtusatate",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/methyl-5-chloronorobtusatate-359079.html",
+    "Catalog": "BBF-05274"
+  },
+  {
+    "name": "Lumazine",
+    "CAS": "487-21-8",
+    "URL": "https://bio-fermen.bocsci.com/product/lumazine-cas-487-21-8-358572.html",
+    "Catalog": "BBF-04755"
+  },
+  {
+    "name": "L-Valinamide",
+    "CAS": "4540-60-7",
+    "URL": "https://bio-fermen.bocsci.com/product/l-valinamide-cas-4540-60-7-358573.html",
+    "Catalog": "BBF-04757"
+  },
+  {
+    "name": "Cyclothiocurvularin A",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/cyclothiocurvularin-a-358574.html",
+    "Catalog": "BBF-04758"
+  },
+  {
+    "name": "GR5",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/gr5-358576.html",
+    "Catalog": "BBF-04760"
+  },
+  {
+    "name": "Hodgkinsine trimethyl triiodide",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/hodgkinsine-trimethyl-triiodide-358577.html",
+    "Catalog": "BBF-04761"
+  },
+  {
+    "name": "Isonanangenine B",
+    "CAS": "1623153-14-9",
+    "URL": "https://bio-fermen.bocsci.com/product/isonanangenine-b-cas-1623153-14-9-358578.html",
+    "Catalog": "BBF-04762"
+  },
+  {
+    "name": "Glaucophaeic acid",
+    "CAS": "155214-61-2",
+    "URL": "https://bio-fermen.bocsci.com/product/glaucophaeic-acid-cas-155214-61-2-358792.html",
+    "Catalog": "BBF-04978"
+  },
+  {
+    "name": "Hyperplanaic acid",
+    "CAS": "156372-07-5",
+    "URL": "https://bio-fermen.bocsci.com/product/hyperplanaic-acid-cas-156372-07-5-358795.html",
+    "Catalog": "BBF-04981"
+  },
+  {
+    "name": "Isohyperplanaic acid",
+    "CAS": "156372-08-6",
+    "URL": "https://bio-fermen.bocsci.com/product/isohyperplanaic-acid-cas-156372-08-6-358796.html",
+    "Catalog": "BBF-04982"
+  },
+  {
+    "name": "Superplanaic acid",
+    "CAS": "156372-09-7",
+    "URL": "https://bio-fermen.bocsci.com/product/superplanaic-acid-cas-156372-09-7-358797.html",
+    "Catalog": "BBF-04983"
+  },
+  {
+    "name": "Isomegapicrolichenic acid",
+    "CAS": "157240-21-6",
+    "URL": "https://bio-fermen.bocsci.com/product/isomegapicrolichenic-acid-cas-157240-21-6-358799.html",
+    "Catalog": "BBF-04985"
+  },
+  {
+    "name": "Isohyperpicrolichenic acid",
+    "CAS": "157241-00-4",
+    "URL": "https://bio-fermen.bocsci.com/product/isohyperpicrolichenic-acid-cas-157241-00-4-358800.html",
+    "Catalog": "BBF-04986"
+  },
+  {
+    "name": "Megapicrolichenic acid",
+    "CAS": "157241-01-5",
+    "URL": "https://bio-fermen.bocsci.com/product/megapicrolichenic-acid-cas-157241-01-5-358801.html",
+    "Catalog": "BBF-04987"
+  },
+  {
+    "name": "Isopatagonic acid",
+    "CAS": "158202-34-7",
+    "URL": "https://bio-fermen.bocsci.com/product/isopatagonic-acid-cas-158202-34-7-358802.html",
+    "Catalog": "BBF-04988"
+  },
+  {
+    "name": "Methyl 3'-methyllecanorate",
+    "CAS": "70342-23-3",
+    "URL": "https://bio-fermen.bocsci.com/product/methyl-3-methyllecanorate-cas-70342-23-3-359080.html",
+    "Catalog": "BBF-05275"
+  },
+  {
+    "name": "2-O-Methylobtusatic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/2-o-methylobtusatic-acid-359081.html",
+    "Catalog": "BBF-05276"
+  },
+  {
+    "name": "2'-O-Methylpseudocyphellarin A",
+    "CAS": "113689-51-3",
+    "URL": "https://bio-fermen.bocsci.com/product/2-o-methylpseudocyphellarin-a-cas-113689-51-3-359082.html",
+    "Catalog": "BBF-05277"
+  },
+  {
+    "name": "2'-O-Methylphenarctin",
+    "CAS": "113689-52-4",
+    "URL": "https://bio-fermen.bocsci.com/product/2-o-methylphenarctin-cas-113689-52-4-359083.html",
+    "Catalog": "BBF-05278"
+  },
+  {
+    "name": "2'-O-Methylisopseudocyphellarin A",
+    "CAS": "113689-50-2",
+    "URL": "https://bio-fermen.bocsci.com/product/2-o-methylisopseudocyphellarin-a-cas-113689-50-2-359084.html",
+    "Catalog": "BBF-05279"
+  },
+  {
+    "name": "4-O-Methylhypophysciosporin",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/4-o-methylhypophysciosporin-359085.html",
+    "Catalog": "BBF-05280"
+  },
+  {
+    "name": "Patagonic acid",
+    "CAS": "158202-35-8",
+    "URL": "https://bio-fermen.bocsci.com/product/patagonic-acid-cas-158202-35-8-358803.html",
+    "Catalog": "BBF-04989"
+  },
+  {
+    "name": "Histidyl-asparagine",
+    "CAS": "158691-82-8",
+    "URL": "https://bio-fermen.bocsci.com/product/histidyl-asparagine-cas-158691-82-8-358804.html",
+    "Catalog": "BBF-04990"
+  },
+  {
+    "name": "Kaempferol tetramethyl ether",
+    "CAS": "16692-52-7",
+    "URL": "https://bio-fermen.bocsci.com/product/kaempferol-tetramethyl-ether-cas-16692-52-7-358807.html",
+    "Catalog": "BBF-04993"
+  },
+  {
+    "name": "Glutamyl-aspartate",
+    "CAS": "16804-55-0",
+    "URL": "https://bio-fermen.bocsci.com/product/glutamyl-aspartate-cas-16804-55-0-358809.html",
+    "Catalog": "BBF-04995"
+  },
+  {
+    "name": "(-)-Patagonic acid",
+    "CAS": "114020-67-6",
+    "URL": "https://bio-fermen.bocsci.com/product/patagonic-acid-cas-114020-67-6-358810.html",
+    "Catalog": "BBF-04996"
+  },
+  {
+    "name": "17-Norkauran-18-oic acid, 16-hydroxy-, (-)-",
+    "CAS": "16910-10-4",
+    "URL": "https://bio-fermen.bocsci.com/product/17-norkauran-18-oic-acid-16-hydroxy-cas-16910-10-4-358811.html",
+    "Catalog": "BBF-04997"
+  },
+  {
+    "name": "N-Acetyl-L-glutaminol",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/n-acetyl-l-glutaminol-358581.html",
+    "Catalog": "BBF-04765"
+  },
+  {
+    "name": "N-Acetyl-L-isoleucinol",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/n-acetyl-l-isoleucinol-358582.html",
+    "Catalog": "BBF-04766"
+  },
+  {
+    "name": "N-Acetyl-L-lysinol",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/n-acetyl-l-lysinol-358583.html",
+    "Catalog": "BBF-04767"
+  },
+  {
+    "name": "N-Acetyl-L-threoninol",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/n-acetyl-l-threoninol-358585.html",
+    "Catalog": "BBF-04769"
+  },
+  {
+    "name": "N-Acetyl-D-asparaginol",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/n-acetyl-d-asparaginol-358586.html",
+    "Catalog": "BBF-04770"
+  },
+  {
+    "name": "N-Acetyl-β-D-homoserine",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/n-acetyl-d-homoserine-358587.html",
+    "Catalog": "BBF-04771"
+  },
+  {
+    "name": "(R)-4-Acetamido-5-hydroxypentanoic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/r-4-acetamido-5-hydroxypentanoic-acid-358588.html",
+    "Catalog": "BBF-04772"
+  },
+  {
+    "name": "N-Acetyl-D-glutaminol",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/n-acetyl-d-glutaminol-358589.html",
+    "Catalog": "BBF-04773"
+  },
+  {
+    "name": "N-Acetyl-D-histidinol",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/n-acetyl-d-histidinol-358590.html",
+    "Catalog": "BBF-04774"
+  },
+  {
+    "name": "N-Acetyl-D-isoleucinol",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/n-acetyl-d-isoleucinol-358591.html",
+    "Catalog": "BBF-04775"
+  },
+  {
+    "name": "N-Acetyl-D-lysinol",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/n-acetyl-d-lysinol-358592.html",
+    "Catalog": "BBF-04776"
+  },
+  {
+    "name": "Decarboxy-2'-O-methylnorimbricaric acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/decarboxy-2-o-methylnorimbricaric-acid-359086.html",
+    "Catalog": "BBF-05281"
+  },
+  {
+    "name": "2'-O-Methyllecanoric acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/2-o-methyllecanoric-acid-359087.html",
+    "Catalog": "BBF-05282"
+  },
+  {
+    "name": "5-Methoxylecanoric acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/5-methoxylecanoric-acid-359088.html",
+    "Catalog": "BBF-05283"
+  },
+  {
+    "name": "5-Hydroxylecanoric acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/5-hydroxylecanoric-acid-359090.html",
+    "Catalog": "BBF-05285"
+  },
+  {
+    "name": "2-O-Methylnordivaricatic acid",
+    "CAS": "132396-87-3",
+    "URL": "https://bio-fermen.bocsci.com/product/2-o-methylnordivaricatic-acid-cas-132396-87-3-359091.html",
+    "Catalog": "BBF-05286"
+  },
+  {
+    "name": "2-O-Methyldivaricatic acid",
+    "CAS": "104307-56-4",
+    "URL": "https://bio-fermen.bocsci.com/product/2-o-methyldivaricatic-acid-cas-104307-56-4-359092.html",
+    "Catalog": "BBF-05287"
+  },
+  {
+    "name": "4-O-Methylvicanicin",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/4-o-methylvicanicin-359093.html",
+    "Catalog": "BBF-05288"
+  },
+  {
+    "name": "Strychnospermine",
+    "CAS": "509-45-5",
+    "URL": "https://bio-fermen.bocsci.com/product/strychnospermine-cas-509-45-5-359063.html",
+    "Catalog": "BBF-05258"
+  },
+  {
+    "name": "5,3',4'-triacetoxy-3,6,7-trimethoxy flavone",
+    "CAS": "14965-19-6",
+    "URL": "https://bio-fermen.bocsci.com/product/5-3-4-triacetoxy-3-6-7-trimethoxy-flavone-cas-14965-19-6-358775.html",
+    "Catalog": "BBF-04961"
+  },
+  {
+    "name": "Methyl-acetyl-11-keto-oleananeolate",
+    "CAS": "15071-78-0",
+    "URL": "https://bio-fermen.bocsci.com/product/methyl-acetyl-11-keto-oleananeolate-cas-15071-78-0-358776.html",
+    "Catalog": "BBF-04962"
+  },
+  {
+    "name": "m-Scrobiculin",
+    "CAS": "15081-04-6",
+    "URL": "https://bio-fermen.bocsci.com/product/m-scrobiculin-cas-15081-04-6-358777.html",
+    "Catalog": "BBF-04963"
+  },
+  {
+    "name": "Tyrosyl-asparagine",
+    "CAS": "151145-11-8",
+    "URL": "https://bio-fermen.bocsci.com/product/tyrosyl-asparagine-cas-151145-11-8-358778.html",
+    "Catalog": "BBF-04964"
+  },
+  {
+    "name": "Spiro[4.5]dec-7-ene-1-hexanol, 9-hydroxy-β,ζ,4,8-tetramethyl-, [1R-[1α(βS*,ζR*),4β,5β(S*)]]-",
+    "CAS": "151310-17-7",
+    "URL": "https://bio-fermen.bocsci.com/product/spiro-4-5-dec-7-ene-1-hexanol-9-hydroxy-4-8-cas-151310-17-7-358779.html",
+    "Catalog": "BBF-04965"
+  },
+  {
+    "name": "Spiro[4.5]dec-8-en-7-one, 1-(6-hydroxy-1,5-dimethylhexyl)-4,8-dimethyl-, [1R-[1α(1R*,5S*),4β,5β]]-",
+    "CAS": "151310-18-8",
+    "URL": "https://bio-fermen.bocsci.com/product/spiro-4-5-dec-8-en-7-one-1-6-hydroxy-1-5-dimethylhexyl-cas-151310-18-8-358780.html",
+    "Catalog": "BBF-04966"
+  },
+  {
+    "name": "Histidyl-lysine",
+    "CAS": "37700-85-9",
+    "URL": "https://bio-fermen.bocsci.com/product/histidyl-lysine-cas-37700-85-9-358974.html",
+    "Catalog": "BBF-05163"
+  },
+  {
+    "name": "Leucyl-glutamine",
+    "CAS": "38062-70-3",
+    "URL": "https://bio-fermen.bocsci.com/product/leucyl-glutamine-cas-38062-70-3-358975.html",
+    "Catalog": "BBF-05164"
+  },
+  {
+    "name": "3-Hydroxycolensoic acid",
+    "CAS": "63529-35-1",
+    "URL": "https://bio-fermen.bocsci.com/product/3-hydroxycolensoic-acid-cas-63529-35-1-358977.html",
+    "Catalog": "BBF-05166"
+  },
+  {
+    "name": "Ethyl Mycophenolate",
+    "CAS": "32483-51-5",
+    "URL": "https://bio-fermen.bocsci.com/product/ethyl-mycophenolate-cas-32483-51-5-358982.html",
+    "Catalog": "BBF-05175"
+  },
+  {
+    "name": "Isobenzofuranone, 5-methoxy-7-methyl-1(3H)-",
+    "CAS": "110451-92-8",
+    "URL": "https://bio-fermen.bocsci.com/product/isobenzofuranone-5-methoxy-7-methyl-1-3h-cas-110451-92-8-358716.html",
+    "Catalog": "BBF-04902"
+  },
+  {
+    "name": "Spiro[4.5]dec-7-ene-8-carboxylic acid, 1-(1,5-dimethylhexyl)-4-(hydroxymethyl)-, methyl ester, [1R-[1α(R*),4β,5β]]-",
+    "CAS": "110623-80-8",
+    "URL": "https://bio-fermen.bocsci.com/product/spiro-4-5-dec-7-ene-8-carboxylic-acid-1-1-5-cas-110623-80-8-358717.html",
+    "Catalog": "BBF-04903"
+  },
+  {
+    "name": "Spiro[4.5]decane-8-carboxylic acid, 1-(1,5-dimethylhexyl)-7-hydroxy-4-(hydroxymethyl)-, methyl ester, [1R-[1α(R*),4β,5β(7S*,8S*)]]-",
+    "CAS": "110623-81-9",
+    "URL": "https://bio-fermen.bocsci.com/product/spiro-4-5-decane-8-carboxylic-acid-1-1-5-dimethylhexyl-cas-110623-81-9-358718.html",
+    "Catalog": "BBF-04904"
+  },
+  {
+    "name": "5,19-Epoxy-3,14-viscidadien-16 oic acid",
+    "CAS": "110623-88-6",
+    "URL": "https://bio-fermen.bocsci.com/product/5-19-epoxy-3-14-viscidadien-16-oic-acid-cas-110623-88-6-358719.html",
+    "Catalog": "BBF-04905"
+  },
+  {
+    "name": "Conphysodalic acid",
+    "CAS": "111720-42-4",
+    "URL": "https://bio-fermen.bocsci.com/product/conphysodalic-acid-cas-111720-42-4-358720.html",
+    "Catalog": "BBF-04906"
+  },
+  {
+    "name": "Loxodellonic acid",
+    "CAS": "113689-49-9",
+    "URL": "https://bio-fermen.bocsci.com/product/loxodellonic-acid-cas-113689-49-9-358721.html",
+    "Catalog": "BBF-04907"
+  },
+  {
+    "name": "Hypoprotocetraric acid",
+    "CAS": "4665-02-5",
+    "URL": "https://bio-fermen.bocsci.com/product/hypoprotocetraric-acid-cas-4665-02-5-359201.html",
+    "Catalog": "BBF-05396"
+  },
+  {
+    "name": "Methyl protocetrarate",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/methyl-protocetrarate-359202.html",
+    "Catalog": "BBF-05397"
+  },
+  {
+    "name": "15-Hydroxy-epern-8(20)-en-18-saeure",
+    "CAS": "47255-93-6",
+    "URL": "https://bio-fermen.bocsci.com/product/15-hydroxy-epern-8-20-en-18-saeure-cas-47255-93-6-359203.html",
+    "Catalog": "BBF-05398"
+  },
+  {
+    "name": "4,5-Dimethoxyphthalide",
+    "CAS": "4741-58-6",
+    "URL": "https://bio-fermen.bocsci.com/product/4-5-dimethoxyphthalide-cas-4741-58-6-359204.html",
+    "Catalog": "BBF-05399"
+  },
+  {
+    "name": "Angustifolionol",
+    "CAS": "478-47-7",
+    "URL": "https://bio-fermen.bocsci.com/product/angustifolionol-cas-478-47-7-359205.html",
+    "Catalog": "BBF-05400"
+  },
+  {
+    "name": "Haematommic acid",
+    "CAS": "479-25-4",
+    "URL": "https://bio-fermen.bocsci.com/product/haematommic-acid-cas-479-25-4-359206.html",
+    "Catalog": "BBF-05401"
+  },
+  {
+    "name": "L-Cysteinamide",
+    "CAS": "74401-72-2",
+    "URL": "https://bio-fermen.bocsci.com/product/l-cysteinamide-cas-74401-72-2-358563.html",
+    "Catalog": "BBF-04741"
+  },
+  {
+    "name": "L-Cysteinol",
+    "CAS": "125509-78-6",
+    "URL": "https://bio-fermen.bocsci.com/product/l-cysteinol-cas-125509-78-6-358564.html",
+    "Catalog": "BBF-04742"
+  },
+  {
+    "name": "L-Glutamamide",
+    "CAS": "2013-17-4",
+    "URL": "https://bio-fermen.bocsci.com/product/l-glutamamide-cas-2013-17-4-358565.html",
+    "Catalog": "BBF-04743"
+  },
+  {
+    "name": "L-Glutamine methyl ester",
+    "CAS": "40846-98-8",
+    "URL": "https://bio-fermen.bocsci.com/product/l-glutamine-methyl-ester-cas-40846-98-8-358566.html",
+    "Catalog": "BBF-04744"
+  },
+  {
+    "name": "L-Glutaminol",
+    "CAS": "40217-15-0",
+    "URL": "https://bio-fermen.bocsci.com/product/l-glutaminol-cas-40217-15-0-358567.html",
+    "Catalog": "BBF-04745"
+  },
+  {
+    "name": "L-Isoleucinamide",
+    "CAS": "14445-54-6",
+    "URL": "https://bio-fermen.bocsci.com/product/l-isoleucinamide-cas-14445-54-6-358568.html",
+    "Catalog": "BBF-04746"
+  },
+  {
+    "name": "L-Serinamide",
+    "CAS": "6791-49-7",
+    "URL": "https://bio-fermen.bocsci.com/product/l-serinamide-cas-6791-49-7-358570.html",
+    "Catalog": "BBF-04753"
+  },
+  {
+    "name": "L-Threoninamide",
+    "CAS": "49705-99-9",
+    "URL": "https://bio-fermen.bocsci.com/product/l-threoninamide-cas-49705-99-9-358571.html",
+    "Catalog": "BBF-04754"
+  },
+  {
+    "name": "Porantherine",
+    "CAS": "33529-61-2",
+    "URL": "https://bio-fermen.bocsci.com/product/porantherine-cas-33529-61-2-359059.html",
+    "Catalog": "BBF-05254"
+  },
+  {
+    "name": "4-O-Demethylglomelliferic acid",
+    "CAS": "67121-41-9",
+    "URL": "https://bio-fermen.bocsci.com/product/4-o-demethylglomelliferic-acid-cas-67121-41-9-359332.html",
+    "Catalog": "BBF-05529"
+  },
+  {
+    "name": "Asparaginyl-glycine",
+    "CAS": "67576-72-1",
+    "URL": "https://bio-fermen.bocsci.com/product/asparaginyl-glycine-cas-67576-72-1-359333.html",
+    "Catalog": "BBF-05530"
+  },
+  {
+    "name": "Tryptophanyl-glutamine",
+    "CAS": "175027-12-0",
+    "URL": "https://bio-fermen.bocsci.com/product/tryptophanyl-glutamine-cas-175027-12-0-358815.html",
+    "Catalog": "BBF-05001"
+  },
+  {
+    "name": "Respirantin",
+    "CAS": "149598-67-4",
+    "URL": "https://bio-fermen.bocsci.com/product/respirantin-cas-149598-67-4-358773.html",
+    "Catalog": "BBF-04959"
+  },
+  {
+    "name": "5,7,4'-trihydroxy-3,8,3'-trimethoxy-flavone",
+    "CAS": "14965-08-3",
+    "URL": "https://bio-fermen.bocsci.com/product/5-7-4-trihydroxy-3-8-3-trimethoxy-flavone-cas-14965-08-3-358774.html",
+    "Catalog": "BBF-04960"
+  },
+  {
+    "name": "N-Methyl-L-methionine",
+    "CAS": "42537-72-4",
+    "URL": "https://bio-fermen.bocsci.com/product/n-methyl-l-methionine-cas-42537-72-4-359051.html",
+    "Catalog": "BBF-05245"
+  },
+  {
+    "name": "Deoxydehydrochorismic acid",
+    "CAS": "16929-37-6",
+    "URL": "https://bio-fermen.bocsci.com/product/deoxydehydrochorismic-acid-cas-16929-37-6-358812.html",
+    "Catalog": "BBF-04998"
+  },
+  {
+    "name": "Simonyellin",
+    "CAS": "173322-91-3",
+    "URL": "https://bio-fermen.bocsci.com/product/simonyellin-cas-173322-91-3-358813.html",
+    "Catalog": "BBF-04999"
+  },
+  {
+    "name": "4,7-Dichloronorlichexanthone",
+    "CAS": "67065-99-0",
+    "URL": "https://bio-fermen.bocsci.com/product/4-7-dichloronorlichexanthone-cas-67065-99-0-359328.html",
+    "Catalog": "BBF-05525"
+  },
+  {
+    "name": "4-O-Methylolivetoric acid",
+    "CAS": "67093-46-3",
+    "URL": "https://bio-fermen.bocsci.com/product/4-o-methylolivetoric-acid-cas-67093-46-3-359329.html",
+    "Catalog": "BBF-05526"
+  },
+  {
+    "name": "Isorhizonic acid",
+    "CAS": "6709-55-3",
+    "URL": "https://bio-fermen.bocsci.com/product/isorhizonic-acid-cas-6709-55-3-359330.html",
+    "Catalog": "BBF-05527"
+  },
+  {
+    "name": "Loxodellic acid",
+    "CAS": "67121-37-3",
+    "URL": "https://bio-fermen.bocsci.com/product/loxodellic-acid-cas-67121-37-3-359331.html",
+    "Catalog": "BBF-05528"
+  },
+  {
+    "name": "17-Norkauran-18-oic acid, 16-oxo-, (4α)-",
+    "CAS": "18671-67-5",
+    "URL": "https://bio-fermen.bocsci.com/product/17-norkauran-18-oic-acid-16-oxo-4-cas-18671-67-5-358833.html",
+    "Catalog": "BBF-05020"
+  },
+  {
+    "name": "Threonyl-tryptophan",
+    "CAS": "186761-42-2",
+    "URL": "https://bio-fermen.bocsci.com/product/threonyl-tryptophan-cas-186761-42-2-358834.html",
+    "Catalog": "BBF-05021"
+  },
+  {
+    "name": "Isophysodic acid",
+    "CAS": "188347-29-7",
+    "URL": "https://bio-fermen.bocsci.com/product/isophysodic-acid-cas-188347-29-7-358835.html",
+    "Catalog": "BBF-05022"
+  },
+  {
+    "name": "2'-O-Methylhyperphyllinic acid A",
+    "CAS": "193816-33-0",
+    "URL": "https://bio-fermen.bocsci.com/product/2-o-methylhyperphyllinic-acid-a-cas-193816-33-0-358837.html",
+    "Catalog": "BBF-05024"
+  },
+  {
+    "name": "2'-O-Methylhyperphyllinic acid B",
+    "CAS": "193816-31-8",
+    "URL": "https://bio-fermen.bocsci.com/product/2-o-methylhyperphyllinic-acid-b-cas-193816-31-8-358838.html",
+    "Catalog": "BBF-05025"
+  },
+  {
+    "name": "N-Benzoyl-D-glutaminol",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoyl-d-glutaminol-358604.html",
+    "Catalog": "BBF-04788"
+  },
+  {
+    "name": "N-Benzoyl-D-histidinol",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoyl-d-histidinol-358605.html",
+    "Catalog": "BBF-04789"
+  },
+  {
+    "name": "N-Benzoyl-D-isoleucinol",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoyl-d-isoleucinol-358606.html",
+    "Catalog": "BBF-04790"
+  },
+  {
+    "name": "N-Benzoyl-D-lysinol",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoyl-d-lysinol-358607.html",
+    "Catalog": "BBF-04791"
+  },
+  {
+    "name": "N-Benzoyl-D-methioninol",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoyl-d-methioninol-358608.html",
+    "Catalog": "BBF-04792"
+  },
+  {
+    "name": "N-Benzoyl-D-tryptophanol",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoyl-d-tryptophanol-358609.html",
+    "Catalog": "BBF-04793"
+  },
+  {
+    "name": "Parietinic acid",
+    "CAS": "17636-18-9",
+    "URL": "https://bio-fermen.bocsci.com/product/parietinic-acid-cas-17636-18-9-358818.html",
+    "Catalog": "BBF-05004"
+  },
+  {
+    "name": "Norargopsin",
+    "CAS": "103805-89-6",
+    "URL": "https://bio-fermen.bocsci.com/product/norargopsin-cas-103805-89-6-359095.html",
+    "Catalog": "BBF-05290"
+  },
+  {
+    "name": "4-O-Demethylstenosporic acid",
+    "CAS": "68671-32-9",
+    "URL": "https://bio-fermen.bocsci.com/product/4-o-demethylstenosporic-acid-cas-68671-32-9-359096.html",
+    "Catalog": "BBF-05291"
+  },
+  {
+    "name": "4-O-Demethylimbricaric acid",
+    "CAS": "67121-42-0",
+    "URL": "https://bio-fermen.bocsci.com/product/4-o-demethylimbricaric-acid-cas-67121-42-0-359097.html",
+    "Catalog": "BBF-05292"
+  },
+  {
+    "name": "2'-O-Methyldivaricatic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/2-o-methyldivaricatic-acid-359098.html",
+    "Catalog": "BBF-05293"
+  },
+  {
+    "name": "2-O-Methylstenosporic acid",
+    "CAS": "104307-58-6",
+    "URL": "https://bio-fermen.bocsci.com/product/2-o-methylstenosporic-acid-cas-104307-58-6-359099.html",
+    "Catalog": "BBF-05294"
+  },
+  {
+    "name": "2,2'-Di-O-Methyldivaricatic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/2-2-di-o-methyldivaricatic-acid-359100.html",
+    "Catalog": "BBF-05295"
+  },
+  {
+    "name": "Lysyl-serine",
+    "CAS": "6665-19-6",
+    "URL": "https://bio-fermen.bocsci.com/product/lysyl-serine-cas-6665-19-6-359326.html",
+    "Catalog": "BBF-05523"
+  },
+  {
+    "name": "Grayanic acid",
+    "CAS": "17636-19-0",
+    "URL": "https://bio-fermen.bocsci.com/product/grayanic-acid-cas-17636-19-0-358819.html",
+    "Catalog": "BBF-05005"
+  },
+  {
+    "name": "Lasallic acid",
+    "CAS": "177795-28-7",
+    "URL": "https://bio-fermen.bocsci.com/product/lasallic-acid-cas-177795-28-7-358820.html",
+    "Catalog": "BBF-05006"
+  },
+  {
+    "name": "A1 Barrigenyl pentaacetate",
+    "CAS": "17991-60-5",
+    "URL": "https://bio-fermen.bocsci.com/product/a1-barrigenyl-pentaacetate-cas-17991-60-5-358821.html",
+    "Catalog": "BBF-05007"
+  },
+  {
+    "name": "Palmitoylcoprogen",
+    "CAS": "1807362-49-7",
+    "URL": "https://bio-fermen.bocsci.com/product/palmitoylcoprogen-cas-1807362-49-7-358823.html",
+    "Catalog": "BBF-05009"
+  },
+  {
+    "name": "Acremine T",
+    "CAS": "1807564-51-7",
+    "URL": "https://bio-fermen.bocsci.com/product/acremine-t-cas-1807564-51-7-358824.html",
+    "Catalog": "BBF-05010"
+  },
+  {
+    "name": "N-Acetyl-D-methioninol",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/n-acetyl-d-methioninol-358593.html",
+    "Catalog": "BBF-04777"
+  },
+  {
+    "name": "N-Acetyl-D-threoninol",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/n-acetyl-d-threoninol-358594.html",
+    "Catalog": "BBF-04778"
+  },
+  {
+    "name": "N-Acetyl-D-tyrosinol",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/n-acetyl-d-tyrosinol-358595.html",
+    "Catalog": "BBF-04779"
+  },
+  {
+    "name": "N-Acetyl-D-valinol",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/n-acetyl-d-valinol-358596.html",
+    "Catalog": "BBF-04780"
+  },
+  {
+    "name": "N-Benzoyl-L-asparaginol",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoyl-l-asparaginol-358597.html",
+    "Catalog": "BBF-04781"
+  },
+  {
+    "name": "N-Benzoyl-L-glutaminol",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoyl-l-glutaminol-358598.html",
+    "Catalog": "BBF-04782"
+  },
+  {
+    "name": "N-Benzoyl-L-isoleucinol",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoyl-l-isoleucinol-358599.html",
+    "Catalog": "BBF-04783"
+  },
+  {
+    "name": "N-Benzoyl-L-methioninol",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoyl-l-methioninol-358600.html",
+    "Catalog": "BBF-04784"
+  },
+  {
+    "name": "N-Benzoyl-D-asparaginol",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoyl-d-asparaginol-358601.html",
+    "Catalog": "BBF-04785"
+  },
+  {
+    "name": "N-Benzoyl-D-β-homoserine",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoyl-d-homoserine-358602.html",
+    "Catalog": "BBF-04786"
+  },
+  {
+    "name": "(R)-4-Benzamido-5-hydroxypentanoic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/r-4-benzamido-5-hydroxypentanoic-acid-358603.html",
+    "Catalog": "BBF-04787"
+  },
+  {
+    "name": "17-Norkauran-16-one, 18-hydroxy-, (4α)-(±)-",
+    "CAS": "18317-15-2",
+    "URL": "https://bio-fermen.bocsci.com/product/17-norkauran-16-one-18-hydroxy-4-cas-18317-15-2-358825.html",
+    "Catalog": "BBF-05011"
+  },
+  {
+    "name": "Decarboxyalectoronic acid",
+    "CAS": "184675-65-8",
+    "URL": "https://bio-fermen.bocsci.com/product/decarboxyalectoronic-acid-cas-184675-65-8-358827.html",
+    "Catalog": "BBF-05013"
+  },
+  {
+    "name": "7-Chloroemodin",
+    "CAS": "18521-72-7",
+    "URL": "https://bio-fermen.bocsci.com/product/7-chloroemodin-cas-18521-72-7-358828.html",
+    "Catalog": "BBF-05014"
+  },
+  {
+    "name": "Lupan-16-ol, (16α)-",
+    "CAS": "185330-23-8",
+    "URL": "https://bio-fermen.bocsci.com/product/lupan-16-ol-16-cas-185330-23-8-358830.html",
+    "Catalog": "BBF-05016"
+  },
+  {
+    "name": "Acetyl oleanolic acid aldehyde",
+    "CAS": "1857-04-1",
+    "URL": "https://bio-fermen.bocsci.com/product/acetyl-oleanolic-acid-aldehyde-cas-1857-04-1-358831.html",
+    "Catalog": "BBF-05017"
+  },
+  {
+    "name": "Butlerin D",
+    "CAS": "186543-09-9",
+    "URL": "https://bio-fermen.bocsci.com/product/butlerin-d-cas-186543-09-9-358832.html",
+    "Catalog": "BBF-05018"
+  },
+  {
+    "name": "methyl 3,5-dichloro-2-ethyl-4,6-dihydroxybenzoate",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/methyl-3-5-dichloro-2-ethyl-4-6-dihydroxybenzoate-359163.html",
+    "Catalog": "BBF-05358"
+  },
+  {
+    "name": "Burnettienoic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/burnettienoic-acid-359164.html",
+    "Catalog": "BBF-05359"
+  },
+  {
+    "name": "Cryptosporioptide E",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/cryptosporioptide-e-359165.html",
+    "Catalog": "BBF-05360"
+  },
+  {
+    "name": "D2-eprinomectin B1a",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/d2-eprinomectin-b1a-359166.html",
+    "Catalog": "BBF-05361"
+  },
+  {
+    "name": "D-Histidinamide",
+    "CAS": "891787-99-8",
+    "URL": "https://bio-fermen.bocsci.com/product/d-histidinamide-cas-891787-99-8-358528.html",
+    "Catalog": "BBF-04700"
+  },
+  {
+    "name": "D-Histidinol",
+    "CAS": "70142-15-3",
+    "URL": "https://bio-fermen.bocsci.com/product/d-histidinol-cas-70142-15-3-358529.html",
+    "Catalog": "BBF-04701"
+  },
+  {
+    "name": "D-Isoleucine methyl ester",
+    "CAS": "107998-45-8",
+    "URL": "https://bio-fermen.bocsci.com/product/d-isoleucine-methyl-ester-cas-107998-45-8-358532.html",
+    "Catalog": "BBF-04704"
+  },
+  {
+    "name": "D-Isoleucinol",
+    "CAS": "152786-10-2",
+    "URL": "https://bio-fermen.bocsci.com/product/d-isoleucinol-cas-152786-10-2-358533.html",
+    "Catalog": "BBF-04705"
+  },
+  {
+    "name": "D-Lysinamide",
+    "CAS": "106400-37-7",
+    "URL": "https://bio-fermen.bocsci.com/product/d-lysinamide-cas-106400-37-7-358534.html",
+    "Catalog": "BBF-04707"
+  },
+  {
+    "name": "D-Methioninamide",
+    "CAS": "94841-52-8",
+    "URL": "https://bio-fermen.bocsci.com/product/d-methioninamide-cas-94841-52-8-358537.html",
+    "Catalog": "BBF-04710"
+  },
+  {
+    "name": "D-Ornithine",
+    "CAS": "348-66-3",
+    "URL": "https://bio-fermen.bocsci.com/product/d-ornithine-cas-348-66-3-358538.html",
+    "Catalog": "BBF-04711"
+  },
+  {
+    "name": "D-Serinamide",
+    "CAS": "104714-52-5",
+    "URL": "https://bio-fermen.bocsci.com/product/d-serinamide-cas-104714-52-5-358540.html",
+    "Catalog": "BBF-04715"
+  },
+  {
+    "name": "N-Benzoyl-D-histidine",
+    "CAS": "127063-22-3",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoyl-d-histidine-cas-127063-22-3-359007.html",
+    "Catalog": "BBF-05200"
+  },
+  {
+    "name": "N-Benzoyl-D-isoleucine",
+    "CAS": "70050-93-0",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoyl-d-isoleucine-cas-70050-93-0-359008.html",
+    "Catalog": "BBF-05201"
+  },
+  {
+    "name": "N-Benzoyl-D-leucine",
+    "CAS": "57357-55-8",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoyl-d-leucine-cas-57357-55-8-359009.html",
+    "Catalog": "BBF-05202"
+  },
+  {
+    "name": "N-Benzoyl-D-leucinol",
+    "CAS": "1998687-23-2",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoyl-d-leucinol-cas-1998687-23-2-359010.html",
+    "Catalog": "BBF-05203"
+  },
+  {
+    "name": "N-Benzoyl-D-methionine",
+    "CAS": "17966-61-9",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoyl-d-methionine-cas-17966-61-9-359012.html",
+    "Catalog": "BBF-05205"
+  },
+  {
+    "name": "N-Benzoyl-D-phenylalaninol",
+    "CAS": "5267-65-2",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoyl-d-phenylalaninol-cas-5267-65-2-359013.html",
+    "Catalog": "BBF-05206"
+  },
+  {
+    "name": "N-Benzoyl-D-proline",
+    "CAS": "115795-02-3",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoyl-d-proline-cas-115795-02-3-359014.html",
+    "Catalog": "BBF-05207"
+  },
+  {
+    "name": "N-Benzoyl-D-prolinol",
+    "CAS": "475152-49-9",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoyl-d-prolinol-cas-475152-49-9-359015.html",
+    "Catalog": "BBF-05208"
+  },
+  {
+    "name": "N-Benzoyl-D-serine",
+    "CAS": "86808-09-5",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoyl-d-serine-cas-86808-09-5-359016.html",
+    "Catalog": "BBF-05209"
+  },
+  {
+    "name": "N-Benzoyl-D-threonine",
+    "CAS": "906324-06-9",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoyl-d-threonine-cas-906324-06-9-359017.html",
+    "Catalog": "BBF-05210"
+  },
+  {
+    "name": "Praesorediosic acid",
+    "CAS": "130342-70-0",
+    "URL": "https://bio-fermen.bocsci.com/product/praesorediosic-acid-cas-130342-70-0-358740.html",
+    "Catalog": "BBF-04926"
+  },
+  {
+    "name": "Lanostenyl benzoate",
+    "CAS": "131896-72-5",
+    "URL": "https://bio-fermen.bocsci.com/product/lanostenyl-benzoate-cas-131896-72-5-358742.html",
+    "Catalog": "BBF-04928"
+  },
+  {
+    "name": "Isonorobtusatic acid",
+    "CAS": "132396-90-8",
+    "URL": "https://bio-fermen.bocsci.com/product/isonorobtusatic-acid-cas-132396-90-8-358743.html",
+    "Catalog": "BBF-04929"
+  },
+  {
+    "name": "Subdivaricatic acid",
+    "CAS": "132396-93-1",
+    "URL": "https://bio-fermen.bocsci.com/product/subdivaricatic-acid-cas-132396-93-1-358744.html",
+    "Catalog": "BBF-04930"
+  },
+  {
+    "name": "Seryl-arginine",
+    "CAS": "13261-11-5",
+    "URL": "https://bio-fermen.bocsci.com/product/seryl-arginine-cas-13261-11-5-358746.html",
+    "Catalog": "BBF-04932"
+  },
+  {
+    "name": "4-O-Demethylsuperconfluentic acid",
+    "CAS": "133362-62-6",
+    "URL": "https://bio-fermen.bocsci.com/product/4-o-demethylsuperconfluentic-acid-cas-133362-62-6-358747.html",
+    "Catalog": "BBF-04933"
+  },
+  {
+    "name": "2'-O-Methylnorsuperphyllinic acid",
+    "CAS": "133362-63-7",
+    "URL": "https://bio-fermen.bocsci.com/product/2-o-methylnorsuperphyllinic-acid-cas-133362-63-7-358748.html",
+    "Catalog": "BBF-04934"
+  },
+  {
+    "name": "N-Benzoyl-D-threoninol",
+    "CAS": "864954-26-7",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoyl-d-threoninol-cas-864954-26-7-359018.html",
+    "Catalog": "BBF-05211"
+  },
+  {
+    "name": "N-Benzoyl-D-tryptophan",
+    "CAS": "55629-71-5",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoyl-d-tryptophan-cas-55629-71-5-359019.html",
+    "Catalog": "BBF-05212"
+  },
+  {
+    "name": "N-Benzoyl-D-tyrosine",
+    "CAS": "64896-36-2",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoyl-d-tyrosine-cas-64896-36-2-359020.html",
+    "Catalog": "BBF-05213"
+  },
+  {
+    "name": "N-Benzoyl-D-valine",
+    "CAS": "80394-38-3",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoyl-d-valine-cas-80394-38-3-359021.html",
+    "Catalog": "BBF-05214"
+  },
+  {
+    "name": "N-Benzoyl-D-valinol",
+    "CAS": "180999-17-1",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoyl-d-valinol-cas-180999-17-1-359022.html",
+    "Catalog": "BBF-05215"
+  },
+  {
+    "name": "N-Benzoyl-L-alaninol",
+    "CAS": "33985-13-6",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoyl-l-alaninol-cas-33985-13-6-359023.html",
+    "Catalog": "BBF-05217"
+  },
+  {
+    "name": "N-Benzoyl-L-cysteine",
+    "CAS": "7217-84-7",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoyl-l-cysteine-cas-7217-84-7-359024.html",
+    "Catalog": "BBF-05218"
+  },
+  {
+    "name": "N-Benzoyl-L-glutamine",
+    "CAS": "14307-83-6",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoyl-l-glutamine-cas-14307-83-6-359025.html",
+    "Catalog": "BBF-05219"
+  },
+  {
+    "name": "N-Benzoyl-L-histidinol",
+    "CAS": "194797-41-6",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoyl-l-histidinol-cas-194797-41-6-359026.html",
+    "Catalog": "BBF-05220"
+  },
+  {
+    "name": "N-Benzoyl-L-leucinol",
+    "CAS": "257296-58-5",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoyl-l-leucinol-cas-257296-58-5-359027.html",
+    "Catalog": "BBF-05221"
+  },
+  {
+    "name": "(-)-Nephromopsinic acid",
+    "CAS": "133695-37-1",
+    "URL": "https://bio-fermen.bocsci.com/product/nephromopsinic-acid-cas-133695-37-1-358749.html",
+    "Catalog": "BBF-04935"
+  },
+  {
+    "name": "Aspartyl-isoleucine",
+    "CAS": "13433-07-3",
+    "URL": "https://bio-fermen.bocsci.com/product/aspartyl-isoleucine-cas-13433-07-3-358751.html",
+    "Catalog": "BBF-04937"
+  },
+  {
+    "name": "Aspartyl-asparagine",
+    "CAS": "13433-11-9",
+    "URL": "https://bio-fermen.bocsci.com/product/aspartyl-asparagine-cas-13433-11-9-358752.html",
+    "Catalog": "BBF-04938"
+  },
+  {
+    "name": "Aspartyl-threonine",
+    "CAS": "13433-17-5",
+    "URL": "https://bio-fermen.bocsci.com/product/aspartyl-threonine-cas-13433-17-5-358753.html",
+    "Catalog": "BBF-04939"
+  },
+  {
+    "name": "N-Acetyl-L-phenylalaninol",
+    "CAS": "52485-51-5",
+    "URL": "https://bio-fermen.bocsci.com/product/n-acetyl-l-phenylalaninol-cas-52485-51-5-358995.html",
+    "Catalog": "BBF-05188"
+  },
+  {
+    "name": "N-Acetyl-L-prolinol",
+    "CAS": "66158-68-7",
+    "URL": "https://bio-fermen.bocsci.com/product/n-acetyl-l-prolinol-cas-66158-68-7-358996.html",
+    "Catalog": "BBF-05189"
+  },
+  {
+    "name": "N-Acetyl-L-tryptophanol",
+    "CAS": "52431-47-7",
+    "URL": "https://bio-fermen.bocsci.com/product/n-acetyl-l-tryptophanol-cas-52431-47-7-358997.html",
+    "Catalog": "BBF-05190"
+  },
+  {
+    "name": "N-Acetyl-L-tyrosinol",
+    "CAS": "159239-56-2",
+    "URL": "https://bio-fermen.bocsci.com/product/n-acetyl-l-tyrosinol-cas-159239-56-2-358998.html",
+    "Catalog": "BBF-05191"
+  },
+  {
+    "name": "3α,17,19-Triacetoxy-16α-(-)-kauran",
+    "CAS": "1178-84-3",
+    "URL": "https://bio-fermen.bocsci.com/product/3-17-19-triacetoxy-16-kauran-cas-1178-84-3-358727.html",
+    "Catalog": "BBF-04913"
+  },
+  {
+    "name": "Pestalasin A",
+    "CAS": "1193680-49-7",
+    "URL": "https://bio-fermen.bocsci.com/product/pestalasin-a-cas-1193680-49-7-358728.html",
+    "Catalog": "BBF-04914"
+  },
+  {
+    "name": "Subsphaeric acid",
+    "CAS": "120091-90-9",
+    "URL": "https://bio-fermen.bocsci.com/product/subsphaeric-acid-cas-120091-90-9-358729.html",
+    "Catalog": "BBF-04915"
+  },
+  {
+    "name": "Methyl-12,19-diketo-oleananolate acetate",
+    "CAS": "122746-43-4",
+    "URL": "https://bio-fermen.bocsci.com/product/methyl-12-19-diketo-oleananolate-acetate-cas-122746-43-4-358730.html",
+    "Catalog": "BBF-04916"
+  },
+  {
+    "name": "Polyalthic acid",
+    "CAS": "1235-76-3",
+    "URL": "https://bio-fermen.bocsci.com/product/polyalthic-acid-cas-1235-76-3-358731.html",
+    "Catalog": "BBF-04917"
+  },
+  {
+    "name": "Tyrosyl-threonine",
+    "CAS": "123952-18-1",
+    "URL": "https://bio-fermen.bocsci.com/product/tyrosyl-threonine-cas-123952-18-1-358732.html",
+    "Catalog": "BBF-04918"
+  },
+  {
+    "name": "D-Cysteinamide",
+    "CAS": "85950-54-5",
+    "URL": "https://bio-fermen.bocsci.com/product/d-cysteinamide-cas-85950-54-5-358521.html",
+    "Catalog": "BBF-04693"
+  },
+  {
+    "name": "D-Cysteinol",
+    "CAS": "23517-29-5",
+    "URL": "https://bio-fermen.bocsci.com/product/d-cysteinol-cas-23517-29-5-358522.html",
+    "Catalog": "BBF-04694"
+  },
+  {
+    "name": "dehydroalanine, N,N'-bis(2,3-Dihydroxybenzoyl)-O-L-seryl-L-",
+    "CAS": "73410-35-2",
+    "URL": "https://bio-fermen.bocsci.com/product/dehydroalanine-n-n-bis-2-3-dihydroxybenzoyl-cas-73410-35-2-358523.html",
+    "Catalog": "BBF-04695"
+  },
+  {
+    "name": "Deoxygerfelin",
+    "CAS": "36149-01-6",
+    "URL": "https://bio-fermen.bocsci.com/product/deoxygerfelin-cas-36149-01-6-358524.html",
+    "Catalog": "BBF-04696"
+  },
+  {
+    "name": "D-Glutamamide",
+    "CAS": "110926-64-2",
+    "URL": "https://bio-fermen.bocsci.com/product/d-glutamamide-cas-110926-64-2-358525.html",
+    "Catalog": "BBF-04697"
+  },
+  {
+    "name": "D-Glutamic acid dimethyl ester",
+    "CAS": "16422-27-8",
+    "URL": "https://bio-fermen.bocsci.com/product/d-glutamic-acid-dimethyl-ester-cas-16422-27-8-358526.html",
+    "Catalog": "BBF-04698"
+  },
+  {
+    "name": "D-Glutamine methyl ester",
+    "CAS": "108258-30-6",
+    "URL": "https://bio-fermen.bocsci.com/product/d-glutamine-methyl-ester-cas-108258-30-6-358527.html",
+    "Catalog": "BBF-04699"
+  },
+  {
+    "name": "3beta-Acetoxyhopane-1beta,22-diol",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/3beta-acetoxyhopane-1beta-22-diol-359148.html",
+    "Catalog": "BBF-05343"
+  },
+  {
+    "name": "Acetylzeorin",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/acetylzeorin-359149.html",
+    "Catalog": "BBF-05344"
+  },
+  {
+    "name": "Peltidactylin",
+    "CAS": "13416-70-1",
+    "URL": "https://bio-fermen.bocsci.com/product/peltidactylin-cas-13416-70-1-359150.html",
+    "Catalog": "BBF-05345"
+  },
+  {
+    "name": "16beta-Acetoxyhopane-6alpha,22-diol",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/16beta-acetoxyhopane-6alpha-22-diol-359151.html",
+    "Catalog": "BBF-05346"
+  },
+  {
+    "name": "3beta-Acetoxyfern-9(11)-en-19beta-ol",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/3beta-acetoxyfern-9-11-en-19beta-ol-359152.html",
+    "Catalog": "BBF-05347"
+  },
+  {
+    "name": "4-O-Demethyldiffractaic acid",
+    "CAS": "125304-86-1",
+    "URL": "https://bio-fermen.bocsci.com/product/4-o-demethyldiffractaic-acid-cas-125304-86-1-358733.html",
+    "Catalog": "BBF-04919"
+  },
+  {
+    "name": "Bisnorlabdan-13-one, ent-8-acetoxy-14,15-",
+    "CAS": "126569-74-2",
+    "URL": "https://bio-fermen.bocsci.com/product/bisnorlabdan-13-one-ent-8-acetoxy-14-15-cas-126569-74-2-358734.html",
+    "Catalog": "BBF-04920"
+  },
+  {
+    "name": "Methyl-dihydro-siaresinolate",
+    "CAS": "1267583-74-3",
+    "URL": "https://bio-fermen.bocsci.com/product/methyl-dihydro-siaresinolate-cas-1267583-74-3-358735.html",
+    "Catalog": "BBF-04921"
+  },
+  {
+    "name": "2'-O-Methylnorobtusatic acid",
+    "CAS": "128208-28-6",
+    "URL": "https://bio-fermen.bocsci.com/product/2-o-methylnorobtusatic-acid-cas-128208-28-6-358736.html",
+    "Catalog": "BBF-04922"
+  },
+  {
+    "name": "Prolyl-threonine",
+    "CAS": "129024-38-0",
+    "URL": "https://bio-fermen.bocsci.com/product/prolyl-threonine-cas-129024-38-0-358737.html",
+    "Catalog": "BBF-04923"
+  },
+  {
+    "name": "Histidyl-isoleucine",
+    "CAS": "129050-48-2",
+    "URL": "https://bio-fermen.bocsci.com/product/histidyl-isoleucine-cas-129050-48-2-358738.html",
+    "Catalog": "BBF-04924"
+  },
+  {
+    "name": "Threonyl-isoleucine",
+    "CAS": "129050-49-3",
+    "URL": "https://bio-fermen.bocsci.com/product/threonyl-isoleucine-cas-129050-49-3-358739.html",
+    "Catalog": "BBF-04925"
+  },
+  {
+    "name": "N-acetyl-DL-serinol",
+    "CAS": "2655-79-0",
+    "URL": "https://bio-fermen.bocsci.com/product/n-acetyl-dl-serinol-cas-2655-79-0-359000.html",
+    "Catalog": "BBF-05193"
+  },
+  {
+    "name": "N-Acetyl-β-L-homoserine",
+    "CAS": "1932790-58-3",
+    "URL": "https://bio-fermen.bocsci.com/product/n-acetyl-l-homoserine-cas-1932790-58-3-359001.html",
+    "Catalog": "BBF-05194"
+  },
+  {
+    "name": "N-Benzoyl-D-alaninol",
+    "CAS": "157811-80-8",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoyl-d-alaninol-cas-157811-80-8-359002.html",
+    "Catalog": "BBF-05195"
+  },
+  {
+    "name": "N-Benzoyl-D-aspartic acid",
+    "CAS": "4915-59-7",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoyl-d-aspartic-acid-cas-4915-59-7-359004.html",
+    "Catalog": "BBF-05197"
+  },
+  {
+    "name": "N-Benzoyl-D-cysteine",
+    "CAS": "294856-85-2",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoyl-d-cysteine-cas-294856-85-2-359005.html",
+    "Catalog": "BBF-05198"
+  },
+  {
+    "name": "3beta-Hydroxyfern-9(11)-en-12-one",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/3beta-hydroxyfern-9-11-en-12-one-359153.html",
+    "Catalog": "BBF-05348"
+  },
+  {
+    "name": "(2E,5E)-3,5,7-trimethylocta-2,5-dienedioic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/2e-5e-3-5-7-trimethylocta-2-5-dienedioic-acid-359154.html",
+    "Catalog": "BBF-05349"
+  },
+  {
+    "name": "3-deoxy-6-hydroxyfunicone",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/3-deoxy-6-hydroxyfunicone-359156.html",
+    "Catalog": "BBF-05351"
+  },
+  {
+    "name": "4,5,14-Triacetylberkeylactone F",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/4-5-14-triacetylberkeylactone-f-359157.html",
+    "Catalog": "BBF-05352"
+  },
+  {
+    "name": "(E)-6-(4,7-dihydroxy-6-methoxy-3-oxo-1,3-dihydroisobenzofuran-5-yl)-4-methylhex-4-enoic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/e-6-4-7-dihydroxy-6-methoxy-3-oxo-1-3-dihydroisobenzofuran-359158.html",
+    "Catalog": "BBF-05353"
+  },
+  {
+    "name": "Acetoxy lanostanone",
+    "CAS": "13553-26-9",
+    "URL": "https://bio-fermen.bocsci.com/product/acetoxy-lanostanone-cas-13553-26-9-358755.html",
+    "Catalog": "BBF-04941"
+  },
+  {
+    "name": "D-Serine methyl ester",
+    "CAS": "24184-43-8",
+    "URL": "https://bio-fermen.bocsci.com/product/d-serine-methyl-ester-cas-24184-43-8-358541.html",
+    "Catalog": "BBF-04716"
+  },
+  {
+    "name": "D-Threoninamide",
+    "CAS": "2280-40-2",
+    "URL": "https://bio-fermen.bocsci.com/product/d-threoninamide-cas-2280-40-2-358542.html",
+    "Catalog": "BBF-04717"
+  },
+  {
+    "name": "D-Threonine methyl ester",
+    "CAS": "82679-55-8",
+    "URL": "https://bio-fermen.bocsci.com/product/d-threonine-methyl-ester-cas-82679-55-8-358543.html",
+    "Catalog": "BBF-04718"
+  },
+  {
+    "name": "D-Tyrosinamide",
+    "CAS": "111004-07-0",
+    "URL": "https://bio-fermen.bocsci.com/product/d-tyrosinamide-cas-111004-07-0-358545.html",
+    "Catalog": "BBF-04720"
+  },
+  {
+    "name": "D-Valinamide",
+    "CAS": "32526-16-2",
+    "URL": "https://bio-fermen.bocsci.com/product/d-valinamide-cas-32526-16-2-358546.html",
+    "Catalog": "BBF-04721"
+  },
+  {
+    "name": "Emeguisin A",
+    "CAS": "117032-54-9",
+    "URL": "https://bio-fermen.bocsci.com/product/emeguisin-a-cas-117032-54-9-358547.html",
+    "Catalog": "BBF-04722"
+  },
+  {
+    "name": "apo-Enterobactin",
+    "CAS": "30414-16-5",
+    "URL": "https://bio-fermen.bocsci.com/product/apo-enterobactin-cas-30414-16-5-358548.html",
+    "Catalog": "BBF-04723"
+  },
+  {
+    "name": "Delta-2-Doramectin Aglycone",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/delta-2-doramectin-aglycone-359167.html",
+    "Catalog": "BBF-05362"
+  },
+  {
+    "name": "Desmethoxy aranciamycin anhydride",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/desmethoxy-aranciamycin-anhydride-359168.html",
+    "Catalog": "BBF-05363"
+  },
+  {
+    "name": "Desmethyl-6-hydroxy-deoxyfunicone",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/desmethyl-6-hydroxy-deoxyfunicone-359169.html",
+    "Catalog": "BBF-05364"
+  },
+  {
+    "name": "Desmethylviriditoxin",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/desmethylviriditoxin-359170.html",
+    "Catalog": "BBF-05365"
+  },
+  {
+    "name": "Dihydromycochromenic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/dihydromycochromenic-acid-359171.html",
+    "Catalog": "BBF-05366"
+  },
+  {
+    "name": "Δ-2-Eprinomectin B1a",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/2-eprinomectin-b1a-359176.html",
+    "Catalog": "BBF-05371"
+  },
+  {
+    "name": "Δ-2-Milbemycin A4",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/2-milbemycin-a4-359177.html",
+    "Catalog": "BBF-05372"
+  },
+  {
+    "name": "Δ-2-Moxidectin",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/2-moxidectin-359178.html",
+    "Catalog": "BBF-05373"
+  },
+  {
+    "name": "14-Oxabicyclo[11.2.1]hexadeca-4,8-diene-12-carboxylic acid, 8-formyl-4,15,15-trimethyl-, (1R,4Z,8E,12S,13S)-",
+    "CAS": "87340-32-7",
+    "URL": "https://bio-fermen.bocsci.com/product/14-oxabicyclo-11-2-1-hexadeca-4-8-diene-12-carboxylic-cas-87340-32-7-359179.html",
+    "Catalog": "BBF-05374"
+  },
+  {
+    "name": "Heterobetulin dibenzoate",
+    "CAS": "38602-41-4",
+    "URL": "https://bio-fermen.bocsci.com/product/heterobetulin-dibenzoate-cas-38602-41-4-359180.html",
+    "Catalog": "BBF-05375"
+  },
+  {
+    "name": "N-Benzoyl-L-lysinol",
+    "CAS": "734484-50-5",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoyl-l-lysinol-cas-734484-50-5-359028.html",
+    "Catalog": "BBF-05222"
+  },
+  {
+    "name": "N-Benzoyl-L-phenylalaninol",
+    "CAS": "4503-96-2",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoyl-l-phenylalaninol-cas-4503-96-2-359029.html",
+    "Catalog": "BBF-05223"
+  },
+  {
+    "name": "N-Benzoyl-L-proline",
+    "CAS": "5874-58-8",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoyl-l-proline-cas-5874-58-8-359030.html",
+    "Catalog": "BBF-05224"
+  },
+  {
+    "name": "N-Benzoyl-L-prolinol",
+    "CAS": "65950-13-2",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoyl-l-prolinol-cas-65950-13-2-359031.html",
+    "Catalog": "BBF-05225"
+  },
+  {
+    "name": "Methyl 2,2'-di-O-methyldivaricatate",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/methyl-2-2-di-o-methyldivaricatate-359101.html",
+    "Catalog": "BBF-05296"
+  },
+  {
+    "name": "Chlorolecideoidin",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/chlorolecideoidin-359102.html",
+    "Catalog": "BBF-05297"
+  },
+  {
+    "name": "Dustanin",
+    "CAS": "3607-96-3",
+    "URL": "https://bio-fermen.bocsci.com/product/dustanin-cas-3607-96-3-358965.html",
+    "Catalog": "BBF-05154"
+  },
+  {
+    "name": "Glutamyl-asparagine",
+    "CAS": "36314-37-1",
+    "URL": "https://bio-fermen.bocsci.com/product/glutamyl-asparagine-cas-36314-37-1-358966.html",
+    "Catalog": "BBF-05155"
+  },
+  {
+    "name": "Isoeverninic acid",
+    "CAS": "3733-95-7",
+    "URL": "https://bio-fermen.bocsci.com/product/isoeverninic-acid-cas-3733-95-7-358967.html",
+    "Catalog": "BBF-05156"
+  },
+  {
+    "name": "Olivetonide",
+    "CAS": "3734-54-1",
+    "URL": "https://bio-fermen.bocsci.com/product/olivetonide-cas-3734-54-1-358968.html",
+    "Catalog": "BBF-05157"
+  },
+  {
+    "name": "3-Oxo-17,19-ditritoxybeyer-15-en",
+    "CAS": "37589-87-0",
+    "URL": "https://bio-fermen.bocsci.com/product/3-oxo-17-19-ditritoxybeyer-15-en-cas-37589-87-0-358971.html",
+    "Catalog": "BBF-05160"
+  },
+  {
+    "name": "5β,8βH,9βH,10α-Labd-13-ene-8,18-diol",
+    "CAS": "3767-46-2",
+    "URL": "https://bio-fermen.bocsci.com/product/5-8-h-9-h-10-labd-13-ene-8-18-diol-cas-3767-46-2-358972.html",
+    "Catalog": "BBF-05161"
+  },
+  {
+    "name": "2'-O-Methylimbricaric acid",
+    "CAS": "108529-18-6",
+    "URL": "https://bio-fermen.bocsci.com/product/2-o-methylimbricaric-acid-cas-108529-18-6-358709.html",
+    "Catalog": "BBF-04895"
+  },
+  {
+    "name": "Superconfluentic acid",
+    "CAS": "108529-22-2",
+    "URL": "https://bio-fermen.bocsci.com/product/superconfluentic-acid-cas-108529-22-2-358712.html",
+    "Catalog": "BBF-04898"
+  },
+  {
+    "name": "4-O-Methylsuperolivetoric acid",
+    "CAS": "108544-39-4",
+    "URL": "https://bio-fermen.bocsci.com/product/4-o-methylsuperolivetoric-acid-cas-108544-39-4-358713.html",
+    "Catalog": "BBF-04899"
+  },
+  {
+    "name": "Euphyl benzoate",
+    "CAS": "13879-05-5",
+    "URL": "https://bio-fermen.bocsci.com/product/euphyl-benzoate-cas-13879-05-5-358757.html",
+    "Catalog": "BBF-04943"
+  },
+  {
+    "name": "5,7-Dichloronorlichexanthone",
+    "CAS": "139644-41-0",
+    "URL": "https://bio-fermen.bocsci.com/product/5-7-dichloronorlichexanthone-cas-139644-41-0-358759.html",
+    "Catalog": "BBF-04945"
+  },
+  {
+    "name": "Hierridin",
+    "CAS": "142382-20-5",
+    "URL": "https://bio-fermen.bocsci.com/product/hierridin-cas-142382-20-5-358760.html",
+    "Catalog": "BBF-04946"
+  },
+  {
+    "name": "Histidyl-threonine",
+    "CAS": "142879-28-5",
+    "URL": "https://bio-fermen.bocsci.com/product/histidyl-threonine-cas-142879-28-5-358761.html",
+    "Catalog": "BBF-04947"
+  },
+  {
+    "name": "Threonyl-tyrosine",
+    "CAS": "145295-02-9",
+    "URL": "https://bio-fermen.bocsci.com/product/threonyl-tyrosine-cas-145295-02-9-358762.html",
+    "Catalog": "BBF-04948"
+  },
+  {
+    "name": "(3S,3aR,7S,8S,8aS)-2,3,4,7,8,8a-Hexahydro-6,8-dimethyl-8-(4-methylpentyl)-1H-3a,7-methanoazulene-3-methanol",
+    "CAS": "145631-64-7",
+    "URL": "https://bio-fermen.bocsci.com/product/3s-3ar-7s-8s-8as-2-3-4-7-8-8a-hexahydro-6-8-cas-145631-64-7-358764.html",
+    "Catalog": "BBF-04950"
+  },
+  {
+    "name": "Asparaginyl-glutamine",
+    "CAS": "14608-83-4",
+    "URL": "https://bio-fermen.bocsci.com/product/asparaginyl-glutamine-cas-14608-83-4-358765.html",
+    "Catalog": "BBF-04951"
+  },
+  {
+    "name": "(+)-Epoxysuberosin",
+    "CAS": "80368-68-9",
+    "URL": "https://bio-fermen.bocsci.com/product/epoxysuberosin-cas-80368-68-9-358549.html",
+    "Catalog": "BBF-04724"
+  },
+  {
+    "name": "Himbadine",
+    "CAS": "24932-15-8",
+    "URL": "https://bio-fermen.bocsci.com/product/himbadine-cas-24932-15-8-358553.html",
+    "Catalog": "BBF-04729"
+  },
+  {
+    "name": "Himbosine",
+    "CAS": "15448-14-3",
+    "URL": "https://bio-fermen.bocsci.com/product/himbosine-cas-15448-14-3-358554.html",
+    "Catalog": "BBF-04730"
+  },
+  {
+    "name": "Himgaline",
+    "CAS": "16585-08-3",
+    "URL": "https://bio-fermen.bocsci.com/product/himgaline-cas-16585-08-3-358555.html",
+    "Catalog": "BBF-04731"
+  },
+  {
+    "name": "Hodgkinsine",
+    "CAS": "18210-71-4",
+    "URL": "https://bio-fermen.bocsci.com/product/hodgkinsine-cas-18210-71-4-358556.html",
+    "Catalog": "BBF-04732"
+  },
+  {
+    "name": "N-Benzoyl-L-threoninol",
+    "CAS": "296766-71-7",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoyl-l-threoninol-cas-296766-71-7-359033.html",
+    "Catalog": "BBF-05227"
+  },
+  {
+    "name": "N-Benzoyl-L-tryptophanol",
+    "CAS": "161709-36-0",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoyl-l-tryptophanol-cas-161709-36-0-359034.html",
+    "Catalog": "BBF-05228"
+  },
+  {
+    "name": "N-Benzoyl-L-valinol",
+    "CAS": "149182-41-2",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoyl-l-valinol-cas-149182-41-2-359036.html",
+    "Catalog": "BBF-05230"
+  },
+  {
+    "name": "N-Benzoyl-L-β-homoserine",
+    "CAS": "1026870-14-3",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoyl-l-homoserine-cas-1026870-14-3-359037.html",
+    "Catalog": "BBF-05231"
+  },
+  {
+    "name": "N-Benzoylserinol",
+    "CAS": "138625-63-5",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoylserinol-cas-138625-63-5-359038.html",
+    "Catalog": "BBF-05232"
+  },
+  {
+    "name": "Notatic acid",
+    "CAS": "38636-86-1",
+    "URL": "https://bio-fermen.bocsci.com/product/notatic-acid-cas-38636-86-1-359181.html",
+    "Catalog": "BBF-05376"
+  },
+  {
+    "name": "gamma-Glutamylasparagine",
+    "CAS": "38681-07-1",
+    "URL": "https://bio-fermen.bocsci.com/product/gamma-glutamylasparagine-cas-38681-07-1-359182.html",
+    "Catalog": "BBF-05377"
+  },
+  {
+    "name": "2'-O-Methylanziaic acid",
+    "CAS": "39029-70-4",
+    "URL": "https://bio-fermen.bocsci.com/product/2-o-methylanziaic-acid-cas-39029-70-4-359183.html",
+    "Catalog": "BBF-05378"
+  },
+  {
+    "name": "Dioxepin",
+    "CAS": "39372-88-8",
+    "URL": "https://bio-fermen.bocsci.com/product/dioxepin-cas-39372-88-8-359184.html",
+    "Catalog": "BBF-05379"
+  },
+  {
+    "name": "L-phenylalanyl-L-asparagine",
+    "CAS": "39537-20-7",
+    "URL": "https://bio-fermen.bocsci.com/product/l-phenylalanyl-l-asparagine-cas-39537-20-7-359185.html",
+    "Catalog": "BBF-05380"
+  },
+  {
+    "name": "N-Methyl-D-asparagine",
+    "CAS": "117414-80-9",
+    "URL": "https://bio-fermen.bocsci.com/product/n-methyl-d-asparagine-cas-117414-80-9-359040.html",
+    "Catalog": "BBF-05234"
+  },
+  {
+    "name": "N-Methyl-D-glutamine",
+    "CAS": "862504-01-6",
+    "URL": "https://bio-fermen.bocsci.com/product/n-methyl-d-glutamine-cas-862504-01-6-359041.html",
+    "Catalog": "BBF-05235"
+  },
+  {
+    "name": "N-Methyl-D-histidine",
+    "CAS": "738564-96-0",
+    "URL": "https://bio-fermen.bocsci.com/product/n-methyl-d-histidine-cas-738564-96-0-359042.html",
+    "Catalog": "BBF-05236"
+  },
+  {
+    "name": "N-Methyl-D-isoleucine",
+    "CAS": "39554-61-5",
+    "URL": "https://bio-fermen.bocsci.com/product/n-methyl-d-isoleucine-cas-39554-61-5-359043.html",
+    "Catalog": "BBF-05237"
+  },
+  {
+    "name": "N-Methyl-D-lysine",
+    "CAS": "862504-02-7",
+    "URL": "https://bio-fermen.bocsci.com/product/n-methyl-d-lysine-cas-862504-02-7-359044.html",
+    "Catalog": "BBF-05238"
+  },
+  {
+    "name": "L-phenylalanyl-L-glutamine",
+    "CAS": "39537-24-1",
+    "URL": "https://bio-fermen.bocsci.com/product/l-phenylalanyl-l-glutamine-cas-39537-24-1-359186.html",
+    "Catalog": "BBF-05381"
+  },
+  {
+    "name": "(-)-isopimara-9(11),15-diene-3β,19-diol",
+    "CAS": "39702-18-6",
+    "URL": "https://bio-fermen.bocsci.com/product/isopimara-9-11-15-diene-3-19-diol-cas-39702-18-6-359187.html",
+    "Catalog": "BBF-05382"
+  },
+  {
+    "name": "L-asparaginyl-L-threonine",
+    "CAS": "40043-76-3",
+    "URL": "https://bio-fermen.bocsci.com/product/l-asparaginyl-l-threonine-cas-40043-76-3-359188.html",
+    "Catalog": "BBF-05383"
+  },
+  {
+    "name": "L-Glutamyl-L-Proline",
+    "CAS": "41745-47-5",
+    "URL": "https://bio-fermen.bocsci.com/product/l-glutamyl-l-proline-cas-41745-47-5-359190.html",
+    "Catalog": "BBF-05385"
+  },
+  {
+    "name": "N-Methyl-D-methionine",
+    "CAS": "526210-74-2",
+    "URL": "https://bio-fermen.bocsci.com/product/n-methyl-d-methionine-cas-526210-74-2-359045.html",
+    "Catalog": "BBF-05239"
+  },
+  {
+    "name": "N-Methyl-D-proline",
+    "CAS": "58123-62-9",
+    "URL": "https://bio-fermen.bocsci.com/product/n-methyl-d-proline-cas-58123-62-9-359046.html",
+    "Catalog": "BBF-05240"
+  },
+  {
+    "name": "N-Methyl-D-threonine",
+    "CAS": "2812-27-3",
+    "URL": "https://bio-fermen.bocsci.com/product/n-methyl-d-threonine-cas-2812-27-3-359048.html",
+    "Catalog": "BBF-05242"
+  },
+  {
+    "name": "N-Methyl-L-asparagine",
+    "CAS": "19026-58-5",
+    "URL": "https://bio-fermen.bocsci.com/product/n-methyl-l-asparagine-cas-19026-58-5-359049.html",
+    "Catalog": "BBF-05243"
+  },
+  {
+    "name": "N-Methyl-L-glutamine",
+    "CAS": "300560-56-9",
+    "URL": "https://bio-fermen.bocsci.com/product/n-methyl-l-glutamine-cas-300560-56-9-359050.html",
+    "Catalog": "BBF-05244"
+  },
+  {
+    "name": "Hydroxy Eriobrucinol",
+    "CAS": "42259-07-4",
+    "URL": "https://bio-fermen.bocsci.com/product/hydroxy-eriobrucinol-cas-42259-07-4-359192.html",
+    "Catalog": "BBF-05387"
+  },
+  {
+    "name": "Eriobrucinol methyl ether",
+    "CAS": "42259-10-9",
+    "URL": "https://bio-fermen.bocsci.com/product/eriobrucinol-methyl-ether-cas-42259-10-9-359193.html",
+    "Catalog": "BBF-05388"
+  },
+  {
+    "name": "Resinone",
+    "CAS": "43043-12-5",
+    "URL": "https://bio-fermen.bocsci.com/product/resinone-cas-43043-12-5-359194.html",
+    "Catalog": "BBF-05389"
+  },
+  {
+    "name": "Decarboxythamnolic acid",
+    "CAS": "4356-38-1",
+    "URL": "https://bio-fermen.bocsci.com/product/decarboxythamnolic-acid-cas-4356-38-1-359195.html",
+    "Catalog": "BBF-05390"
+  },
+  {
+    "name": "Hortein",
+    "CAS": "346610-88-6",
+    "URL": "https://bio-fermen.bocsci.com/product/hortein-cas-346610-88-6-358557.html",
+    "Catalog": "BBF-04733"
+  },
+  {
+    "name": "14α-Hydroxypaspalinine",
+    "CAS": "151341-77-4",
+    "URL": "https://bio-fermen.bocsci.com/product/14-hydroxypaspalinine-cas-151341-77-4-358559.html",
+    "Catalog": "BBF-04735"
+  },
+  {
+    "name": "Isoreserpiline",
+    "CAS": "572-67-8",
+    "URL": "https://bio-fermen.bocsci.com/product/isoreserpiline-cas-572-67-8-358560.html",
+    "Catalog": "BBF-04737"
+  },
+  {
+    "name": "L-Argininamide",
+    "CAS": "2788-83-2",
+    "URL": "https://bio-fermen.bocsci.com/product/l-argininamide-cas-2788-83-2-358561.html",
+    "Catalog": "BBF-04739"
+  },
+  {
+    "name": "L-Asparaginol",
+    "CAS": "36983-58-1",
+    "URL": "https://bio-fermen.bocsci.com/product/l-asparaginol-cas-36983-58-1-358562.html",
+    "Catalog": "BBF-04740"
+  },
+  {
+    "name": "Didymic acid",
+    "CAS": "436-74-8",
+    "URL": "https://bio-fermen.bocsci.com/product/didymic-acid-cas-436-74-8-359196.html",
+    "Catalog": "BBF-05391"
+  },
+  {
+    "name": "Tumidulin",
+    "CAS": "4382-39-2",
+    "URL": "https://bio-fermen.bocsci.com/product/tumidulin-cas-4382-39-2-359197.html",
+    "Catalog": "BBF-05392"
+  },
+  {
+    "name": "I-Cholestane",
+    "CAS": "465-56-5",
+    "URL": "https://bio-fermen.bocsci.com/product/i-cholestane-cas-465-56-5-359199.html",
+    "Catalog": "BBF-05394"
+  },
+  {
+    "name": "Picrolichenic acid",
+    "CAS": "466-34-2",
+    "URL": "https://bio-fermen.bocsci.com/product/picrolichenic-acid-cas-466-34-2-359200.html",
+    "Catalog": "BBF-05395"
+  },
+  {
+    "name": "4a,7-Methano-4aH-benzocycloheptene-1-propanol, 1,2,3,4,5,6,7,8,9,9aα-decahydro-7α-(hydroxymethyl)-2β-isopropyl-1β-methyl-, (-)-",
+    "CAS": "14694-65-6",
+    "URL": "https://bio-fermen.bocsci.com/product/4a-7-methano-4ah-benzocycloheptene-1-propanol-cas-14694-65-6-358766.html",
+    "Catalog": "BBF-04952"
+  },
+  {
+    "name": "2-Dechlorothiomelin",
+    "CAS": "146984-64-7",
+    "URL": "https://bio-fermen.bocsci.com/product/2-dechlorothiomelin-cas-146984-64-7-358767.html",
+    "Catalog": "BBF-04953"
+  },
+  {
+    "name": "5β,8βH,9βH,10α-Labdan-15-oic acid, 7α,8-dihydroxy-, methyl ester",
+    "CAS": "14787-72-5",
+    "URL": "https://bio-fermen.bocsci.com/product/5-8-h-9-h-10-labdan-15-oic-acid-7-8-dihydroxy-cas-14787-72-5-358769.html",
+    "Catalog": "BBF-04955"
+  },
+  {
+    "name": "Scabrosin diacetate",
+    "CAS": "242146-95-8",
+    "URL": "https://bio-fermen.bocsci.com/product/scabrosin-diacetate-cas-242146-95-8-358902.html",
+    "Catalog": "BBF-05090"
+  },
+  {
+    "name": "4-(1,1-dimethylethyl)-6-methoxy-N1,N1,N3,N3-tetramethyl-1,3-benzenediamine",
+    "CAS": "24253-04-1",
+    "URL": "https://bio-fermen.bocsci.com/product/4-1-1-dimethylethyl-6-methoxy-n1-n1-n3-n3-tetramethyl-cas-24253-04-1-358903.html",
+    "Catalog": "BBF-05091"
+  },
+  {
+    "name": "Pulvinamide",
+    "CAS": "31673-63-9",
+    "URL": "https://bio-fermen.bocsci.com/product/pulvinamide-cas-31673-63-9-358944.html",
+    "Catalog": "BBF-05133"
+  },
+  {
+    "name": "Colensoic acid",
+    "CAS": "31676-87-6",
+    "URL": "https://bio-fermen.bocsci.com/product/colensoic-acid-cas-31676-87-6-358945.html",
+    "Catalog": "BBF-05134"
+  },
+  {
+    "name": "6-O-Methylthiophanic acid",
+    "CAS": "31913-68-5",
+    "URL": "https://bio-fermen.bocsci.com/product/6-o-methylthiophanic-acid-cas-31913-68-5-358946.html",
+    "Catalog": "BBF-05135"
+  },
+  {
+    "name": "3-Hydroxymitorubrin",
+    "CAS": "3215-47-2",
+    "URL": "https://bio-fermen.bocsci.com/product/3-hydroxymitorubrin-cas-3215-47-2-358947.html",
+    "Catalog": "BBF-05136"
+  },
+  {
+    "name": "Kauran-18-oic acid, 17-hydroxy-, methyl ester, (4α,16α)-",
+    "CAS": "3301-52-8",
+    "URL": "https://bio-fermen.bocsci.com/product/kauran-18-oic-acid-17-hydroxy-methyl-ester-4-cas-3301-52-8-358948.html",
+    "Catalog": "BBF-05137"
+  },
+  {
+    "name": "3-oxo-Kaur-16-en-18-al",
+    "CAS": "100173-96-4",
+    "URL": "https://bio-fermen.bocsci.com/product/3-oxo-kaur-16-en-18-al-cas-100173-96-4-358678.html",
+    "Catalog": "BBF-04863"
+  },
+  {
+    "name": "Acoradiene, (-)-beta-",
+    "CAS": "28477-64-7",
+    "URL": "https://bio-fermen.bocsci.com/product/acoradiene-beta-cas-28477-64-7-358930.html",
+    "Catalog": "BBF-05118"
+  },
+  {
+    "name": "Merochlorophaeic acid",
+    "CAS": "2879-80-3",
+    "URL": "https://bio-fermen.bocsci.com/product/merochlorophaeic-acid-cas-2879-80-3-358932.html",
+    "Catalog": "BBF-05120"
+  },
+  {
+    "name": "(+)-Rangiformic acid",
+    "CAS": "29227-63-2",
+    "URL": "https://bio-fermen.bocsci.com/product/rangiformic-acid-cas-29227-63-2-358933.html",
+    "Catalog": "BBF-05121"
+  },
+  {
+    "name": "Cryptochlorophaeic acid",
+    "CAS": "2948-07-4",
+    "URL": "https://bio-fermen.bocsci.com/product/cryptochlorophaeic-acid-cas-2948-07-4-358935.html",
+    "Catalog": "BBF-05123"
+  },
+  {
+    "name": "Coronatoquinone",
+    "CAS": "299190-12-8",
+    "URL": "https://bio-fermen.bocsci.com/product/coronatoquinone-cas-299190-12-8-358937.html",
+    "Catalog": "BBF-05125"
+  },
+  {
+    "name": "18-Norkaur-16-en-3-one",
+    "CAS": "100227-34-7",
+    "URL": "https://bio-fermen.bocsci.com/product/18-norkaur-16-en-3-one-cas-100227-34-7-358679.html",
+    "Catalog": "BBF-04864"
+  },
+  {
+    "name": "Calycin",
+    "CAS": "10091-92-6",
+    "URL": "https://bio-fermen.bocsci.com/product/calycin-cas-10091-92-6-358682.html",
+    "Catalog": "BBF-04867"
+  },
+  {
+    "name": "1H-3a,7-Methanoazulene-3-carboxylic acid, 2,3,4,7,8,8a-hexahydro-8-(5-hydroxy-4-methylpentyl)-6,8-dimethyl-",
+    "CAS": "101467-55-4",
+    "URL": "https://bio-fermen.bocsci.com/product/1h-3a-7-methanoazulene-3-carboxylic-acid-2-3-cas-101467-55-4-358683.html",
+    "Catalog": "BBF-04868"
+  },
+  {
+    "name": "[3S-(3α,3aα,7α,8α,8aβ)]-2,3,4,7,8,8a-Hexahydro-3,6,8-trimethyl-8-(4-methylpentyl)-1H-3a,7-methanoazulene",
+    "CAS": "101467-57-6",
+    "URL": "https://bio-fermen.bocsci.com/product/3s-3-3a-7-8-8a-2-3-4-7-8-8a-hexahydro-3-6-8-cas-101467-57-6-358684.html",
+    "Catalog": "BBF-04869"
+  },
+  {
+    "name": "(3S,3aR,5S,6S,7S,8S,8aS)-Octahydro-3,6,8-trimethyl-8-(4-methylpentyl)-1H-3a,7-methanoazulen-5-ol",
+    "CAS": "101467-59-8",
+    "URL": "https://bio-fermen.bocsci.com/product/3s-3ar-5s-6s-7s-8s-8as-octahydro-3-6-8-trimethyl-cas-101467-59-8-358685.html",
+    "Catalog": "BBF-04870"
+  },
+  {
+    "name": "(-)-Dihydropertusaric acid",
+    "CAS": "101899-68-7",
+    "URL": "https://bio-fermen.bocsci.com/product/dihydropertusaric-acid-cas-101899-68-7-358686.html",
+    "Catalog": "BBF-04871"
+  },
+  {
+    "name": "Beyerol triacetate",
+    "CAS": "102216-95-5",
+    "URL": "https://bio-fermen.bocsci.com/product/beyerol-triacetate-cas-102216-95-5-358687.html",
+    "Catalog": "BBF-04872"
+  },
+  {
+    "name": "Constictic acid",
+    "CAS": "30287-05-9",
+    "URL": "https://bio-fermen.bocsci.com/product/constictic-acid-cas-30287-05-9-358938.html",
+    "Catalog": "BBF-05126"
+  },
+  {
+    "name": "Umbilicaric acid",
+    "CAS": "30666-92-3",
+    "URL": "https://bio-fermen.bocsci.com/product/umbilicaric-acid-cas-30666-92-3-358939.html",
+    "Catalog": "BBF-05128"
+  },
+  {
+    "name": "gamma-Glutamylarginine",
+    "CAS": "31106-03-3",
+    "URL": "https://bio-fermen.bocsci.com/product/gamma-glutamylarginine-cas-31106-03-3-358941.html",
+    "Catalog": "BBF-05130"
+  },
+  {
+    "name": "Coprogen",
+    "CAS": "31418-71-0",
+    "URL": "https://bio-fermen.bocsci.com/product/coprogen-cas-31418-71-0-358942.html",
+    "Catalog": "BBF-05131"
+  },
+  {
+    "name": "Aphthosin",
+    "CAS": "31449-13-5",
+    "URL": "https://bio-fermen.bocsci.com/product/aphthosin-cas-31449-13-5-358943.html",
+    "Catalog": "BBF-05132"
+  },
+  {
+    "name": "3-Methoxyumbilicaric acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/3-methoxyumbilicaric-acid-359112.html",
+    "Catalog": "BBF-05307"
+  },
+  {
+    "name": "2''-O-Methylgyrophoric acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/2-o-methylgyrophoric-acid-359114.html",
+    "Catalog": "BBF-05309"
+  },
+  {
+    "name": "Methyl 2''-O-methylgyrophorate",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/methyl-2-o-methylgyrophorate-359115.html",
+    "Catalog": "BBF-05310"
+  },
+  {
+    "name": "Methyl 2',2''-di-O-methylgyrophorate",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/methyl-2-2-di-o-methylgyrophorate-359116.html",
+    "Catalog": "BBF-05311"
+  },
+  {
+    "name": "Methyl 2-O-Methyldivaricatate",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/methyl-2-o-methyldivaricatate-359117.html",
+    "Catalog": "BBF-05312"
+  },
+  {
+    "name": "3,5-Dichloro-2'-O-methylanziaic acid",
+    "CAS": "64185-14-4",
+    "URL": "https://bio-fermen.bocsci.com/product/3-5-dichloro-2-o-methylanziaic-acid-cas-64185-14-4-359120.html",
+    "Catalog": "BBF-05315"
+  },
+  {
+    "name": "3,5-Dichloro-2,2'-di-O-methylanziaic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/3-5-dichloro-2-2-di-o-methylanziaic-acid-359121.html",
+    "Catalog": "BBF-05316"
+  },
+  {
+    "name": "5-Chlorolecanoric acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/5-chlorolecanoric-acid-359122.html",
+    "Catalog": "BBF-05317"
+  },
+  {
+    "name": "3-Chloronordivaricatic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/3-chloronordivaricatic-acid-359123.html",
+    "Catalog": "BBF-05318"
+  },
+  {
+    "name": "3-Chlorostenosporic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/3-chlorostenosporic-acid-359124.html",
+    "Catalog": "BBF-05319"
+  },
+  {
+    "name": "3-Chloroisosubdivaricatic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/3-chloroisosubdivaricatic-acid-359125.html",
+    "Catalog": "BBF-05320"
+  },
+  {
+    "name": "Isoschizopeltic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/isoschizopeltic-acid-358661.html",
+    "Catalog": "BBF-04846"
+  },
+  {
+    "name": "Pannaric acid 6-methyl ester",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/pannaric-acid-6-methyl-ester-358662.html",
+    "Catalog": "BBF-04847"
+  },
+  {
+    "name": "2-O-Methylsuperlatolic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/2-o-methylsuperlatolic-acid-358663.html",
+    "Catalog": "BBF-04848"
+  },
+  {
+    "name": "2'-O-Methylisohyperlatolic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/2-o-methylisohyperlatolic-acid-358665.html",
+    "Catalog": "BBF-04850"
+  },
+  {
+    "name": "Decarboxyperlatolic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/decarboxyperlatolic-acid-358666.html",
+    "Catalog": "BBF-04851"
+  },
+  {
+    "name": "2,2'-Di-O-methylanziaic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/2-2-di-o-methylanziaic-acid-358667.html",
+    "Catalog": "BBF-04852"
+  },
+  {
+    "name": "2-O-Methylisohyperlatolic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/2-o-methylisohyperlatolic-acid-358668.html",
+    "Catalog": "BBF-04853"
+  },
+  {
+    "name": "2',4-Di-O-methylphysodic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/2-4-di-o-methylphysodic-acid-358671.html",
+    "Catalog": "BBF-04856"
+  },
+  {
+    "name": "Pulvinic acid",
+    "CAS": "26548-70-9",
+    "URL": "https://bio-fermen.bocsci.com/product/pulvinic-acid-cas-26548-70-9-358921.html",
+    "Catalog": "BBF-05109"
+  },
+  {
+    "name": "19αH-Lupan-3β-ol, 20,28-epoxy-, acetate",
+    "CAS": "26803-59-8",
+    "URL": "https://bio-fermen.bocsci.com/product/19-h-lupan-3-ol-20-28-epoxy-acetate-cas-26803-59-8-358922.html",
+    "Catalog": "BBF-05110"
+  },
+  {
+    "name": "Schizopeltic acid",
+    "CAS": "27161-92-8",
+    "URL": "https://bio-fermen.bocsci.com/product/schizopeltic-acid-cas-27161-92-8-358924.html",
+    "Catalog": "BBF-05112"
+  },
+  {
+    "name": "Dimethyl di-O-methylpannarate",
+    "CAS": "27161-99-5",
+    "URL": "https://bio-fermen.bocsci.com/product/dimethyl-di-o-methylpannarate-cas-27161-99-5-358925.html",
+    "Catalog": "BBF-05113"
+  },
+  {
+    "name": "Robustol methyl ether",
+    "CAS": "27825-39-4",
+    "URL": "https://bio-fermen.bocsci.com/product/robustol-methyl-ether-cas-27825-39-4-358928.html",
+    "Catalog": "BBF-05116"
+  },
+  {
+    "name": "Phenarctin",
+    "CAS": "27839-39-0",
+    "URL": "https://bio-fermen.bocsci.com/product/phenarctin-cas-27839-39-0-358929.html",
+    "Catalog": "BBF-05117"
+  },
+  {
+    "name": "4-O-Methylhaematommic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/4-o-methylhaematommic-acid-359126.html",
+    "Catalog": "BBF-05321"
+  },
+  {
+    "name": "5-Chlorodivaricatinic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/5-chlorodivaricatinic-acid-359127.html",
+    "Catalog": "BBF-05322"
+  },
+  {
+    "name": "Ethyl 4-O-methylhaematommate",
+    "CAS": "38629-37-7",
+    "URL": "https://bio-fermen.bocsci.com/product/ethyl-4-o-methylhaematommate-cas-38629-37-7-359128.html",
+    "Catalog": "BBF-05323"
+  },
+  {
+    "name": "Methyl 5-hydroxy-beta-orsellinate",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/methyl-5-hydroxy-beta-orsellinate-359129.html",
+    "Catalog": "BBF-05324"
+  },
+  {
+    "name": "5-Hydroxy-beta-orsellinic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/5-hydroxy-beta-orsellinic-acid-359130.html",
+    "Catalog": "BBF-05325"
+  },
+  {
+    "name": "Methyl 5-chlorobarbatate",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/methyl-5-chlorobarbatate-359131.html",
+    "Catalog": "BBF-05326"
+  },
+  {
+    "name": "Methyl 2'-O-methyleriodermate",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/methyl-2-o-methyleriodermate-359132.html",
+    "Catalog": "BBF-05327"
+  },
+  {
+    "name": "Methyl Isohyperplaniate",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/methyl-isohyperplaniate-358672.html",
+    "Catalog": "BBF-04857"
+  },
+  {
+    "name": "3-Methoxycolensoic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/3-methoxycolensoic-acid-358673.html",
+    "Catalog": "BBF-04858"
+  },
+  {
+    "name": "Isolividic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/isolividic-acid-358674.html",
+    "Catalog": "BBF-04859"
+  },
+  {
+    "name": "Decarboxyanziaic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/decarboxyanziaic-acid-358675.html",
+    "Catalog": "BBF-04860"
+  },
+  {
+    "name": "Decarboxydivaricatic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/decarboxydivaricatic-acid-358676.html",
+    "Catalog": "BBF-04861"
+  },
+  {
+    "name": "Phenylalanyl-histidine",
+    "CAS": "33367-37-2",
+    "URL": "https://bio-fermen.bocsci.com/product/phenylalanyl-histidine-cas-33367-37-2-358954.html",
+    "Catalog": "BBF-05143"
+  },
+  {
+    "name": "Mitorubrin",
+    "CAS": "3403-71-2",
+    "URL": "https://bio-fermen.bocsci.com/product/mitorubrin-cas-3403-71-2-358955.html",
+    "Catalog": "BBF-05144"
+  },
+  {
+    "name": "Sclerotioramine",
+    "CAS": "34695-81-3",
+    "URL": "https://bio-fermen.bocsci.com/product/sclerotioramine-cas-34695-81-3-358956.html",
+    "Catalog": "BBF-05145"
+  },
+  {
+    "name": "Methyl haematommate",
+    "CAS": "34874-90-3",
+    "URL": "https://bio-fermen.bocsci.com/product/methyl-haematommate-cas-34874-90-3-358957.html",
+    "Catalog": "BBF-05146"
+  },
+  {
+    "name": "Dehydrocollatolic acid",
+    "CAS": "350242-64-7",
+    "URL": "https://bio-fermen.bocsci.com/product/dehydrocollatolic-acid-cas-350242-64-7-358958.html",
+    "Catalog": "BBF-05147"
+  },
+  {
+    "name": "Ergochrome AA",
+    "CAS": "35287-72-0",
+    "URL": "https://bio-fermen.bocsci.com/product/ergochrome-aa-cas-35287-72-0-358959.html",
+    "Catalog": "BBF-05148"
+  },
+  {
+    "name": "Phenazine, 2,7-bis(1,1-dimethylethyl)-3,8-dimethoxy-",
+    "CAS": "35291-98-6",
+    "URL": "https://bio-fermen.bocsci.com/product/phenazine-2-7-bis-1-1-dimethylethyl-3-8-cas-35291-98-6-358960.html",
+    "Catalog": "BBF-05149"
+  },
+  {
+    "name": "Methyl evernate",
+    "CAS": "3542-22-1",
+    "URL": "https://bio-fermen.bocsci.com/product/methyl-evernate-cas-3542-22-1-358961.html",
+    "Catalog": "BBF-05150"
+  },
+  {
+    "name": "Kauran-18-oic acid, 16,17-dihydroxy-, methyl ester, (4α)-",
+    "CAS": "3557-81-1",
+    "URL": "https://bio-fermen.bocsci.com/product/kauran-18-oic-acid-16-17-dihydroxy-methyl-ester-cas-3557-81-1-358962.html",
+    "Catalog": "BBF-05151"
+  },
+  {
+    "name": "beta-Amyrin benzoate",
+    "CAS": "3607-93-0",
+    "URL": "https://bio-fermen.bocsci.com/product/beta-amyrin-benzoate-cas-3607-93-0-358964.html",
+    "Catalog": "BBF-05153"
+  },
+  {
+    "name": "Arginyl-threonine",
+    "CAS": "106326-78-7",
+    "URL": "https://bio-fermen.bocsci.com/product/arginyl-threonine-cas-106326-78-7-358700.html",
+    "Catalog": "BBF-04885"
+  },
+  {
+    "name": "16βH-Kaurane-17,18-diol, diacetate",
+    "CAS": "106460-54-2",
+    "URL": "https://bio-fermen.bocsci.com/product/16-h-kaurane-17-18-diol-diacetate-cas-106460-54-2-358701.html",
+    "Catalog": "BBF-04886"
+  },
+  {
+    "name": "Lupane-3β,16β-diol, 16-acetate",
+    "CAS": "107205-21-0",
+    "URL": "https://bio-fermen.bocsci.com/product/lupane-3-16-diol-16-acetate-cas-107205-21-0-358703.html",
+    "Catalog": "BBF-04888"
+  },
+  {
+    "name": "Lup-15-en-3β-ol, acetate",
+    "CAS": "107304-89-2",
+    "URL": "https://bio-fermen.bocsci.com/product/lup-15-en-3-ol-acetate-cas-107304-89-2-358704.html",
+    "Catalog": "BBF-04889"
+  },
+  {
+    "name": "17-Norkauran-16-one, 3β,18-dihydroxy-, diacetate",
+    "CAS": "107423-06-3",
+    "URL": "https://bio-fermen.bocsci.com/product/17-norkauran-16-one-3-18-dihydroxy-diacetate-cas-107423-06-3-358705.html",
+    "Catalog": "BBF-04891"
+  },
+  {
+    "name": "Wrightiin",
+    "CAS": "107783-44-8",
+    "URL": "https://bio-fermen.bocsci.com/product/wrightiin-cas-107783-44-8-358707.html",
+    "Catalog": "BBF-04893"
+  },
+  {
+    "name": "5,4'-diacetoxy-3,7-dimethoxy flavone",
+    "CAS": "3301-55-1",
+    "URL": "https://bio-fermen.bocsci.com/product/5-4-diacetoxy-3-7-dimethoxy-flavone-cas-3301-55-1-358949.html",
+    "Catalog": "BBF-05138"
+  },
+  {
+    "name": "Bruceol",
+    "CAS": "33044-74-5",
+    "URL": "https://bio-fermen.bocsci.com/product/bruceol-cas-33044-74-5-358950.html",
+    "Catalog": "BBF-05139"
+  },
+  {
+    "name": "Threonyl-asparagine",
+    "CAS": "330601-56-4",
+    "URL": "https://bio-fermen.bocsci.com/product/threonyl-asparagine-cas-330601-56-4-358951.html",
+    "Catalog": "BBF-05140"
+  },
+  {
+    "name": "Peristictic acid",
+    "CAS": "331812-35-2",
+    "URL": "https://bio-fermen.bocsci.com/product/peristictic-acid-cas-331812-35-2-358952.html",
+    "Catalog": "BBF-05141"
+  },
+  {
+    "name": "Vicanicin",
+    "CAS": "33211-22-2",
+    "URL": "https://bio-fermen.bocsci.com/product/vicanicin-cas-33211-22-2-358953.html",
+    "Catalog": "BBF-05142"
+  },
+  {
+    "name": "Stenosporonic acid",
+    "CAS": "103538-04-1",
+    "URL": "https://bio-fermen.bocsci.com/product/stenosporonic-acid-cas-103538-04-1-358688.html",
+    "Catalog": "BBF-04873"
+  },
+  {
+    "name": "Subpaludosic acid",
+    "CAS": "103538-08-5",
+    "URL": "https://bio-fermen.bocsci.com/product/subpaludosic-acid-cas-103538-08-5-358691.html",
+    "Catalog": "BBF-04876"
+  },
+  {
+    "name": "Moniliphenone",
+    "CAS": "104022-80-2",
+    "URL": "https://bio-fermen.bocsci.com/product/moniliphenone-cas-104022-80-2-358694.html",
+    "Catalog": "BBF-04879"
+  },
+  {
+    "name": "Beyerol, dihydro-, triacetate",
+    "CAS": "105403-79-0",
+    "URL": "https://bio-fermen.bocsci.com/product/beyerol-dihydro-triacetate-cas-105403-79-0-358695.html",
+    "Catalog": "BBF-04880"
+  },
+  {
+    "name": "Bruceol benzoate",
+    "CAS": "105668-07-3",
+    "URL": "https://bio-fermen.bocsci.com/product/bruceol-benzoate-cas-105668-07-3-358697.html",
+    "Catalog": "BBF-04882"
+  },
+  {
+    "name": "Normiriquidic acid",
+    "CAS": "105705-30-4",
+    "URL": "https://bio-fermen.bocsci.com/product/normiriquidic-acid-cas-105705-30-4-358698.html",
+    "Catalog": "BBF-04883"
+  },
+  {
+    "name": "Beyeryl tribenzoate",
+    "CAS": "106068-02-4",
+    "URL": "https://bio-fermen.bocsci.com/product/beyeryl-tribenzoate-cas-106068-02-4-358699.html",
+    "Catalog": "BBF-04884"
+  },
+  {
+    "name": "D-Aspartic acid dimethyl ester",
+    "CAS": "88067-96-3",
+    "URL": "https://bio-fermen.bocsci.com/product/d-aspartic-acid-dimethyl-ester-cas-88067-96-3-358520.html",
+    "Catalog": "BBF-04692"
+  },
+  {
+    "name": "N-Acetyl-D-alaninol",
+    "CAS": "145842-51-9",
+    "URL": "https://bio-fermen.bocsci.com/product/n-acetyl-d-alaninol-cas-145842-51-9-358983.html",
+    "Catalog": "BBF-05176"
+  },
+  {
+    "name": "N-Acetyl-D-histidine",
+    "CAS": "75983-68-5",
+    "URL": "https://bio-fermen.bocsci.com/product/n-acetyl-d-histidine-cas-75983-68-5-358984.html",
+    "Catalog": "BBF-05177"
+  },
+  {
+    "name": "N-Acetyl-D-isoleucine",
+    "CAS": "19764-31-9",
+    "URL": "https://bio-fermen.bocsci.com/product/n-acetyl-d-isoleucine-cas-19764-31-9-358985.html",
+    "Catalog": "BBF-05178"
+  },
+  {
+    "name": "N-Acetyl-D-leucinol",
+    "CAS": "2015198-19-1",
+    "URL": "https://bio-fermen.bocsci.com/product/n-acetyl-d-leucinol-cas-2015198-19-1-358986.html",
+    "Catalog": "BBF-05179"
+  },
+  {
+    "name": "N-Acetyl-D-phenylalaninol",
+    "CAS": "52485-50-4",
+    "URL": "https://bio-fermen.bocsci.com/product/n-acetyl-d-phenylalaninol-cas-52485-50-4-358987.html",
+    "Catalog": "BBF-05180"
+  },
+  {
+    "name": "Methyl 2',4-di-O-methyleriodermate",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/methyl-2-4-di-o-methyleriodermate-359133.html",
+    "Catalog": "BBF-05328"
+  },
+  {
+    "name": "Methyl 5-chloro-4-O-demethyldiffractaiate",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/methyl-5-chloro-4-o-demethyldiffractaiate-359134.html",
+    "Catalog": "BBF-05329"
+  },
+  {
+    "name": "Methyl 2,4-di-O-methyleriodermate",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/methyl-2-4-di-o-methyleriodermate-359135.html",
+    "Catalog": "BBF-05330"
+  },
+  {
+    "name": "Methyl 2,2'-di-O-methyleriodermate",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/methyl-2-2-di-o-methyleriodermate-359136.html",
+    "Catalog": "BBF-05331"
+  },
+  {
+    "name": "Methyl 5-chloro-2'-O-methyl-4-O-demethyldiffractaiate",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/methyl-5-chloro-2-o-methyl-4-o-demethyldiffractaiate-359137.html",
+    "Catalog": "BBF-05332"
+  },
+  {
+    "name": "3-Methoxy-2,4-di-O-methylgyrophoric acid",
+    "CAS": "79004-06-1",
+    "URL": "https://bio-fermen.bocsci.com/product/3-methoxy-2-4-di-o-methylgyrophoric-acid-cas-79004-06-1-359138.html",
+    "Catalog": "BBF-05333"
+  },
+  {
+    "name": "4,5-Di-O-methylhiascic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/4-5-di-o-methylhiascic-acid-359139.html",
+    "Catalog": "BBF-05334"
+  },
+  {
+    "name": "2,4-Di-O-Methylhiascic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/2-4-di-o-methylhiascic-acid-359140.html",
+    "Catalog": "BBF-05335"
+  },
+  {
+    "name": "N-Acetyl-D-prolinol",
+    "CAS": "123958-87-2",
+    "URL": "https://bio-fermen.bocsci.com/product/n-acetyl-d-prolinol-cas-123958-87-2-358988.html",
+    "Catalog": "BBF-05181"
+  },
+  {
+    "name": "N-Acetyl-D-threonine",
+    "CAS": "197302-88-8",
+    "URL": "https://bio-fermen.bocsci.com/product/n-acetyl-d-threonine-cas-197302-88-8-358989.html",
+    "Catalog": "BBF-05182"
+  },
+  {
+    "name": "N-Acetyl-D-tryptophanol",
+    "CAS": "52431-46-6",
+    "URL": "https://bio-fermen.bocsci.com/product/n-acetyl-d-tryptophanol-cas-52431-46-6-358990.html",
+    "Catalog": "BBF-05183"
+  },
+  {
+    "name": "N-Acetyl-L-asparaginol",
+    "CAS": "38922-66-6",
+    "URL": "https://bio-fermen.bocsci.com/product/n-acetyl-l-asparaginol-cas-38922-66-6-358992.html",
+    "Catalog": "BBF-05185"
+  },
+  {
+    "name": "N-Acetyl-L-histidinol",
+    "CAS": "15761-57-6",
+    "URL": "https://bio-fermen.bocsci.com/product/n-acetyl-l-histidinol-cas-15761-57-6-358993.html",
+    "Catalog": "BBF-05186"
+  },
+  {
+    "name": "Glomelliferonic acid",
+    "CAS": "113706-23-3",
+    "URL": "https://bio-fermen.bocsci.com/product/glomelliferonic-acid-cas-113706-23-3-358722.html",
+    "Catalog": "BBF-04908"
+  },
+  {
+    "name": "Thiomelin",
+    "CAS": "113734-83-1",
+    "URL": "https://bio-fermen.bocsci.com/product/thiomelin-cas-113734-83-1-358723.html",
+    "Catalog": "BBF-04909"
+  },
+  {
+    "name": "4-Dechlorothiomelin",
+    "CAS": "113734-84-2",
+    "URL": "https://bio-fermen.bocsci.com/product/4-dechlorothiomelin-cas-113734-84-2-358724.html",
+    "Catalog": "BBF-04910"
+  },
+  {
+    "name": "8-O-Methylthiomelin",
+    "CAS": "113734-85-3",
+    "URL": "https://bio-fermen.bocsci.com/product/8-o-methylthiomelin-cas-113734-85-3-358725.html",
+    "Catalog": "BBF-04911"
+  },
+  {
+    "name": "Brevianamide L",
+    "CAS": "1174538-68-1",
+    "URL": "https://bio-fermen.bocsci.com/product/brevianamide-l-cas-1174538-68-1-358726.html",
+    "Catalog": "BBF-04912"
+  },
+  {
+    "name": "5-O-Acetyl-4-O-methylhiascic acid",
+    "CAS": "133177-73-8",
+    "URL": "https://bio-fermen.bocsci.com/product/5-o-acetyl-4-o-methylhiascic-acid-cas-133177-73-8-359141.html",
+    "Catalog": "BBF-05336"
+  },
+  {
+    "name": "4-O-Methylhiascic acid",
+    "CAS": "65614-53-1",
+    "URL": "https://bio-fermen.bocsci.com/product/4-o-methylhiascic-acid-cas-65614-53-1-359142.html",
+    "Catalog": "BBF-05337"
+  },
+  {
+    "name": "Methyl 2-O-methylstenosporate",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/methyl-2-o-methylstenosporate-359143.html",
+    "Catalog": "BBF-05338"
+  },
+  {
+    "name": "4-O-Demethylglomellic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/4-o-demethylglomellic-acid-359144.html",
+    "Catalog": "BBF-05339"
+  },
+  {
+    "name": "4-O-Demethylloxodellic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/4-o-demethylloxodellic-acid-359145.html",
+    "Catalog": "BBF-05340"
+  },
+  {
+    "name": "Dolichorrhizin",
+    "CAS": "3607-97-4",
+    "URL": "https://bio-fermen.bocsci.com/product/dolichorrhizin-cas-3607-97-4-359146.html",
+    "Catalog": "BBF-05341"
+  },
+  {
+    "name": "20alpha-Acetoxyhopane-6alpha,22-diol",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/20alpha-acetoxyhopane-6alpha-22-diol-359147.html",
+    "Catalog": "BBF-05342"
+  },
+  {
+    "name": "D-Argininol",
+    "CAS": "1313054-61-3",
+    "URL": "https://bio-fermen.bocsci.com/product/d-argininol-cas-1313054-61-3-356823.html",
+    "Catalog": "BBF-04690"
+  },
+  {
+    "name": "N-Benzoyl-D-tyrosinol",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoyl-d-tyrosinol-358610.html",
+    "Catalog": "BBF-04794"
+  },
+  {
+    "name": "L-Argininol",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/l-argininol-358613.html",
+    "Catalog": "BBF-04797"
+  },
+  {
+    "name": "Methoxymicareic acid",
+    "CAS": "94693-31-9",
+    "URL": "https://bio-fermen.bocsci.com/product/methoxymicareic-acid-cas-94693-31-9-358616.html",
+    "Catalog": "BBF-04801"
+  },
+  {
+    "name": "4,5-Dichloro-3-O-methylnorlichexanthone",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/4-5-dichloro-3-o-methylnorlichexanthone-358617.html",
+    "Catalog": "BBF-04802"
+  },
+  {
+    "name": "7-O-Methylnorascomatic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/7-o-methylnorascomatic-acid-358631.html",
+    "Catalog": "BBF-04816"
+  },
+  {
+    "name": "4-Chloro-6-O-methylnorlichexanthone",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/4-chloro-6-o-methylnorlichexanthone-358632.html",
+    "Catalog": "BBF-04817"
+  },
+  {
+    "name": "4,7-Dichloro-3-O-methylnorlichexanthone",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/4-7-dichloro-3-o-methylnorlichexanthone-358633.html",
+    "Catalog": "BBF-04818"
+  },
+  {
+    "name": "2'-O-Methylbarbatic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/2-o-methylbarbatic-acid-358634.html",
+    "Catalog": "BBF-04819"
+  },
+  {
+    "name": "2'-O-Methyldiffractaic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/2-o-methyldiffractaic-acid-358635.html",
+    "Catalog": "BBF-04820"
+  },
+  {
+    "name": "2-O-Methylsquamatic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/2-o-methylsquamatic-acid-358636.html",
+    "Catalog": "BBF-04821"
+  },
+  {
+    "name": "Norbaeomycesic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/norbaeomycesic-acid-358637.html",
+    "Catalog": "BBF-04822"
+  },
+  {
+    "name": "Asparaginyl-phenylalanine",
+    "CAS": "22849-01-0",
+    "URL": "https://bio-fermen.bocsci.com/product/asparaginyl-phenylalanine-cas-22849-01-0-358888.html",
+    "Catalog": "BBF-05076"
+  },
+  {
+    "name": "2,5-Dichlorolichexanthone",
+    "CAS": "22905-22-2",
+    "URL": "https://bio-fermen.bocsci.com/product/2-5-dichlorolichexanthone-cas-22905-22-2-358889.html",
+    "Catalog": "BBF-05077"
+  },
+  {
+    "name": "4,4-dimethyl cholest-5-en-3-one",
+    "CAS": "2220-42-0",
+    "URL": "https://bio-fermen.bocsci.com/product/4-4-dimethyl-cholest-5-en-3-one-cas-2220-42-0-358871.html",
+    "Catalog": "BBF-05059"
+  },
+  {
+    "name": "2,7-Dichloronorlichexanthone",
+    "CAS": "22346-57-2",
+    "URL": "https://bio-fermen.bocsci.com/product/2-7-dichloronorlichexanthone-cas-22346-57-2-358872.html",
+    "Catalog": "BBF-05060"
+  },
+  {
+    "name": "2,7-Dichlorolichexanthone",
+    "CAS": "22346-58-3",
+    "URL": "https://bio-fermen.bocsci.com/product/2-7-dichlorolichexanthone-cas-22346-58-3-358873.html",
+    "Catalog": "BBF-05061"
+  },
+  {
+    "name": "Lepraric acid",
+    "CAS": "22399-41-3",
+    "URL": "https://bio-fermen.bocsci.com/product/lepraric-acid-cas-22399-41-3-358874.html",
+    "Catalog": "BBF-05062"
+  },
+  {
+    "name": "Histidyl-glutamine",
+    "CAS": "224638-13-5",
+    "URL": "https://bio-fermen.bocsci.com/product/histidyl-glutamine-cas-224638-13-5-358875.html",
+    "Catalog": "BBF-05063"
+  },
+  {
+    "name": "Asparaginyl-histidine",
+    "CAS": "224638-52-2",
+    "URL": "https://bio-fermen.bocsci.com/product/asparaginyl-histidine-cas-224638-52-2-358876.html",
+    "Catalog": "BBF-05064"
+  },
+  {
+    "name": "Methyl gyrophorate",
+    "CAS": "22474-42-6",
+    "URL": "https://bio-fermen.bocsci.com/product/methyl-gyrophorate-cas-22474-42-6-358877.html",
+    "Catalog": "BBF-05065"
+  },
+  {
+    "name": "Kaur-16-ene-3α,18-diol, cyclic phosphorochloridate",
+    "CAS": "22488-83-1",
+    "URL": "https://bio-fermen.bocsci.com/product/kaur-16-ene-3-18-diol-cyclic-cas-22488-83-1-358878.html",
+    "Catalog": "BBF-05066"
+  },
+  {
+    "name": "Isoleprapinic acid",
+    "CAS": "22628-21-3",
+    "URL": "https://bio-fermen.bocsci.com/product/isoleprapinic-acid-cas-22628-21-3-358880.html",
+    "Catalog": "BBF-05068"
+  },
+  {
+    "name": "Leprapinic acid methyl ether",
+    "CAS": "22628-25-7",
+    "URL": "https://bio-fermen.bocsci.com/product/leprapinic-acid-methyl-ether-cas-22628-25-7-358881.html",
+    "Catalog": "BBF-05069"
+  },
+  {
+    "name": "4-O-Methylhypoprotocetraric acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/4-o-methylhypoprotocetraric-acid-358619.html",
+    "Catalog": "BBF-04804"
+  },
+  {
+    "name": "Methyl 2'-O-methylstenosporate",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/methyl-2-o-methylstenosporate-358620.html",
+    "Catalog": "BBF-04805"
+  },
+  {
+    "name": "Methyl 2,2'-di-O-methylstenosporate",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/methyl-2-2-di-o-methylstenosporate-358621.html",
+    "Catalog": "BBF-04806"
+  },
+  {
+    "name": "Olivetonide dimethylether",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/olivetonide-dimethylether-358622.html",
+    "Catalog": "BBF-04807"
+  },
+  {
+    "name": "Testacein",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/testacein-358623.html",
+    "Catalog": "BBF-04808"
+  },
+  {
+    "name": "7-Chloro-3-O-methylnorlichexanthone",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/7-chloro-3-o-methylnorlichexanthone-358625.html",
+    "Catalog": "BBF-04810"
+  },
+  {
+    "name": "6-Formyl-5,7-dihydroxyphthalide",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/6-formyl-5-7-dihydroxyphthalide-358626.html",
+    "Catalog": "BBF-04811"
+  },
+  {
+    "name": "Methyl parietinate",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/methyl-parietinate-358627.html",
+    "Catalog": "BBF-04812"
+  },
+  {
+    "name": "5-Chloro-6-O-methylnorlichexanthone",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/5-chloro-6-o-methylnorlichexanthone-358629.html",
+    "Catalog": "BBF-04814"
+  },
+  {
+    "name": "1,3,6-Tri-O-methylarthothelin",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/1-3-6-tri-o-methylarthothelin-358630.html",
+    "Catalog": "BBF-04815"
+  },
+  {
+    "name": "Seryl-lysine",
+    "CAS": "22677-61-8",
+    "URL": "https://bio-fermen.bocsci.com/product/seryl-lysine-cas-22677-61-8-358885.html",
+    "Catalog": "BBF-05073"
+  },
+  {
+    "name": "2'-O-Methylnorbarbatic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/2-o-methylnorbarbatic-acid-358638.html",
+    "Catalog": "BBF-04823"
+  },
+  {
+    "name": "2-O-Methylbaeomycesic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/2-o-methylbaeomycesic-acid-358639.html",
+    "Catalog": "BBF-04824"
+  },
+  {
+    "name": "2,5,7-Trichlorolichexanthone",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/2-5-7-trichlorolichexanthone-358640.html",
+    "Catalog": "BBF-04825"
+  },
+  {
+    "name": "5,7-Dichlorolichexanthone",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/5-7-dichlorolichexanthone-358641.html",
+    "Catalog": "BBF-04826"
+  },
+  {
+    "name": "4,5,7-Trichlorolichexanthone",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/4-5-7-trichlorolichexanthone-358642.html",
+    "Catalog": "BBF-04827"
+  },
+  {
+    "name": "4'-O-Methylnorsekikaic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/4-o-methylnorsekikaic-acid-358643.html",
+    "Catalog": "BBF-04828"
+  },
+  {
+    "name": "Methyl 5-chloro-4-O-demethylbarbatate",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/methyl-5-chloro-4-o-demethylbarbatate-358644.html",
+    "Catalog": "BBF-04829"
+  },
+  {
+    "name": "2,4,7-Trichloronorlichexanthone",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/2-4-7-trichloronorlichexanthone-358645.html",
+    "Catalog": "BBF-04830"
+  },
+  {
+    "name": "4-O-Methylgyrophoric acid",
+    "CAS": "23437-51-6",
+    "URL": "https://bio-fermen.bocsci.com/product/4-o-methylgyrophoric-acid-cas-23437-51-6-358895.html",
+    "Catalog": "BBF-05083"
+  },
+  {
+    "name": "Vinetorin",
+    "CAS": "23460-01-7",
+    "URL": "https://bio-fermen.bocsci.com/product/vinetorin-cas-23460-01-7-358896.html",
+    "Catalog": "BBF-05084"
+  },
+  {
+    "name": "Lobophorin A",
+    "CAS": "247171-46-6",
+    "URL": "https://bio-fermen.bocsci.com/product/lobophorin-a-cas-247171-46-6-358906.html",
+    "Catalog": "BBF-05094"
+  },
+  {
+    "name": "Asparaginyl-arginine",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/asparaginyl-arginine-358907.html",
+    "Catalog": "BBF-05095"
+  },
+  {
+    "name": "Phenazine, 3-(1,1-dimethylethyl)-1-methoxy-",
+    "CAS": "2483-70-7",
+    "URL": "https://bio-fermen.bocsci.com/product/phenazine-3-1-1-dimethylethyl-1-methoxy-cas-2483-70-7-358908.html",
+    "Catalog": "BBF-05096"
+  },
+  {
+    "name": "Diacetylpyxinol",
+    "CAS": "25279-14-5",
+    "URL": "https://bio-fermen.bocsci.com/product/diacetylpyxinol-cas-25279-14-5-358909.html",
+    "Catalog": "BBF-05097"
+  },
+  {
+    "name": "2-Methoxypsoromic acid",
+    "CAS": "253161-37-4",
+    "URL": "https://bio-fermen.bocsci.com/product/2-methoxypsoromic-acid-cas-253161-37-4-358910.html",
+    "Catalog": "BBF-05098"
+  },
+  {
+    "name": "Pyxinol",
+    "CAS": "25330-18-1",
+    "URL": "https://bio-fermen.bocsci.com/product/pyxinol-cas-25330-18-1-358911.html",
+    "Catalog": "BBF-05099"
+  },
+  {
+    "name": "18-iso-acetyl-oleanolic acid",
+    "CAS": "25493-91-8",
+    "URL": "https://bio-fermen.bocsci.com/product/18-iso-acetyl-oleanolic-acid-cas-25493-91-8-358912.html",
+    "Catalog": "BBF-05100"
+  },
+  {
+    "name": "Arthoniaic acid",
+    "CAS": "25556-24-5",
+    "URL": "https://bio-fermen.bocsci.com/product/arthoniaic-acid-cas-25556-24-5-358913.html",
+    "Catalog": "BBF-05101"
+  },
+  {
+    "name": "4'-O-Demethylsekikaic acid",
+    "CAS": "25740-82-3",
+    "URL": "https://bio-fermen.bocsci.com/product/4-o-demethylsekikaic-acid-cas-25740-82-3-358915.html",
+    "Catalog": "BBF-05103"
+  },
+  {
+    "name": "N-Methylcanadine",
+    "CAS": "26297-11-0",
+    "URL": "https://bio-fermen.bocsci.com/product/n-methylcanadine-cas-26297-11-0-358917.html",
+    "Catalog": "BBF-05105"
+  },
+  {
+    "name": "Aspartyl-arginine",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/aspartyl-arginine-358918.html",
+    "Catalog": "BBF-05106"
+  },
+  {
+    "name": "(+)-Norrangiformic acid",
+    "CAS": "26534-85-0",
+    "URL": "https://bio-fermen.bocsci.com/product/norrangiformic-acid-cas-26534-85-0-358919.html",
+    "Catalog": "BBF-05107"
+  },
+  {
+    "name": "Eriostemoic acid",
+    "CAS": "26535-36-4",
+    "URL": "https://bio-fermen.bocsci.com/product/eriostemoic-acid-cas-26535-36-4-358920.html",
+    "Catalog": "BBF-05108"
+  },
+  {
+    "name": "3-Dechlorodiploicin",
+    "CAS": "69709-90-6",
+    "URL": "https://bio-fermen.bocsci.com/product/3-dechlorodiploicin-cas-69709-90-6-359104.html",
+    "Catalog": "BBF-05299"
+  },
+  {
+    "name": "3-Dechloro-4-O-methyldiploicin",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/3-dechloro-4-o-methyldiploicin-359105.html",
+    "Catalog": "BBF-05300"
+  },
+  {
+    "name": "Oxostenosporic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/oxostenosporic-acid-359106.html",
+    "Catalog": "BBF-05301"
+  },
+  {
+    "name": "3-Hydroxyumbilicaric acid",
+    "CAS": "124281-21-6",
+    "URL": "https://bio-fermen.bocsci.com/product/3-hydroxyumbilicaric-acid-cas-124281-21-6-359108.html",
+    "Catalog": "BBF-05303"
+  },
+  {
+    "name": "3-Hydroxygyrophoric acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/3-hydroxygyrophoric-acid-359109.html",
+    "Catalog": "BBF-05304"
+  },
+  {
+    "name": "3-Hydroxy-4-O-methylumbilicaric acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/3-hydroxy-4-o-methylumbilicaric-acid-359110.html",
+    "Catalog": "BBF-05305"
+  },
+  {
+    "name": "3,6-Di-O-methylthiophanic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/3-6-di-o-methylthiophanic-acid-358646.html",
+    "Catalog": "BBF-04831"
+  },
+  {
+    "name": "5,7-Dichloro-6-O-methylnorlichexanthone",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/5-7-dichloro-6-o-methylnorlichexanthone-358647.html",
+    "Catalog": "BBF-04832"
+  },
+  {
+    "name": "4'-O-Methylnorhomosekikaic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/4-o-methylnorhomosekikaic-acid-358650.html",
+    "Catalog": "BBF-04835"
+  },
+  {
+    "name": "5-Chloro-4-O-demethylbarbatic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/5-chloro-4-o-demethylbarbatic-acid-358653.html",
+    "Catalog": "BBF-04838"
+  },
+  {
+    "name": "2-Chloronorlichexanthone",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/2-chloronorlichexanthone-358655.html",
+    "Catalog": "BBF-04840"
+  },
+  {
+    "name": "5-Chloronorlichexanthone",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/5-chloronorlichexanthone-358656.html",
+    "Catalog": "BBF-04841"
+  },
+  {
+    "name": "Methyl 3alpha-hydroxy-4-O-demethylbarbatate",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/methyl-3alpha-hydroxy-4-o-demethylbarbatate-358657.html",
+    "Catalog": "BBF-04842"
+  },
+  {
+    "name": "Di-O-methylstrepsilin",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/di-o-methylstrepsilin-358659.html",
+    "Catalog": "BBF-04844"
+  },
+  {
+    "name": "Isomerochlorophaeic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/isomerochlorophaeic-acid-358660.html",
+    "Catalog": "BBF-04845"
+  },
+  {
+    "name": "Ochratoxin α",
+    "CAS": "19165-63-0",
+    "URL": "https://bio-fermen.bocsci.com/product/ochratoxin-cas-19165-63-0-288311.html",
+    "Catalog": "BBF-05790"
+  },
+  {
+    "name": "Acremolactone A",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/acremolactone-a-247538.html",
+    "Catalog": "BBF-00015"
+  },
+  {
+    "name": "cyclo(L-Tyr-L-Val)",
+    "CAS": "21754-25-6",
+    "URL": "https://bio-fermen.bocsci.com/product/cyclo-l-tyr-l-val-cas-21754-25-6-281982.html",
+    "Catalog": "BBF-04686"
+  },
+  {
+    "name": "Acremonol",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/acremonol-301650.html",
+    "Catalog": "BBF-00018"
+  },
+  {
+    "name": "Candidoin",
+    "CAS": "65776-69-4",
+    "URL": "https://bio-fermen.bocsci.com/product/candidoin-cas-65776-69-4-346334.html",
+    "Catalog": "BBF-00208"
+  },
+  {
+    "name": "A-factor",
+    "CAS": "51311-41-2",
+    "URL": "https://bio-fermen.bocsci.com/product/a-factor-cas-51311-41-2-346500.html",
+    "Catalog": "BBF-00384"
+  },
+  {
+    "name": "Carbazomadurin A",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/carbazomadurin-a-346345.html",
+    "Catalog": "BBF-00219"
+  },
+  {
+    "name": "Arabenoic acid",
+    "CAS": "136468-08-1",
+    "URL": "https://bio-fermen.bocsci.com/product/arabenoic-acid-cas-136468-08-1-346196.html",
+    "Catalog": "BBF-00066"
+  },
+  {
+    "name": "Ardeemin",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/ardeemin-346204.html",
+    "Catalog": "BBF-00074"
+  },
+  {
+    "name": "Ascochitine",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/ascochitine-346228.html",
+    "Catalog": "BBF-00098"
+  },
+  {
+    "name": "Aerobactin",
+    "CAS": "26198-65-2",
+    "URL": "https://bio-fermen.bocsci.com/product/aerobactin-cas-26198-65-2-346174.html",
+    "Catalog": "BBF-00043"
+  },
+  {
+    "name": "Aestivophoenin A",
+    "CAS": "171864-91-8",
+    "URL": "https://bio-fermen.bocsci.com/product/aestivophoenin-a-cas-171864-91-8-346178.html",
+    "Catalog": "BBF-00047"
+  },
+  {
+    "name": "Aestivophoenin B",
+    "CAS": "171864-92-9",
+    "URL": "https://bio-fermen.bocsci.com/product/aestivophoenin-b-cas-171864-92-9-346179.html",
+    "Catalog": "BBF-00048"
+  },
+  {
+    "name": "Antiostatin A1",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/antiostatin-a1-346183.html",
+    "Catalog": "BBF-00053"
+  },
+  {
+    "name": "cis-2-Amino-1-hydroxycyclobutane-1-acetic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/cis-2-amino-1-hydroxycyclobutane-1-acetic-acid-346558.html",
+    "Catalog": "BBF-00443"
+  },
+  {
+    "name": "B-factor",
+    "CAS": "52278-63-4",
+    "URL": "https://bio-fermen.bocsci.com/product/b-factor-cas-52278-63-4-346271.html",
+    "Catalog": "BBF-00141"
+  },
+  {
+    "name": "Biformin",
+    "CAS": "1403-08-3",
+    "URL": "https://bio-fermen.bocsci.com/product/biformin-cas-1403-08-3-346277.html",
+    "Catalog": "BBF-00147"
+  },
+  {
+    "name": "Carbazomadurin B",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/carbazomadurin-b-346346.html",
+    "Catalog": "BBF-00220"
+  },
+  {
+    "name": "Averufin",
+    "CAS": "14016-29-6",
+    "URL": "https://bio-fermen.bocsci.com/product/averufin-cas-14016-29-6-346357.html",
+    "Catalog": "BBF-00231"
+  },
+  {
+    "name": "Azirinomycin",
+    "CAS": "31772-89-1",
+    "URL": "https://bio-fermen.bocsci.com/product/azirinomycin-cas-31772-89-1-346370.html",
+    "Catalog": "BBF-00244"
+  },
+  {
+    "name": "Azotochelin",
+    "CAS": "23369-85-9",
+    "URL": "https://bio-fermen.bocsci.com/product/azotochelin-cas-23369-85-9-346371.html",
+    "Catalog": "BBF-00246"
+  },
+  {
+    "name": "Bacteriochlorophylls b",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/bacteriochlorophylls-b-346379.html",
+    "Catalog": "BBF-00256"
+  },
+  {
+    "name": "Badione A",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/badione-a-346380.html",
+    "Catalog": "BBF-00258"
+  },
+  {
+    "name": "Aladapcin",
+    "CAS": "114540-27-1",
+    "URL": "https://bio-fermen.bocsci.com/product/aladapcin-cas-114540-27-1-346513.html",
+    "Catalog": "BBF-00398"
+  },
+  {
+    "name": "Brasilinolide B",
+    "CAS": "262596-89-4",
+    "URL": "https://bio-fermen.bocsci.com/product/brasilinolide-b-cas-262596-89-4-346300.html",
+    "Catalog": "BBF-00173"
+  },
+  {
+    "name": "Bulgecin A",
+    "CAS": "92953-54-3",
+    "URL": "https://bio-fermen.bocsci.com/product/bulgecin-a-cas-92953-54-3-346312.html",
+    "Catalog": "BBF-00185"
+  },
+  {
+    "name": "Bulgecin B",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/bulgecin-b-346313.html",
+    "Catalog": "BBF-00186"
+  },
+  {
+    "name": "Bulgecin C",
+    "CAS": "92953-56-5",
+    "URL": "https://bio-fermen.bocsci.com/product/bulgecin-c-cas-92953-56-5-346314.html",
+    "Catalog": "BBF-00187"
+  },
+  {
+    "name": "Badione B",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/badione-b-346381.html",
+    "Catalog": "BBF-00259"
+  },
+  {
+    "name": "Benzastatin A",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/benzastatin-a-346409.html",
+    "Catalog": "BBF-00287"
+  },
+  {
+    "name": "Benzastatin B",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/benzastatin-b-346410.html",
+    "Catalog": "BBF-00288"
+  },
+  {
+    "name": "Benzastatin C",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/benzastatin-c-346411.html",
+    "Catalog": "BBF-00289"
+  },
+  {
+    "name": "Benzastatin D",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/benzastatin-d-346412.html",
+    "Catalog": "BBF-00290"
+  },
+  {
+    "name": "Benzastatin H",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/benzastatin-h-346413.html",
+    "Catalog": "BBF-00291"
+  },
+  {
+    "name": "Benzastatin I",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/benzastatin-i-346414.html",
+    "Catalog": "BBF-00292"
+  },
+  {
+    "name": "Chitinovorin A",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/chitinovorin-a-346420.html",
+    "Catalog": "BBF-00300"
+  },
+  {
+    "name": "Chitinovorin B",
+    "CAS": "95722-76-2",
+    "URL": "https://bio-fermen.bocsci.com/product/chitinovorin-b-cas-95722-76-2-346421.html",
+    "Catalog": "BBF-00301"
+  },
+  {
+    "name": "Chitinovorin C",
+    "CAS": "95230-98-1",
+    "URL": "https://bio-fermen.bocsci.com/product/chitinovorin-c-cas-95230-98-1-346422.html",
+    "Catalog": "BBF-00302"
+  },
+  {
+    "name": "Chlorocardicin",
+    "CAS": "95927-71-2",
+    "URL": "https://bio-fermen.bocsci.com/product/chlorocardicin-cas-95927-71-2-346425.html",
+    "Catalog": "BBF-00306"
+  },
+  {
+    "name": "Anthranilamide 1b",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/anthranilamide-1b-346594.html",
+    "Catalog": "BBF-00480"
+  },
+  {
+    "name": "Anthranilamide 1c",
+    "CAS": "207305-65-5",
+    "URL": "https://bio-fermen.bocsci.com/product/anthranilamide-1c-cas-207305-65-5-346595.html",
+    "Catalog": "BBF-00481"
+  },
+  {
+    "name": "Anthranilamide 1f",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/anthranilamide-1f-346596.html",
+    "Catalog": "BBF-00482"
+  },
+  {
+    "name": "Carbazomycinal",
+    "CAS": "103744-20-3",
+    "URL": "https://bio-fermen.bocsci.com/product/carbazomycinal-cas-103744-20-3-346598.html",
+    "Catalog": "BBF-00484"
+  },
+  {
+    "name": "Carbazomycin F",
+    "CAS": "103744-21-4",
+    "URL": "https://bio-fermen.bocsci.com/product/carbazomycin-f-cas-103744-21-4-346599.html",
+    "Catalog": "BBF-00485"
+  },
+  {
+    "name": "3-Benzyl-4-phenyl-2,5-furandione",
+    "CAS": "65641-17-0",
+    "URL": "https://bio-fermen.bocsci.com/product/3-benzyl-4-phenyl-2-5-furandione-cas-65641-17-0-346607.html",
+    "Catalog": "BBF-00493"
+  },
+  {
+    "name": "Chloropeptin I",
+    "CAS": "160219-64-7",
+    "URL": "https://bio-fermen.bocsci.com/product/chloropeptin-i-cas-160219-64-7-346434.html",
+    "Catalog": "BBF-00315"
+  },
+  {
+    "name": "Chloropeptin II",
+    "CAS": "69598-75-0",
+    "URL": "https://bio-fermen.bocsci.com/product/chloropeptin-ii-cas-69598-75-0-346435.html",
+    "Catalog": "BBF-00316"
+  },
+  {
+    "name": "4-Chlorothreonine",
+    "CAS": "142698-80-4",
+    "URL": "https://bio-fermen.bocsci.com/product/4-chlorothreonine-cas-142698-80-4-346439.html",
+    "Catalog": "BBF-00320"
+  },
+  {
+    "name": "Cochinmicin I",
+    "CAS": "143728-97-6",
+    "URL": "https://bio-fermen.bocsci.com/product/cochinmicin-i-cas-143728-97-6-346490.html",
+    "Catalog": "BBF-00374"
+  },
+  {
+    "name": "Cochinmicin II",
+    "CAS": "143728-98-7",
+    "URL": "https://bio-fermen.bocsci.com/product/cochinmicin-ii-cas-143728-98-7-346491.html",
+    "Catalog": "BBF-00375"
+  },
+  {
+    "name": "Cochinmicin III",
+    "CAS": "143728-99-8",
+    "URL": "https://bio-fermen.bocsci.com/product/cochinmicin-iii-cas-143728-99-8-346492.html",
+    "Catalog": "BBF-00376"
+  },
+  {
+    "name": "Cochinmicin IV",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/cochinmicin-iv-346493.html",
+    "Catalog": "BBF-00377"
+  },
+  {
+    "name": "Cochinmicin V",
+    "CAS": "146925-27-1",
+    "URL": "https://bio-fermen.bocsci.com/product/cochinmicin-v-cas-146925-27-1-346494.html",
+    "Catalog": "BBF-00378"
+  },
+  {
+    "name": "6-Hydroxytetrangulol",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/6-hydroxytetrangulol-348677.html",
+    "Catalog": "BBF-01029"
+  },
+  {
+    "name": "29-Demethoxyrapamycin",
+    "CAS": "85537-35-5",
+    "URL": "https://bio-fermen.bocsci.com/product/29-demethoxyrapamycin-cas-85537-35-5-348460.html",
+    "Catalog": "BBF-00811"
+  },
+  {
+    "name": "4''-Demethylgentamicin C1",
+    "CAS": "66322-28-9",
+    "URL": "https://bio-fermen.bocsci.com/product/4-demethylgentamicin-c1-cas-66322-28-9-348467.html",
+    "Catalog": "BBF-00818"
+  },
+  {
+    "name": "Etamycin B",
+    "CAS": "66002-40-2",
+    "URL": "https://bio-fermen.bocsci.com/product/etamycin-b-cas-66002-40-2-348524.html",
+    "Catalog": "BBF-00876"
+  },
+  {
+    "name": "3-Ethyl-1,3-dihydro-3-methoxy-2H-indol-2-one",
+    "CAS": "66424-33-7",
+    "URL": "https://bio-fermen.bocsci.com/product/3-ethyl-1-3-dihydro-3-methoxy-2h-indol-2-one-cas-66424-33-7-348525.html",
+    "Catalog": "BBF-00877"
+  },
+  {
+    "name": "Fattiviracin FV-4",
+    "CAS": "329969-79-1",
+    "URL": "https://bio-fermen.bocsci.com/product/fattiviracin-fv-4-cas-329969-79-1-348547.html",
+    "Catalog": "BBF-00899"
+  },
+  {
+    "name": "Fattiviracin FV-8",
+    "CAS": "329970-10-7",
+    "URL": "https://bio-fermen.bocsci.com/product/fattiviracin-fv-8-cas-329970-10-7-348548.html",
+    "Catalog": "BBF-00900"
+  },
+  {
+    "name": "Fattiviracin FV-9",
+    "CAS": "329970-12-9",
+    "URL": "https://bio-fermen.bocsci.com/product/fattiviracin-fv-9-cas-329970-12-9-348549.html",
+    "Catalog": "BBF-00901"
+  },
+  {
+    "name": "Fattiviracin FV-10",
+    "CAS": "329970-17-4",
+    "URL": "https://bio-fermen.bocsci.com/product/fattiviracin-fv-10-cas-329970-17-4-348550.html",
+    "Catalog": "BBF-00902"
+  },
+  {
+    "name": "Fattiviracin FV-13",
+    "CAS": "329970-18-5",
+    "URL": "https://bio-fermen.bocsci.com/product/fattiviracin-fv-13-cas-329970-18-5-348551.html",
+    "Catalog": "BBF-00903"
+  },
+  {
+    "name": "4''-Demethylgentamicin C1a",
+    "CAS": "61769-70-8",
+    "URL": "https://bio-fermen.bocsci.com/product/4-demethylgentamicin-c1a-cas-61769-70-8-348468.html",
+    "Catalog": "BBF-00819"
+  },
+  {
+    "name": "4''-Demethylgentamicin C2",
+    "CAS": "66277-10-9",
+    "URL": "https://bio-fermen.bocsci.com/product/4-demethylgentamicin-c2-cas-66277-10-9-348469.html",
+    "Catalog": "BBF-00820"
+  },
+  {
+    "name": "3'-O-Demethyl mutactimycin",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/3-o-demethyl-mutactimycin-348473.html",
+    "Catalog": "BBF-00824"
+  },
+  {
+    "name": "De-N-methylpamamycin-593A",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/de-n-methylpamamycin-593a-348477.html",
+    "Catalog": "BBF-00828"
+  },
+  {
+    "name": "Epoxyquinol C",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/epoxyquinol-c-348503.html",
+    "Catalog": "BBF-00855"
+  },
+  {
+    "name": "Epoxyquinomicin D",
+    "CAS": "200496-86-2",
+    "URL": "https://bio-fermen.bocsci.com/product/epoxyquinomicin-d-cas-200496-86-2-348507.html",
+    "Catalog": "BBF-00859"
+  },
+  {
+    "name": "Espicufolin",
+    "CAS": "182232-96-8",
+    "URL": "https://bio-fermen.bocsci.com/product/espicufolin-cas-182232-96-8-348519.html",
+    "Catalog": "BBF-00871"
+  },
+  {
+    "name": "Cornexistin",
+    "CAS": "123068-35-9",
+    "URL": "https://bio-fermen.bocsci.com/product/cornexistin-cas-123068-35-9-348709.html",
+    "Catalog": "BBF-01061"
+  },
+  {
+    "name": "N-Coronafacoylvaline",
+    "CAS": "91793-99-6",
+    "URL": "https://bio-fermen.bocsci.com/product/n-coronafacoylvaline-cas-91793-99-6-348710.html",
+    "Catalog": "BBF-01062"
+  },
+  {
+    "name": "Ferrocin B",
+    "CAS": "114562-40-2",
+    "URL": "https://bio-fermen.bocsci.com/product/ferrocin-b-cas-114562-40-2-348566.html",
+    "Catalog": "BBF-00918"
+  },
+  {
+    "name": "Ferrithiocin",
+    "CAS": "76082-64-9",
+    "URL": "https://bio-fermen.bocsci.com/product/ferrithiocin-cas-76082-64-9-348567.html",
+    "Catalog": "BBF-00919"
+  },
+  {
+    "name": "Feigrisolide C",
+    "CAS": "313949-18-7",
+    "URL": "https://bio-fermen.bocsci.com/product/feigrisolide-c-cas-313949-18-7-348555.html",
+    "Catalog": "BBF-00907"
+  },
+  {
+    "name": "Ferrichrome",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/ferrichrome-348560.html",
+    "Catalog": "BBF-00912"
+  },
+  {
+    "name": "Ferricrocin-iron",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/ferricrocin-iron-348562.html",
+    "Catalog": "BBF-00914"
+  },
+  {
+    "name": "Ferrichrysin [M-H2+Fe]",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/ferrichrysin-m-h2-fe-348563.html",
+    "Catalog": "BBF-00915"
+  },
+  {
+    "name": "Ferrocin A",
+    "CAS": "114550-08-2",
+    "URL": "https://bio-fermen.bocsci.com/product/ferrocin-a-cas-114550-08-2-348565.html",
+    "Catalog": "BBF-00917"
+  },
+  {
+    "name": "De-N-methylpamamycin-593B",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/de-n-methylpamamycin-593b-348478.html",
+    "Catalog": "BBF-00829"
+  },
+  {
+    "name": "Emestrin B",
+    "CAS": "107395-35-7",
+    "URL": "https://bio-fermen.bocsci.com/product/emestrin-b-cas-107395-35-7-348862.html",
+    "Catalog": "BBF-01216"
+  },
+  {
+    "name": "Herical",
+    "CAS": "291532-17-7",
+    "URL": "https://bio-fermen.bocsci.com/product/herical-cas-291532-17-7-348593.html",
+    "Catalog": "BBF-00945"
+  },
+  {
+    "name": "Erinacine A",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/erinacine-a-348594.html",
+    "Catalog": "BBF-00946"
+  },
+  {
+    "name": "Cotylenin F",
+    "CAS": "58045-03-7",
+    "URL": "https://bio-fermen.bocsci.com/product/cotylenin-f-cas-58045-03-7-348716.html",
+    "Catalog": "BBF-01068"
+  },
+  {
+    "name": "D-Alanine methyl ester",
+    "CAS": "21705-13-5",
+    "URL": "https://bio-fermen.bocsci.com/product/d-alanine-methyl-ester-cas-21705-13-5-348176.html",
+    "Catalog": "BBF-04687"
+  },
+  {
+    "name": "D-Arginine methyl ester",
+    "CAS": "65160-70-5",
+    "URL": "https://bio-fermen.bocsci.com/product/d-arginine-methyl-ester-cas-65160-70-5-348177.html",
+    "Catalog": "BBF-04689"
+  },
+  {
+    "name": "Dermocanarin 1",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/dermocanarin-1-349008.html",
+    "Catalog": "BBF-01364"
+  },
+  {
+    "name": "Destruxins A",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/destruxins-a-349012.html",
+    "Catalog": "BBF-01369"
+  },
+  {
+    "name": "Destruxins B",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/destruxins-b-349013.html",
+    "Catalog": "BBF-01370"
+  },
+  {
+    "name": "Destruxins C",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/destruxins-c-349014.html",
+    "Catalog": "BBF-01371"
+  },
+  {
+    "name": "Cycloleucomelone",
+    "CAS": "112209-48-0",
+    "URL": "https://bio-fermen.bocsci.com/product/cycloleucomelone-cas-112209-48-0-348760.html",
+    "Catalog": "BBF-01112"
+  },
+  {
+    "name": "Hexacyclinol",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/hexacyclinol-348599.html",
+    "Catalog": "BBF-00951"
+  },
+  {
+    "name": "Hexylitaconic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/hexylitaconic-acid-348600.html",
+    "Catalog": "BBF-00952"
+  },
+  {
+    "name": "Homomycin",
+    "CAS": "6379-56-2",
+    "URL": "https://bio-fermen.bocsci.com/product/homomycin-cas-6379-56-2-348617.html",
+    "Catalog": "BBF-00969"
+  },
+  {
+    "name": "2-Heptyl-3-hydroxy-4-(3H)-quinolinone",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/2-heptyl-3-hydroxy-4-3h-quinolinone-348984.html",
+    "Catalog": "BBF-01340"
+  },
+  {
+    "name": "Formobactin",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/formobactin-349076.html",
+    "Catalog": "BBF-01433"
+  },
+  {
+    "name": "Cystothiazole B",
+    "CAS": "207399-38-0",
+    "URL": "https://bio-fermen.bocsci.com/product/cystothiazole-b-cas-207399-38-0-348781.html",
+    "Catalog": "BBF-01133"
+  },
+  {
+    "name": "Hydantocidin",
+    "CAS": "130607-26-0",
+    "URL": "https://bio-fermen.bocsci.com/product/hydantocidin-cas-130607-26-0-348626.html",
+    "Catalog": "BBF-00978"
+  },
+  {
+    "name": "7-Hydro-8-methylpteroylglutamyl-glutamic acid",
+    "CAS": "108402-49-9",
+    "URL": "https://bio-fermen.bocsci.com/product/7-hydro-8-methylpteroylglutamyl-glutamic-cas-108402-49-9-348629.html",
+    "Catalog": "BBF-00981"
+  },
+  {
+    "name": "(+)-5'-Hydroxy-griseofulvin",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/5-hydroxy-griseofulvin-348650.html",
+    "Catalog": "BBF-01002"
+  },
+  {
+    "name": "1-Hydroxy-4-methoxy-2-naphthoic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/1-hydroxy-4-methoxy-2-naphthoic-acid-348657.html",
+    "Catalog": "BBF-01009"
+  },
+  {
+    "name": "Fusicoccin H",
+    "CAS": "50906-51-9",
+    "URL": "https://bio-fermen.bocsci.com/product/fusicoccin-h-cas-50906-51-9-349112.html",
+    "Catalog": "BBF-01469"
+  },
+  {
+    "name": "Goadsporin",
+    "CAS": "883434-90-0",
+    "URL": "https://bio-fermen.bocsci.com/product/goadsporin-cas-883434-90-0-348920.html",
+    "Catalog": "BBF-01274"
+  },
+  {
+    "name": "Fudecalone",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/fudecalone-349090.html",
+    "Catalog": "BBF-01447"
+  },
+  {
+    "name": "4(S),5(R)-Dihydroxydecanoic acid-4-lactone",
+    "CAS": "82309-34-0",
+    "URL": "https://bio-fermen.bocsci.com/product/4-s-5-r-dihydroxydecanoic-acid-4-lactone-cas-82309-34-0-348796.html",
+    "Catalog": "BBF-01148"
+  },
+  {
+    "name": "11-Hydroxynovobiocin",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/11-hydroxynovobiocin-348665.html",
+    "Catalog": "BBF-01017"
+  },
+  {
+    "name": "11-Keto-9(E),12(E)-octadecadienoic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/11-keto-9-e-12-e-octadecadienoic-acid-349179.html",
+    "Catalog": "BBF-01537"
+  },
+  {
+    "name": "Deoxyfusarubin",
+    "CAS": "132899-05-9",
+    "URL": "https://bio-fermen.bocsci.com/product/deoxyfusarubin-cas-132899-05-9-348990.html",
+    "Catalog": "BBF-01346"
+  },
+  {
+    "name": "7-Deoxyloganin",
+    "CAS": "26660-57-1",
+    "URL": "https://bio-fermen.bocsci.com/product/7-deoxyloganin-cas-26660-57-1-348993.html",
+    "Catalog": "BBF-01349"
+  },
+  {
+    "name": "Grevilline B",
+    "CAS": "41744-33-6",
+    "URL": "https://bio-fermen.bocsci.com/product/grevilline-b-cas-41744-33-6-348928.html",
+    "Catalog": "BBF-01282"
+  },
+  {
+    "name": "Grevilline C",
+    "CAS": "41744-34-7",
+    "URL": "https://bio-fermen.bocsci.com/product/grevilline-c-cas-41744-34-7-348929.html",
+    "Catalog": "BBF-01283"
+  },
+  {
+    "name": "Grevilline D",
+    "CAS": "54707-49-2",
+    "URL": "https://bio-fermen.bocsci.com/product/grevilline-d-cas-54707-49-2-348930.html",
+    "Catalog": "BBF-01284"
+  },
+  {
+    "name": "Drosophilin E",
+    "CAS": "505-87-3",
+    "URL": "https://bio-fermen.bocsci.com/product/drosophilin-e-cas-505-87-3-348824.html",
+    "Catalog": "BBF-01177"
+  },
+  {
+    "name": "Monorden E",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/monorden-e-349383.html",
+    "Catalog": "BBF-01961"
+  },
+  {
+    "name": "Zg",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/zg-349208.html",
+    "Catalog": "BBF-01566"
+  },
+  {
+    "name": "Zgg",
+    "CAS": "63972-29-2",
+    "URL": "https://bio-fermen.bocsci.com/product/zgg-cas-63972-29-2-349209.html",
+    "Catalog": "BBF-01567"
+  },
+  {
+    "name": "Indocarbazostatin",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/indocarbazostatin-349142.html",
+    "Catalog": "BBF-01500"
+  },
+  {
+    "name": "Irpexan",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/irpexan-349147.html",
+    "Catalog": "BBF-01505"
+  },
+  {
+    "name": "Isariin C",
+    "CAS": "80111-96-2",
+    "URL": "https://bio-fermen.bocsci.com/product/isariin-c-cas-80111-96-2-349149.html",
+    "Catalog": "BBF-01507"
+  },
+  {
+    "name": "Isariin D",
+    "CAS": "80111-97-3",
+    "URL": "https://bio-fermen.bocsci.com/product/isariin-d-cas-80111-97-3-349150.html",
+    "Catalog": "BBF-01508"
+  },
+  {
+    "name": "Halymecin D",
+    "CAS": "167173-83-3",
+    "URL": "https://bio-fermen.bocsci.com/product/halymecin-d-cas-167173-83-3-348963.html",
+    "Catalog": "BBF-01318"
+  },
+  {
+    "name": "Halymecin E",
+    "CAS": "167173-84-4",
+    "URL": "https://bio-fermen.bocsci.com/product/halymecin-e-cas-167173-84-4-348964.html",
+    "Catalog": "BBF-01319"
+  },
+  {
+    "name": "Gualamycin",
+    "CAS": "161017-23-8",
+    "URL": "https://bio-fermen.bocsci.com/product/gualamycin-cas-161017-23-8-348941.html",
+    "Catalog": "BBF-01295"
+  },
+  {
+    "name": "Halxazone",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/halxazone-348959.html",
+    "Catalog": "BBF-01314"
+  },
+  {
+    "name": "Halymecin B",
+    "CAS": "167173-81-1",
+    "URL": "https://bio-fermen.bocsci.com/product/halymecin-b-cas-167173-81-1-348961.html",
+    "Catalog": "BBF-01316"
+  },
+  {
+    "name": "Halymecin C",
+    "CAS": "167173-82-2",
+    "URL": "https://bio-fermen.bocsci.com/product/halymecin-c-cas-167173-82-2-348962.html",
+    "Catalog": "BBF-01317"
+  },
+  {
+    "name": "Promothiocin A",
+    "CAS": "156737-05-2",
+    "URL": "https://bio-fermen.bocsci.com/product/promothiocin-a-cas-156737-05-2-349486.html",
+    "Catalog": "BBF-02064"
+  },
+  {
+    "name": "Promothiocin B",
+    "CAS": "156737-06-3",
+    "URL": "https://bio-fermen.bocsci.com/product/promothiocin-b-cas-156737-06-3-349487.html",
+    "Catalog": "BBF-02065"
+  },
+  {
+    "name": "Pseudoalterobactin A",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/pseudoalterobactin-a-349491.html",
+    "Catalog": "BBF-02069"
+  },
+  {
+    "name": "(+)-quadrone",
+    "CAS": "87480-01-1",
+    "URL": "https://bio-fermen.bocsci.com/product/quadrone-cas-87480-01-1-349578.html",
+    "Catalog": "BBF-02159"
+  },
+  {
+    "name": "XR651",
+    "CAS": "189697-45-8",
+    "URL": "https://bio-fermen.bocsci.com/product/xr651-cas-189697-45-8-349317.html",
+    "Catalog": "BBF-01675"
+  },
+  {
+    "name": "Melleolide K",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/melleolide-k-349335.html",
+    "Catalog": "BBF-01913"
+  },
+  {
+    "name": "Melleolide L",
+    "CAS": "298702-67-7",
+    "URL": "https://bio-fermen.bocsci.com/product/melleolide-l-cas-298702-67-7-349336.html",
+    "Catalog": "BBF-01914"
+  },
+  {
+    "name": "Melleolide M",
+    "CAS": "264229-82-5",
+    "URL": "https://bio-fermen.bocsci.com/product/melleolide-m-cas-264229-82-5-349337.html",
+    "Catalog": "BBF-01915"
+  },
+  {
+    "name": "Memnopeptide",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/memnopeptide-349343.html",
+    "Catalog": "BBF-01921"
+  },
+  {
+    "name": "3-Methoxy-2,5-toluquinone",
+    "CAS": "611-68-7",
+    "URL": "https://bio-fermen.bocsci.com/product/3-methoxy-2-5-toluquinone-cas-611-68-7-349346.html",
+    "Catalog": "BBF-01924"
+  },
+  {
+    "name": "Neuroprotectin A",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/neuroprotectin-a-349542.html",
+    "Catalog": "BBF-02122"
+  },
+  {
+    "name": "Neuroprotectin B",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/neuroprotectin-b-349543.html",
+    "Catalog": "BBF-02123"
+  },
+  {
+    "name": "Plactin A",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/plactin-a-349449.html",
+    "Catalog": "BBF-02027"
+  },
+  {
+    "name": "Plactin B",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/plactin-b-349450.html",
+    "Catalog": "BBF-02028"
+  },
+  {
+    "name": "Plactin C",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/plactin-c-349451.html",
+    "Catalog": "BBF-02029"
+  },
+  {
+    "name": "Plactin D",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/plactin-d-349452.html",
+    "Catalog": "BBF-02030"
+  },
+  {
+    "name": "Myxin",
+    "CAS": "13925-12-7",
+    "URL": "https://bio-fermen.bocsci.com/product/myxin-cas-13925-12-7-349401.html",
+    "Catalog": "BBF-01979"
+  },
+  {
+    "name": "Naphthomycinol",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/naphthomycinol-349411.html",
+    "Catalog": "BBF-01989"
+  },
+  {
+    "name": "Epoxydeacetylcytochalasin H",
+    "CAS": "80618-95-7",
+    "URL": "https://bio-fermen.bocsci.com/product/epoxydeacetylcytochalasin-h-cas-80618-95-7-349425.html",
+    "Catalog": "BBF-02003"
+  },
+  {
+    "name": "Epoxycytochalasin H",
+    "CAS": "96639-05-3",
+    "URL": "https://bio-fermen.bocsci.com/product/epoxycytochalasin-h-cas-96639-05-3-349426.html",
+    "Catalog": "BBF-02004"
+  },
+  {
+    "name": "6'''-Deamino-6'''-hydroxyparomomycin II",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/6-deamino-6-hydroxyparomomycin-ii-349432.html",
+    "Catalog": "BBF-02010"
+  },
+  {
+    "name": "3'-Demethylstaurosporine",
+    "CAS": "161743-35-7",
+    "URL": "https://bio-fermen.bocsci.com/product/3-demethylstaurosporine-cas-161743-35-7-349440.html",
+    "Catalog": "BBF-02018"
+  },
+  {
+    "name": "Ferrocin C",
+    "CAS": "147736-85-4",
+    "URL": "https://bio-fermen.bocsci.com/product/ferrocin-c-cas-147736-85-4-349448.html",
+    "Catalog": "BBF-02026"
+  },
+  {
+    "name": "NG-011",
+    "CAS": "141731-75-1",
+    "URL": "https://bio-fermen.bocsci.com/product/ng-011-cas-141731-75-1-352797.html",
+    "Catalog": "BBF-03686"
+  },
+  {
+    "name": "NG-061",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/ng-061-352798.html",
+    "Catalog": "BBF-03687"
+  },
+  {
+    "name": "PF 1018",
+    "CAS": "131256-42-3",
+    "URL": "https://bio-fermen.bocsci.com/product/pf-1018-cas-131256-42-3-352187.html",
+    "Catalog": "BBF-03334"
+  },
+  {
+    "name": "GTRI-02",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/gtri-02-352698.html",
+    "Catalog": "BBF-03587"
+  },
+  {
+    "name": "Phenazostatin C",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/phenazostatin-c-349805.html",
+    "Catalog": "BBF-02388"
+  },
+  {
+    "name": "Phoenistatin",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/phoenistatin-349822.html",
+    "Catalog": "BBF-02405"
+  },
+  {
+    "name": "Phosmidosine C",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/phosmidosine-c-349831.html",
+    "Catalog": "BBF-02414"
+  },
+  {
+    "name": "Melanocin B",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/melanocin-b-349738.html",
+    "Catalog": "BBF-02320"
+  },
+  {
+    "name": "Melanocin C",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/melanocin-c-349739.html",
+    "Catalog": "BBF-02321"
+  },
+  {
+    "name": "Louisianin B",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/louisianin-b-349690.html",
+    "Catalog": "BBF-02272"
+  },
+  {
+    "name": "Louisianin C",
+    "CAS": "171784-05-7",
+    "URL": "https://bio-fermen.bocsci.com/product/louisianin-c-cas-171784-05-7-349691.html",
+    "Catalog": "BBF-02273"
+  },
+  {
+    "name": "Louisianin D",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/louisianin-d-349692.html",
+    "Catalog": "BBF-02274"
+  },
+  {
+    "name": "Pseudoalterobactin B",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/pseudoalterobactin-b-349492.html",
+    "Catalog": "BBF-02070"
+  },
+  {
+    "name": "Pteridic acid A",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/pteridic-acid-a-349493.html",
+    "Catalog": "BBF-02071"
+  },
+  {
+    "name": "Phenazostatin A",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/phenazostatin-a-349803.html",
+    "Catalog": "BBF-02386"
+  },
+  {
+    "name": "Phenazostatin B",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/phenazostatin-b-349804.html",
+    "Catalog": "BBF-02387"
+  },
+  {
+    "name": "Lavanduquinocin",
+    "CAS": "167114-85-4",
+    "URL": "https://bio-fermen.bocsci.com/product/lavanduquinocin-cas-167114-85-4-349660.html",
+    "Catalog": "BBF-02242"
+  },
+  {
+    "name": "Lichenysin G",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/lichenysin-g-349679.html",
+    "Catalog": "BBF-02261"
+  },
+  {
+    "name": "Roseocardin",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/roseocardin-349626.html",
+    "Catalog": "BBF-02208"
+  },
+  {
+    "name": "Rumbrin",
+    "CAS": "148528-19-2",
+    "URL": "https://bio-fermen.bocsci.com/product/rumbrin-cas-148528-19-2-349634.html",
+    "Catalog": "BBF-02216"
+  },
+  {
+    "name": "Lactosillan",
+    "CAS": "83712-86-1",
+    "URL": "https://bio-fermen.bocsci.com/product/lactosillan-cas-83712-86-1-349659.html",
+    "Catalog": "BBF-02241"
+  },
+  {
+    "name": "Pacidamycin 5T",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/pacidamycin-5t-349757.html",
+    "Catalog": "BBF-02339"
+  },
+  {
+    "name": "SF 2446A3",
+    "CAS": "115834-24-7",
+    "URL": "https://bio-fermen.bocsci.com/product/sf-2446a3-cas-115834-24-7-349873.html",
+    "Catalog": "BBF-02456"
+  },
+  {
+    "name": "SF 2446B2",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/sf-2446b2-349875.html",
+    "Catalog": "BBF-02458"
+  },
+  {
+    "name": "Tetrocarcin E1",
+    "CAS": "82925-71-1",
+    "URL": "https://bio-fermen.bocsci.com/product/tetrocarcin-e1-cas-82925-71-1-351968.html",
+    "Catalog": "BBF-03112"
+  },
+  {
+    "name": "Streptocidin C",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/streptocidin-c-351921.html",
+    "Catalog": "BBF-03065"
+  },
+  {
+    "name": "Staplabin",
+    "CAS": "183006-79-3",
+    "URL": "https://bio-fermen.bocsci.com/product/staplabin-cas-183006-79-3-351916.html",
+    "Catalog": "BBF-03060"
+  },
+  {
+    "name": "Strobilurin B",
+    "CAS": "65105-52-4",
+    "URL": "https://bio-fermen.bocsci.com/product/strobilurin-b-cas-65105-52-4-351935.html",
+    "Catalog": "BBF-03079"
+  },
+  {
+    "name": "Strobilurin C",
+    "CAS": "87081-57-0",
+    "URL": "https://bio-fermen.bocsci.com/product/strobilurin-c-cas-87081-57-0-351936.html",
+    "Catalog": "BBF-03080"
+  },
+  {
+    "name": "Trichostatin D",
+    "CAS": "157479-37-3",
+    "URL": "https://bio-fermen.bocsci.com/product/trichostatin-d-cas-157479-37-3-351569.html",
+    "Catalog": "BBF-02711"
+  },
+  {
+    "name": "BLP-1654",
+    "CAS": "28889-87-4",
+    "URL": "https://bio-fermen.bocsci.com/product/blp-1654-cas-28889-87-4-352101.html",
+    "Catalog": "BBF-03247"
+  },
+  {
+    "name": "Ferrocin D",
+    "CAS": "147783-00-4",
+    "URL": "https://bio-fermen.bocsci.com/product/ferrocin-d-cas-147783-00-4-352125.html",
+    "Catalog": "BBF-03271"
+  },
+  {
+    "name": "Ferrioxamine B [M+Fe-2H]",
+    "CAS": "14836-73-8",
+    "URL": "https://bio-fermen.bocsci.com/product/ferrioxamine-b-m-fe-2h-cas-14836-73-8-352126.html",
+    "Catalog": "BBF-03272"
+  },
+  {
+    "name": "γ-Hydroxymevinolin",
+    "CAS": "125638-72-4",
+    "URL": "https://bio-fermen.bocsci.com/product/hydroxymevinolin-cas-125638-72-4-352131.html",
+    "Catalog": "BBF-03277"
+  },
+  {
+    "name": "Parvisporin",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/parvisporin-351813.html",
+    "Catalog": "BBF-02956"
+  },
+  {
+    "name": "Vicenistatin M",
+    "CAS": "312532-50-6",
+    "URL": "https://bio-fermen.bocsci.com/product/vicenistatin-m-cas-312532-50-6-351817.html",
+    "Catalog": "BBF-02960"
+  },
+  {
+    "name": "Scytalol B",
+    "CAS": "208183-20-4",
+    "URL": "https://bio-fermen.bocsci.com/product/scytalol-b-cas-208183-20-4-351750.html",
+    "Catalog": "BBF-02892"
+  },
+  {
+    "name": "Scytalol C",
+    "CAS": "208183-22-6",
+    "URL": "https://bio-fermen.bocsci.com/product/scytalol-c-cas-208183-22-6-351751.html",
+    "Catalog": "BBF-02893"
+  },
+  {
+    "name": "Tetrocarcin E2",
+    "CAS": "83259-66-9",
+    "URL": "https://bio-fermen.bocsci.com/product/tetrocarcin-e2-cas-83259-66-9-351969.html",
+    "Catalog": "BBF-03113"
+  },
+  {
+    "name": "Tetrocarcin F1",
+    "CAS": "81319-50-8",
+    "URL": "https://bio-fermen.bocsci.com/product/tetrocarcin-f1-cas-81319-50-8-351971.html",
+    "Catalog": "BBF-03115"
+  },
+  {
+    "name": "A-53930 A",
+    "CAS": "182410-79-3",
+    "URL": "https://bio-fermen.bocsci.com/product/a-53930-a-cas-182410-79-3-352007.html",
+    "Catalog": "BBF-03152"
+  },
+  {
+    "name": "AB-400",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/ab-400-352044.html",
+    "Catalog": "BBF-03189"
+  },
+  {
+    "name": "AB 5046 A",
+    "CAS": "154037-62-4",
+    "URL": "https://bio-fermen.bocsci.com/product/ab-5046-a-cas-154037-62-4-352046.html",
+    "Catalog": "BBF-03191"
+  },
+  {
+    "name": "AB 5046 B",
+    "CAS": "154037-63-5",
+    "URL": "https://bio-fermen.bocsci.com/product/ab-5046-b-cas-154037-63-5-352047.html",
+    "Catalog": "BBF-03192"
+  },
+  {
+    "name": "NK374200",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/nk374200-352153.html",
+    "Catalog": "BBF-03300"
+  },
+  {
+    "name": "Clonostachin",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/clonostachin-79132.html",
+    "Catalog": "BBF-03722"
+  },
+  {
+    "name": "Callosobruchusic acid",
+    "CAS": "87172-91-6",
+    "URL": "https://bio-fermen.bocsci.com/product/callosobruchusic-acid-cas-87172-91-6-79583.html",
+    "Catalog": "BBF-04676"
+  },
+  {
+    "name": "Bacitracin F, copper deriv.",
+    "CAS": "85800-09-5",
+    "URL": "https://bio-fermen.bocsci.com/product/bacitracin-f-copper-deriv-cas-85800-09-5-78835.html",
+    "Catalog": "BBF-04673"
+  },
+  {
+    "name": "6-Ethoxyethyl-5-hydroxy-2,7-dime-thoxy-1,4-naphtoquinone",
+    "CAS": "86343-22-8",
+    "URL": "https://bio-fermen.bocsci.com/product/6-ethoxyethyl-5-hydroxy-2-7-dime-thoxy-1-4-cas-86343-22-8-75857.html",
+    "Catalog": "BBF-03721"
+  },
+  {
+    "name": "β-Carboline-1-carboxylic acid",
+    "CAS": "26052-96-0",
+    "URL": "https://bio-fermen.bocsci.com/product/carboline-1-carboxylic-acid-cas-26052-96-0-90754.html",
+    "Catalog": "BBF-04677"
+  },
+  {
+    "name": "7-Demethylnaphterpin",
+    "CAS": "137109-43-4",
+    "URL": "https://bio-fermen.bocsci.com/product/7-demethylnaphterpin-cas-137109-43-4-71497.html",
+    "Catalog": "BBF-03720"
+  },
+  {
+    "name": "Chaetoviridin A",
+    "CAS": "128252-98-2",
+    "URL": "https://bio-fermen.bocsci.com/product/chaetoviridin-a-cas-128252-98-2-117360.html",
+    "Catalog": "BBF-04679"
+  },
+  {
+    "name": "Carnaubadiol",
+    "CAS": "4547-30-2",
+    "URL": "https://bio-fermen.bocsci.com/product/carnaubadiol-cas-4547-30-2-104877.html",
+    "Catalog": "BBF-04678"
+  },
+  {
+    "name": "(S)-4-Benzamido-5-hydroxypentanoic acid",
+    "CAS": "1053648-94-4",
+    "URL": "https://bio-fermen.bocsci.com/product/s-4-benzamido-5-hydroxypentanoic-acid-cas-1053648-94-4-3949.html",
+    "Catalog": "BBF-04661"
+  },
+  {
+    "name": "5-Chloro-D-tryptophan",
+    "CAS": "55325-48-9",
+    "URL": "https://bio-fermen.bocsci.com/product/5-chloro-d-tryptophan-cas-55325-48-9-7360.html",
+    "Catalog": "BBF-04664"
+  },
+  {
+    "name": "Ergocristine",
+    "CAS": "511-08-0",
+    "URL": "https://bio-fermen.bocsci.com/product/ergocristine-cas-511-08-0-37850.html",
+    "Catalog": "BBF-05789"
+  },
+  {
+    "name": "UK-80694",
+    "CAS": "127346-84-3",
+    "URL": "https://bio-fermen.bocsci.com/product/uk-80694-cas-127346-84-3-38693.html",
+    "Catalog": "BBF-03713"
+  },
+  {
+    "name": "Bioxanthracene",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/bioxanthracene-41673.html",
+    "Catalog": "BBF-00149"
+  },
+  {
+    "name": "Alternapyrone",
+    "CAS": "676340-02-6",
+    "URL": "https://bio-fermen.bocsci.com/product/alternapyrone-cas-676340-02-6-29497.html",
+    "Catalog": "BBF-04667"
+  },
+  {
+    "name": "Alphitonin",
+    "CAS": "493-36-7",
+    "URL": "https://bio-fermen.bocsci.com/product/alphitonin-cas-493-36-7-24397.html",
+    "Catalog": "BBF-04666"
+  },
+  {
+    "name": "Hybocarpone",
+    "CAS": "245063-71-2",
+    "URL": "https://bio-fermen.bocsci.com/product/hybocarpone-cas-245063-71-2-51926.html",
+    "Catalog": "BBF-05093"
+  },
+  {
+    "name": "Phenazine, 2-methoxy",
+    "CAS": "2876-18-8",
+    "URL": "https://bio-fermen.bocsci.com/product/phenazine-2-methoxy-cas-2876-18-8-51954.html",
+    "Catalog": "BBF-05119"
+  },
+  {
+    "name": "D-Lysine methyl ester",
+    "CAS": "42807-32-9",
+    "URL": "https://bio-fermen.bocsci.com/product/d-lysine-methyl-ester-cas-42807-32-9-51603.html",
+    "Catalog": "BBF-04708"
+  },
+  {
+    "name": "D-Lysinol",
+    "CAS": "1313054-89-5",
+    "URL": "https://bio-fermen.bocsci.com/product/d-lysinol-cas-1313054-89-5-51604.html",
+    "Catalog": "BBF-04709"
+  },
+  {
+    "name": "Drimendiol",
+    "CAS": "34437-62-2",
+    "URL": "https://bio-fermen.bocsci.com/product/drimendiol-cas-34437-62-2-51607.html",
+    "Catalog": "BBF-04714"
+  },
+  {
+    "name": "1,8-Cyclotetradecadiene-1-carboxylic acid, 5-(hydroxymethyl)-12-(1-hydroxy-1-methylethyl)-9-methyl-, methyl ester, [5S-(5R*,8Z,12S*)]-",
+    "CAS": "154538-48-4",
+    "URL": "https://bio-fermen.bocsci.com/product/1-8-cyclotetradecadiene-1-carboxylic-acid-5-cas-154538-48-4-51771.html",
+    "Catalog": "BBF-04974"
+  },
+  {
+    "name": "Isonorlobaridone",
+    "CAS": "155214-63-4",
+    "URL": "https://bio-fermen.bocsci.com/product/isonorlobaridone-cas-155214-63-4-51773.html",
+    "Catalog": "BBF-04979"
+  },
+  {
+    "name": "19,20-Epoxycytochalsin Q",
+    "CAS": "156098-31-6",
+    "URL": "https://bio-fermen.bocsci.com/product/19-20-epoxycytochalsin-q-cas-156098-31-6-51775.html",
+    "Catalog": "BBF-04980"
+  },
+  {
+    "name": "Caperatic acid",
+    "CAS": "29227-64-3",
+    "URL": "https://bio-fermen.bocsci.com/product/caperatic-acid-cas-29227-64-3-51960.html",
+    "Catalog": "BBF-05122"
+  },
+  {
+    "name": "(S)-4-Acetamido-5-hydroxypentanoic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/s-4-acetamido-5-hydroxypentanoic-acid-51624.html",
+    "Catalog": "BBF-04764"
+  },
+  {
+    "name": "N-Acetyl-L-methioninol",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/n-acetyl-l-methioninol-51625.html",
+    "Catalog": "BBF-04768"
+  },
+  {
+    "name": "2,3-Dihydroxy-4-methoxycinnamic acid",
+    "CAS": "205688-49-9",
+    "URL": "https://bio-fermen.bocsci.com/product/2-3-dihydroxy-4-methoxycinnamic-acid-cas-205688-49-9-51629.html",
+    "Catalog": "BBF-04795"
+  },
+  {
+    "name": "L-Asparagine methyl ester",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/l-asparagine-methyl-ester-51630.html",
+    "Catalog": "BBF-04796"
+  },
+  {
+    "name": "N-Benzoyl-L-aspartic acid",
+    "CAS": "17966-68-6",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoyl-l-aspartic-acid-cas-17966-68-6-51631.html",
+    "Catalog": "BBF-04798"
+  },
+  {
+    "name": "2'-O-Methylsuperlatolic acid",
+    "CAS": "108544-38-3",
+    "URL": "https://bio-fermen.bocsci.com/product/2-o-methylsuperlatolic-acid-cas-108544-38-3-51632.html",
+    "Catalog": "BBF-04800"
+  },
+  {
+    "name": "4-Hydroxypulvinic dilactone",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/4-hydroxypulvinic-dilactone-51636.html",
+    "Catalog": "BBF-04803"
+  },
+  {
+    "name": "2-Chlorolichexanthone",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/2-chlorolichexanthone-51637.html",
+    "Catalog": "BBF-04809"
+  },
+  {
+    "name": "5-Chlorolichexanthone",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/5-chlorolichexanthone-51640.html",
+    "Catalog": "BBF-04813"
+  },
+  {
+    "name": "Cyclopentanone, 2-(5-bromo-2-methoxy-4-methylphenyl)-2-methyl-",
+    "CAS": "23963-91-9",
+    "URL": "https://bio-fermen.bocsci.com/product/cyclopentanone-2-5-bromo-2-methoxy-4-methylphenyl-cas-23963-91-9-51887.html",
+    "Catalog": "BBF-05087"
+  },
+  {
+    "name": "Arginyl-glycine",
+    "CAS": "2418-67-9",
+    "URL": "https://bio-fermen.bocsci.com/product/arginyl-glycine-cas-2418-67-9-51892.html",
+    "Catalog": "BBF-05088"
+  },
+  {
+    "name": "5,6-dibromo-2-(1,1-dimethylethyl)-2-cyclohexene-1,4-dione",
+    "CAS": "24197-48-6",
+    "URL": "https://bio-fermen.bocsci.com/product/5-6-dibromo-2-1-1-dimethylethyl-2-cyclohexene-cas-24197-48-6-51910.html",
+    "Catalog": "BBF-05089"
+  },
+  {
+    "name": "2,7-Oxepindione, 3,5-bis(1,1-dimethylethyl)-",
+    "CAS": "24289-60-9",
+    "URL": "https://bio-fermen.bocsci.com/product/2-7-oxepindione-3-5-bis-1-1-dimethylethyl-cas-24289-60-9-51923.html",
+    "Catalog": "BBF-05092"
+  },
+  {
+    "name": "D-Aspartamide",
+    "CAS": "114818-26-7",
+    "URL": "https://bio-fermen.bocsci.com/product/d-aspartamide-cas-114818-26-7-51595.html",
+    "Catalog": "BBF-04691"
+  },
+  {
+    "name": "D-Isoleucinamide",
+    "CAS": "374629-86-4",
+    "URL": "https://bio-fermen.bocsci.com/product/d-isoleucinamide-cas-374629-86-4-51598.html",
+    "Catalog": "BBF-04703"
+  },
+  {
+    "name": "Coronopilin",
+    "CAS": "2571-81-5",
+    "URL": "https://bio-fermen.bocsci.com/product/coronopilin-cas-2571-81-5-51934.html",
+    "Catalog": "BBF-05102"
+  },
+  {
+    "name": "Cryptothamnolic acid",
+    "CAS": "258862-16-7",
+    "URL": "https://bio-fermen.bocsci.com/product/cryptothamnolic-acid-cas-258862-16-7-51941.html",
+    "Catalog": "BBF-05104"
+  },
+  {
+    "name": "D-Tryptophanamide",
+    "CAS": "38689-24-6",
+    "URL": "https://bio-fermen.bocsci.com/product/d-tryptophanamide-cas-38689-24-6-51608.html",
+    "Catalog": "BBF-04719"
+  },
+  {
+    "name": "Evoxanthine",
+    "CAS": "477-82-7",
+    "URL": "https://bio-fermen.bocsci.com/product/evoxanthine-cas-477-82-7-51609.html",
+    "Catalog": "BBF-04725"
+  },
+  {
+    "name": "Himandridine",
+    "CAS": "15521-76-3",
+    "URL": "https://bio-fermen.bocsci.com/product/himandridine-cas-15521-76-3-51611.html",
+    "Catalog": "BBF-04728"
+  },
+  {
+    "name": "L-Lysinamide",
+    "CAS": "32388-19-5",
+    "URL": "https://bio-fermen.bocsci.com/product/l-lysinamide-cas-32388-19-5-51616.html",
+    "Catalog": "BBF-04749"
+  },
+  {
+    "name": "Methyl piliformate",
+    "CAS": "898221-37-9",
+    "URL": "https://bio-fermen.bocsci.com/product/methyl-piliformate-cas-898221-37-9-51622.html",
+    "Catalog": "BBF-04763"
+  },
+  {
+    "name": "Glutamyl-glutamine",
+    "CAS": "26848-14-6",
+    "URL": "https://bio-fermen.bocsci.com/product/glutamyl-glutamine-cas-26848-14-6-51946.html",
+    "Catalog": "BBF-05111"
+  },
+  {
+    "name": "Subsekikaic acid",
+    "CAS": "132396-94-2",
+    "URL": "https://bio-fermen.bocsci.com/product/subsekikaic-acid-cas-132396-94-2-51721.html",
+    "Catalog": "BBF-04931"
+  },
+  {
+    "name": "Tyrosyl-serine",
+    "CAS": "13588-99-3",
+    "URL": "https://bio-fermen.bocsci.com/product/tyrosyl-serine-cas-13588-99-3-51727.html",
+    "Catalog": "BBF-04942"
+  },
+  {
+    "name": "Aspergillumarin",
+    "CAS": "1392495-06-5",
+    "URL": "https://bio-fermen.bocsci.com/product/aspergillumarin-cas-1392495-06-5-51738.html",
+    "Catalog": "BBF-04944"
+  },
+  {
+    "name": "[3S-[3α,3aα,7α,8α(E),8aβ]]-2,3,4,7,8,8a-Hexahydro-8-(5-methoxy-4-methyl-5-oxo-3-pentenyl)-6,8-dimethyl-1H-3a,7-methanoazulene-3-carboxylic acid",
+    "CAS": "145631-63-6",
+    "URL": "https://bio-fermen.bocsci.com/product/3s-3-3a-7-8-e-8a-2-3-4-7-8-8a-hexahydro-8-5-cas-145631-63-6-51739.html",
+    "Catalog": "BBF-04949"
+  },
+  {
+    "name": "Subconfluentic acid",
+    "CAS": "108548-74-9",
+    "URL": "https://bio-fermen.bocsci.com/product/subconfluentic-acid-cas-108548-74-9-51715.html",
+    "Catalog": "BBF-04900"
+  },
+  {
+    "name": "Insignin",
+    "CAS": "108598-79-4",
+    "URL": "https://bio-fermen.bocsci.com/product/insignin-cas-108598-79-4-51716.html",
+    "Catalog": "BBF-04901"
+  },
+  {
+    "name": "Dregamine",
+    "CAS": "2299-26-5",
+    "URL": "https://bio-fermen.bocsci.com/product/dregamine-cas-2299-26-5-51875.html",
+    "Catalog": "BBF-05079"
+  },
+  {
+    "name": "Griseoxanthone B",
+    "CAS": "2305686-01-3",
+    "URL": "https://bio-fermen.bocsci.com/product/griseoxanthone-b-cas-2305686-01-3-51876.html",
+    "Catalog": "BBF-05080"
+  },
+  {
+    "name": "Threonyl-lysine",
+    "CAS": "23161-31-1",
+    "URL": "https://bio-fermen.bocsci.com/product/threonyl-lysine-cas-23161-31-1-51877.html",
+    "Catalog": "BBF-05081"
+  },
+  {
+    "name": "gamma-Glutamyl-isoleucine",
+    "CAS": "23632-83-9",
+    "URL": "https://bio-fermen.bocsci.com/product/gamma-glutamyl-isoleucine-cas-23632-83-9-51878.html",
+    "Catalog": "BBF-05085"
+  },
+  {
+    "name": "Hopane-7beta,22-diol",
+    "CAS": "13416-66-5",
+    "URL": "https://bio-fermen.bocsci.com/product/hopane-7beta-22-diol-cas-13416-66-5-51724.html",
+    "Catalog": "BBF-04936"
+  },
+  {
+    "name": "2,2'-Di-O-Methylstenosporic acid",
+    "CAS": "148238-66-8",
+    "URL": "https://bio-fermen.bocsci.com/product/2-2-di-o-methylstenosporic-acid-cas-148238-66-8-51744.html",
+    "Catalog": "BBF-04956"
+  },
+  {
+    "name": "2-Heptenoic acid, 6-(9-hydroxy-4,8-dimethylspiro[4.5]dec-7-en-1-yl)-2-methyl-, [1R-[1α(2E,6R*),4β,5β(S*)]]-",
+    "CAS": "151310-22-4",
+    "URL": "https://bio-fermen.bocsci.com/product/2-heptenoic-acid-6-9-hydroxy-4-8-dimethylspiro-cas-151310-22-4-51758.html",
+    "Catalog": "BBF-04968"
+  },
+  {
+    "name": "2-Heptenoic acid, 6-(9-hydroxy-4,8-dimethylspiro[4.5]dec-7-en-1-yl)-2-methyl-, methyl ester, [1R-[1α(2E,6R*),4β,5β(S*)]]-",
+    "CAS": "151310-23-5",
+    "URL": "https://bio-fermen.bocsci.com/product/2-heptenoic-acid-6-9-hydroxy-4-8-dimethylspiro-cas-151310-23-5-51760.html",
+    "Catalog": "BBF-04969"
+  },
+  {
+    "name": "Hypostrepsilic acid",
+    "CAS": "154160-67-5",
+    "URL": "https://bio-fermen.bocsci.com/product/hypostrepsilic-acid-cas-154160-67-5-51764.html",
+    "Catalog": "BBF-04972"
+  },
+  {
+    "name": "Methyl 3-alpha-hydroxybarbatate",
+    "CAS": "148238-74-8",
+    "URL": "https://bio-fermen.bocsci.com/product/methyl-3-alpha-hydroxybarbatate-cas-148238-74-8-51748.html",
+    "Catalog": "BBF-04957"
+  },
+  {
+    "name": "5,7,3',4',5'-penthydroxy-3-methoxy flavone",
+    "CAS": "1486-67-5",
+    "URL": "https://bio-fermen.bocsci.com/product/5-7-3-4-5-penthydroxy-3-methoxy-flavone-cas-1486-67-5-51752.html",
+    "Catalog": "BBF-04958"
+  },
+  {
+    "name": "Spiro[4.5]dec-7-ene-1-hexanoic acid, 9-hydroxy-α,ε,4,8-tetramethyl-, [1R-[1α(αS*,εR*),4β,5β(S*)]]-",
+    "CAS": "151310-20-2",
+    "URL": "https://bio-fermen.bocsci.com/product/spiro-4-5-dec-7-ene-1-hexanoic-acid-9-hydroxy-cas-151310-20-2-51755.html",
+    "Catalog": "BBF-04967"
+  },
+  {
+    "name": "2-O-Acetyltenuiorin",
+    "CAS": "61035-69-6",
+    "URL": "https://bio-fermen.bocsci.com/product/2-o-acetyltenuiorin-cas-61035-69-6-52380.html",
+    "Catalog": "BBF-05485"
+  },
+  {
+    "name": "Lupan-3β,16β,28-triol",
+    "CAS": "61229-19-4",
+    "URL": "https://bio-fermen.bocsci.com/product/lupan-3-16-28-triol-cas-61229-19-4-52411.html",
+    "Catalog": "BBF-05489"
+  },
+  {
+    "name": "Phenylalanyl-lysine",
+    "CAS": "6456-72-0",
+    "URL": "https://bio-fermen.bocsci.com/product/phenylalanyl-lysine-cas-6456-72-0-52664.html",
+    "Catalog": "BBF-05509"
+  },
+  {
+    "name": "3-Epi-Radicinol",
+    "CAS": "65700-75-6",
+    "URL": "https://bio-fermen.bocsci.com/product/3-epi-radicinol-cas-65700-75-6-52666.html",
+    "Catalog": "BBF-05519"
+  },
+  {
+    "name": "3-Chloroperlatolic acid",
+    "CAS": "120091-97-6",
+    "URL": "https://bio-fermen.bocsci.com/product/3-chloroperlatolic-acid-cas-120091-97-6-52160.html",
+    "Catalog": "BBF-05314"
+  },
+  {
+    "name": "Debromomarinone",
+    "CAS": "2378288-00-5",
+    "URL": "https://bio-fermen.bocsci.com/product/debromomarinone-cas-2378288-00-5-51879.html",
+    "Catalog": "BBF-05086"
+  },
+  {
+    "name": "Pannaric acid",
+    "CAS": "479-46-9",
+    "URL": "https://bio-fermen.bocsci.com/product/pannaric-acid-cas-479-46-9-52214.html",
+    "Catalog": "BBF-05403"
+  },
+  {
+    "name": "Methyl barbatate",
+    "CAS": "5014-22-2",
+    "URL": "https://bio-fermen.bocsci.com/product/methyl-barbatate-cas-5014-22-2-52217.html",
+    "Catalog": "BBF-05415"
+  },
+  {
+    "name": "Auroglaucin",
+    "CAS": "41451-81-4",
+    "URL": "https://bio-fermen.bocsci.com/product/auroglaucin-cas-41451-81-4-52194.html",
+    "Catalog": "BBF-05384"
+  },
+  {
+    "name": "L-Aspartyl-L-Proline",
+    "CAS": "42155-95-3",
+    "URL": "https://bio-fermen.bocsci.com/product/l-aspartyl-l-proline-cas-42155-95-3-52202.html",
+    "Catalog": "BBF-05386"
+  },
+  {
+    "name": "Asparaginyl-isoleucine",
+    "CAS": "438533-59-6",
+    "URL": "https://bio-fermen.bocsci.com/product/asparaginyl-isoleucine-cas-438533-59-6-52209.html",
+    "Catalog": "BBF-05393"
+  },
+  {
+    "name": "N-Benzoyl-D-glutamine",
+    "CAS": "294856-87-4",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoyl-d-glutamine-cas-294856-87-4-52060.html",
+    "Catalog": "BBF-05199"
+  },
+  {
+    "name": "N-Acetyl-L-leucinol",
+    "CAS": "35593-66-9",
+    "URL": "https://bio-fermen.bocsci.com/product/n-acetyl-l-leucinol-cas-35593-66-9-52042.html",
+    "Catalog": "BBF-05187"
+  },
+  {
+    "name": "N-Acetyl-L-valinol",
+    "CAS": "35593-71-6",
+    "URL": "https://bio-fermen.bocsci.com/product/n-acetyl-l-valinol-cas-35593-71-6-52043.html",
+    "Catalog": "BBF-05192"
+  },
+  {
+    "name": "N-Benzoyl-D-asparagine",
+    "CAS": "294856-84-1",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoyl-d-asparagine-cas-294856-84-1-52051.html",
+    "Catalog": "BBF-05196"
+  },
+  {
+    "name": "2,5-Di-O-Methylhiascic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/2-5-di-o-methylhiascic-acid-52149.html",
+    "Catalog": "BBF-05313"
+  },
+  {
+    "name": "5,7-Dichloro-3-O-methylnorlichexanthone",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/5-7-dichloro-3-o-methylnorlichexanthone-51660.html",
+    "Catalog": "BBF-04849"
+  },
+  {
+    "name": "2-O-Methylhyperlatolic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/2-o-methylhyperlatolic-acid-51661.html",
+    "Catalog": "BBF-04854"
+  },
+  {
+    "name": "Kaur-16-ene-3,18-diol, (3α,4α)-",
+    "CAS": "18524-59-9",
+    "URL": "https://bio-fermen.bocsci.com/product/kaur-16-ene-3-18-diol-3-4-cas-18524-59-9-51822.html",
+    "Catalog": "BBF-05015"
+  },
+  {
+    "name": "4-O-Methyldiploicin",
+    "CAS": "19314-80-8",
+    "URL": "https://bio-fermen.bocsci.com/product/4-o-methyldiploicin-cas-19314-80-8-51823.html",
+    "Catalog": "BBF-05023"
+  },
+  {
+    "name": "Roccellaric acid",
+    "CAS": "19464-85-8",
+    "URL": "https://bio-fermen.bocsci.com/product/roccellaric-acid-cas-19464-85-8-51828.html",
+    "Catalog": "BBF-05031"
+  },
+  {
+    "name": "Kaurane-3α,16,17,18-tetrol, cyclic 3,18:16,17-diacetal with acetone, (-)-",
+    "CAS": "19891-45-3",
+    "URL": "https://bio-fermen.bocsci.com/product/kaurane-3-16-17-18-tetrol-cyclic-3-18-16-17-cas-19891-45-3-51834.html",
+    "Catalog": "BBF-05036"
+  },
+  {
+    "name": "Lysyl-asparagine",
+    "CAS": "19908-06-6",
+    "URL": "https://bio-fermen.bocsci.com/product/lysyl-asparagine-cas-19908-06-6-51843.html",
+    "Catalog": "BBF-05038"
+  },
+  {
+    "name": "N-Acetyl-L-alaninol",
+    "CAS": "35593-62-5",
+    "URL": "https://bio-fermen.bocsci.com/product/n-acetyl-l-alaninol-cas-35593-62-5-52030.html",
+    "Catalog": "BBF-05184"
+  },
+  {
+    "name": "Kauran-18-oic acid, 12α,17-dihydroxy-, methyl ester, (-)-, 16βH-",
+    "CAS": "20108-26-3",
+    "URL": "https://bio-fermen.bocsci.com/product/kauran-18-oic-acid-12-17-dihydroxy-methyl-ester-cas-20108-26-3-51846.html",
+    "Catalog": "BBF-05042"
+  },
+  {
+    "name": "Glutamyl-histidine",
+    "CAS": "21435-29-0",
+    "URL": "https://bio-fermen.bocsci.com/product/glutamyl-histidine-cas-21435-29-0-51848.html",
+    "Catalog": "BBF-05052"
+  },
+  {
+    "name": "Loxodin",
+    "CAS": "29813-50-1",
+    "URL": "https://bio-fermen.bocsci.com/product/loxodin-cas-29813-50-1-51964.html",
+    "Catalog": "BBF-05124"
+  },
+  {
+    "name": "Dehydrorabelomycin",
+    "CAS": "30954-70-2",
+    "URL": "https://bio-fermen.bocsci.com/product/dehydrorabelomycin-cas-30954-70-2-51994.html",
+    "Catalog": "BBF-05129"
+  },
+  {
+    "name": "Miriquidic acid",
+    "CAS": "35578-70-2",
+    "URL": "https://bio-fermen.bocsci.com/product/miriquidic-acid-cas-35578-70-2-51996.html",
+    "Catalog": "BBF-05152"
+  },
+  {
+    "name": "17-Norkaur-15-en-3-one, 6-hydroxy-13-(hydroxymethyl)-, (6β,8β,13β)-",
+    "CAS": "37589-85-8",
+    "URL": "https://bio-fermen.bocsci.com/product/17-norkaur-15-en-3-one-6-hydroxy-13-hydroxymethyl-cas-37589-85-8-52019.html",
+    "Catalog": "BBF-05159"
+  },
+  {
+    "name": "Leucyl-threonine",
+    "CAS": "38062-82-7",
+    "URL": "https://bio-fermen.bocsci.com/product/leucyl-threonine-cas-38062-82-7-52020.html",
+    "Catalog": "BBF-05165"
+  },
+  {
+    "name": "7-Methoxy-9-methylfuro[2,3-b]-quinoline-4,5,8(9H)-trione",
+    "CAS": "859304-28-2",
+    "URL": "https://bio-fermen.bocsci.com/product/7-methoxy-9-methylfuro-2-3-b-quinoline-4-5-8-cas-859304-28-2-52021.html",
+    "Catalog": "BBF-05169"
+  },
+  {
+    "name": "lupeol benzoate",
+    "CAS": "1617-69-2",
+    "URL": "https://bio-fermen.bocsci.com/product/lupeol-benzoate-cas-1617-69-2-51782.html",
+    "Catalog": "BBF-04991"
+  },
+  {
+    "name": "Moretenol",
+    "CAS": "1678-31-5",
+    "URL": "https://bio-fermen.bocsci.com/product/moretenol-cas-1678-31-5-51809.html",
+    "Catalog": "BBF-04994"
+  },
+  {
+    "name": "Torreyanic acid",
+    "CAS": "176260-42-7",
+    "URL": "https://bio-fermen.bocsci.com/product/torreyanic-acid-cas-176260-42-7-51810.html",
+    "Catalog": "BBF-05002"
+  },
+  {
+    "name": "Barbatic acid",
+    "CAS": "17636-16-7",
+    "URL": "https://bio-fermen.bocsci.com/product/barbatic-acid-cas-17636-16-7-51814.html",
+    "Catalog": "BBF-05003"
+  },
+  {
+    "name": "Methyl pseudonorstictate",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/methyl-pseudonorstictate-51645.html",
+    "Catalog": "BBF-04833"
+  },
+  {
+    "name": "4'-O-Methylnorcryptochlorophaeic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/4-o-methylnorcryptochlorophaeic-acid-51647.html",
+    "Catalog": "BBF-04834"
+  },
+  {
+    "name": "4'-O-Methylcryptochlorophaeic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/4-o-methylcryptochlorophaeic-acid-51650.html",
+    "Catalog": "BBF-04836"
+  },
+  {
+    "name": "Methyl pseudoalectoronate",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/methyl-pseudoalectoronate-51651.html",
+    "Catalog": "BBF-04837"
+  },
+  {
+    "name": "2'-O-Methylatranorin",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/2-o-methylatranorin-51652.html",
+    "Catalog": "BBF-04843"
+  },
+  {
+    "name": "Planaic acid",
+    "CAS": "5366-07-4",
+    "URL": "https://bio-fermen.bocsci.com/product/planaic-acid-cas-5366-07-4-52264.html",
+    "Catalog": "BBF-05439"
+  },
+  {
+    "name": "Methyl Hyperplaniate",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/methyl-hyperplaniate-51663.html",
+    "Catalog": "BBF-04855"
+  },
+  {
+    "name": "4-O-Methyllividic acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/4-o-methyllividic-acid-51666.html",
+    "Catalog": "BBF-04862"
+  },
+  {
+    "name": "13-labdene-8α,15-diol",
+    "CAS": "100349-53-9",
+    "URL": "https://bio-fermen.bocsci.com/product/13-labdene-8-15-diol-cas-100349-53-9-51671.html",
+    "Catalog": "BBF-04865"
+  },
+  {
+    "name": "Hyperhomosekikaic acid",
+    "CAS": "103538-06-3",
+    "URL": "https://bio-fermen.bocsci.com/product/hyperhomosekikaic-acid-cas-103538-06-3-51675.html",
+    "Catalog": "BBF-04874"
+  },
+  {
+    "name": "Submerochlorophaeic acid",
+    "CAS": "103538-07-4",
+    "URL": "https://bio-fermen.bocsci.com/product/submerochlorophaeic-acid-cas-103538-07-4-51678.html",
+    "Catalog": "BBF-04875"
+  },
+  {
+    "name": "Naphthalenediol, 5-(1,5-dimethyl-4-hexenyl)-5,6,7,8-tetrahydro-8-(hydroxymethyl)-3-methyl-, [5S-[5α(R*),7α,8β]]-, 1,7-",
+    "CAS": "104021-12-7",
+    "URL": "https://bio-fermen.bocsci.com/product/naphthalenediol-5-1-5-dimethyl-4-hexenyl-5-6-cas-104021-12-7-51680.html",
+    "Catalog": "BBF-04877"
+  },
+  {
+    "name": "2-Naphthalenecarboxylic acid, 4-(acetyloxy)-5-[(acetyloxy)methyl]-8-[(1S)-1,5-dimethyl-4-hexen-1-yl]-5,6,7,8-tetrahydro-",
+    "CAS": "104021-13-8",
+    "URL": "https://bio-fermen.bocsci.com/product/2-naphthalenecarboxylic-acid-4-acetyloxy-5-acetyloxy-cas-104021-13-8-51681.html",
+    "Catalog": "BBF-04878"
+  },
+  {
+    "name": "Propanedioic acid, mono[(8-formyl-4,15,15-trimethyl-14-oxabicyclo[11.2.1]hexadeca-4,8-dien-12-yl)methyl] ester, [1R-(1R*,4Z,8E,12S*,13S*)]-",
+    "CAS": "105608-41-1",
+    "URL": "https://bio-fermen.bocsci.com/product/propanedioic-acid-mono-8-formyl-4-15-15-trimethyl-cas-105608-41-1-51685.html",
+    "Catalog": "BBF-04881"
+  },
+  {
+    "name": "N-Benzoyl-D-lysine",
+    "CAS": "127026-26-0",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoyl-d-lysine-cas-127026-26-0-52064.html",
+    "Catalog": "BBF-05204"
+  },
+  {
+    "name": "N-Benzoyl-L-serine",
+    "CAS": "4877-23-0",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoyl-l-serine-cas-4877-23-0-52065.html",
+    "Catalog": "BBF-05226"
+  },
+  {
+    "name": "N-Benzoyl-L-tyrosinol",
+    "CAS": "126455-12-7",
+    "URL": "https://bio-fermen.bocsci.com/product/n-benzoyl-l-tyrosinol-cas-126455-12-7-52074.html",
+    "Catalog": "BBF-05229"
+  },
+  {
+    "name": "N-Methyl-D-arginine",
+    "CAS": "190784-13-5",
+    "URL": "https://bio-fermen.bocsci.com/product/n-methyl-d-arginine-cas-190784-13-5-52088.html",
+    "Catalog": "BBF-05233"
+  },
+  {
+    "name": "N-Methyl-D-serine",
+    "CAS": "915405-01-5",
+    "URL": "https://bio-fermen.bocsci.com/product/n-methyl-d-serine-cas-915405-01-5-52095.html",
+    "Catalog": "BBF-05241"
+  },
+  {
+    "name": "2,7-Dichloro-3-O-methylnorlichexanthone",
+    "CAS": "68048-36-2",
+    "URL": "https://bio-fermen.bocsci.com/product/2-7-dichloro-3-o-methylnorlichexanthone-cas-68048-36-2-52098.html",
+    "Catalog": "BBF-05269"
+  },
+  {
+    "name": "2-O-Methyllecanoric acid",
+    "CAS": "219700-72-8",
+    "URL": "https://bio-fermen.bocsci.com/product/2-o-methyllecanoric-acid-cas-219700-72-8-52111.html",
+    "Catalog": "BBF-05284"
+  },
+  {
+    "name": "Norpannarin",
+    "CAS": "103805-90-9",
+    "URL": "https://bio-fermen.bocsci.com/product/norpannarin-cas-103805-90-9-52114.html",
+    "Catalog": "BBF-05289"
+  },
+  {
+    "name": "3-O-Demethylscensidin",
+    "CAS": "86191-24-4",
+    "URL": "https://bio-fermen.bocsci.com/product/3-o-demethylscensidin-cas-86191-24-4-52115.html",
+    "Catalog": "BBF-05298"
+  },
+  {
+    "name": "3-Methoxygyrophoric acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/3-methoxygyrophoric-acid-52117.html",
+    "Catalog": "BBF-05302"
+  },
+  {
+    "name": "3-Hydroxy-4-O-methylgyrophoric acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/3-hydroxy-4-o-methylgyrophoric-acid-52119.html",
+    "Catalog": "BBF-05306"
+  },
+  {
+    "name": "Pannarin",
+    "CAS": "55609-84-2",
+    "URL": "https://bio-fermen.bocsci.com/product/pannarin-cas-55609-84-2-52270.html",
+    "Catalog": "BBF-05453"
+  },
+  {
+    "name": "(3α,4α)-Kaur-16-ene-3,18-diol dibenzoate",
+    "CAS": "56012-92-1",
+    "URL": "https://bio-fermen.bocsci.com/product/3-4-kaur-16-ene-3-18-diol-dibenzoate-cas-56012-92-1-52273.html",
+    "Catalog": "BBF-05457"
+  },
+  {
+    "name": "(4α)-17-hydroxy-Kauran-18-oic acid",
+    "CAS": "58691-64-8",
+    "URL": "https://bio-fermen.bocsci.com/product/4-17-hydroxy-kauran-18-oic-acid-cas-58691-64-8-52284.html",
+    "Catalog": "BBF-05470"
+  },
+  {
+    "name": "cis-4-Hydroxymellein",
+    "CAS": "60132-20-9",
+    "URL": "https://bio-fermen.bocsci.com/product/cis-4-hydroxymellein-cas-60132-20-9-52352.html",
+    "Catalog": "BBF-05479"
+  },
+  {
+    "name": "Beyerol",
+    "CAS": "6040-48-8",
+    "URL": "https://bio-fermen.bocsci.com/product/beyerol-cas-6040-48-8-52353.html",
+    "Catalog": "BBF-05481"
+  },
+  {
+    "name": "Decarboxygyrophoric acid",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/decarboxygyrophoric-acid-52128.html",
+    "Catalog": "BBF-05308"
+  },
+  {
+    "name": "UK-80695",
+    "CAS": "127346-86-5",
+    "URL": "https://bio-fermen.bocsci.com/product/uk-80695-cas-127346-86-5-48252.html",
+    "Catalog": "BBF-03714"
+  },
+  {
+    "name": "6-O-Methylnorlichexanthone",
+    "CAS": "22938-77-8",
+    "URL": "https://bio-fermen.bocsci.com/product/6-o-methylnorlichexanthone-cas-22938-77-8-51872.html",
+    "Catalog": "BBF-05078"
+  },
+  {
+    "name": "Lupane-3,16-diol, 3,16-diacetate, (3β,16α)-",
+    "CAS": "107578-54-1",
+    "URL": "https://bio-fermen.bocsci.com/product/lupane-3-16-diol-3-16-diacetate-3-16-cas-107578-54-1-51692.html",
+    "Catalog": "BBF-04892"
+  },
+  {
+    "name": "2'-O-Methylstenosporic acid",
+    "CAS": "108529-19-7",
+    "URL": "https://bio-fermen.bocsci.com/product/2-o-methylstenosporic-acid-cas-108529-19-7-51708.html",
+    "Catalog": "BBF-04896"
+  },
+  {
+    "name": "Hyperconfluentic acid",
+    "CAS": "108529-21-1",
+    "URL": "https://bio-fermen.bocsci.com/product/hyperconfluentic-acid-cas-108529-21-1-51710.html",
+    "Catalog": "BBF-04897"
+  },
+  {
+    "name": "Aspartyl-histidine",
+    "CAS": "22677-56-1",
+    "URL": "https://bio-fermen.bocsci.com/product/aspartyl-histidine-cas-22677-56-1-51864.html",
+    "Catalog": "BBF-05070"
+  },
+  {
+    "name": "Asparaginyl-lysine",
+    "CAS": "22677-58-3",
+    "URL": "https://bio-fermen.bocsci.com/product/asparaginyl-lysine-cas-22677-58-3-51865.html",
+    "Catalog": "BBF-05071"
+  },
+  {
+    "name": "Isoleucyl-lysine",
+    "CAS": "22677-60-7",
+    "URL": "https://bio-fermen.bocsci.com/product/isoleucyl-lysine-cas-22677-60-7-51866.html",
+    "Catalog": "BBF-05072"
+  },
+  {
+    "name": "2,4-Dichlorolichexanthone",
+    "CAS": "22105-97-1",
+    "URL": "https://bio-fermen.bocsci.com/product/2-4-dichlorolichexanthone-cas-22105-97-1-51863.html",
+    "Catalog": "BBF-05058"
+  },
+  {
+    "name": "Anthranilamide 2b",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/anthranilamide-2b-41790.html",
+    "Catalog": "BBF-00483"
+  },
+  {
+    "name": "Indocarbazostatin B",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/indocarbazostatin-b-42937.html",
+    "Catalog": "BBF-01501"
+  },
+  {
+    "name": "Grevilline A",
+    "CAS": "41744-32-5",
+    "URL": "https://bio-fermen.bocsci.com/product/grevilline-a-cas-41744-32-5-42877.html",
+    "Catalog": "BBF-01281"
+  },
+  {
+    "name": "4-O,3'-O-Didemethyl mutactimycin",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/4-o-3-o-didemethyl-mutactimycin-42712.html",
+    "Catalog": "BBF-00825"
+  },
+  {
+    "name": "Fenbenicillin potassium salt",
+    "CAS": "1177-30-6",
+    "URL": "https://bio-fermen.bocsci.com/product/fenbenicillin-potassium-salt-cas-1177-30-6-42724.html",
+    "Catalog": "BBF-00909"
+  },
+  {
+    "name": "Ferrichrome A [M+Fe-2H]",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/ferrichrome-a-m-fe-2h-42759.html",
+    "Catalog": "BBF-00913"
+  },
+  {
+    "name": "Pteridic acid B",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/pteridic-acid-b-43048.html",
+    "Catalog": "BBF-02072"
+  },
+  {
+    "name": "Sulfazecin",
+    "CAS": "77912-79-9",
+    "URL": "https://bio-fermen.bocsci.com/product/sulfazecin-cas-77912-79-9-46528.html",
+    "Catalog": "BBF-03087"
+  },
+  {
+    "name": "Thioformin",
+    "CAS": "31335-60-1",
+    "URL": "https://bio-fermen.bocsci.com/product/thioformin-cas-31335-60-1-46625.html",
+    "Catalog": "BBF-03128"
+  },
+  {
+    "name": "Streptocidin D",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/streptocidin-d-46480.html",
+    "Catalog": "BBF-03066"
+  },
+  {
+    "name": "Streptovaricin U",
+    "CAS": "74200-47-8",
+    "URL": "https://bio-fermen.bocsci.com/product/streptovaricin-u-cas-74200-47-8-46515.html",
+    "Catalog": "BBF-03074"
+  },
+  {
+    "name": "Tetrocarcin F",
+    "CAS": "82612-05-3",
+    "URL": "https://bio-fermen.bocsci.com/product/tetrocarcin-f-cas-82612-05-3-46609.html",
+    "Catalog": "BBF-03114"
+  },
+  {
+    "name": "AB 3217-A",
+    "CAS": "139158-99-9",
+    "URL": "https://bio-fermen.bocsci.com/product/ab-3217-a-cas-139158-99-9-46810.html",
+    "Catalog": "BBF-03190"
+  },
+  {
+    "name": "2-Heptyl-3-hydroxy-quinolone",
+    "CAS": "521313-35-9",
+    "URL": "https://bio-fermen.bocsci.com/product/2-heptyl-3-hydroxy-quinolone-cas-521313-35-9-46915.html",
+    "Catalog": "BBF-03223"
+  },
+  {
+    "name": "AGI-B4",
+    "CAS": "1313588-44-1",
+    "URL": "https://bio-fermen.bocsci.com/product/agi-b4-cas-1313588-44-1-46833.html",
+    "Catalog": "BBF-03194"
+  },
+  {
+    "name": "Reductiline",
+    "CAS": "85145-25-1",
+    "URL": "https://bio-fermen.bocsci.com/product/reductiline-cas-85145-25-1-46838.html",
+    "Catalog": "BBF-03196"
+  },
+  {
+    "name": "Antibiotic AIS 2M7",
+    "CAS": "82659-06-1",
+    "URL": "https://bio-fermen.bocsci.com/product/antibiotic-ais-2m7-cas-82659-06-1-46845.html",
+    "Catalog": "BBF-03197"
+  },
+  {
+    "name": "(2S)-serrulat-14-ene-2,7,8,20-tetraol",
+    "CAS": "80144-93-0",
+    "URL": "https://bio-fermen.bocsci.com/product/2s-serrulat-14-ene-2-7-8-20-tetraol-cas-80144-93-0-52778.html",
+    "Catalog": "BBF-05587"
+  },
+  {
+    "name": "2''-O-Methyltenuiorin",
+    "CAS": "80144-98-5",
+    "URL": "https://bio-fermen.bocsci.com/product/2-o-methyltenuiorin-cas-80144-98-5-52780.html",
+    "Catalog": "BBF-05589"
+  },
+  {
+    "name": "Dihydro beyerol",
+    "CAS": "82053-71-2",
+    "URL": "https://bio-fermen.bocsci.com/product/dihydro-beyerol-cas-82053-71-2-52781.html",
+    "Catalog": "BBF-05595"
+  },
+  {
+    "name": "4'-O-benzyl-α-hydroxyacetosyringone",
+    "CAS": "873978-83-7",
+    "URL": "https://bio-fermen.bocsci.com/product/4-o-benzyl-hydroxyacetosyringone-cas-873978-83-7-52786.html",
+    "Catalog": "BBF-05607"
+  },
+  {
+    "name": "Spiro[4.5]dec-7-ene-1-butanal, γ,4,8-trimethyl-, [1R-[1α(R*),4β,5β]]-",
+    "CAS": "90363-92-1",
+    "URL": "https://bio-fermen.bocsci.com/product/spiro-4-5-dec-7-ene-1-butanal-4-8-trimethyl-cas-90363-92-1-52855.html",
+    "Catalog": "BBF-05633"
+  },
+  {
+    "name": "Isonotatic acid",
+    "CAS": "90689-48-8",
+    "URL": "https://bio-fermen.bocsci.com/product/isonotatic-acid-cas-90689-48-8-52856.html",
+    "Catalog": "BBF-05640"
+  },
+  {
+    "name": "8-(2-hydroxy-1-methoxy-3-methyl-3-buten-1-yl)-7-methoxy-2H-1-Benzopyran-2-one",
+    "CAS": "6432-67-3",
+    "URL": "https://bio-fermen.bocsci.com/product/8-2-hydroxy-1-methoxy-3-methyl-3-buten-1-yl-cas-6432-67-3-52652.html",
+    "Catalog": "BBF-05507"
+  },
+  {
+    "name": "Arginyl-asparagine",
+    "CAS": "68040-95-9",
+    "URL": "https://bio-fermen.bocsci.com/product/arginyl-asparagine-cas-68040-95-9-52715.html",
+    "Catalog": "BBF-05532"
+  },
+  {
+    "name": "Leprolomin",
+    "CAS": "68984-67-8",
+    "URL": "https://bio-fermen.bocsci.com/product/leprolomin-cas-68984-67-8-52717.html",
+    "Catalog": "BBF-05535"
+  },
+  {
+    "name": "Buellolide",
+    "CAS": "69799-33-3",
+    "URL": "https://bio-fermen.bocsci.com/product/buellolide-cas-69799-33-3-52733.html",
+    "Catalog": "BBF-05541"
+  },
+  {
+    "name": "trans-4-Hydroxymellein",
+    "CAS": "70287-70-6",
+    "URL": "https://bio-fermen.bocsci.com/product/trans-4-hydroxymellein-cas-70287-70-6-52734.html",
+    "Catalog": "BBF-05546"
+  },
+  {
+    "name": "Isomuronic acid",
+    "CAS": "70579-66-7",
+    "URL": "https://bio-fermen.bocsci.com/product/isomuronic-acid-cas-70579-66-7-52737.html",
+    "Catalog": "BBF-05551"
+  },
+  {
+    "name": "Spiro[4.5]dec-7-ene-8-carboxylic acid, 1-(1,5-dimethyl-4-oxohexyl)-9-hydroxy-4-methyl-, methyl ester, [1R-[1α(R*),4β,5β(S*)]]-",
+    "CAS": "90363-71-6",
+    "URL": "https://bio-fermen.bocsci.com/product/spiro-4-5-dec-7-ene-8-carboxylic-acid-1-1-5-cas-90363-71-6-52828.html",
+    "Catalog": "BBF-05617"
+  },
+  {
+    "name": "Spiro[4.5]dec-7-ene-8-carboxylic acid, 1-(1,5-dimethyl-4-oxohexyl)-4-methyl-9-oxo-, methyl ester, [1R-[1α(R*),4β,5β]]-",
+    "CAS": "90363-73-8",
+    "URL": "https://bio-fermen.bocsci.com/product/spiro-4-5-dec-7-ene-8-carboxylic-acid-1-1-5-cas-90363-73-8-52831.html",
+    "Catalog": "BBF-05619"
+  },
+  {
+    "name": "Spiro[4.5]dec-7-ene-1-butanoic acid, 9-hydroxy-8-(methoxycarbonyl)-γ,4-dimethyl-, 1-methylethyl ester, [1R-[1α(R*),4β,5β(S*)]]-",
+    "CAS": "90363-74-9",
+    "URL": "https://bio-fermen.bocsci.com/product/spiro-4-5-dec-7-ene-1-butanoic-acid-9-hydroxy-cas-90363-74-9-52834.html",
+    "Catalog": "BBF-05620"
+  },
+  {
+    "name": "Spiro[4.5]dec-7-ene-1-butanol, 8-(hydroxymethyl)-δ,4-dimethyl-, [1R-[1α(R*),4β,5β]]-",
+    "CAS": "90363-78-3",
+    "URL": "https://bio-fermen.bocsci.com/product/spiro-4-5-dec-7-ene-1-butanol-8-hydroxymethyl-cas-90363-78-3-52835.html",
+    "Catalog": "BBF-05623"
+  },
+  {
+    "name": "Spiro[4.5]dec-7-ene-8-carboxylic acid, 9-hydroxy-1-methyl-4-(1-methyl-4-oxobutyl)-, methyl ester, [1S-[1α,4β(S*),5α(R*)]]-",
+    "CAS": "90363-80-7",
+    "URL": "https://bio-fermen.bocsci.com/product/spiro-4-5-dec-7-ene-8-carboxylic-acid-9-hydroxy-cas-90363-80-7-52836.html",
+    "Catalog": "BBF-05624"
+  },
+  {
+    "name": "Fulgidin",
+    "CAS": "71339-43-0",
+    "URL": "https://bio-fermen.bocsci.com/product/fulgidin-cas-71339-43-0-52739.html",
+    "Catalog": "BBF-05554"
+  },
+  {
+    "name": "Norgangaleoidin",
+    "CAS": "71478-26-7",
+    "URL": "https://bio-fermen.bocsci.com/product/norgangaleoidin-cas-71478-26-7-52745.html",
+    "Catalog": "BBF-05555"
+  },
+  {
+    "name": "Lecideoidin",
+    "CAS": "72458-10-7",
+    "URL": "https://bio-fermen.bocsci.com/product/lecideoidin-cas-72458-10-7-52746.html",
+    "Catalog": "BBF-05560"
+  },
+  {
+    "name": "18-iso-11-keto-methyl-acetyl-oleanolate",
+    "CAS": "72692-00-3",
+    "URL": "https://bio-fermen.bocsci.com/product/18-iso-11-keto-methyl-acetyl-oleanolate-cas-72692-00-3-52753.html",
+    "Catalog": "BBF-05563"
+  },
+  {
+    "name": "Asparaginyl-tryptophan",
+    "CAS": "74105-03-6",
+    "URL": "https://bio-fermen.bocsci.com/product/asparaginyl-tryptophan-cas-74105-03-6-52760.html",
+    "Catalog": "BBF-05568"
+  },
+  {
+    "name": "(3β,16α)-Lupane-3,16-diol, 3-acetate",
+    "CAS": "107205-20-9",
+    "URL": "https://bio-fermen.bocsci.com/product/3-16-lupane-3-16-diol-3-acetate-cas-107205-20-9-51689.html",
+    "Catalog": "BBF-04887"
+  },
+  {
+    "name": "Lupane-3,16-dione",
+    "CAS": "62824-05-9",
+    "URL": "https://bio-fermen.bocsci.com/product/lupane-3-16-dione-cas-62824-05-9-52584.html",
+    "Catalog": "BBF-05498"
+  },
+  {
+    "name": "4-O-Demethylmicrophyllinic acid",
+    "CAS": "63744-96-7",
+    "URL": "https://bio-fermen.bocsci.com/product/4-o-demethylmicrophyllinic-acid-cas-63744-96-7-52629.html",
+    "Catalog": "BBF-05501"
+  },
+  {
+    "name": "Aspartyl-serine",
+    "CAS": "6403-13-0",
+    "URL": "https://bio-fermen.bocsci.com/product/aspartyl-serine-cas-6403-13-0-52633.html",
+    "Catalog": "BBF-05502"
+  },
+  {
+    "name": "Spiro[4.5]dec-7-ene-1-hexanol, 8-(hydroxymethyl)-β,ζ,4-trimethyl-",
+    "CAS": "90363-90-9",
+    "URL": "https://bio-fermen.bocsci.com/product/spiro-4-5-dec-7-ene-1-hexanol-8-hydroxymethyl-cas-90363-90-9-52839.html",
+    "Catalog": "BBF-05631"
+  },
+  {
+    "name": "2-Pentenoic acid, 2-methyl-5-(octahydro-7a,8-dihydroxy-1,5,5-trimethyl-3a,6-ethano-3aH-inden-4-yl)-, methyl ester, [1S-[1α,3aβ,4β(E),6β,7aα,8R*]]-",
+    "CAS": "99534-20-0",
+    "URL": "https://bio-fermen.bocsci.com/product/2-pentenoic-acid-2-methyl-5-octahydro-7a-8-dihydroxy-cas-99534-20-0-52865.html",
+    "Catalog": "BBF-05673"
+  },
+  {
+    "name": "(4α,16α)-Kaurane-17,18-diol",
+    "CAS": "74365-75-6",
+    "URL": "https://bio-fermen.bocsci.com/product/4-16-kaurane-17-18-diol-cas-74365-75-6-52761.html",
+    "Catalog": "BBF-05569"
+  },
+  {
+    "name": "7-Hydroxycalamene",
+    "CAS": "76465-67-3",
+    "URL": "https://bio-fermen.bocsci.com/product/7-hydroxycalamene-cas-76465-67-3-52763.html",
+    "Catalog": "BBF-05575"
+  },
+  {
+    "name": "Ovoic acid",
+    "CAS": "76788-86-8",
+    "URL": "https://bio-fermen.bocsci.com/product/ovoic-acid-cas-76788-86-8-52764.html",
+    "Catalog": "BBF-05576"
+  },
+  {
+    "name": "Norcolensoic acid",
+    "CAS": "79579-61-6",
+    "URL": "https://bio-fermen.bocsci.com/product/norcolensoic-acid-cas-79579-61-6-52766.html",
+    "Catalog": "BBF-05582"
+  },
+  {
+    "name": "Convirensic acid",
+    "CAS": "79586-42-8",
+    "URL": "https://bio-fermen.bocsci.com/product/convirensic-acid-cas-79586-42-8-52770.html",
+    "Catalog": "BBF-05584"
+  },
+  {
+    "name": "Circumdatin A",
+    "CAS": "223130-52-7",
+    "URL": "https://bio-fermen.bocsci.com/product/circumdatin-a-cas-223130-52-7-155471.html",
+    "Catalog": "BBF-04680"
+  },
+  {
+    "name": "4(S),5(S)-Dihydroxydecanoic acid-4-lactone",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/4-s-5-s-dihydroxydecanoic-acid-4-lactone-164538.html",
+    "Catalog": "BBF-03737"
+  },
+  {
+    "name": "Aminochloropentenedioic acid",
+    "CAS": "90288-29-2",
+    "URL": "https://bio-fermen.bocsci.com/product/aminochloropentenedioic-acid-cas-90288-29-2-143880.html",
+    "Catalog": "BBF-03736"
+  },
+  {
+    "name": "Achaetolide",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/achaetolide-181923.html",
+    "Catalog": "BBF-00010"
+  },
+  {
+    "name": "Collinin",
+    "CAS": "34465-83-3",
+    "URL": "https://bio-fermen.bocsci.com/product/collinin-cas-34465-83-3-181000.html",
+    "Catalog": "BBF-04682"
+  },
+  {
+    "name": "cyclo(L-Ala-L-Leu)",
+    "CAS": "24676-83-3",
+    "URL": "https://bio-fermen.bocsci.com/product/cyclo-l-ala-l-leu-cas-24676-83-3-217032.html",
+    "Catalog": "BBF-04684"
+  },
+  {
+    "name": "Cyclosporine Impurity 3 Sodium Salt",
+    "CAS": "",
+    "URL": "https://bio-fermen.bocsci.com/product/cyclosporine-impurity-3-sodium-salt-171757.html",
+    "Catalog": "BBF-05740"
+  },
+  {
+    "name": "Cyclosporin Impurity 6",
+    "CAS": "1357559-31-3",
+    "URL": "https://bio-fermen.bocsci.com/product/cyclosporin-impurity-6-cas-1357559-31-3-175135.html",
+    "Catalog": "BBF-05741"
+  },
+  {
+    "name": "Cefodizime",
+    "CAS": "69739-16-8",
+    "URL": "https://bio-fermen.bocsci.com/product/cefodizime-cas-69739-16-8-468440.html",
+    "Catalog": "BBF-00726"
+  },
+  {
+    "name": "Flucloxacillin sodium",
+    "CAS": "1847-24-1",
+    "URL": "https://bio-fermen.bocsci.com/product/flucloxacillin-sodium-cas-1847-24-1-61591.html",
+    "Catalog": "BBF-03846"
+  },
+  {
+    "name": "Cyclosporin T",
+    "CAS": "108027-44-7",
+    "URL": "https://bio-fermen.bocsci.com/product/cyclosporin-t-cas-108027-44-7-345441.html",
+    "Catalog": "BBF-05758"
+  },
+  {
+    "name": "Aflavarin",
+    "CAS": "144429-67-4",
+    "URL": "https://bio-fermen.bocsci.com/product/aflavarin-cas-144429-67-4-241124.html",
+    "Catalog": "BBF-04376"
+  },
+  {
+    "name": "N-Butylbenzenesulfonamide",
+    "CAS": "3622-84-2",
+    "URL": "https://bio-fermen.bocsci.com/product/n-butylbenzenesulfonamide-cas-3622-84-2-314974.html",
+    "Catalog": "BBF-00594"
+  },
+  {
+    "name": "L-Alaninol",
+    "CAS": "2749-11-3",
+    "URL": "https://bio-fermen.bocsci.com/product/l-alaninol-cas-2749-11-3-14791.html",
+    "Catalog": "BBF-05676"
+  },
+  {
+    "name": "L-Propargylglycine",
+    "CAS": "23235-01-0",
+    "URL": "https://bio-fermen.bocsci.com/product/l-propargylglycine-cas-23235-01-0-10890.html",
+    "Catalog": "BBF-00680"
+  },
+  {
+    "name": "Tryptophanyl-phenylalanine",
+    "CAS": "6686-02-8",
+    "URL": "https://bio-fermen.bocsci.com/product/tryptophanyl-phenylalanine-cas-6686-02-8-81620.html",
+    "Catalog": "BBF-05700"
+  },
+  {
+    "name": "Glycyl-L-aspartic acid",
+    "CAS": "4685-12-5",
+    "URL": "https://bio-fermen.bocsci.com/product/glycyl-l-aspartic-acid-cas-4685-12-5-23268.html",
+    "Catalog": "BBF-05695"
+  },
+  {
+    "name": "Glutamyl-Valine",
+    "CAS": "5879-06-1",
+    "URL": "https://bio-fermen.bocsci.com/product/glutamyl-valine-cas-5879-06-1-28992.html",
+    "Catalog": "BBF-05696"
+  },
+  {
+    "name": "L-Aspartyl-L-glutamic acid",
+    "CAS": "6157-06-8",
+    "URL": "https://bio-fermen.bocsci.com/product/l-aspartyl-l-glutamic-acid-cas-6157-06-8-30044.html",
+    "Catalog": "BBF-05697"
+  },
+  {
+    "name": "Leucyl-serine",
+    "CAS": "6209-12-7",
+    "URL": "https://bio-fermen.bocsci.com/product/leucyl-serine-cas-6209-12-7-30176.html",
+    "Catalog": "BBF-05698"
+  },
+  {
+    "name": "A83586C",
+    "CAS": "116364-81-9",
+    "URL": "https://bio-fermen.bocsci.com/product/a83586c-cas-116364-81-9-211324.html",
+    "Catalog": "BBF-03514"
+  },
+  {
+    "name": "Strobilurin G",
+    "CAS": "129145-64-8",
+    "URL": "https://bio-fermen.bocsci.com/product/strobilurin-g-cas-129145-64-8-80207.html",
+    "Catalog": "BBF-03490"
+  },
+  {
+    "name": "Girolline",
+    "CAS": "110883-46-0",
+    "URL": "https://bio-fermen.bocsci.com/product/girolline-cas-110883-46-0-276326.html",
+    "Catalog": "BBF-01794"
+  },
+  {
+    "name": "Decarestrictine A1",
+    "CAS": "127393-90-2",
+    "URL": "https://bio-fermen.bocsci.com/product/decarestrictine-a1-cas-127393-90-2-80272.html",
+    "Catalog": "BBF-01696"
+  },
+  {
+    "name": "Fomecin A",
+    "CAS": "1403-56-1",
+    "URL": "https://bio-fermen.bocsci.com/product/fomecin-a-cas-1403-56-1-133797.html",
+    "Catalog": "BBF-01845"
+  },
+  {
+    "name": "Pironetin",
+    "CAS": "151519-02-7",
+    "URL": "https://bio-fermen.bocsci.com/product/pironetin-cas-151519-02-7-50377.html",
+    "Catalog": "BBF-03525"
+  },
+  {
+    "name": "FA 5859",
+    "CAS": "98855-43-7",
+    "URL": "https://bio-fermen.bocsci.com/product/fa-5859-cas-98855-43-7-205620.html",
+    "Catalog": "BBF-03446"
+  },
+  {
+    "name": "γ-Chloronorvaline",
+    "CAS": "76265-38-8",
+    "URL": "https://bio-fermen.bocsci.com/product/chloronorvaline-cas-76265-38-8-147862.html",
+    "Catalog": "BBF-00637"
+  },
+  {
+    "name": "(S)-a-Benzylmalic acid",
+    "CAS": "51692-93-4",
+    "URL": "https://bio-fermen.bocsci.com/product/s-a-benzylmalic-acid-cas-51692-93-4-280279.html",
+    "Catalog": "BBF-00294"
+  },
+  {
+    "name": "Madindoline A",
+    "CAS": "184877-64-3",
+    "URL": "https://bio-fermen.bocsci.com/product/madindoline-a-cas-184877-64-3-269031.html",
+    "Catalog": "BBF-02658"
+  },
+  {
+    "name": "Neoxaline",
+    "CAS": "909900-78-3",
+    "URL": "https://bio-fermen.bocsci.com/product/neoxaline-cas-909900-78-3-265395.html",
+    "Catalog": "BBF-05692"
+  },
+  {
+    "name": "Cinatrin C3",
+    "CAS": "136266-37-0",
+    "URL": "https://bio-fermen.bocsci.com/product/cinatrin-c3-cas-136266-37-0-248462.html",
+    "Catalog": "BBF-00340"
+  },
+  {
+    "name": "Clavulanic acid",
+    "CAS": "58001-44-8",
+    "URL": "https://bio-fermen.bocsci.com/product/clavulanic-acid-cas-58001-44-8-399625.html",
+    "Catalog": "BBF-00366"
+  },
+  {
+    "name": "MY336-a",
+    "CAS": "95727-08-5",
+    "URL": "https://bio-fermen.bocsci.com/product/my336-a-cas-95727-08-5-157478.html",
+    "Catalog": "BBF-03732"
+  },
+  {
+    "name": "Decarestrictine D",
+    "CAS": "127393-89-9",
+    "URL": "https://bio-fermen.bocsci.com/product/decarestrictine-d-cas-127393-89-9-161574.html",
+    "Catalog": "BBF-01695"
+  },
+  {
+    "name": "Angiostatin",
+    "CAS": "86090-08-6",
+    "URL": "https://bio-fermen.bocsci.com/product/angiostatin-cas-86090-08-6-181057.html",
+    "Catalog": "BBF-00469"
+  },
+  {
+    "name": "Pterulone",
+    "CAS": "190143-31-8",
+    "URL": "https://bio-fermen.bocsci.com/product/pterulone-cas-190143-31-8-172333.html",
+    "Catalog": "BBF-03523"
+  },
+  {
+    "name": "Acaterin",
+    "CAS": "144398-20-9",
+    "URL": "https://bio-fermen.bocsci.com/product/acaterin-cas-144398-20-9-197802.html",
+    "Catalog": "BBF-00539"
+  },
+  {
+    "name": "Diprotin B",
+    "CAS": "90614-49-6",
+    "URL": "https://bio-fermen.bocsci.com/product/diprotin-b-cas-90614-49-6-235420.html",
+    "Catalog": "BBF-01765"
+  },
+  {
+    "name": "Cytostatin",
+    "CAS": "156856-30-3",
+    "URL": "https://bio-fermen.bocsci.com/product/cytostatin-cas-156856-30-3-244008.html",
+    "Catalog": "BBF-01690"
+  },
+  {
+    "name": "Dephostatin",
+    "CAS": "151606-30-3",
+    "URL": "https://bio-fermen.bocsci.com/product/dephostatin-cas-151606-30-3-50382.html",
+    "Catalog": "BBF-01831"
+  },
+  {
+    "name": "Anantin",
+    "CAS": "133658-45-4",
+    "URL": "https://bio-fermen.bocsci.com/product/anantin-cas-133658-45-4-48494.html",
+    "Catalog": "BBF-00685"
+  },
+  {
+    "name": "Leuhistin",
+    "CAS": "129085-76-3",
+    "URL": "https://bio-fermen.bocsci.com/product/leuhistin-cas-129085-76-3-48036.html",
+    "Catalog": "BBF-02651"
+  },
+  {
+    "name": "Ebelactone B",
+    "CAS": "76808-15-6",
+    "URL": "https://bio-fermen.bocsci.com/product/ebelactone-b-cas-76808-15-6-32656.html",
+    "Catalog": "BBF-01777"
+  },
+  {
+    "name": "Arphamenine B",
+    "CAS": "88465-81-0",
+    "URL": "https://bio-fermen.bocsci.com/product/arphamenine-b-cas-88465-81-0-36940.html",
+    "Catalog": "BBF-00563"
+  },
+  {
+    "name": "Fibrostatin C",
+    "CAS": "91776-47-5",
+    "URL": "https://bio-fermen.bocsci.com/product/fibrostatin-c-cas-91776-47-5-133642.html",
+    "Catalog": "BBF-01709"
+  },
+  {
+    "name": "Fibrostatin E",
+    "CAS": "91776-44-2",
+    "URL": "https://bio-fermen.bocsci.com/product/fibrostatin-e-cas-91776-44-2-133643.html",
+    "Catalog": "BBF-01710"
+  },
+  {
+    "name": "Fibrostatin A",
+    "CAS": "91776-42-0",
+    "URL": "https://bio-fermen.bocsci.com/product/fibrostatin-a-cas-91776-42-0-133644.html",
+    "Catalog": "BBF-01707"
+  },
+  {
+    "name": "Fibrostatin F",
+    "CAS": "91776-45-3",
+    "URL": "https://bio-fermen.bocsci.com/product/fibrostatin-f-cas-91776-45-3-133646.html",
+    "Catalog": "BBF-01711"
+  },
+  {
+    "name": "Fibrostatin B",
+    "CAS": "91776-48-6",
+    "URL": "https://bio-fermen.bocsci.com/product/fibrostatin-b-cas-91776-48-6-133640.html",
+    "Catalog": "BBF-01708"
+  },
+  {
+    "name": "3,4-Dihydroxystyrene",
+    "CAS": "6053-02-7",
+    "URL": "https://bio-fermen.bocsci.com/product/3-4-dihydroxystyrene-cas-6053-02-7-119305.html",
+    "Catalog": "BBF-01764"
+  },
+  {
+    "name": "Cytoxazone",
+    "CAS": "42902-32-9",
+    "URL": "https://bio-fermen.bocsci.com/product/cytoxazone-cas-42902-32-9-116058.html",
+    "Catalog": "BBF-01692"
+  },
+  {
+    "name": "Arphamenine A",
+    "CAS": "96551-81-4",
+    "URL": "https://bio-fermen.bocsci.com/product/arphamenine-a-cas-96551-81-4-71561.html",
+    "Catalog": "BBF-00562"
+  },
+  {
+    "name": "Cytochalasin F",
+    "CAS": "36084-18-1",
+    "URL": "https://bio-fermen.bocsci.com/product/cytochalasin-f-cas-36084-18-1-65229.html",
+    "Catalog": "BBF-01759"
+  },
+  {
+    "name": "Eupenifeldin",
+    "CAS": "151803-45-1",
+    "URL": "https://bio-fermen.bocsci.com/product/eupenifeldin-cas-151803-45-1-80212.html",
+    "Catalog": "BBF-03519"
+  },
+  {
+    "name": "Alteichin",
+    "CAS": "88899-62-1",
+    "URL": "https://bio-fermen.bocsci.com/product/alteichin-cas-88899-62-1-44433.html",
+    "Catalog": "BBF-00663"
+  },
+  {
+    "name": "5,6-Dihydro-4-methoxy-2H-pyran-2-one",
+    "CAS": "83920-64-3",
+    "URL": "https://bio-fermen.bocsci.com/product/5-6-dihydro-4-methoxy-2h-pyran-2-one-cas-83920-64-3-227274.html",
+    "Catalog": "BBF-01841"
+  },
+  {
+    "name": "Butenolide",
+    "CAS": "16275-44-8",
+    "URL": "https://bio-fermen.bocsci.com/product/butenolide-cas-16275-44-8-145385.html",
+    "Catalog": "BBF-03518"
+  },
+  {
+    "name": "Dimyristin",
+    "CAS": "53563-63-6",
+    "URL": "https://bio-fermen.bocsci.com/product/dimyristin-cas-53563-63-6-72332.html",
+    "Catalog": "BBF-05679"
+  },
+  {
+    "name": "Baumycin C1",
+    "CAS": "63084-42-4",
+    "URL": "https://bio-fermen.bocsci.com/product/baumycin-c1-cas-63084-42-4-346394.html",
+    "Catalog": "BBF-00272"
+  },
+  {
+    "name": "20-Hydroxyaflavinine",
+    "CAS": "116865-08-8",
+    "URL": "https://bio-fermen.bocsci.com/product/20-hydroxyaflavinine-cas-116865-08-8-267471.html",
+    "Catalog": "BBF-04463"
+  },
+  {
+    "name": "Paspalinine",
+    "CAS": "63722-91-8",
+    "URL": "https://bio-fermen.bocsci.com/product/paspalinine-cas-63722-91-8-267474.html",
+    "Catalog": "BBF-04466"
+  },
+  {
+    "name": "Dihydroxyaflavinine",
+    "CAS": "76410-56-5",
+    "URL": "https://bio-fermen.bocsci.com/product/dihydroxyaflavinine-cas-76410-56-5-267476.html",
+    "Catalog": "BBF-04468"
+  },
+  {
+    "name": "Monomethylsulochrin",
+    "CAS": "10056-14-1",
+    "URL": "https://bio-fermen.bocsci.com/product/monomethylsulochrin-cas-10056-14-1-267458.html",
+    "Catalog": "BBF-01763"
+  },
+  {
+    "name": "Citromycin",
+    "CAS": "37209-30-6",
+    "URL": "https://bio-fermen.bocsci.com/product/citromycin-cas-37209-30-6-267459.html",
+    "Catalog": "BBF-04455"
+  },
+  {
+    "name": "17-Hydroxy-18-dehydroneogrifolin",
+    "CAS": "1630936-42-3",
+    "URL": "https://bio-fermen.bocsci.com/product/17-hydroxy-18-dehydroneogrifolin-cas-1630936-42-3-267449.html",
+    "Catalog": "BBF-04446"
+  },
+  {
+    "name": "dl-Aloesol",
+    "CAS": "104871-04-7",
+    "URL": "https://bio-fermen.bocsci.com/product/dl-aloesol-cas-104871-04-7-267450.html",
+    "Catalog": "BBF-04447"
+  },
+  {
+    "name": "Marilactone",
+    "CAS": "34818-17-2",
+    "URL": "https://bio-fermen.bocsci.com/product/marilactone-cas-34818-17-2-267451.html",
+    "Catalog": "BBF-04448"
+  },
+  {
+    "name": "9-Dehydroxyeurotinone",
+    "CAS": "1360606-85-4",
+    "URL": "https://bio-fermen.bocsci.com/product/9-dehydroxyeurotinone-cas-1360606-85-4-267453.html",
+    "Catalog": "BBF-04450"
+  },
+  {
+    "name": "5-Acetyl-2-(1-hydroxy-1-methylethyl)benzofuran",
+    "CAS": "64165-99-7",
+    "URL": "https://bio-fermen.bocsci.com/product/5-acetyl-2-1-hydroxy-1-methylethyl-cas-64165-99-7-267454.html",
+    "Catalog": "BBF-04451"
+  },
+  {
+    "name": "Alterlactone",
+    "CAS": "1030376-89-6",
+    "URL": "https://bio-fermen.bocsci.com/product/alterlactone-cas-1030376-89-6-267455.html",
+    "Catalog": "BBF-04452"
+  },
+  {
+    "name": "Neuchromenin",
+    "CAS": "180964-26-5",
+    "URL": "https://bio-fermen.bocsci.com/product/neuchromenin-cas-180964-26-5-267457.html",
+    "Catalog": "BBF-04454"
+  },
+  {
+    "name": "Epitrametol",
+    "CAS": "627538-65-2",
+    "URL": "https://bio-fermen.bocsci.com/product/epitrametol-cas-627538-65-2-241256.html",
+    "Catalog": "BBF-04402"
+  },
+  {
+    "name": "Trametol",
+    "CAS": "169217-47-4",
+    "URL": "https://bio-fermen.bocsci.com/product/trametol-cas-169217-47-4-241258.html",
+    "Catalog": "BBF-04403"
+  },
+  {
+    "name": "Stachybotrylactam",
+    "CAS": "163391-76-2",
+    "URL": "https://bio-fermen.bocsci.com/product/stachybotrylactam-cas-163391-76-2-312083.html",
+    "Catalog": "BBF-04583"
+  },
+  {
+    "name": "Methyl betulinate",
+    "CAS": "2259-06-5",
+    "URL": "https://bio-fermen.bocsci.com/product/methyl-betulinate-cas-2259-06-5-82389.html",
+    "Catalog": "BBF-04675"
+  },
+  {
+    "name": "Cyclophellitol",
+    "CAS": "126661-83-4",
+    "URL": "https://bio-fermen.bocsci.com/product/cyclophellitol-cas-126661-83-4-348763.html",
+    "Catalog": "BBF-01115"
+  },
+  {
+    "name": "Phomaligol A",
+    "CAS": "152204-32-5",
+    "URL": "https://bio-fermen.bocsci.com/product/phomaligol-a-cas-152204-32-5-241127.html",
+    "Catalog": "BBF-04377"
+  },
+  {
+    "name": "Integracin B",
+    "CAS": "224186-05-4",
+    "URL": "https://bio-fermen.bocsci.com/product/integracin-b-cas-224186-05-4-476274.html",
+    "Catalog": "BBF-04258"
+  },
+  {
+    "name": "Tubulysin C",
+    "CAS": "205304-88-7",
+    "URL": "https://bio-fermen.bocsci.com/product/tubulysin-c-cas-205304-88-7-351585.html",
+    "Catalog": "BBF-02727"
+  },
+  {
+    "name": "Thailanstatin D",
+    "CAS": "1609105-89-6",
+    "URL": "https://bio-fermen.bocsci.com/product/thailanstatin-d-cas-1609105-89-6-351460.html",
+    "Catalog": "BBF-05703"
+  },
+  {
+    "name": "Hydrolyzed Fumonisin B1",
+    "CAS": "145040-09-1",
+    "URL": "https://bio-fermen.bocsci.com/product/hydrolyzed-fumonisin-b1-cas-145040-09-1-27548.html",
+    "Catalog": "BBF-05788"
+  },
+  {
+    "name": "Flavipin",
+    "CAS": "483-53-4",
+    "URL": "https://bio-fermen.bocsci.com/product/flavipin-cas-483-53-4-42765.html",
+    "Catalog": "BBF-00939"
+  },
+  {
+    "name": "Doxorubicinol hydrochloride",
+    "CAS": "63950-05-0",
+    "URL": "https://bio-fermen.bocsci.com/product/doxorubicinol-hydrochloride-cas-63950-05-0-119562.html",
+    "Catalog": "BBF-04065"
+  },
+  {
+    "name": "11-Deoxydoxorubicin",
+    "CAS": "71800-89-0",
+    "URL": "https://bio-fermen.bocsci.com/product/11-deoxydoxorubicin-cas-71800-89-0-348988.html",
+    "Catalog": "BBF-01344"
+  },
+  {
+    "name": "Anhydroerythromycin A",
+    "CAS": "23893-13-2",
+    "URL": "https://bio-fermen.bocsci.com/product/anhydroerythromycin-a-cas-23893-13-2-258784.html",
+    "Catalog": "BBF-04426"
+  },
+  {
+    "name": "OM-173αA",
+    "CAS": "58286-56-9",
+    "URL": "https://bio-fermen.bocsci.com/product/om-173-a-cas-58286-56-9-291788.html",
+    "Catalog": "BBF-03527"
+  },
+  {
+    "name": "L-Glutamic acid methyl ester",
+    "CAS": "6384-08-3",
+    "URL": "https://bio-fermen.bocsci.com/product/l-glutamic-acid-methyl-ester-cas-6384-08-3-177284.html",
+    "Catalog": "BBF-05681"
+  },
+  {
+    "name": "GERI-BP002-A",
+    "CAS": "119-47-1",
+    "URL": "https://bio-fermen.bocsci.com/product/geri-bp002-a-cas-119-47-1-9226.html",
+    "Catalog": "BBF-03701"
+  },
+  {
+    "name": "Carminomycin",
+    "CAS": "39472-31-6",
+    "URL": "https://bio-fermen.bocsci.com/product/carminomycin-cas-39472-31-6-118218.html",
+    "Catalog": "BBF-00702"
+  },
+  {
+    "name": "4'-epi-Daunorubicin Hydrochloride",
+    "CAS": "56390-08-0",
+    "URL": "https://bio-fermen.bocsci.com/product/4-epi-daunorubicin-hydrochloride-cas-56390-08-0-94561.html",
+    "Catalog": "BBF-05858"
+  },
+  {
+    "name": "10,11-Dihydro-24-hydroxyaflavinine",
+    "CAS": "171569-81-6",
+    "URL": "https://bio-fermen.bocsci.com/product/10-11-dihydro-24-hydroxyaflavinine-cas-171569-81-6-267472.html",
+    "Catalog": "BBF-04464"
+  },
+  {
+    "name": "Flavoglaucin",
+    "CAS": "523-73-9",
+    "URL": "https://bio-fermen.bocsci.com/product/flavoglaucin-cas-523-73-9-261857.html",
+    "Catalog": "BBF-04436"
+  },
+  {
+    "name": "Averantin",
+    "CAS": "5803-62-3",
+    "URL": "https://bio-fermen.bocsci.com/product/averantin-cas-5803-62-3-267468.html",
+    "Catalog": "BBF-04460"
+  },
+  {
+    "name": "Questinol",
+    "CAS": "35688-09-6",
+    "URL": "https://bio-fermen.bocsci.com/product/questinol-cas-35688-09-6-267466.html",
+    "Catalog": "BBF-04459"
+  },
+  {
+    "name": "Vibralactone B",
+    "CAS": "1093230-95-5",
+    "URL": "https://bio-fermen.bocsci.com/product/vibralactone-b-cas-1093230-95-5-241158.html",
+    "Catalog": "BBF-04385"
+  },
+  {
+    "name": "Vibralactone D",
+    "CAS": "1251748-32-9",
+    "URL": "https://bio-fermen.bocsci.com/product/vibralactone-d-cas-1251748-32-9-241173.html",
+    "Catalog": "BBF-04387"
+  },
+  {
+    "name": "Stachybotrolide",
+    "CAS": "149691-31-6",
+    "URL": "https://bio-fermen.bocsci.com/product/stachybotrolide-cas-149691-31-6-241183.html",
+    "Catalog": "BBF-04390"
+  },
+  {
+    "name": "Strigolactone GR24",
+    "CAS": "76974-79-3",
+    "URL": "https://bio-fermen.bocsci.com/product/strigolactone-gr24-cas-76974-79-3-358551.html",
+    "Catalog": "BBF-04727"
+  },
+  {
+    "name": "Tetrahymanol",
+    "CAS": "2130-17-8",
+    "URL": "https://bio-fermen.bocsci.com/product/tetrahymanol-cas-2130-17-8-267479.html",
+    "Catalog": "BBF-04471"
+  },
+  {
+    "name": "Tetrahymanone",
+    "CAS": "17822-06-9",
+    "URL": "https://bio-fermen.bocsci.com/product/tetrahymanone-cas-17822-06-9-267462.html",
+    "Catalog": "BBF-04456"
+  },
+  {
+    "name": "Tetrahymanol acetate",
+    "CAS": "2130-22-5",
+    "URL": "https://bio-fermen.bocsci.com/product/tetrahymanol-acetate-cas-2130-22-5-267463.html",
+    "Catalog": "BBF-04457"
+  },
+  {
+    "name": "Heliantriol B2",
+    "CAS": "61229-18-3",
+    "URL": "https://bio-fermen.bocsci.com/product/heliantriol-b2-cas-61229-18-3-52401.html",
+    "Catalog": "BBF-05488"
+  },
+  {
+    "name": "Menaquinone 7",
+    "CAS": "2124-57-4",
+    "URL": "https://bio-fermen.bocsci.com/product/menaquinone-7-cas-2124-57-4-174361.html",
+    "Catalog": "BBF-05784"
+  },
+  {
+    "name": "Sterigmatocystin",
+    "CAS": "10048-13-2",
+    "URL": "https://bio-fermen.bocsci.com/product/sterigmatocystin-cas-10048-13-2-350545.html",
+    "Catalog": "BBF-04644"
+  },
+  {
+    "name": "Gliotoxin",
+    "CAS": "67-99-2",
+    "URL": "https://bio-fermen.bocsci.com/product/gliotoxin-cas-67-99-2-130994.html",
+    "Catalog": "BBF-01796"
+  },
+  {
+    "name": "Calenduladiol",
+    "CAS": "10070-48-1",
+    "URL": "https://bio-fermen.bocsci.com/product/calenduladiol-cas-10070-48-1-51672.html",
+    "Catalog": "BBF-04866"
+  },
+  {
+    "name": "Tubulysin D",
+    "CAS": "309935-57-7",
+    "URL": "https://bio-fermen.bocsci.com/product/tubulysin-d-cas-309935-57-7-351586.html",
+    "Catalog": "BBF-02728"
+  },
+  {
+    "name": "6β-Deoxy-5-hydroxytetracycline",
+    "CAS": "3219-99-6",
+    "URL": "https://bio-fermen.bocsci.com/product/6-deoxy-5-hydroxytetracycline-cas-3219-99-6-470501.html",
+    "Catalog": "BBF-01824"
+  },
+  {
+    "name": "Erythromycylamine",
+    "CAS": "26116-56-3",
+    "URL": "https://bio-fermen.bocsci.com/product/erythromycylamine-cas-26116-56-3-342213.html",
+    "Catalog": "BBF-04636"
+  },
+  {
+    "name": "N-Demethylerythromycin A",
+    "CAS": "992-62-1",
+    "URL": "https://bio-fermen.bocsci.com/product/n-demethylerythromycin-a-cas-992-62-1-302950.html",
+    "Catalog": "BBF-04556"
+  },
+  {
+    "name": "Pyrindamycin A",
+    "CAS": "118292-36-7",
+    "URL": "https://bio-fermen.bocsci.com/product/pyrindamycin-a-cas-118292-36-7-348830.html",
+    "Catalog": "BBF-01183"
+  },
+  {
+    "name": "Oxolinic acid",
+    "CAS": "14698-29-4",
+    "URL": "https://bio-fermen.bocsci.com/product/oxolinic-acid-cas-14698-29-4-71070.html",
+    "Catalog": "BBF-05909"
+  },
+  {
+    "name": "Thailanstatin C",
+    "CAS": "1426953-24-3",
+    "URL": "https://bio-fermen.bocsci.com/product/thailanstatin-c-cas-1426953-24-3-351463.html",
+    "Catalog": "BBF-05704"
+  }
+]
