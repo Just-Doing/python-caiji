@@ -23,6 +23,7 @@ http.client._MAXHEADERS = 1000
 
 
 def urllib_download(url, fileName, timeout=0):
+    url = url.replace(" ", "%20")
     url = urllib.parse.quote(
             url, safe=string.printable
         )
@@ -123,7 +124,7 @@ def cutImgFromUrl(url, isScreenShotName=""):
 def getRenderdHtmlFromUrl(url):
     chrome_options = webdriver.ChromeOptions()
     # chrome_options.add_argument('--disable-extensions')
-    # chrome_options.add_argument("--proxy-server=http://127.0.0.1:33210")
+    chrome_options.add_argument("--proxy-server=http://127.0.0.1:33210")
     # chrome_options.add_argument('--headless')
     # chrome_options.add_argument('--no-sandbox')
     # chrome_options.add_argument('--disable-dev-shm-usage')
